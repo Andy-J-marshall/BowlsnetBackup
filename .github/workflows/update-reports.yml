@@ -31,7 +31,7 @@ jobs:
           npx playwright install-deps
           npx playwright install
       - name: Update reports
-        run: npm run get-stats
+        run: npm run get-reports
       - name: Commit and push
         if: always()
         run: |
