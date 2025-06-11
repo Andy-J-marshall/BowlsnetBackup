@@ -230,10 +230,6 @@ const leagues = [
     url: "/Brighouse-LVets",
   },
   {
-    day: "Castleford Wednesday",
-    url: "/Castleford-Evening",
-  },
-  {
     day: "Castleford Evening",
     url: "/Castleford-Evening",
   },
