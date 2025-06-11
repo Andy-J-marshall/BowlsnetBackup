@@ -1,0 +1,404 @@
+=== Castleford Vets (Pairs) 2019
+=== Comp. Match Cards
+
+  Premier Section        Tue 7th May      
+    Hawhill Park       Savile Park 'A'    
+A Pair             6 A Pair            31 
+B Pair            31 B Pair            19 
+C Pair            17 C Pair            31 
+      Aggregate:  54       Aggregate:  81 
+         Points:   0          Points:   0 
+
+  Premier Section        Tue 7th May      
+   Pontefract 'A'       Pontefract 'B'    
+A Pair            31 D Pair             9 
+B Pair            31 E Pair            27 
+C Pair            31 F Pair            26 
+      Aggregate:  93       Aggregate:  62 
+         Points:   0          Points:   0 
+
+  Premier Section        Tue 7th May      
+      Sherburn         Allerton Bywater   
+A Pair            31 A Pair            30 
+B Pair            30 B Pair            31 
+C Pair            29 C Pair            31 
+      Aggregate:  90       Aggregate:  92 
+         Points:   0          Points:   0 
+
+    Section 'A'          Tue 7th May      
+  Ferrybridge 'A'          Methley        
+A Pair            31 A Pair            15 
+B Pair            31 B Pair            16 
+C Pair            31 C Pair            15 
+      Aggregate:  93       Aggregate:  46 
+         Points:   0          Points:   0 
+
+    Section 'A'          Tue 7th May      
+  Savile Park 'B'         Townville       
+A Pair            27 A Pair            31 
+B Pair            11 B Pair            31 
+C Pair            31 C Pair            21 
+      Aggregate:  69       Aggregate:  83 
+         Points:   0          Points:   0 
+
+  Premier Section        Tue 21st May     
+  Allerton Bywater      Pontefract 'A'    
+A Pair            30 A Pair            31 
+B Pair            31 B Pair            30 
+C Pair            31 C Pair            29 
+      Aggregate:  92       Aggregate:  90 
+         Points:   0          Points:   0 
+
+  Premier Section        Tue 21st May     
+   Pontefract 'B'        Hawhill Park     
+D Pair            31 A Pair            21 
+E Pair            31 B Pair            15 
+F Pair            31 C Pair            23 
+      Aggregate:  93       Aggregate:  59 
+         Points:   0          Points:   0 
+
+  Premier Section        Tue 21st May     
+  Savile Park 'A'          Sherburn       
+A Pair            31 A Pair            22 
+B Pair            31 B Pair            25 
+C Pair            31 C Pair            18 
+      Aggregate:  93       Aggregate:  65 
+         Points:   0          Points:   0 
+
+    Section 'A'          Tue 21st May     
+  Garforth Rec 'A'     Ferrybridge 'A'    
+A Pair            31 A Pair            17 
+B Pair            31 B Pair            28 
+C Pair            19 C Pair            31 
+      Aggregate:  81       Aggregate:  76 
+         Points:   0          Points:   0 
+
+    Section 'A'          Tue 21st May     
+      Methley          Savile Park 'B'    
+A Pair            31 A Pair            13 
+B Pair            31 B Pair            15 
+C Pair            31 C Pair            23 
+      Aggregate:  93       Aggregate:  51 
+         Points:   0          Points:   0 
+
+  Premier Section        Tue 28th May     
+    Hawhill Park       Allerton Bywater   
+A Pair            16 A Pair            31 
+B Pair            31 B Pair            25 
+C Pair            29 C Pair            31 
+      Aggregate:  76       Aggregate:  87 
+         Points:   0          Points:   0 
+
+  Premier Section        Tue 28th May     
+   Pontefract 'B'      Savile Park 'A'    
+D Pair            31 A Pair            19 
+E Pair            22 B Pair            31 
+F Pair            23 C Pair            31 
+      Aggregate:  76       Aggregate:  81 
+         Points:   0          Points:   0 
+
+  Premier Section        Tue 28th May     
+      Sherburn          Pontefract 'A'    
+A Pair            15 A Pair            31 
+B Pair            13 B Pair            31 
+C Pair            18 C Pair            31 
+      Aggregate:  46       Aggregate:  93 
+         Points:   0          Points:   0 
+
+    Section 'A'          Tue 28th May     
+  Ferrybridge 'A'         Townville       
+A Pair            31 A Pair            11 
+B Pair            31 B Pair            30 
+C Pair            31 C Pair            11 
+      Aggregate:  93       Aggregate:  52 
+         Points:   0          Points:   0 
+
+    Section 'A'          Tue 28th May     
+  Garforth Rec 'A'         Methley        
+A Pair            15 A Pair            31 
+B Pair            31 B Pair            25 
+C Pair            31 C Pair            13 
+      Aggregate:  77       Aggregate:  69 
+         Points:   0          Points:   0 
+
+  Premier Section        Tue 4th Jun      
+  Allerton Bywater      Pontefract 'B'    
+A Pair            31 D Pair            11 
+B Pair            31 E Pair             8 
+C Pair            27 F Pair            31 
+      Aggregate:  89       Aggregate:  50 
+         Points:   0          Points:   0 
+
+  Premier Section        Tue 4th Jun      
+   Pontefract 'A'      Savile Park 'A'    
+A Pair            28 A Pair            31 
+B Pair            31 B Pair            13 
+C Pair            31 C Pair            13 
+      Aggregate:  90       Aggregate:  57 
+         Points:   0          Points:   0 
+
+  Premier Section        Tue 4th Jun      
+      Sherburn           Hawhill Park     
+A Pair            31 A Pair            21 
+B Pair            31 B Pair            21 
+C Pair            31 C Pair            10 
+      Aggregate:  93       Aggregate:  52 
+         Points:   0          Points:   0 
+
+    Section 'A'          Tue 4th Jun      
+     Townville         Garforth Rec 'A'   
+A Pair            31 A Pair            15 
+B Pair            31 B Pair            22 
+C Pair            23 C Pair            31 
+      Aggregate:  85       Aggregate:  68 
+         Points:   0          Points:   0 
+
+    Section 'A'          Tue 4th Jun      
+  Savile Park 'B'      Ferrybridge 'A'    
+A Pair            22 A Pair            31 
+B Pair            25 B Pair            31 
+C Pair             3 C Pair            31 
+      Aggregate:  50       Aggregate:  93 
+         Points:   0          Points:   0 
+
+  Premier Section        Tue 18th Jun     
+    Hawhill Park        Pontefract 'A'    
+A Pair            20 A Pair            31 
+B Pair            31 B Pair            30 
+C Pair            19 C Pair            31 
+      Aggregate:  70       Aggregate:  92 
+         Points:   0          Points:   0 
+
+  Premier Section        Tue 18th Jun     
+   Pontefract 'B'          Sherburn       
+D Pair             8 A Pair            31 
+E Pair            31 B Pair            24 
+F Pair            31 C Pair            22 
+      Aggregate:  70       Aggregate:  77 
+         Points:   0          Points:   0 
+
+  Premier Section        Tue 18th Jun     
+  Savile Park 'A'      Allerton Bywater   
+A Pair            25 A Pair            31 
+B Pair            23 B Pair            31 
+C Pair            25 C Pair            31 
+      Aggregate:  73       Aggregate:  93 
+         Points:   0          Points:   0 
+
+    Section 'A'          Tue 18th Jun     
+  Garforth Rec 'A'     Savile Park 'B'    
+A Pair            31 A Pair            27 
+B Pair            31 B Pair            22 
+C Pair            17 C Pair            31 
+      Aggregate:  79       Aggregate:  80 
+         Points:   0          Points:   0 
+
+    Section 'A'          Tue 18th Jun     
+      Methley             Townville       
+A Pair            30 A Pair            31 
+B Pair             9 B Pair            31 
+C Pair            31 C Pair            16 
+      Aggregate:  70       Aggregate:  78 
+         Points:   0          Points:   0 
+
+  Premier Section        Tue 25th Jun     
+  Savile Park 'A'        Hawhill Park     
+A Pair            31 A Pair            21 
+B Pair            31 B Pair            29 
+C Pair            31 C Pair            12 
+      Aggregate:  93       Aggregate:  62 
+         Points:   0          Points:   0 
+
+  Premier Section        Tue 25th Jun     
+   Pontefract 'B'       Pontefract 'A'    
+D Pair            27 A Pair            31 
+E Pair            25 B Pair            31 
+F Pair            28 C Pair            31 
+      Aggregate:  80       Aggregate:  93 
+         Points:   0          Points:   0 
+
+  Premier Section        Tue 25th Jun     
+  Allerton Bywater         Sherburn       
+A Pair            25 A Pair            31 
+B Pair            31 B Pair            16 
+C Pair            31 C Pair            22 
+      Aggregate:  87       Aggregate:  69 
+         Points:   0          Points:   0 
+
+    Section 'A'          Tue 25th Jun     
+      Methley          Ferrybridge 'A'    
+A Pair            23 A Pair            31 
+B Pair            11 B Pair            31 
+C Pair            16 C Pair            31 
+      Aggregate:  50       Aggregate:  93 
+         Points:   0          Points:   0 
+
+    Section 'A'          Tue 25th Jun     
+     Townville         Savile Park 'B'    
+A Pair            31 A Pair            30 
+B Pair             6 B Pair            31 
+C Pair            31 C Pair            29 
+      Aggregate:  68       Aggregate:  90 
+         Points:   0          Points:   0 
+
+  Premier Section        Tue 2nd Jul      
+   Pontefract 'A'      Allerton Bywater   
+A Pair            31 A Pair            28 
+B Pair            30 B Pair            31 
+C Pair            26 C Pair            31 
+      Aggregate:  87       Aggregate:  90 
+         Points:   0          Points:   0 
+
+  Premier Section        Tue 2nd Jul      
+    Hawhill Park        Pontefract 'B'    
+A Pair            31 D Pair            30 
+B Pair            31 E Pair            10 
+C Pair            31 F Pair            29 
+      Aggregate:  93       Aggregate:  69 
+         Points:   0          Points:   0 
+
+  Premier Section        Tue 2nd Jul      
+      Sherburn         Savile Park 'A'    
+A Pair            27 A Pair            31 
+B Pair            31 B Pair            21 
+C Pair            16 C Pair            31 
+      Aggregate:  74       Aggregate:  83 
+         Points:   0          Points:   0 
+
+    Section 'A'          Tue 2nd Jul      
+  Ferrybridge 'A'      Garforth Rec 'A'   
+A Pair            31 A Pair            24 
+B Pair            31 B Pair            17 
+C Pair            31 C Pair            13 
+      Aggregate:  93       Aggregate:  54 
+         Points:   0          Points:   0 
+
+    Section 'A'          Tue 2nd Jul      
+  Savile Park 'B'          Methley        
+A Pair            31 A Pair            24 
+B Pair            31 B Pair            24 
+C Pair            31 C Pair            12 
+      Aggregate:  93       Aggregate:  60 
+         Points:   0          Points:   0 
+
+  Premier Section        Tue 9th Jul      
+  Allerton Bywater       Hawhill Park     
+A Pair            31 A Pair            15 
+B Pair            31 B Pair            26 
+C Pair            31 C Pair            11 
+      Aggregate:  93       Aggregate:  52 
+         Points:   0          Points:   0 
+
+  Premier Section        Tue 9th Jul      
+  Savile Park 'A'       Pontefract 'B'    
+A Pair            31 D Pair            21 
+B Pair            31 E Pair            19 
+C Pair            31 F Pair            13 
+      Aggregate:  93       Aggregate:  53 
+         Points:   0          Points:   0 
+
+  Premier Section        Tue 9th Jul      
+   Pontefract 'A'          Sherburn       
+A Pair            31 A Pair             9 
+B Pair            31 B Pair            16 
+C Pair            31 C Pair            18 
+      Aggregate:  93       Aggregate:  43 
+         Points:   0          Points:   0 
+
+    Section 'A'          Tue 9th Jul      
+     Townville         Ferrybridge 'A'    
+A Pair            31 A Pair            16 
+B Pair            31 B Pair            23 
+C Pair            19 C Pair            31 
+      Aggregate:  81       Aggregate:  70 
+         Points:   0          Points:   0 
+
+    Section 'A'          Tue 9th Jul      
+      Methley          Garforth Rec 'A'   
+A Pair            31 A Pair            13 
+B Pair            31 B Pair            18 
+C Pair            29 C Pair            31 
+      Aggregate:  91       Aggregate:  62 
+         Points:   0          Points:   0 
+
+  Premier Section        Tue 16th Jul     
+   Pontefract 'B'      Allerton Bywater   
+D Pair            18 A Pair            31 
+E Pair            13 B Pair            31 
+F Pair            22 C Pair            31 
+      Aggregate:  53       Aggregate:  93 
+         Points:   0          Points:   0 
+
+  Premier Section        Tue 16th Jul     
+  Savile Park 'A'       Pontefract 'A'    
+A Pair            31 A Pair            15 
+B Pair            31 B Pair             8 
+C Pair            31 C Pair            26 
+      Aggregate:  93       Aggregate:  49 
+         Points:   0          Points:   0 
+
+  Premier Section        Tue 16th Jul     
+    Hawhill Park           Sherburn       
+A Pair            28 A Pair            31 
+B Pair            25 B Pair            31 
+C Pair            19 C Pair            31 
+      Aggregate:  72       Aggregate:  93 
+         Points:   0          Points:   0 
+
+    Section 'A'          Tue 16th Jul     
+  Garforth Rec 'A'        Townville       
+A Pair             7 A Pair            31 
+B Pair            14 B Pair            31 
+C Pair            31 C Pair             3 
+      Aggregate:  52       Aggregate:  65 
+         Points:   0          Points:   0 
+
+    Section 'A'          Tue 16th Jul     
+  Ferrybridge 'A'      Savile Park 'B'    
+A Pair            31 A Pair            10 
+B Pair            31 B Pair            25 
+C Pair            31 C Pair             7 
+      Aggregate:  93       Aggregate:  42 
+         Points:   0          Points:   0 
+
+  Premier Section        Tue 30th Jul     
+   Pontefract 'A'        Hawhill Park     
+A Pair            31 A Pair            21 
+B Pair            31 B Pair            27 
+C Pair            31 C Pair            25 
+      Aggregate:  93       Aggregate:  73 
+         Points:   0          Points:   0 
+
+  Premier Section        Tue 30th Jul     
+      Sherburn          Pontefract 'B'    
+A Pair            31 D Pair            21 
+B Pair            31 E Pair            30 
+C Pair            31 F Pair            17 
+      Aggregate:  93       Aggregate:  68 
+         Points:   0          Points:   0 
+
+  Premier Section        Tue 30th Jul     
+  Allerton Bywater     Savile Park 'A'    
+A Pair            31 A Pair            28 
+B Pair            14 B Pair            31 
+C Pair            15 C Pair            31 
+      Aggregate:  60       Aggregate:  90 
+         Points:   0          Points:   0 
+
+    Section 'A'          Tue 30th Jul     
+  Savile Park 'B'      Garforth Rec 'A'   
+A Pair            29 A Pair            31 
+B Pair            31 B Pair            20 
+C Pair            26 C Pair            31 
+      Aggregate:  86       Aggregate:  82 
+         Points:   0          Points:   0 
+
+    Section 'A'          Tue 30th Jul     
+     Townville             Methley        
+A Pair            31 A Pair            19 
+B Pair            31 B Pair            13 
+C Pair            17 C Pair            31 
+      Aggregate:  79       Aggregate:  63 
+         Points:   0          Points:   0 
+
+
