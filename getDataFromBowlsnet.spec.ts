@@ -16,7 +16,9 @@ function ensureReportsDir(year: number) {
   }
 }
 
-ensureReportsDir(year);
+test.beforeAll(() => {
+  ensureReportsDir(year);
+});
 
 const leagues = [
   {
