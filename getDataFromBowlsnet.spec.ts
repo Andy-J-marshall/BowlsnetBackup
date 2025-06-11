@@ -9,6 +9,15 @@ import fs from 'fs';
 
 const year = new Date().getFullYear(); // Change this to get data from a different year
 
+function ensureReportsDir(year: number) {
+    const dirName = `./bowlsnetReports/${year}`;
+    if (!fs.existsSync(dirName)) {
+        fs.mkdirSync(dirName, { recursive: true });
+    }
+}
+
+ensureReportsDir(year);
+
 const leagues = [
     {
         day: 'Leeds Monday Combined',
@@ -55,6 +64,10 @@ const leagues = [
         url: '/AW-Mon',
     },
     {
+        day: 'AireWharfe Tuesday Pairs',
+        url: '/AW-TuePairs',
+    },
+    {
         day: 'AireWharfe Wednesday Pairs',
         url: '/AW-WedPairs',
     },
@@ -62,11 +75,14 @@ const leagues = [
         day: 'AireWharfe Vets',
         url: '/AW-Vets',
     },
-    // TODO add back in?
-    // {
-    //     day: 'AireWharfe Saturday',
-    //     url: '/AW-Sat',
-    // },
+    {
+        day: 'AireWharfe Wednesday',
+        url: '/AW-WedSingles',
+    },
+    {
+        day: 'AireWharfe Saturday',
+        url: '/AW-Sat',
+    },
     {
         day: 'Bradford Monday',
         url: '/Bradford-Mon',
@@ -80,6 +96,10 @@ const leagues = [
         url: '/Bradford-Vets',
     },
     {
+        day: 'Bradford Pairs',
+        url: '/Bradford-Pairs',
+    },
+    {
         day: 'Bradford Saturday',
         url: '/Bradford-Sat',
     },
@@ -87,59 +107,47 @@ const leagues = [
         day: 'Tadcaster',
         url: '/Tadcaster',
     },
-    // Other leagues of interest
-    // {
-    //     day: 'North East Leeds Vets',
-    //     url: '/NELeedsVets',
-    // },
-    // {
-    //     day: 'AireWharfe Wednesday',
-    //     url: '/AW-WedSingles',
-    // },
-    // {
-    //     day: 'Barkston Ash',
-    //     url: '/BarkstonAsh',
-    // },
-    // {
-    //     day: 'Guiseley Winter',
-    //     url: '/GuiseleyWinter',
-    // },
-    // {
-    //     day: 'Wetherby Autumn',
-    //     url: '/WetherbyAutumn',
-    // },
-    // {
-    //     day: 'AireWharfe Tuesday Pairs',
-    //     url: '/AW-TuePairs',
-    // },
-    // {
-    //     day: 'Heavy Woolen Monday',
-    //     url: '/HeavyWoollenAfternoon',
-    // },
-    // {
-    //     day: 'Crossgates',
-    //     url: '/Crossgates',
-    // },
-    // {
-    //     day: 'Elland',
-    //     url: '/Halifax-Elland',
-    // },
-    // {
-    //     day: 'Halifax Wednesday',
-    //     url: '/Halifax-WedEvening',
-    // },
-    // {
-    //     day: 'Castleford Vets',
-    //     url: '/CastlefordVets-Singles',
-    // },
-    // {
-    //     day: 'Castleford Wednesday',
-    //     url: '/Castleford-Evening',
-    // },
-    // {
-    //     day: 'Wakefield Saturday',
-    //     url: '/WakefieldSat',
-    // },
+    {
+        day: 'North East Leeds Vets',
+        url: '/NELeedsVets',
+    },
+    {
+        day: 'Barkston Ash',
+        url: '/BarkstonAsh',
+    },
+    {
+        day: 'Heavy Woolen Monday',
+        url: '/HeavyWoollenAfternoon',
+    },
+    {
+        day: 'Crossgates',
+        url: '/Crossgates',
+    },
+    {
+        day: 'Elland',
+        url: '/Halifax-Elland',
+    },
+    {
+        day: 'Halifax Wednesday',
+        url: '/Halifax-WedEvening',
+    },
+    {
+        day: 'Castleford Vets',
+        url: '/CastlefordVets-Singles',
+    },
+    {
+        day: 'Castleford Wednesday',
+        url: '/Castleford-Evening',
+    },
+    {
+        day: 'Wakefield Saturday',
+        url: '/WakefieldSat',
+    },
+
+    // Harrogate
+    // East Yorkshire?
+    // Other Cas/Wakey leagues
+    // other halifax leagues
 ];
 
 for (const league of leagues) {

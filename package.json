@@ -1,7 +1,7 @@
 {
   "private": true,
   "scripts": {
-    "get-stats": "python3 ./scripts/statsScripts/createReportsYearDir.py && npx playwright test --config ./scripts/bowlsnet/playwright.config.ts"
+    "get-reports": "npx playwright test"
   },
   "dependencies": {
     "@playwright/test": "^1.49.0",
