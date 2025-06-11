@@ -3,14 +3,14 @@ import { devices } from '@playwright/test';
 
 const config: PlaywrightTestConfig = {
   testDir: '.',
-  timeout: 20 * 1000,
+  timeout: 15 * 1000,
   expect: {
     timeout: 5000
   },
   fullyParallel: true,
   forbidOnly: true,
-  retries: 2,
-  workers: 4,
+  retries: 0,
+  workers: 5,
   reporter: [["html", { open: "never" }]],
   use: {
     actionTimeout: 0,
