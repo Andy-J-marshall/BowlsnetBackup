@@ -38,11 +38,11 @@ jobs:
           npx playwright install-deps
           npx playwright install
       - name: Update reports
+        env:
+          YEAR: ${{ github.event.inputs.YEAR }}
         run: npm run get-reports
       - name: Commit and push
         if: always()
-        env:
-          YEAR: ${{ github.event.inputs.YEAR }}
         run: |
           git add bowlsnetReports/*
           git diff --cached --quiet || git commit -m 'updated reports'
