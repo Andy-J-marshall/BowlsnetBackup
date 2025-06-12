@@ -6,7 +6,7 @@ import {
   Page,
 } from "@playwright/test";
 import fs from "fs";
-import { leagues } from "./leagueInformation"; // Import the leagues data from a JSON file
+import { leagues } from "./leagueInformation";
 
 const year = new Date().getFullYear(); // Change this to get data from a different year
 

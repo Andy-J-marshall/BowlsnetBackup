@@ -1,7 +1,7 @@
 {
   "private": true,
   "scripts": {
-    "get-reports": "npx playwright test"
+    "get-reports": "npx playwright test --config=script/playwright.config.ts"
   },
   "dependencies": {
     "@playwright/test": "^1.49.0",
