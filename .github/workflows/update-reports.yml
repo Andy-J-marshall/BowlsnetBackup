@@ -4,6 +4,10 @@ on:
     # Runs every Sunday at 21:00 UTC between April and October
     - cron: "0 21 * 4-10 0"
   workflow_dispatch:
+    inputs:
+      YEAR:
+        description: "Year to use (OPTIONAL)"
+        required: false
 
 permissions:
   contents: write
@@ -37,6 +41,8 @@ jobs:
         run: npm run get-reports
       - name: Commit and push
         if: always()
+        env:
+          YEAR: ${{ github.event.inputs.YEAR }}
         run: |
           git add bowlsnetReports/*
           git diff --cached --quiet || git commit -m 'updated reports'

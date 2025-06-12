@@ -24,3 +24,5 @@ To run the script, you need to have Node.js and npm installed on your machine. F
 3. `npm run get-reports`
 
 This will scrape the reports from the specified leagues and save them in the `bowlsnetReports/{year}` directory.
+
+To update previous years, you can set the environment variable `YEAR` to the required year (e.g. 2023) before running the script.

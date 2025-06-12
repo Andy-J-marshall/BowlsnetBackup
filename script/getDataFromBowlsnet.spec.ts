@@ -8,7 +8,8 @@ import {
 import fs from "fs";
 import { leagues } from "./leagueInformation";
 
-const year = new Date().getFullYear(); // Change this to get data from a different year
+// Use env var "YEAR" if set, otherwise current year
+const year = Number(process.env.YEAR) || new Date().getFullYear();
 
 function ensureReportsDir(year: number) {
   const dirName = `./bowlsnetReports/${year}`;
@@ -19,6 +20,7 @@ function ensureReportsDir(year: number) {
 
 test.beforeAll(() => {
   ensureReportsDir(year);
+  console.log(`Getting reports for year ${year}`);
 });
 
 for (const league of leagues) {
