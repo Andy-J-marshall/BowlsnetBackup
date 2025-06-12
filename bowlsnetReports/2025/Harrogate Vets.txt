@@ -1,4 +1,4 @@
-=== Harrogate Veterans 2025 (as of Wed 11th Jun)
+=== Harrogate Veterans 2025 (as of Thu 12th Jun)
 === League Match Cards
 
        Division 1              Fri 11th Apr       
@@ -437,11 +437,24 @@ Peter Hepworth         21 Colin Rudd           20
 Susie Mitchell         11 Barry Woodward       21 
 Martin Hemingway       21 Steve Mudd            3 
 Alan Whittaker         21 Janet Mudd            8 
-Ray Carter             21 Maurice Skaife       10 
+Billy Cater            21 Maurice Skaife       10 
 Dave Rowson            21 Chris Sunter         19 
 Stephen Westoby         8 Steve Webster        21 
            Aggregate: 145          Aggregate: 108 
               Points:   8             Points:   2 
+
+       Division 1              Fri 25th Apr       
+        Wayside A              Almscliffe A       
+Peter Darbyshire       21 Jean Harrision        3 
+Chris Wood             21 Pam Richardson        4 
+Barrie Sugden          21 Richard Lock          5 
+Chris Watcham          21 John Richardson      10 
+David Singleton        21 Margaret Marwood      5 
+Greg Johnstone         21 Sheila Mayor         14 
+Steve Cochrane         21 Chris Olding          5 
+Vic Scaife Clarke      21 Gaynor Olding         7 
+           Aggregate: 168          Aggregate:  53 
+              Points:  10             Points:   0 
 
        Division 1              Fri 25th Apr       
        Starbeck A             Wharfemeadows A     
@@ -689,6 +702,19 @@ Steve Mudd             18 Barrie Sugden        21
 Chris Sunter           20 Peter Darbyshire     21 
            Aggregate: 145          Aggregate: 145 
               Points:   4             Points:   6 
+
+       Division 1               Fri 2nd May       
+     Low Harrogate A           Black Swan A       
+Michael Adams          12 Chaz Charleton       21 
+Nick Binns             21 Alan Whittaker       17 
+David Clarke           21 Roy Flynn            10 
+Ian Jarratt            21 Billy Cater           6 
+Cath Patrick            6 Martin Hemingway     21 
+Chris Robson           21 Dave Kinder          15 
+Dave Spilsbury         21 Susie Mitchell        8 
+Mick Steel             21 Keith Agars           5 
+           Aggregate: 144          Aggregate: 103 
+              Points:   8             Points:   2 
 
        Division 2               Fri 2nd May       
        Boston Spa             Low Harrogate B     

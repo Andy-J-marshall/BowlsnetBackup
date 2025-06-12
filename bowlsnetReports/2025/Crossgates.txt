@@ -1,4 +1,4 @@
-=== Crossgates 2025 (as of Wed 11th Jun)
+=== Crossgates 2025 (as of Thu 12th Jun)
 === League Match Cards
 
          League                  Wed 9th Apr        
@@ -56,6 +56,13 @@ Lee Stewart            21 Michael Firth          17
 Karl Getliffe          21 Thomas Cranston        14 
            Aggregate: 147            Aggregate: 130 
               Points:   7               Points:   3 
+
+         League                  Wed 9th Apr        
+       Division 1                                   
+      Crossgates BC             Roundhay Park       
+           Aggregate:   0            Aggregate:   0 
+              Points:   8               Points:   2 
+      Manual Result                                 
 
          League                  Wed 9th Apr        
        Division 2                                   
@@ -168,6 +175,20 @@ Isabel Laurie          21 Bryan Harvey           16
 Owen Laurie            21 Craig Broome            7 
            Aggregate: 165            Aggregate: 101 
               Points:   9               Points:   1 
+
+         League                  Wed 9th Apr        
+       Division 3                                   
+      Garforth CC B               Whinmoor          
+R Cockshaw             21 Tony Lumb              14 
+David Horsey           21 Harry Field             3 
+Mrs S Tyson            21 Gary Kenworth          10 
+Chris Prentice         21 Leigh Ditch            15 
+Ian Thornhill          21 Steven Wood            14 
+Robert Beattie         21 Nigel Rawlings         16 
+Steve Bartrop          18 Derek Harding          21 
+S Tyson                 8 Kevin Ditch            21 
+           Aggregate: 152            Aggregate: 114 
+              Points:   8               Points:   2 
 
          League                  Wed 9th Apr        
        Division 3                                   
@@ -354,16 +375,16 @@ John Wilson            21 Toni Laurie            17
          League                 Wed 23rd Apr        
        Division 3                                   
       Rothwell Park             Garforth CC B       
-Ronald Scott           18 Joe Doughty            21 
-Malcolm Cameron        14 R Cockshaw             21 
-Russ Thomas            21 David Horsey           17 
-Karl Chapman           11 Mrs S Tyson            21 
-Roy Tebbut             21 Steve Bartrop          16 
-Alicia Hiscoe           6 Robert Beattie         21 
-Clifford Furness       14 S Tyson                21 
-Karl Dutton            18 Chris Prentice         21 
-           Aggregate: 123            Aggregate: 159 
-              Points:   2               Points:   8 
+Roy Tebbut             21 Joe Doughty            10 
+Clifford Furness       21 R Cockshaw             18 
+Charles Brown          21 David Horsey           14 
+Karl Chapman           21 Mrs S Tyson            11 
+Mark Aspin             19 Ian Thornhill          21 
+Russ Thomas            21 Chris Prentice         19 
+Ronald Scott           15 S Tyson                21 
+Karl Dutton            21 Robert Beattie         10 
+           Aggregate: 160            Aggregate: 124 
+              Points:   8               Points:   2 
 
          League                 Wed 23rd Apr        
        Division 3                                   
@@ -438,14 +459,14 @@ Nicola Pearson         12 Jordan Riley           21
          League                 Wed 30th Apr        
        Division 1                                   
       Crossgates BC             Garforth CC A       
-*A.N.Other*            21 N Turner               15 
-*A.N.Other*            21 Philip Carlile         15 
-*A.N.Other*            21 Ian Doughty            16 
-*A.N.Other*            13 Les Hudson             21 
-*A.N.Other*            21 Neil Robinson          10 
-*A.N.Other*            21 Michael Firth           9 
-*A.N.Other*            17 Thomas Cranston        21 
-*A.N.Other*            21 Robert Beattie          5 
+Lynne Wilcox           21 N Turner               15 
+Chris Broughton        21 Philip Carlile         15 
+Natalie Sanderson      21 Ian Doughty            16 
+Peter Wilcox           13 Les Hudson             21 
+Rachel Wilcox          21 Neil Robinson          10 
+Mark Taylor            21 Michael Firth           9 
+Louie Taylor           17 Thomas Cranston        21 
+James Wilcox           21 Robert Beattie          5 
            Aggregate: 156            Aggregate: 112 
               Points:   8               Points:   2 
 
@@ -688,6 +709,13 @@ Geoff Hall             21 Moira Greenwood        12
               Points:   6               Points:   4 
 
          League                  Wed 7th May        
+       Division 2                                   
+       Whitkirk BC            Crossgates Rec B      
+           Aggregate:   0            Aggregate:   0 
+              Points:  10               Points:   0 
+      Manual Result                                 
+
+         League                  Wed 7th May        
        Division 3                                   
         Barwick B                 Kippax B          
 Graham Clark           21 Steve Shannon          13 
@@ -812,6 +840,13 @@ Nigel Richardson       15 Darren Platts          21
 Mick Goodall           21 Adrian Sharp           14 
            Aggregate: 134            Aggregate: 149 
               Points:   2               Points:   8 
+
+         League                 Wed 14th May        
+       Division 1                                   
+      Crossgates BC           Crossgates Rec A      
+           Aggregate:   0            Aggregate:   0 
+              Points:  10               Points:   0 
+      Manual Result                                 
 
          League                 Wed 14th May        
        Division 2                                   
@@ -980,6 +1015,13 @@ Darren Platts          14 A Sharratt             21
 Daniel Scarlett        13 James Bird             21 
            Aggregate: 136            Aggregate: 149 
               Points:   4               Points:   6 
+
+         League                 Wed 21st May        
+       Division 1                                   
+      East End Park             Crossgates BC       
+           Aggregate:   0            Aggregate:   0 
+              Points:   0               Points:  10 
+      Manual Result                                 
 
          League                 Wed 21st May        
        Division 2                                   
@@ -1316,5 +1358,229 @@ Chris Cook             21 Gill Potter            10
 Toni Laurie            21 Peter Elliott          17 
            Aggregate: 160            Aggregate: 102 
               Points:   9               Points:   1 
+
+         League                 Wed 28th May        
+       Division 3                                   
+        Colton B                  Whinmoor          
+Elizabeth Loveday      18 Kevin Ditch            21 
+Andrew Stocks          21 Barry Wheatley         12 
+Deborah Orrell         10 Dave Norton            21 
+Allan Millington       16 Leigh Ditch            21 
+Brian Padgett          21 Steven Wood             7 
+Anthony Fawcett        21 Gary Kenworth           8 
+Paul Rushfirth         21 Nigel Rawlings         13 
+John Orrell            21 Brendan O'Leary        13 
+           Aggregate: 149            Aggregate: 116 
+              Points:   7               Points:   3 
+
+         League                 Wed 11th Jun        
+       Division 1                                   
+       Swillington                Kippax A          
+D Godley               21 Liam Todd              10 
+K Smith                14 Paul Johnson           21 
+David Franks           21 Gary Earl               3 
+Lee Stewart            21 Thomas Stephenson       4 
+Daniel Scarlett        21 Philip Hatch           14 
+Karl Getliffe          16 Chris Sumner           21 
+Steve Capitano          8 Jade Johnson           21 
+Adrian Sharp           21 Graham Hodder          13 
+           Aggregate: 143            Aggregate: 107 
+              Points:   7               Points:   3 
+
+         League                 Wed 11th Jun        
+       Division 1                                   
+         Scholes                Crossgates BC       
+Jayne Dickinson        14 Nigel Cranston         21 
+Jennifer Elliott       21 Lynne Wilcox           13 
+Karen Lewis             6 Louie Taylor           21 
+John Pennock           20 Tom Smith              21 
+Philip Elliott         21 Luke Bellamy           15 
+Steven Proberts         8 Mark Taylor            21 
+Steve Wright           21 Natalie Sanderson      19 
+Glenn Dickinson        21 Rachel Wilcox          13 
+           Aggregate: 132            Aggregate: 144 
+              Points:   4               Points:   6 
+
+         League                 Wed 11th Jun        
+       Division 1                                   
+    Crossgates Rec A              Magnets A         
+Alan Dean              21 John Dykes             17 
+Steve Tyas             12 Andrew Wood            21 
+James Taylor           21 Matthew Fiddler        13 
+A Wood                 12 Tony Wood              21 
+Peter Evans            17 Steve Dykes            21 
+Dave Sharp              6 Andrew Green           21 
+Mick Cooper            16 Jordan Riley           21 
+A Walton               16 Jon Lucas              21 
+           Aggregate: 121            Aggregate: 156 
+              Points:   2               Points:   8 
+
+         League                 Wed 11th Jun        
+       Division 1                                   
+       Rothwell BC              Garforth CC A       
+Garry Dennison         21 Les Hudson              8 
+Nigel Richardson        3 Stuart Cranston        21 
+Katie Turner           18 Philip Carlile         21 
+Lynn Owen              21 Neil Robinson          11 
+Nicola Pearson         14 Robert Beattie         21 
+John Ainsley           14 Ian Doughty            21 
+Ron Owen               21 P S Lodge              19 
+Andrew Limbert         21 Michael Firth          17 
+           Aggregate: 133            Aggregate: 139 
+              Points:   4               Points:   6 
+
+         League                 Wed 11th Jun        
+       Division 1                                   
+      East End Park             Roundhay Park       
+D Smith                13 Ralph Taylor           21 
+Paul Reynard           10 Mandy Wilson           21 
+Steve Olivant           4 Jim Jordan             21 
+Ryley Patrick          10 Martin Lally           21 
+Matt Ramsey            16 P Schofield            21 
+Joesy Olivant          12 A Ford                 21 
+Darran Baker           18 James Bird             21 
+Sophie Olivant         13 A Sharratt             21 
+           Aggregate:  96            Aggregate: 168 
+              Points:   0               Points:  10 
+
+         League                 Wed 11th Jun        
+       Division 2                                   
+        Harehills                 Barwick A         
+David Smith            21 Nick Moulding          17 
+Jade Kerry             21 Margaret Finister      16 
+Sharon Kerry           10 Dennis Bainbridge      21 
+Raymond Swallow        18 David Wright           21 
+Peter Simmons          17 Jack Finister          21 
+Laura Love             21 Antoanetta Bainbridge  13 
+David Tinker           21 Christine Plaskitt      6 
+Alan McConnell         13 Ian Wallbank           21 
+           Aggregate: 142            Aggregate: 136 
+              Points:   6               Points:   4 
+
+         League                 Wed 11th Jun        
+       Division 2                                   
+        Colton A              Crossgates Rec B      
+Brian Padgett          15 T Rock                 21 
+Robert Horner          17 Ivy Asquith            21 
+Ray Dixon              13 Roy Beverly            21 
+Andrew Stocks          17 Peter Walker           21 
+Martin Dowling         21 M Durkan               10 
+Nick Ryder             17 Dave Farman            21 
+Andrea Ryder           21 Graham Scholes         19 
+Paul Lawson            21 Dave Todd              17 
+           Aggregate: 142            Aggregate: 151 
+              Points:   3               Points:   7 
+
+         League                 Wed 11th Jun        
+       Division 2                                   
+        Magnets B               Garforth Rec        
+Nick Heaton            21 Keith Todd              6 
+Melanie Collins        21 Lee Watson             14 
+Liz White              21 B Deighton             19 
+Andrew Shann            6 Joy Slater             21 
+Eileen Emmett          18 Carole Kitchen         21 
+Barrie Wilson          13 Craig Hobbs            21 
+Graham Collins         21 Julie Matthews         15 
+Pauline Wetherill      17 R Brown                21 
+           Aggregate: 138            Aggregate: 138 
+              Points:   5               Points:   5 
+
+         League                 Wed 11th Jun        
+       Division 2                                   
+       Boston Spa                Fearnville         
+Ruth Meades            21 Stuart Poulter         12 
+David Gooch            21 Paul Foster            20 
+Gordon Martin          15 Anthony Boyes          21 
+Wiliam Shaw            21 Stella Gibbons          9 
+Chris Lock             21 Lucas Barrett           8 
+John Mais              14 Ray Barrett            21 
+Trevor Howard          20 Douglas Fraser         21 
+Charlotte Howarth       7 Madge Cass             21 
+           Aggregate: 140            Aggregate: 133 
+              Points:   6               Points:   4 
+
+         League                 Wed 11th Jun        
+       Division 2                                   
+       Woodlesford               Whitkirk BC        
+Jim Keenan             21 Pauline Farrar         15 
+David Mosby            20 Helen Johnson          21 
+Paul Ellis             21 Kevin Collins           7 
+Tony Harriman          21 Jack Williamson        19 
+Liz Mace               21 Hannah Risley          15 
+Sharon Harriman        21 James Wright-Green     10 
+Dennis Birch           21 Michael Sheerin        20 
+Roger Boyes            18 P Hardy                21 
+           Aggregate: 164            Aggregate: 128 
+              Points:   8               Points:   2 
+
+         League                 Wed 11th Jun        
+       Division 3                                   
+        Kippax B                Valley Ridge        
+Nathan Biddles         21 Sue Saunders           19 
+Richard Auty           21 Margaret Crossland     10 
+Steve Shannon          12 Craig Broome           21 
+Graham Walker          21 Bryan Harvey            5 
+Brian Hill             21 Marie Potter            3 
+Andrew Savery          21 Phil Howarth           20 
+Paul Stephenson        21 Hugh Carr               6 
+Tim Harris             21 Geoffrey Crossland      6 
+           Aggregate: 159            Aggregate:  90 
+              Points:   9               Points:   1 
+
+         League                 Wed 11th Jun        
+       Division 3                                   
+        Whinmoor                Manston Park        
+Paul Taylor             8 Elizabeth Quigley      21 
+Nigel Rawlings         11 Linda Bradley          21 
+Steven Wood            21 Mick Monaghan          12 
+Barry Wheatley         13 Stephen Jackson        21 
+Gary Kenworth          19 Anthony Marsden        21 
+Brendan O'Leary        13 David Wall             21 
+Kevin Ditch            15 Jonathan Moriarty      21 
+Derek Harding          21 John Wilson            20 
+           Aggregate: 121            Aggregate: 158 
+              Points:   2               Points:   8 
+
+         League                 Wed 11th Jun        
+       Division 3                                   
+        Barwick B               Rothwell Park       
+Julie Higgins           4 Malcolm Cameron        21 
+Stuart Cockerham       21 Clifford Furness       20 
+Sue Wilkinson           6 Russ Thomas            21 
+Michael Higgins        21 Ronald Scott            8 
+Keith Dodgson          10 Martin Atkinson        21 
+Gill Potter            13 Roy Tebbut             21 
+Jennifer Dodgson       21 Alicia Hiscoe           4 
+Peter Elliott          21 Karl Dutton            15 
+           Aggregate: 117            Aggregate: 131 
+              Points:   4               Points:   6 
+
+         League                 Wed 11th Jun        
+       Division 3                                   
+     North Leeds BC               Colton B          
+Susan Allman           21 Barry Carr             14 
+Nathan Hamlett         21 Gary Stephenson        15 
+Harold Todd            21 Janet Stephenson        4 
+Sanjay Thukral         21 Allan Millington       17 
+Mark Cooper            21 Elizabeth Loveday       8 
+David Jones            21 Deborah Orrell          8 
+Hilary Asoko           21 Sue Carr               15 
+David Haynes           21 John Orrell            14 
+           Aggregate: 168            Aggregate:  95 
+              Points:  10               Points:   0 
+
+         League                 Wed 11th Jun        
+       Division 3                                   
+      Garforth CC B                Thorner          
+Thomas Cranston        21 Toni Laurie            17 
+Mrs S Tyson            16 Christine Holmes       21 
+David Horsey           17 Katie Simms            21 
+Steve Bartrop          21 Joyce Broadbent        17 
+R Cockshaw             14 Chris Cook             21 
+Ann Doughty            10 Peter Holmes           21 
+S Tyson                14 Susie Lawson           21 
+Joe Doughty             7 Owen Laurie            21 
+           Aggregate: 120            Aggregate: 160 
+              Points:   2               Points:   8 
 
 

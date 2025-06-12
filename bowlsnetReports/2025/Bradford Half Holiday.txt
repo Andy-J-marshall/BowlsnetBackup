@@ -1,4 +1,4 @@
-=== Bradford (Half Holiday) 2025 (as of Wed 11th Jun)
+=== Bradford (Half Holiday) 2025 (as of Thu 12th Jun)
 === Comp. Match Cards
 
    Division 1 - Ed Foster          Wed 16th Apr        
@@ -1346,16 +1346,76 @@ Darryl McCormack          21 Alan Farrow             7
                  Points:  20               Points:   6 
 
    Division 1 - Ed Foster          Wed 11th Jun        
+        Littlemoor A                 Wibsey A          
+Jim Moorin                17 Peter Crowther         21 
+Angela Carter             15 John Stocks            21 
+Alan Mazurke              19 Nicola Stocks          21 
+Kath Mazurke              19 John Stevenson         21 
+Glenn Miller              21 Tasawar Hussain        12 
+Nicky Dewhirst            21 Martin Grace            9 
+              Aggregate: 112            Aggregate: 105 
+                  Games:   2                Games:   4 
+                 Points:  13               Points:  13 
+
+   Division 1 - Ed Foster          Wed 11th Jun        
+        Hove Edge A                  Pudsey A          
+Kevin Longbottom           5 Gary Wike              21 
+Nigel Firth               10 Pam Lindley            21 
+Patrick O'Connor          21 Steve Emmett           20 
+Richard Hopley            21 Duncan Reeves          12 
+Peter Barstow             21 Dean Scarth            11 
+Steve Rothwell            21 Tom Morris             10 
+              Aggregate:  99            Aggregate:  95 
+                  Games:   4                Games:   2 
+                 Points:  15               Points:  11 
+
+   Division 1 - Ed Foster          Wed 11th Jun        
+         Asa Briggs               Crowghyll Park       
+Kevin Burrage             21 Tony Southern          16 
+Kath Sansom               21 Rae Heddle             10 
+David Trudgill            21 Peter Mitchell          7 
+Steve Fleming             19 Eddie Prince           21 
+Paula Graham              12 Andy Matthews          21 
+Scott Sansom              21 Phil Robinson           2 
+              Aggregate: 115            Aggregate:  77 
+                  Games:   4                Games:   2 
+                 Points:  20               Points:   6 
+
+   Division 1 - Ed Foster          Wed 11th Jun        
          Clayton A                 Littlemoor B        
 June Wilson                7 Steve Longley          21 
 David Moore               13 Bob Baines             21 
 Paul Gill                 10 Jeff Goodhall          21 
 Alan Peel                 21 Steve Bowes            13 
 Chris Wilson              13 John Armitage          21 
-Peter Barker              21 Glen Merrick           20 
+Peter Oliver              21 Glen Merrick           20 
               Aggregate:  85            Aggregate: 117 
                   Games:   2                Games:   4 
                  Points:   7               Points:  19 
+
+   Division 1 - Ed Foster          Wed 11th Jun        
+        Heckmondwike              West Bradford A      
+Roy Carter                21 Eddie Pells             7 
+Gerald Bromley            21 Malcolm Crotty          9 
+Jacob Hatfield-Goodall    21 Steven Bussingham       9 
+Sean Carter               21 Kevin Buckley          12 
+Mark Goodall              21 Stuart Graham          12 
+Hayley Wood               15 John Shoesmith         21 
+              Aggregate: 120            Aggregate:  70 
+                  Games:   5                Games:   1 
+                 Points:  23               Points:   3 
+
+Division 2 - Sheila Johnson        Wed 11th Jun        
+        Queensbury A                 Clayton B         
+Dennis Robinson           21 Pauline McGregor        5 
+Michael Clare             21 Malcolm Riggs          13 
+Barbara Wardman           21 Ray Atkinson           19 
+David Smalley             21 Bob Armitage            4 
+Irene Bulman              21 *A.N.Other*            11 
+David Clough              15 Steve Edgley           21 
+              Aggregate: 120            Aggregate:  73 
+                  Games:   5                Games:   1 
+                 Points:  22               Points:   4 
 
 Division 2 - Sheila Johnson        Wed 11th Jun        
         Drighlington                Brackenhill        
@@ -1368,6 +1428,18 @@ Tony Carpenter            21 Steve Hillam            5
               Aggregate: 125            Aggregate:  69 
                   Games:   5                Games:   1 
                  Points:  23               Points:   3 
+
+Division 2 - Sheila Johnson        Wed 11th Jun        
+          Pudsey B                  Oakenshaw A        
+Lynn Noonan               21 Grahan Wright          13 
+Linda Barrand             16 John Garside           21 
+David Elliott             12 Jim Gomersal           21 
+Geoff Simpson             18 Ian Gomersal           21 
+Granville Thornton        12 Richard Stewart        21 
+Janice Connaleigh         15 Jason Greenwood        21 
+              Aggregate:  94            Aggregate: 118 
+                  Games:   1                Games:   5 
+                 Points:   7               Points:  19 
 
 Division 2 - Sheila Johnson        Wed 11th Jun        
           Wibsey B               Brighouse Sports      
@@ -1440,5 +1512,17 @@ Michael Oliver            21 Barry Clough           12
               Aggregate:  95            Aggregate: 106 
                   Games:   2                Games:   4 
                  Points:  10               Points:  16 
+
+ Division 3 - Peter Gilroy         Wed 11th Jun        
+        Bowling Park                 Calverley         
+Paul McNulty               4 Geoff Yewdall          21 
+Sheila Krysik             21 June Whitaker          20 
+Keith Robertson            6 Anne Newlove           21 
+Jackie Swindell           21 Ray Gambles            11 
+Christine Kilner          21 Barry Briggs            8 
+Darryl McCormack          21 Kenneth Paley           4 
+              Aggregate:  94            Aggregate:  85 
+                  Games:   4                Games:   2 
+                 Points:  16               Points:  10 
 
 

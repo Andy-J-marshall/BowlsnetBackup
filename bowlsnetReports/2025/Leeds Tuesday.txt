@@ -1,4 +1,4 @@
-=== Leeds & District (Tuesday) 2025 (as of Wed 11th Jun)
+=== Leeds & District (Tuesday) 2025 (as of Thu 12th Jun)
 === League Match Cards
 
       Division 1            Tue 8th Apr       
@@ -1340,6 +1340,19 @@ Jason Ream          12 Andrew Lloyd        21
         Aggregate: 152         Aggregate: 113 
            Points:  34            Points:  23 
 
+      Division 1            Tue 10th Jun      
+     Saville Park          New Farnley A      
+Mark Hopps          21 Simon Lavan         11 
+Ellis Owen          20 Ian Worrall         21 
+Karen Portman       18 Harry Dixon         21 
+Alfie Hutchinson    21 Ian Lynch           10 
+Gary Haley          10 Andy Thompson       21 
+Steve Portman       15 Andy Gardiner       21 
+Liam Massey         21 Paul Wood            5 
+Richard Johnson     15 Ryan Lynch          21 
+        Aggregate: 141         Aggregate: 131 
+           Points:  31            Points:  30 
+
       Division 2            Tue 10th Jun      
      Gildersome A          New Wortley A      
 David Norton        21 Iain Baker          20 
@@ -1430,5 +1443,18 @@ Oliver Devaney      21 David Turner         5
 Phil McStay         21 Barbara Moss         9 
         Aggregate: 139         Aggregate: 127 
            Points:  29            Points:  27 
+
+      Division 3            Tue 10th Jun      
+     Garforth C C              Colton         
+Steve Barltrop      21 Brian Scholes       20 
+Thomas Cranston     15 Mick Galley         21 
+Helen Dickinson      7 Jack Render         21 
+Ann Doughty         21 Andrew Stocks       18 
+Andrew Grunwell     15 David Clarkson      21 
+Doughty Ian         21 James Watkins        6 
+Phil Lodge          21 David Ryder         10 
+Craig White         21 Nicholas Ryder      20 
+        Aggregate: 142         Aggregate: 137 
+           Points:  32            Points:  30 
 
 

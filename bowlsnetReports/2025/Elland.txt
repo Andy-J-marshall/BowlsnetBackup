@@ -1,4 +1,4 @@
-=== Halifax (Elland) 2025 (as of Wed 11th Jun)
+=== Halifax (Elland) 2025 (as of Thu 12th Jun)
 === Comp. Match Cards
 
          Division 1                  Mon 28th Apr         
@@ -896,6 +896,20 @@ Gareth Coates             21 A.N. Other                13
                  Points:  39                  Points:  30 
               Aggregate: 155               Aggregate: 133 
                   Games:   5                   Games:   3 
+
+         Division 1                  Mon 12th May         
+     Brighouse Sports A           Brighouse Sports B      
+Mark Connolly             21 Raz Collins               14 
+Robert Hopper             21 Simon Cresswell           19 
+Stuart Fletcher           21 Ian Moxon                 19 
+Peter Owen                 7 Nigel Briggs              21 
+Graham Robert             21 Anthony Naylor            10 
+Richard Hobson            21 Helen Simpson             19 
+Neal Hopper               19 Dale Dyson                21 
+John Bloomer              21 Holly Jenkins              1 
+                 Points:  41                  Points:  28 
+              Aggregate: 152               Aggregate: 124 
+                  Games:   6                   Games:   2 
 
          Division 1                  Mon 12th May         
         Greetland A                   Asa Briggs          
@@ -2604,6 +2618,20 @@ Hilary Brady              17 June Taylor               21
                  Points:  45                  Points:  29 
               Aggregate: 164               Aggregate: 141 
                   Games:   7                   Games:   1 
+
+         Division 7                  Mon 9th Jun          
+       Crow Wood Park              Stainland Park B       
+Peter Foster               2 Jane Dyson                21 
+David McAlpine            11 Martyn Hollingsworth      21 
+Brian Lawrence            17 Oliver Barstow            21 
+Steve Laycock             18 Nigel Dyson               21 
+Andrew Gudzelak           13 John Dinsdale             21 
+Lynda Owen                 7 Damian Diggles            21 
+Keith Wadsworth           21 Cherie Diggles            17 
+George Habergham          20 Rebecca Fletcher          21 
+                 Points:  21                  Points:  45 
+              Aggregate: 109               Aggregate: 164 
+                  Games:   1                   Games:   7 
 
          Division 7                  Mon 9th Jun          
          Halifax D                  Ripponden Park        

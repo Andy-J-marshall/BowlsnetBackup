@@ -1,4 +1,4 @@
-=== Huddersfield Ladies Bowling League 2025 (as of Wed 11th Jun)
+=== Huddersfield Ladies Bowling League 2025 (as of Thu 12th Jun)
 === League Match Cards
 
           Section C                    Mon 14th Apr         
@@ -368,7 +368,7 @@ Karen Beaumont              21 Hazel Mularkey            19
 
           Section E                    Tue 22nd Apr         
           Outlane B                   Netherton Con         
-Meagan Tanners              21 Jackie Bray               15 
+Megan Tanner                21 Jackie Bray               15 
 Sarah Chapman               14 Christine Harrison        21 
 Judith Parker               10 Brenda Priestley          21 
 Julie Polzin                10 Christine Heeley          21 
@@ -699,7 +699,7 @@ Linda Baxter                21 Sharon Senior             13
 Mandy Taylor                 6 Joan Cook                 21 
 Bethany Hague               21 Mary Phillips             14 
 Jacky Connolly               4 Lesyle Lowther            21 
-Jacky Carratt               20 Meagan Tanners            21 
+Jacky Carratt               20 Megan Tanner              21 
                 Aggregate: 119               Aggregate: 146 
 
           Section C                    Wed 30th Apr         
@@ -925,6 +925,20 @@ Sue Field                   20 Wendy Sykes               21
                 Aggregate: 148               Aggregate: 167 
 
 1st Round Sanderson/Nunns Cup          Tue 6th May          
+                                      On Lindley BC         
+        Thongsbridge A                  Marsh Lib           
+Gill Hallas                 19 Julie Robson              21 
+Pat Beever                  21 Lisa Robson                8 
+Alison Brennan               1 Megan Beresford           21 
+Tracey Hirst                21 Susan Livingstone         10 
+Nancy Harrison              19 Angela Ramsden            21 
+Liz Wiltshire               17 Dawn Neil                 21 
+Pat Hodgson                 21 Christine Balmforth        9 
+Hazel Rangeley              21 Wendy Smith               14 
+                 Handicap: Scr                Handicap: +16 
+                Aggregate: 140               Aggregate: 141 
+
+1st Round Sanderson/Nunns Cup          Tue 6th May          
                                       On Denby Dale         
          Brockholes B                 Netherton Con         
 Elaine Horncastle           13 Jackie Bray               21 
@@ -987,12 +1001,26 @@ Janet Wilkinson             21 June Dibb                 14
 Mavis Wrigley               19 Lesyle Lowther            21 
 Pauline Moseley             21 Julie Polzin              10 
 Janet Thorpe                21 Joan Cook                 16 
-Angela Dhaliwal             21 Meagan Tanners            10 
+Angela Dhaliwal             21 Megan Tanner              10 
 Liz Kendal                  14 Mary Phillips             21 
 Audrey Hunter               16 Gail Haythornthwaite      21 
 Vicky Holroyd               21 Sharon Senior             12 
                  Handicap: +16                Handicap: +40 
                 Aggregate: 170               Aggregate: 165 
+
+1st Round Sanderson/Nunns Cup          Thu 8th May          
+                                       On Holmfirth         
+       Milnsbridge BC B                 New Mill B          
+Audrey Stern                 3 Andrea Buckley            21 
+Sylvia Dewhirst             14 Lily Hesling              21 
+Diane Horton                 2 Lynda Drury               21 
+Jan Brook                    1 Julie Best                21 
+Sylvia Jones                 2 Laura Middleton           21 
+Gwyneth Hall                10 Hazel Lunn                21 
+Alicen Rushworth             6 Suzanne Howarth           21 
+April Rushworth-Robinson    11 Lorraine Hirst            21 
+                 Handicap: +40                Handicap: Scr 
+                Aggregate:  89               Aggregate: 168 
 
 1st Round Sanderson/Nunns Cup          Thu 8th May          
                                     On Linthwaite Hall      
@@ -1021,6 +1049,20 @@ Margaret Brennan            19 Diane Clifford            21
 Jane Fielding               21 Linda Davies               8 
                  Handicap: +24                Handicap: +40 
                 Aggregate: 179               Aggregate: 156 
+
+1st Round Sanderson/Nunns Cup          Thu 8th May          
+                                    On Kirkheaton Con       
+        Lockwood Con B                  Marsh Utd           
+Gill Reid                    1 Sue Harper                21 
+Michaela Brennan             6 Sally Howard              21 
+Claire Lucid                12 Barbara Johnstone         21 
+Rebecca Kirk                 8 Sarah Oliver              21 
+Linda Castle                 3 Lynn Carter               21 
+Rebecca Harper               9 Jane Hollingworth         21 
+Anula Tennakoon             11 Pat Taylor                21 
+Caroline Dempsey             8 Sue Bentley               21 
+                 Handicap: +40                Handicap: Scr 
+                Aggregate:  98               Aggregate: 168 
 
 1st Round Sanderson/Nunns Cup          Thu 8th May          
                                         On Shepley          
@@ -1130,6 +1172,18 @@ Kathryn Garside              8 Alicia Ormsby             21
 Holly Jenkins               21 Shirley Dillingham         5 
 Poppy Fox                   21 Anne Kendall              15 
                 Aggregate: 104               Aggregate: 142 
+
+          Section A                    Tue 13th May         
+          New Mill B                    Outlane A           
+Suzanne Howarth             17 Lynne Brook               21 
+Debbie Davies               10 Sue Hammond               21 
+Laura Middleton             21 Jackie Jepson              4 
+Andrea Buckley              21 Emma Baldwin              20 
+Julie Best                  21 Jane Dyson                 9 
+Hazel Lunn                  21 Bev Delmonte               6 
+Lily Hesling                21 Helen Taylor               4 
+Lorraine Hirst              21 Julie Vance               19 
+                Aggregate: 153               Aggregate: 104 
 
           Section A                    Tue 13th May         
          Farnley Tyas                 Thongsbridge A        
@@ -1385,12 +1439,12 @@ Diane Proctor               21 Gwyneth Hall              13
 
           Section E                    Thu 15th May         
           Longwood A                    Outlane B           
-Heather Wood                21 *A.N.Other*               11 
+Heather Wood                21 Megan Tanner              11 
 Dee Haigh-Elmore            21 Joan Cook                  7 
 Vina Randhawa               16 Gail Haythornthwaite      21 
 Melanie Mason               15 Judith Parker             21 
 Julie McDowell               8 June Dibb                 21 
-Pamela Atkins               14 *A.N.Other*               21 
+Pamela Atkins               14 Sharon Senior             21 
 Helen Snashall               7 Sarah Chapman             21 
 Cheryl Reid                  6 Julie Polzin              21 
                 Aggregate: 108               Aggregate: 144 
@@ -1980,7 +2034,7 @@ Sarah Halliwell             21 Joan Cook                 13
 Louise Sadler               21 Gail Haythornthwaite      20 
 Anne Brant                  21 Mary Phillips             12 
 Emma Collins                17 Judith Parker             21 
-Gillean Meachen             21 *A.N.Other*               14 
+Gillean Meachen             21 Megan Tanner              14 
                 Aggregate: 153               Aggregate: 120 
 
           Section E                    Thu 5th Jun          
@@ -2048,5 +2102,19 @@ Rachel Hulley               21 Eve Johnson                9
 Kathryn Parler              21 Diane Clifford            11 
                  Handicap: +16                Handicap: +40 
                 Aggregate: 169               Aggregate: 144 
+
+   2nd Round Sanderson Cup             Wed 11th Jun         
+                                     On Lockwood Con        
+        Primrose Hill                   Lindley BC          
+Liz Kendal                   5 Irene Haigh               21 
+Audrey Hunter                8 Janet Allen               21 
+Vicky Holroyd               21 June Taylor               15 
+Janet Wilkinson             21 Sue Green                  4 
+Angela Dhaliwal             19 Glynis Philbin            21 
+Janet Thorpe                10 Andrea Laycock            21 
+Pauline Moseley             21 Sharron Broadley          14 
+Ann Price                   21 Jane Moore                14 
+                 Handicap: +16                Handicap: +24 
+                Aggregate: 142               Aggregate: 155 
 
 

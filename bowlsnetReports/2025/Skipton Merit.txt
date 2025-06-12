@@ -1,4 +1,4 @@
-=== Skipton (Merit) 2025 (as of Wed 11th Jun)
+=== Skipton (Merit) 2025 (as of Thu 12th Jun)
 === League Match Cards
 
    Clarkson Cup Prelim            Tue 8th Apr        
@@ -140,6 +140,20 @@ Cath Rushton            14 David Ryding           21
                Games:    2               Games:    6 
            Aggregate:  109           Aggregate:  153 
               Points:    2              Points:    8 
+
+Walker Foster Merit Div 1        Thu 10th Apr        
+         Rolls A                 Crosshills A        
+Andy Duckworth           9 Robbie Ellis           21 
+Alec Hutchinson         17 Anthony Walsh          21 
+Graham Gallacher        21 Keiran Bannister       19 
+David Curran            12 David Scott            21 
+Brent Taylforth         16 Ryan Tiler             21 
+Colin Maud               9 Jamie Cunningham       21 
+Martin Coates            8 Danny Barker           21 
+Brian Livesey           19 Ben Titorenko          21 
+               Games:    1               Games:    7 
+           Aggregate:  111           Aggregate:  166 
+              Points:    1              Points:    9 
 
 Walker Foster Merit Div 1        Thu 10th Apr        
       Sutton Park A              Silsden PF A        
@@ -476,6 +490,20 @@ Peter Peacock           21 George Hutson           7
                Games:    6               Games:    2 
            Aggregate:  158           Aggregate:   96 
               Points:    8              Points:    2 
+
+Walker Foster Merit Div 3        Thu 17th Apr        
+        Cononley B                 Craven B          
+June Whitaker           21 Philip Rowley          10 
+Tony Musolf             20 Richard Pratt          21 
+Debbie Sargent          17 Mel Titorenko          21 
+Jefffey Driver          13 Joanne Ellis           21 
+Ros Storey              14 Leanne Akrigg          21 
+Malcolm Watson          19 Warren Burnett         21 
+Glen Ridehalgh          19 Darren Shaw            21 
+Tony Finn               21 Sean Kirby             10 
+               Games:    2               Games:    6 
+           Aggregate:  144           Aggregate:  146 
+              Points:    2              Points:    8 
 
 Walker Foster Merit Div 3        Thu 17th Apr        
        Lund Park A                Addingham A        
@@ -1178,6 +1206,34 @@ Mick Riddiough          10 Philip Chadwick        21
               Points:    5              Points:    5 
 
 Walker Foster Merit Div 1        Thu 15th May        
+        Cononley A                  Rolls A          
+Jim Calvert             21 Andy Duckworth         10 
+Sharon Gadd             16 Brent Taylforth        21 
+Alister Keighley        21 Jenny Whitaker          8 
+Mick Gadd               21 Graham Gallacher        9 
+Ian Dewhirst            21 Joe Reger               8 
+Wayne Lee               21 David Curran           12 
+David Brown             21 Colin Maud             15 
+Matt Carter             21 Neil Whitaker          16 
+               Games:    7               Games:    1 
+           Aggregate:  163           Aggregate:   99 
+              Points:    9              Points:    1 
+
+Walker Foster Merit Div 1        Thu 15th May        
+       Crosshills A            Alkincoates PW A      
+Keiran Bannister         7 John Whitaker          21 
+Ben Titorenko           15 Dean Brown             21 
+Jamie Cunningham        21 Claire Russell         20 
+Robbie Ellis            21 Steve Clamp            17 
+Bryan Harrison          21 Jonathan Lacey         14 
+David Scott             13 Aaron Harrison         21 
+Ryan Tiler              21 Sarah Edmondson        16 
+Anthony Walsh           21 Daryl Wright           14 
+               Games:    5               Games:    3 
+           Aggregate:  140           Aggregate:  144 
+              Points:    5              Points:    5 
+
+Walker Foster Merit Div 1        Thu 15th May        
        Devonshire A                Oxenhope          
 Daniel Moore            21 Debbie Hosty           13 
 Nigel Breadley          21 Mary Hemsley           13 
@@ -1274,6 +1330,20 @@ Martin Bailey           21 Hugh Mardall           10
                Games:    5               Games:    3 
            Aggregate:  153           Aggregate:  125 
               Points:    7              Points:    3 
+
+Walker Foster Merit Div 3        Thu 15th May        
+         Craven B                Crosshills B        
+Philip Rowley           14 Matthew Barraclough    21 
+Andrew Noller           21 Sandra Eastell         16 
+Richard Pratt           11 Derek Chapman          21 
+Alan Pickering          10 Paul Kaye              21 
+Brian Nash              21 Terry Greenwood         8 
+Mel Titorenko           14 Russell Newton         21 
+Catherine Leigh         11 J Hardisty             21 
+Warren Burnett          21 Rob Garth              18 
+               Games:    3               Games:    5 
+           Aggregate:  123           Aggregate:  147 
+              Points:    3              Points:    7 
 
 Walker Foster Merit Div 3        Thu 15th May        
         Keighley B              Trawden Forest       
@@ -1780,6 +1850,20 @@ Roger Hopkins           21 Denis Mackie           19
            Aggregate:  157           Aggregate:  186 
 
        Clarkson Cup              Thu 29th May        
+                                   On Rolls          
+       Crosshills A               Gargrave B         
+Keiran Bannister        21 Peter Akers            15 
+Danny Barker            21 Robin Sands            15 
+Jamie Cunningham        21 Mick Cox                0 
+Robbie Ellis            21 Keith Moore            17 
+David Scott             21 Archie Lambert          3 
+Ryan Tiler              21 Andy Sylvester          4 
+Ben Titorenko           21 Malcolm Bishop          7 
+Anthony Walsh           21 Hugh Mardall            3 
+            Handicap:   -4            Handicap:  +60 
+           Aggregate:  164           Aggregate:  124 
+
+       Clarkson Cup              Thu 29th May        
                                   On Keighley        
          Oxenhope                 Cononley B         
 Martyn Benson           21 Robert Ellis           18 
@@ -2086,5 +2170,19 @@ Gary Broadbent          21 David Alexander         9
                Games:    8               Games:    0 
            Aggregate:  168           Aggregate:   79 
               Points:   10              Points:    0 
+
+Walker Foster Merit Div 4        Wed 11th Jun        
+       Crosshills C              Silsden PF B        
+Harold Taylor           14 Sandra Fairburn        21 
+Mick Riddiough          18 Pam Clark              21 
+Richard Lewis           21 Bill Lee               15 
+Carol Wellwood          21 Derek Metcalfe         17 
+Mick Taylor             21 Andy Morris             8 
+Michael Winnery         21 Robin Hebden           17 
+Trevor Johnson          10 Brenda Moorhouse       21 
+Michael Gallagher       21 Colin Edwards          13 
+               Games:    5               Games:    3 
+           Aggregate:  147           Aggregate:  133 
+              Points:    7              Points:    3 
 
 

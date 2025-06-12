@@ -1,4 +1,4 @@
-=== Huddersfield Vets (10-Man) 2025 (as of Wed 11th Jun)
+=== Huddersfield Vets (10-Man) 2025 (as of Thu 12th Jun)
 === League Match Cards
 
        Division 1                Tue 8th Apr        
@@ -93,7 +93,7 @@ Alan Stephenson           Russell Clarkson
 
        Division 2                Tue 8th Apr        
        Denby Dale             Almondbury B.C. A     
-Neil Wallace           21 Robert Tracey          20 
+Neale Wallace          21 Robert Tracey          20 
 Peter Taylor           21 Richard Brook          19 
 Peter Goodwill          8 John Madden            21 
 Stuart England         12 David Kaye             21 
@@ -963,7 +963,7 @@ Peter Atherton            Geoff Normanton
 
        Division 2               Tue 29th Apr        
        Denby Dale                Elland WMC         
-Neil Wallace           18 Mick Hiscock           21 
+Neale Wallace          18 Mick Hiscock           21 
 Peter Taylor           21 Clive Harte            18 
 Andy Wilson            15 Ray Gledhill           21 
 Alan Kitson            11 Viv Smith              21 
@@ -1430,7 +1430,7 @@ Simon Neve                Duncan Haigh
        Broad Oak A               Denby Dale         
 Carl Taylor            21 Stuart England         18 
 Antony Schofield       21 Peter Goodwill          4 
-Andy Crowther          21 Neil Wallace           20 
+Andy Crowther          21 Neale Wallace          20 
 Ken Wilson             21 Peter Taylor           16 
 Michael Howlett        21 Andy Wilson            18 
 Peter Garside             David Barraclough         
@@ -1878,7 +1878,7 @@ Simon Neve                A Robertshaw
 
        Division 2               Tue 13th May        
        Denby Dale             Netherton Con. A      
-Neil Wallace           21 Tommy Whitaker         12 
+Neale Wallace          21 Tommy Whitaker         12 
 Stuart England         21 Paul Rangeley          14 
 Peter Goodwill         21 James Nolan            18 
 Alan Kitson            21 G Brook                20 
@@ -2432,7 +2432,7 @@ Graham Rawlinson          Mark Harris
        Denby Dale             Kirkheaton Con. A     
 Selwyn Dyson           21 Jeff Jacklin           20 
 Rob Millington            Gordon Walker             
-Neil Wallace           10 Martin Laycock         21 
+Neale Wallace          10 Martin Laycock         21 
 Michael Jennings          Adrian Cooper             
 David Barraclough      21 Sean Metcalf           19 
 Andy Wilson               Richard Gledhill          
@@ -2767,7 +2767,7 @@ R Clayton                 John Brook
 
        Division 2               Tue 27th May        
          Shepley                 Denby Dale         
-Stuart Pears           21 Neil Wallace           11 
+Stuart Pears           21 Neale Wallace          11 
 Norman Raper           19 Peter Taylor           21 
 John Hodgson           21 Stuart England         15 
 Paul Van Leeuwen       21 Peter Goodwill         14 
@@ -3172,7 +3172,7 @@ Simon Neve                Charles Hirst
 
        Division 2                Tue 3rd Jun        
        Denby Dale               Golcar Lib B        
-Neil Wallace           21 Martin Robinson         5 
+Neale Wallace          21 Martin Robinson         5 
 Peter Taylor           21 Stephen Swallow         8 
 Stuart England         21 Alan Leonard           17 
 Michael Jennings       21 Rob Allen              17 
@@ -3612,7 +3612,7 @@ Peter Haythornthwaite     Paul Hutchinson
 David Frost            19 David Barraclough      21 
 Charlie Littlewood        Selwyn Dyson              
 Ian Shackcloth          8 Michael Jennings       21 
-Nigel Kain                Neil Wallace              
+Nigel Kain                Neale Wallace             
 George Williams        21 Alan Kitson            18 
 Brian Maxwell             John Robertshaw           
             Handicap: +26             Handicap: +16 

@@ -1,4 +1,4 @@
-=== Skipton (54321) 2025 (as of Wed 11th Jun)
+=== Skipton (54321) 2025 (as of Thu 12th Jun)
 === Comp. Match Cards
 
 Skipton Building Society Div 1        Tue 15th Apr       
@@ -196,6 +196,20 @@ Amy Lowe                     21 Simon Blondel         19
                      Games:   6               Games:   2 
                  Aggregate: 151           Aggregate: 125 
                     Points:  35              Points:  24 
+
+Skipton Building Society Div 4        Tue 15th Apr       
+         Crosshills B                  Steeton C         
+Trevor Johnston              21 Graham Golding        11 
+Maureen Riddiough            21 Derek Ormondroyd      15 
+Howard Marshall              21 Janet Rooke            6 
+Mike Taylor                  21 Dennis Ross           13 
+Mike Binns                   21 Maureen Seward        20 
+Carol Wellwood               21 Doug Smith             9 
+Michael Gallager             21 Linda Addis            6 
+Robert Savage                21 Gillian Ross          14 
+                     Games:   8               Games:   0 
+                 Aggregate: 168           Aggregate:  94 
+                    Points:  41              Points:  16 
 
 Skipton Building Society Div 3        Wed 16th Apr       
            Craven C                   Addingham A        
@@ -784,6 +798,20 @@ Peter Ingham                 21 David Lancaster        7
                      Games:   5               Games:   3 
                  Aggregate: 133           Aggregate: 127 
                     Points:  30              Points:  25 
+
+Skipton Building Society Div 2        Tue 6th May        
+          Gargrave B                    Craven B         
+Martyn Foulds                21 Warren Burnett        12 
+Mick Cox                     11 Paul Kaye             21 
+Bryan Lord                   21 Robert Armstrong      16 
+Robin Sands                  21 Catherine Leigh        9 
+Andy Sylvester               14 David Jubb            21 
+Stuart Carr                  13 Alan Pickering        21 
+Giles Winterton              15 Mick Tillotson        21 
+Hugh Mardall                 21 Peter Shaw            19 
+                     Games:   4               Games:   4 
+                 Aggregate: 137           Aggregate: 140 
+                    Points:  29              Points:  30 
 
 Skipton Building Society Div 2        Tue 6th May        
            Steeton A                     Settle          
@@ -1406,7 +1434,7 @@ Skipton Building Society Div 1        Tue 3rd Jun
 Mick Balko                   10 Kevin Burnett         21 
 Amiee Clamp                  19 Cliff Taylor          21 
 Stan Reynolds                21 Derek Squires         14 
-*A.N.Other*                  21 Philip Dunderdale     11 
+Mick McNicol                 21 Philip Dunderdale     11 
 Michael Shannon              21 Richard Baker         14 
 Claire Russell               21 Philip Chadwick       19 
 Daryl Wright                 21 Gary Bailey           12 
@@ -1414,6 +1442,20 @@ Thomas Clamp                 21 Gary Hodge             7
                      Games:   6               Games:   2 
                  Aggregate: 155           Aggregate: 119 
                     Points:  36              Points:  22 
+
+Skipton Building Society Div 1        Tue 3rd Jun        
+        Broughton Road                  Craven A         
+Tracey Harrison               5 K Moore               21 
+David Precious               17 Mick Demain           21 
+Colin Hodgson                12 Mick Bastow           21 
+Ben Titorenko                10 Warren Burnett Jnr    21 
+Sam Cotterill                 6 Paul Kaye             21 
+Tim Bucke                    17 Viv Abell             21 
+Darrell Gore                 15 Andrew Breare         21 
+Stephen Clough               20 Jim Akrigg            21 
+                     Games:   0               Games:   8 
+                 Aggregate: 102           Aggregate: 168 
+                    Points:  19              Points:  41 
 
 Skipton Building Society Div 1        Tue 3rd Jun        
          Devonshire A                   Rolls A          
@@ -1862,5 +1904,47 @@ Stuart Mitchell              21 John Driver           18
                      Games:   6               Games:   2 
                  Aggregate: 153           Aggregate: 127 
                     Points:  36              Points:  24 
+
+Skipton Building Society Div 3        Wed 11th Jun       
+           Craven C                   Whinfield B        
+Elliott Moore                17 Gordon Pickles        21 
+Stuart Cracknell              8 Ian McDade            21 
+David Watson                  9 Derek Squires         21 
+Richard Pratt                21 Cath Hey              14 
+Leanne Akrigg                21 Pip Chadwick          15 
+Andrew Noller                18 Helen Taylor          21 
+Joshua Titorenko             21 Idris Wade             2 
+Darren Shaw                  15 Liam Gatenby          21 
+                     Games:   3               Games:   5 
+                 Aggregate: 130           Aggregate: 136 
+                    Points:  26              Points:  31 
+
+Skipton Building Society Div 4        Wed 11th Jun       
+          Gargrave C                   Steeton B         
+Jan Corbridge                20 James Broadbent       21 
+Joanne Bradley               21 Marilyn Thorpe        17 
+Sue Watson                   21 Graham Golding        14 
+Stuart Carr                  17 Janet Green           21 
+Steve Lucas                   4 Gary Broadbent        21 
+Sally Clark                  21 Cheryl Golding         6 
+Carole Tunstall              21 Robert Thorpe          8 
+Lee Baxter                   19 Jack Carter-Rawnsley  21 
+                     Games:   4               Games:   4 
+                 Aggregate: 144           Aggregate: 129 
+                    Points:  31              Points:  27 
+
+Skipton Building Society Div 4        Wed 11th Jun       
+            Rolls C                    Steeton C         
+Philip Charnley              21 Diane Sugden           6 
+Ian Stead                    21 Janet Rooke            4 
+David Bowker                 14 Dennis Ross           21 
+Gary Chew                    21 Duncan Bromley        10 
+Geoff Pickles                21 Linda Addis            4 
+John Dawson                  19 Dianne Broadbent      21 
+William Honeyman             21 Billy Westfall         9 
+Robert Reid                  21 Derek Ormondroyd      13 
+                     Games:   6               Games:   2 
+                 Aggregate: 159           Aggregate:  88 
+                    Points:  36              Points:  16 
 
 

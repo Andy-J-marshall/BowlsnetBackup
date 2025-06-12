@@ -1,4 +1,4 @@
-=== West Riding & Spen Valley 2025 (as of Wed 11th Jun)
+=== West Riding & Spen Valley 2025 (as of Thu 12th Jun)
 === Comp. Match Cards
 
          Premier                  Wed 16th Apr        
@@ -534,6 +534,19 @@ Andy Marshall           21 Bryan Ibbetson          14
             Aggregate: 132             Aggregate: 150 
                Points:   3                Points:   8 
 
+        Division 1                Wed 30th Apr        
+     New Farnley - A             Chapel Street        
+Harry Dixon             10 Owen Laurie             21 
+Paul Jagger             19 Phil Vayro              21 
+Simon Lavan             21 Scott Bailey            15 
+Ian Lynch               21 *A.N.Other*             20 
+Ryan Lynch              21 Paul Tobin              18 
+Paul Wood               15 Duncan Ruddlesden       21 
+Ian Worrall             21 Michael Wood             9 
+Sophie Worrall           1 Neil Wood Snr           21 
+            Aggregate: 129             Aggregate: 146 
+               Points:   4                Points:   7 
+
         Division 2                Wed 30th Apr        
   Mirfield Old Bank - B             Farsley           
 Andrew Foggo             8 Dean Helliwell          21 
@@ -754,6 +767,19 @@ Glen Pratt              21 Emma Tobin              17
 *A.N.Other*             21 Mark Carroll             8 
             Aggregate: 163             Aggregate: 111 
                Points:   9                Points:   1 
+
+        Division 1                Wed 7th May         
+  Mirfield Old Bank - A         New Farnley - A       
+Andrew Mitchell         21 Ian Worrall             13 
+Bryan Ibbetson          21 Simon Lavan             12 
+Andrew Foggo            13 Ryan Lynch              21 
+Neil Shaw               20 Sophie Worrall          21 
+Andrew Sykes            21 Ian Lynch               12 
+Keith Bissell           14 Paul Jagger             21 
+*A.N.Other*             11 Paul Wood               21 
+John Hopkinson          21 Andrew Thompson         14 
+            Aggregate: 142             Aggregate: 135 
+               Points:   6                Points:   4 
 
         Division 1                Wed 7th May         
     Spen Victoria - B            Littlemoor - B       

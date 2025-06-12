@@ -1,4 +1,4 @@
-=== Halifax (Hebden Royd Vets) 2025 (as of Wed 11th Jun)
+=== Halifax (Hebden Royd Vets) 2025 (as of Thu 12th Jun)
 === League Match Cards
 
       Division 3            Wed 2nd Apr       
@@ -145,6 +145,17 @@ Pamela Woodhead      2 Adrian Holmes       21
 
     Division 1 & 2          Wed 16th Apr      
       Division 1                              
+      Walsden A             Ripponden A       
+Malcolm Dimelow     21 Brian Winrow        16 
+Keith Rudman        21 Graham Smith         6 
+Steven Bailey       21 Gary Plane          12 
+Peter Whitaker      21 Ian Crossland       19 
+Michael Butcher     21 Keith Hardy          8 
+Andrew Foster       21 Dave Culpan         16 
+           Points:   8            Points:   0 
+
+    Division 1 & 2          Wed 16th Apr      
+      Division 1                              
     Elland W.M. A           Hill Crest A      
 Philip Bins         12 Dave Barnes         21 
 Geoff Boothroyd     16 Bob Woodhead        21 
@@ -175,6 +186,17 @@ Steven Dunwell      21 Susan M Uttley      11
 Phillip Bradley     18 Ian Tootell         21 
 Andy Freer          21 Syd Smith           14 
            Points:   5            Points:   3 
+
+    Division 1 & 2          Wed 16th Apr      
+      Division 2                              
+      Halifax B               Keighley        
+Mick Milnes         17 Nigel Hall          21 
+Faye Curran         21 Kevin Linklater     16 
+Gary Burke          21 Sarfraz Qureshi     13 
+Peter Grant         21 George Hutson        8 
+Bea Grant           11 Brian Jones         21 
+Stephen Smith       21 *A.N.Other*         15 
+           Points:   6            Points:   2 
 
     Division 1 & 2          Wed 16th Apr      
       Division 2                              
@@ -316,6 +338,17 @@ Tony Young          21 Gillian Smith        8
 
     Division 1 & 2          Wed 23rd Apr      
       Division 2                              
+      Walsden B              Halifax B        
+Shirley Smith        3 Stephen Smith       21 
+Dave McFarland      21 Peter Grant         20 
+Andrew Pownell      21 *A.N.Other*         15 
+Tony Hunking        21 Pat Grant           11 
+Syd Smith           21 Gary Burke          13 
+Ian Tootell         21 Faye Curran         14 
+           Points:   7            Points:   1 
+
+    Division 1 & 2          Wed 23rd Apr      
+      Division 2                              
         Savile             Luddendenfoot      
 Andresa McWhirter   15 Paul Wildsmith      21 
 Adrian Baldwin      12 Gerald Rowley       21 
@@ -364,6 +397,17 @@ Jan White           13 Newman Fawley       21
 Janet Jackson        8 Peter Moran         21 
 Ceri Edwards        10 Trevor Mosey        21 
            Points:   1            Points:   7 
+
+    Division 1 & 2          Wed 30th Apr      
+      Division 1                              
+       Oxenhope          Mytholmroyd B.C. A   
+Gordon Cox          14 William Ashley      21 
+Steve Griffiths     21 David Greenwood     19 
+Fred Rothwell       17 Ann Greenwood       21 
+Mary Hemsley        21 Lorraine Boulton    13 
+Stephen Peers       21 David Warburton     12 
+John Slight         12 David Smith         21 
+           Points:   3            Points:   5 
 
     Division 1 & 2          Wed 30th Apr      
       Division 1                              
@@ -419,6 +463,28 @@ Howard Owen         21 Andresa McWhirter   11
 Gillian Smith        8 John Hartley        21 
 Andy Webster        21 Harry Ashworth      20 
            Points:   7            Points:   1 
+
+    Division 1 & 2          Wed 30th Apr      
+      Division 2                              
+      Halifax B            Luddendenfoot      
+Faye Curran         21 Gerald Rowley       10 
+Gary Burke          14 Dave Stafford       21 
+Carol Onions        21 David McMahon       18 
+Stephen Smith       21 Mark Horner         15 
+Mick Milnes         19 Ray Wolsey          21 
+David Onions        21 Ray Cope             5 
+           Points:   6            Points:   2 
+
+    Division 1 & 2          Wed 30th Apr      
+      Division 2                              
+      Sowerby B              Walsden B        
+Peter Brady         21 Tony Hunking        11 
+Alan Riddles        12 Syd Smith           21 
+Jimmy Bainbridge    21 Andrew Pownell      17 
+*A.N.Other*          8 Dave McFarland      21 
+Phillip Eastwood    21 Darryl Halstead     20 
+Roger Sargison      11 Ian Tootell         21 
+           Points:   3            Points:   5 
 
     Division 1 & 2          Wed 30th Apr      
       Division 2                              
@@ -505,6 +571,17 @@ Gary Plane          14 Peter Steele        21
 
     Division 1 & 2          Wed 7th May       
       Division 1                              
+  Mytholmroyd B.C. A         Walsden A        
+Jean Gornall        20 Steven Bailey       21 
+Ann Greenwood       16 Keith Rudman        21 
+Barbara Warburton   21 Michael Butcher     10 
+Lorraine Boulton    21 Geoff Crabtree      15 
+David Warburton     21 Andrew Foster       10 
+David Smith          7 Malcolm Dimelow     21 
+           Points:   5            Points:   3 
+
+    Division 1 & 2          Wed 7th May       
+      Division 1                              
      Hill Crest A           Hill Crest B      
 Bob Woodhead        21 Derrek Hall         13 
 Franny Kennedy      15 Louise Howarth      21 
@@ -534,6 +611,28 @@ Gerald Rowley       21 Barry Nellis        19
 Gill Horner         21 Adrian Houlker      20 
 Ray Wolsey          21 Howard Owen         11 
 Ray Cope            11 Richard Wells       21 
+           Points:   7            Points:   1 
+
+    Division 1 & 2          Wed 7th May       
+      Division 2                              
+      Bradshaw A             Halifax B        
+Tony Young          21 Stephen Smith       11 
+Russell Lockley     21 Mick Milnes         15 
+Colin Hall          21 Carol Onions        12 
+Mark Horsfall       21 David Onions        20 
+Keith Noble         21 Pat Grant           13 
+Stuart Barker       14 Peter Grant         21 
+           Points:   7            Points:   1 
+
+    Division 1 & 2          Wed 7th May       
+      Division 2                              
+       Keighley              Sowerby B        
+Kevin Linklater     11 Roger Sargison      21 
+Nigel Hall          21 Peter Brady          6 
+Geoff Perkins       21 Jimmy Bainbridge    17 
+Trevor Hargreaves   21 Harry Charlton       6 
+George Hutson       21 Alan Riddles        14 
+Peter Wormald       21 Don Hayward         14 
            Points:   7            Points:   1 
 
     Division 1 & 2          Wed 7th May       
@@ -643,6 +742,28 @@ Gary Robinson       21 Barry Nellis        12
 
     Division 1 & 2          Wed 14th May      
       Division 2                              
+      Sowerby B              Bradshaw A       
+Don Hayward         16 Tony Young          21 
+Alan Riddles         8 Russell Lockley     21 
+Harry Charlton      21 Colin Hall          20 
+Phillip Eastwood    17 Stuart Barker       21 
+Peter Brady         10 Keith Noble         21 
+Roger Sargison      10 John Fish           21 
+           Points:   1            Points:   7 
+
+    Division 1 & 2          Wed 14th May      
+      Division 2                              
+      Walsden B               Keighley        
+Dave McFarland      16 Brian Jones         21 
+Syd Smith           21 John Toothill       18 
+Susan M Uttley      19 George Hutson       21 
+Darryl Halstead     21 Geoff Perkins       16 
+Ian Tootell         21 Nigel Hall           3 
+Tony Hunking        11 Trevor Hargreaves   21 
+           Points:   5            Points:   3 
+
+    Division 1 & 2          Wed 14th May      
+      Division 2                              
       Allan Park               Savile         
 Maurice Boyd        11 John Hartley        21 
 Maxine Hickey       21 John Darley         12 
@@ -681,6 +802,16 @@ Peter Foster        16 Nigel Fielden       21
 George Habergham    21 Sue Reed             9 
 David McAlpine      16 Glyn Owen           21 
            Points:   5            Points:   3 
+
+      Division 3            Wed 14th May      
+  Mytholmroyd B.C. B       Elland W.M. B      
+John Crowther       19 Pat Hand            21 
+Sheila Crowther     21 Sandra Lowe         10 
+George Whittaker     9 David Priestley     21 
+Ruth Ratcliffe      21 Judith Moroney      15 
+Glenis Kershaw      21 John Jackson        18 
+Clive Barrett       12 B Newham            21 
+           Points:   3            Points:   5 
 
       Division 3            Wed 14th May      
      Greenroyd A             Bradshaw C       
@@ -748,6 +879,17 @@ Geoffrey Jaskolski  20 Nick Oddy           21
 
     Division 1 & 2          Wed 21st May      
       Division 2                              
+      Halifax B               Old Town        
+Mick Milnes         21 John Bewick          9 
+Stephen Smith       21 Alan Martin         14 
+Peter Grant         21 Paul Newman          6 
+Carol Onions        21 John McDermondy      4 
+Pat Grant           21 Vivienne Bewick      6 
+Faye Curran         21 Dave Hudson          5 
+           Points:   8            Points:   0 
+
+    Division 1 & 2          Wed 21st May      
+      Division 2                              
      Ripponden B             Sowerby B        
 Barry Nellis        21 Peter Brady         13 
 Phillip Bradley      5 Phillip Eastwood    21 
@@ -759,6 +901,17 @@ Steven Dunwell      16 Don Hayward         21
 
     Division 1 & 2          Wed 21st May      
       Division 2                              
+      Bradshaw A              Keighley        
+Mark Horsfall       21 Brian Jones          7 
+Tony Young          13 Trevor Hargreaves   21 
+John Fish           21 Michael Sutcliffe    7 
+Russell Lockley     21 George Hutson        5 
+Keith Noble         21 Sarfraz Qureshi     14 
+Colin Hall          21 Nigel Hall          16 
+           Points:   7            Points:   1 
+
+    Division 1 & 2          Wed 21st May      
+      Division 2                              
     Luddendenfoot            Allan Park       
 Ray Wolsey          20 Milly Wheelwright   21 
 John Shann          21 Paul Rimmer          8 
@@ -767,6 +920,17 @@ Gerald Rowley       21 Linda Lees          17
 Ray Cope            21 Maxine Hickey       18 
 J Barry Farrar      21 Gary O'Leary        13 
            Points:   7            Points:   1 
+
+    Division 1 & 2          Wed 21st May      
+      Division 2                              
+        Savile               Walsden B        
+John Hartley        21 Dave McFarland      20 
+Andresa McWhirter   21 Neville East        13 
+*A.N.Other*          7 Susan M Uttley      21 
+Robert Sanderson     6 Syd Smith           21 
+Adrian Baldwin      21 Tony Hunking        18 
+David Nichol        21 Ian Tootell         17 
+           Points:   4            Points:   4 
 
       Division 3            Wed 21st May      
       Bradshaw C             Halifax C        
@@ -822,6 +986,17 @@ Andrea McHenry      13 Geoffrey Jaskolski  21
 
     Division 1 & 2          Wed 28th May      
       Division 1                              
+     Ripponden A         Mytholmroyd B.C. A   
+Keith Hardy         13 Ann Greenwood       21 
+Richard Wells       21 David Greenwood     12 
+Nick Oddy           21 David Warburton     16 
+Brian Winrow        21 David Smith         11 
+Gary Plane          21 Barbara Warburton   18 
+Mick Walker         21 William Ashley       7 
+           Points:   7            Points:   1 
+
+    Division 1 & 2          Wed 28th May      
+      Division 1                              
      Hill Crest B            Walsden A        
 John Jackson         9 Malcolm Dimelow     21 
 Paul Oldfield       15 Keith Rudman        21 
@@ -841,6 +1016,17 @@ Ian Coleman         21 Steven Dunwell       9
 Sue Martin          21 Peter Briggs        12 
 Tim Ham             21 Phillip Bradley     17 
            Points:   6            Points:   2 
+
+    Division 1 & 2          Wed 28th May      
+      Division 2                              
+      Sowerby B              Halifax B        
+Jimmy Bainbridge    14 Faye Curran         21 
+Peter Brady          9 Carol Onions        21 
+Alan Riddles         7 Peter Grant         21 
+Phillip Eastwood    16 Stephen Smith       21 
+Roger Sargison      14 Pat Grant           21 
+Harry Charlton      16 Mick Milnes         21 
+           Points:   0            Points:   8 
 
     Division 1 & 2          Wed 28th May      
       Division 2                              
@@ -954,7 +1140,7 @@ Peter Whitaker      21 Sandra Cooper        6
 Keith Rudman        21 David Onions         8 
 Michael Butcher     21 Michael Hutchinson   1 
 Steven Bailey       21 Steve Wandiak        5 
-Geoff Crabtree      21 Glyn Owen            7 
+Geoff Crabtree      21 Carol Onions         7 
 Andrew Foster       21 Pauline Ward         7 
            Points:   8            Points:   0 
 
@@ -968,6 +1154,17 @@ Louise Howarth      17 Brian Winrow        21
 John Jackson        10 Nick Oddy           21 
 Maria Lodge         21 Graham Smith        18 
            Points:   1            Points:   7 
+
+    Division 1 & 2          Wed 11th Jun      
+      Division 1                              
+  Mytholmroyd B.C. A       Elland W.M. A      
+Lorraine Boulton    21 Geoff Boothroyd     19 
+David Warburton     21 John Sharpe         12 
+William Ashley      19 Nick Lowe           21 
+Jean Gornall        21 Frank Turner         4 
+David Smith         15 Philip Bins         21 
+Ann Greenwood       21 John Armitage        8 
+           Points:   6            Points:   2 
 
     Division 1 & 2          Wed 11th Jun      
       Division 2                              
@@ -993,6 +1190,17 @@ Andy Freer          21 Peter Wormald       20
 
     Division 1 & 2          Wed 11th Jun      
       Division 2                              
+      Halifax B              Allan Park       
+Peter Grant         21 Maurice Boyd        10 
+Peter Krenc         21 Frank Lowney        17 
+Ian Tweedale        21 Milly Wheelwright    6 
+Pat Grant           21 Linda Lees          19 
+Gary Burke          21 Maxine Hickey        7 
+Stephen Smith       21 Gary O'Leary         5 
+           Points:   8            Points:   0 
+
+    Division 1 & 2          Wed 11th Jun      
+      Division 2                              
     Luddendenfoot            Sowerby B        
 Ray Wolsey          16 Phillip Eastwood    21 
 Gerald Rowley       21 Peter Brady          6 
@@ -1000,6 +1208,17 @@ Paul Wildsmith      21 Don Hayward         13
 Dave Stafford       21 Harry Charlton      11 
 Ray Cope             3 Roger Sargison      21 
 John Shann          21 Jimmy Bainbridge    18 
+           Points:   6            Points:   2 
+
+    Division 1 & 2          Wed 11th Jun      
+      Division 2                              
+      Bradshaw A               Savile         
+Colin Hall          21 John Hartley        15 
+John Nicholson      21 Andresa McWhirter   17 
+Mark Horsfall       21 John Darley          9 
+Tony Young          18 Adrian Baldwin      21 
+Keith Noble         20 Robert Sanderson    21 
+Russell Lockley     21 David Nichol        12 
            Points:   6            Points:   2 
 
       Division 3            Wed 11th Jun      
@@ -1011,6 +1230,16 @@ Mary Rowell         21 Barbara Dixon       17
 Fred Greenwood      21 R Milner             9 
 Sue Jobson          21 Wendy Cotterill      6 
            Points:   7            Points:   1 
+
+      Division 3            Wed 11th Jun      
+    Elland W.M. B            Halifax D        
+B Newham            21 Chris Henry          6 
+Judith Moroney      18 Liz Elford          21 
+Pat Hand            21 *A.N.Other*          2 
+Sandra Lowe         11 Sue Pover           21 
+Margaret Harte      21 Nigel Fielden       15 
+David Priestley     21 Sue Reed            11 
+           Points:   6            Points:   2 
 
       Division 3            Wed 11th Jun      
      Cross Roads             Crow Wood        

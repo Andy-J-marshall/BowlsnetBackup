@@ -1,4 +1,4 @@
-=== Halifax (Thurs. Afternoon) 2025 (as of Wed 11th Jun)
+=== Halifax (Thurs. Afternoon) 2025 (as of Thu 12th Jun)
 === Comp. Match Cards
 
    Marsden Trophy Division 1          Thu 10th Apr        
@@ -298,6 +298,28 @@ Stephen Hardy                20 Lynda Canning          21
                     Points:   6               Points:   2 
                  Aggregate: 121            Aggregate:  76 
 
+Pearson Bros Trophy Division 5        Thu 10th Apr        
+         Wibsey Park A                Hill Crest B        
+Steve Thornton               16 Tim Brumby             21 
+Paul Broome                   7 Dereck Hall            21 
+John Walsh                    7 Paul Oldfield          21 
+John Whelan                  12 Richard Pilling        21 
+Barry Turner                 21 Maria Lodge            18 
+John Simpson                 21 Pamela Woodhead         9 
+                    Points:   2               Points:   6 
+                 Aggregate:  84            Aggregate: 111 
+
+    Dyson Trophy Division 6           Thu 10th Apr        
+           Old Town                  Elland C & BC B      
+Alan Martin                  21 Peter Morgan            8 
+Sue Martin                   21 Anita Naylor            5 
+Paul Newman                   3 Mel Temple             21 
+John Bewick                  21 John Broadbent         15 
+John McDermondy              21 Alf Praulins           10 
+Ian Coleman                  21 Steve Emery            19 
+                    Points:   7               Points:   1 
+                 Aggregate: 108            Aggregate:  78 
+
     Dyson Trophy Division 6           Thu 10th Apr        
       Akroydon Victoria C            Bailiff Bridge       
 Duggie Hather                13 Ed Davison             21 
@@ -552,6 +574,17 @@ Andy Eccles                  15 Keith Hardy            21
                  Aggregate:  74            Aggregate: 111 
 
  Harry Brook Trophy Division 4        Thu 17th Apr        
+         Allan Park A                  King Cross         
+Maurice Boyd                 12 S Clifford             21 
+Martin Grace                 21 G Dewhurst              2 
+Gary O Leary                 21 B Coates               13 
+Paul Rimmer                  21 Andrew Hurcombe        14 
+June Gaukroger               21 Paul Gray              17 
+Linda Lees                   10 G Briggs               21 
+                    Points:   6               Points:   2 
+                 Aggregate: 106            Aggregate:  88 
+
+ Harry Brook Trophy Division 4        Thu 17th Apr        
         Crow Wood Park               Brighouse BC B       
 Steve Laycock                21 David Marsh            14 
 Ian Mellor                   21 Jeff Greenwood         12 
@@ -605,6 +638,17 @@ Gary Burke                   19 Peter Richardson       21
 Alan Jeffs                    9 David McMahon          21 
                     Points:   2               Points:   6 
                  Aggregate:  95            Aggregate: 107 
+
+Pearson Bros Trophy Division 5        Thu 17th Apr        
+         Hill Crest B                 Allan Park B        
+Tim Brumby                    7 Chris Johnstone        21 
+Pamela Woodhead              12 Gregg Reinsch          21 
+Richard Pilling              21 Peter Mc Owen          17 
+Maria Lodge                  21 Bob Solomons            3 
+Dereck Hall                  21 Matt Wilkins            6 
+Paul Oldfield                21 Frank Lowney           17 
+                    Points:   6               Points:   2 
+                 Aggregate: 103            Aggregate:  85 
 
 Pearson Bros Trophy Division 5        Thu 17th Apr        
           Hove Edge D               Holmfield Park A      
@@ -948,6 +992,17 @@ Alan Riddles                 21 Derek Smith            14
                  Aggregate: 109            Aggregate:  93 
 
     Dyson Trophy Division 6           Thu 24th Apr        
+         Halifax BC E                   Old Town          
+Ann Booth                    21 Ian Coleman            18 
+John Crowson                 21 *No Player*             0 
+Steven Webster               21 Paul Newman             8 
+John West                    21 John McDermondy        17 
+Christopher Lindsey          21 Alan Martin            12 
+Alan Jeffs                   21 John Bewick            13 
+                    Points:   8               Points:   0 
+                 Aggregate: 126            Aggregate:  68 
+
+    Dyson Trophy Division 6           Thu 24th Apr        
       Akroydon Victoria C            Elland C & BC B      
 Melvin Russell               21 Alf Praulins           15 
 John Lawless                 15 Denise Crossley        21 
@@ -1287,6 +1342,28 @@ John Broadbent               21 David Rudd             12
 Mel Temple                   16 John Pix               21 
                     Points:   6               Points:   2 
                  Aggregate: 106            Aggregate:  78 
+
+    Dyson Trophy Division 6            Thu 1st May        
+           Old Town                Akroydon Victoria C    
+Neil Thwaites                18 David Hardy            21 
+Paul Newman                  11 Robert Harrison        21 
+Alan Martin                  21 Sean Cumiskey           8 
+Philip Southwell             21 Melvin Russell          7 
+John McDermondy              21 John Lawless           10 
+John Bewick                  20 Stuart Alderson        21 
+                    Points:   5               Points:   3 
+                 Aggregate: 112            Aggregate:  88 
+
+    Dyson Trophy Division 6            Thu 1st May        
+         Halifax BC E                Greenroyd BC C       
+Alan Jeffs                   21 Peter Hill             14 
+Ann Booth                    21 Vicky Hoyle             6 
+John Crowson                 21 Gerald Smith           15 
+Steven Webster               20 David Morris           21 
+Christopher Lindsey          21 Richard Gatecliff      18 
+John West                    21 Phil Shire              6 
+                    Points:   7               Points:   1 
+                 Aggregate: 125            Aggregate:  80 
 
     Dyson Trophy Division 6            Thu 1st May        
        Laurel Crescent B             Bailiff Bridge       
@@ -2246,6 +2323,17 @@ Terry Allington              16 George Rowland         21
                  Aggregate:  91            Aggregate: 110 
 
 Pearson Bros Trophy Division 5        Thu 22nd May        
+         Outlane BC B                 Hill Crest B        
+Janet Campbell               14 Paul Oldfield          21 
+David McLean                 21 Stephen Balmforth      13 
+Peter Kershaw                 5 Ernie Rickman          21 
+Malcolm Wragg                21 Pamela Woodhead        19 
+Mark Polzin                  15 Tim Brumby             21 
+Bob Stead                    21 Colin Wright            6 
+                    Points:   3               Points:   5 
+                 Aggregate:  97            Aggregate: 101 
+
+Pearson Bros Trophy Division 5        Thu 22nd May        
         Elland WMC 'B'               Brighouse BC C       
 John Jackson                 21 Peter Kirwan            4 
 Peter Wright                 21 Les Sampson            12 
@@ -3047,5 +3135,27 @@ Katherine Bartle              2 Steve Emery            21
 Ray Leadbetter                5 Mel Temple             21 
                     Points:   3               Points:   5 
                  Aggregate:  70            Aggregate:  97 
+
+Pearson Bros Trophy Division 5        Thu 12th Jun        
+        Bradshaw Park C              Elland WMC 'B'       
+Trevor Mosey                  8 John Jackson           21 
+Barry Walker                 12 Nick Lowe              21 
+Newman Fawley                21 Malcolm Murray         20 
+Derek Ashington              21 Peter Clement          15 
+Max Robinson                 21 Geoffrey Boothroyd     10 
+Derek Wilson                 21 Kath Fletcher          14 
+                    Points:   6               Points:   2 
+                 Aggregate: 104            Aggregate: 101 
+
+    Dyson Trophy Division 6           Thu 12th Jun        
+        Greenroyd BC C              Sowerby T & BC B      
+Peter Hill                   21 Roger Sarginson        12 
+Gerald Smith                  9 Jim Bainbridge         21 
+David Morris                 21 Martyn Summerscales    19 
+Richard Gatecliff            21 Geoffrey Briggs        13 
+Chris Giddings                9 Peter Brady            21 
+Phil Shire                   21 Harold Charlton        10 
+                    Points:   6               Points:   2 
+                 Aggregate: 102            Aggregate:  96 
 
 

@@ -1,4 +1,4 @@
-=== Harrogate 2025 (as of Wed 11th Jun)
+=== Harrogate 2025 (as of Thu 12th Jun)
 === League Match Cards
 
        Division 3               Tue 1st Apr        
@@ -2004,6 +2004,11 @@ Adam Walker            21 Alan Scorfield         3
 Stephen Walker         21 Nick Danby             6 
            Aggregate: 165           Aggregate:  84 
 
+       Herald Cup               Wed 28th May       
+       Black Swan               Dacre Eagles       
+           Aggregate:   0           Aggregate:   0 
+      Manual Result                                
+
         Shutt Cup               Wed 28th May       
                                On Bilton WMC       
      Bilton Trojans            Dacre Falcons       
@@ -2276,6 +2281,19 @@ Jake Coker             21 Rebecca Chandler      13
 Craig Umpleby          21 George Collinson      14 
            Aggregate: 168           Aggregate:  92 
               Points:  10              Points:   0 
+
+       Herald Cup               Wed 4th Jun        
+                              On Knaresborough     
+   Wayside Travellers            Black Swan        
+Mark Reynolds          21 Tom Beecroft          16 
+Adam Walker            18 Dave Hodgson          21 
+Jason Worsnop          21 Dave Rowson           15 
+Vic Scaife-Clarke      12 Chaz Charleton        21 
+Stephen Walker         21 Tony Derrick          15 
+Chris Rigby            21 Alan Whittaker         4 
+Lee Singleton          18 Martin Hemingway      21 
+Brian Walker           21 Roy Flynn             15 
+           Aggregate: 153           Aggregate: 128 
 
        Division 1               Mon 9th Jun        
     Bilton Centurions        Wayside Travellers    

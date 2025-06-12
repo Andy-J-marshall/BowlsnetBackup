@@ -1,4 +1,4 @@
-=== Bradford (Wed. Pairs) 2025 (as of Wed 11th Jun)
+=== Bradford (Wed. Pairs) 2025 (as of Thu 12th Jun)
 === Comp. Match Cards
 
                             Wed 9th Apr       
@@ -168,6 +168,20 @@ James Wood             Garry Woodhead
         Aggregate:  59         Aggregate:  73 
             Games:   1             Games:   3 
            Points:   9            Points:  15 
+
+                            Wed 30th Apr      
+    West Bradford             Clayton         
+Kevin Buckley       21 Steve Edgley        10 
+Mark Woolner           Simon Russell          
+Paul Wood           21 Bob Armitage        18 
+Colin Isles            Kevin Flanagan         
+John Shoesmith      21 Gaynor Shutt        10 
+Gerry Peel             Pauline McGregor       
+Lesley Lalor        21 Ray Atkinson        19 
+Jason Greenwood        *A.N.Other*            
+        Aggregate:  84         Aggregate:  57 
+            Games:   4             Games:   0 
+           Points:  18            Points:   6 
 
                             Wed 30th Apr      
     Bradford Moor         Brighouse Sports    
@@ -434,5 +448,61 @@ Jim Welsh              Sheila Nurse
         Aggregate:  69         Aggregate:  47 
             Games:   3             Games:   1 
            Points:  17            Points:   7 
+
+                            Wed 11th Jun      
+     Cullingworth           Burley Park       
+Geoff Battye         0 Jordan Edmondson    21 
+Ian Whitaker           Harry Smith            
+John Pullen         21 Barry Palmer         9 
+John Philipson         Tommy Parr             
+John Summerfield    14 Pauline Stockdale   21 
+Rosemary Spencer       John Gilroy            
+Ron Thompson        13 James Miller        21 
+Robin Jackson          Cheryl Smith           
+        Aggregate:  48         Aggregate:  72 
+            Games:   1             Games:   3 
+           Points:   7            Points:  17 
+
+                            Wed 11th Jun      
+    New Greengates         West Bradford      
+Alan Broscombe      21 Kevin Buckley       19 
+Robert Denby           Mark Woolner           
+Chris J Burnett     21 John Shoesmith      12 
+James Burnett          Gerry Peel             
+James Dennison      21 Colin Isles         16 
+Keith Goodall          Paul Wood              
+Chris Burnett       21 Lesley Lalor        16 
+Allan Smith            Gregg Fairhead         
+        Aggregate:  84         Aggregate:  63 
+            Games:   4             Games:   0 
+           Points:  17            Points:   7 
+
+                            Wed 11th Jun      
+   Brighouse Sports        Bailiff Bridge     
+David Marsh         21 John Woodruff       19 
+Terry Marsh            Ian Addy               
+Derek Hepworth      11 Martin Broadbent    21 
+Terry Ricketts         Alison Singleton       
+David Wood          21 Andrew Beetham      12 
+James Wood             Christine Stout        
+Les Sampson         21 Andrea Beetham      18 
+Steven Bedford         Daren Munt             
+        Aggregate:  74         Aggregate:  70 
+            Games:   3             Games:   1 
+           Points:  14            Points:  10 
+
+                            Wed 11th Jun      
+       Clayton             Crowghyll Park     
+Simon Russell       13 Rae Heddle          21 
+Steve Edgley           Derek Simpson          
+Pauline McGregor    21 Janet Welsh          9 
+Sue Findlay            Jim Welsh              
+Bob Armitage        21 Flo Johnston         6 
+Malcolm Riggs          Pam Robinson           
+Sean Toehill        21 Phil Robinson        6 
+Ray Atkinson           Audrey Healy           
+        Aggregate:  76         Aggregate:  42 
+            Games:   3             Games:   1 
+           Points:  18            Points:   6 
 
 

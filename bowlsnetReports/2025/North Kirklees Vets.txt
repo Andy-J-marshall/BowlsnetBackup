@@ -1,4 +1,4 @@
-=== North Kirklees (Vets) 2025 (as of Wed 11th Jun)
+=== North Kirklees (Vets) 2025 (as of Thu 12th Jun)
 === League Match Cards
 
        Division 1                 Tue 15th Apr           
@@ -193,6 +193,18 @@ David Mcleish Letham  18 Patrick Carey                21
 Rusty Hatherley        9 Fred Holderness              21 
           Aggregate: 119                  Aggregate: 154 
 
+       Division 4                 Tue 15th Apr           
+     Firth Park - B                Overthorpe            
+Graham Pearce         19 Heather Jewitt               21 
+Kath Pollard           4 Paul Nutting                 21 
+Jeffrey Hardcastle     6 Geraldine Dickinson          21 
+Janet Spencer          7 Alan Bell                    21 
+Kevin Brook            5 Tony Greenlees               21 
+Steven Newton         11 Rod Clifford                 21 
+Chris Scott            4 Tony Dickinson               21 
+Peter Tams            14 Leslie Bell                  21 
+          Aggregate:  70                  Aggregate: 168 
+
        Division 1                 Tue 22nd Apr           
     Mirfield Parish             Mirfield Old Bank        
 Stephen Sugden        21 Bryan Ibbetson               18 
@@ -336,6 +348,18 @@ Anne Mitchell          3 Michael Gomersall            21
 John Haikings         13 Ron Walker                   21 
 Davld Robinson        21 David Gill                    6 
           Aggregate: 126                  Aggregate: 128 
+
+       Division 4                 Tue 22nd Apr           
+       Overthorpe              Birkenshaw Park - B       
+Heather Jewitt        20 Colin Dyson                  21 
+Paul Nutting          21 Rusty Hatherley               8 
+Tony Greenlees         9 Audrey Firth                 21 
+Alan Bell             21 Sharon Clayton                6 
+Geraldine Dickinson   21 Gary Newsome                 10 
+Rod Clifford          21 Norma Letham                  2 
+Tony Dickinson        21 Adrian Clayton               10 
+Leslie Bell           21 David Mcleish Letham         11 
+          Aggregate: 155                  Aggregate:  89 
 
        Division 4                 Tue 22nd Apr           
    Scatcherd Park - B              Slazengers            
@@ -758,6 +782,18 @@ Sonia Proctor         21 John Shaw                    14
           Aggregate: 130                  Aggregate: 132 
 
        Division 4                 Tue 13th May           
+       Overthorpe                  Slazengers            
+Tony Dickinson        21 Peter Brown                  10 
+Patrick Longstaff     21 Julie Dexter                 11 
+Heather Jewitt        15 Angela Pursglove             21 
+Geraldine Dickinson   21 Janet Jackson                19 
+Paul Nutting          21 John Jackson                  8 
+Alan Bell             21 Russell Studd                 7 
+Leslie Bell           21 Irene Brown                   2 
+Rod Clifford          16 Terry Walker                 21 
+          Aggregate: 157                  Aggregate:  99 
+
+       Division 4                 Tue 13th May           
    Scatcherd Park - B          Birkenshaw Park - B       
 John Rowberry         13 Colin Dyson                  21 
 Peter Oldfield        21 Rusty Hatherley               8 
@@ -1128,6 +1164,18 @@ Peter Naylor          21 Chris Smith                  19
 Marjorie Artley       21 David Whitehead              13 
 Steve Dufton          21 Anne Mitchell                18 
           Aggregate: 150                  Aggregate: 129 
+
+       Division 4                  Tue 3rd Jun           
+    Grange Park - B                Overthorpe            
+Wendy Stansfield      14 Heather Jewitt               21 
+David Crest           21 Tony Greenlees                3 
+Diane Gomersall        9 Geraldine Dickinson          21 
+David Gill            12 Paul Nutting                 21 
+Doug Wilson           20 Alan Bell                    21 
+Norman Stansfield      7 Rod Clifford                 21 
+Michael Gomersall     21 Tony Dickinson               18 
+Ron Walker             5 Leslie Bell                  21 
+          Aggregate: 109                  Aggregate: 147 
 
        Division 4                  Tue 3rd Jun           
   Birkenshaw Park - B            Firth Park - B          

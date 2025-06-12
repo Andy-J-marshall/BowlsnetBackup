@@ -1,4 +1,4 @@
-=== Bradford (Mon. Evening) 2025 (as of Wed 11th Jun)
+=== Bradford (Mon. Evening) 2025 (as of Thu 12th Jun)
 === Comp. Match Cards
 
   Division 1 - Thurston           Mon 7th Apr         
@@ -960,6 +960,18 @@ Mason Lindley           21 Trevor Hodgson          14
             Aggregate: 124             Aggregate:  75 
                 Games:   5                 Games:   1 
                Points:  22                Points:   4 
+
+Division 2 - Robert Bland         Mon 9th Jun         
+        Clayton A                    Idle B           
+June Wilson             21 Jane Paxton              9 
+Pauline Macgregor       21 Jackie Spencer          11 
+Ray Atkinson            21 Roger Morgan-Williams    4 
+Steve Edgley            19 John Mellan             21 
+Malcolm Riggs           21 Mark Paxton             11 
+Chris Wilson            21 David Priestley          9 
+            Aggregate: 124             Aggregate:  65 
+                Games:   5                 Games:   1 
+               Points:  24                Points:   2 
 
 Division 2 - Robert Bland         Mon 9th Jun         
       Heckmondwike B             New Greengates       

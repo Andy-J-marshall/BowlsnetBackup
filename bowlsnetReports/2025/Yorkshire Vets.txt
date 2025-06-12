@@ -1,4 +1,4 @@
-=== Yorkshire County Vets Inter-District League 2025 (as of Wed 11th Jun)
+=== Yorkshire County Vets Inter-District League 2025 (as of Thu 12th Jun)
 === Comp. Match Cards
 
                           Fri 2nd May      
@@ -26,6 +26,19 @@ David Billington  21 Gary Haley          2
 Michael Rhodes    12 Stephen Portman    21 
       Aggregate: 140        Aggregate: 106 
          Points:  20           Points:   8 
+
+                          Fri 2nd May      
+  Castleford Home      West Riding Away    
+Alan Box          21 Tony Green         18 
+Tony Chambers     20 Graham Hirst       21 
+Ian Lewis          9 Clive Hirst        21 
+Neil Johnson      16 John Wilson        21 
+Michael Firth     18 Graham Blenkinsop  21 
+Glyn Hanson       13 Les Mitchell       21 
+Alwyn Beedle      21 Peter Ellis        15 
+Stuart Thompson   15 Phillip Smith      21 
+      Aggregate: 133        Aggregate: 159 
+         Points:   8           Points:  20 
 
                           Fri 2nd May      
     Halifax Home         Skipton Away      
@@ -143,6 +156,19 @@ Andrew Durkin     14 Fred Rothwell      21
 Steve Calvert     21 Peter Hepworth      9 
       Aggregate: 152        Aggregate: 127 
          Points:  19           Points:   9 
+
+                         Fri 16th May      
+  Castleford Home         Leeds Away       
+Alan Braithwaite   7 Roger Birdsall     21 
+Ken Griffiths     10 Steve Longly       21 
+*A.N.Other*       21 David Alan Kaye    17 
+Glyn Hanson       21 Steven Hartley     18 
+Tony Chambers     21 Paul Hatch         18 
+Michael Firth      2 Ian Howard         21 
+Alwyn Beedle       9 Nigel Cranston     21 
+Stuart Thompson   21 John Armitage      16 
+      Aggregate: 112        Aggregate: 153 
+         Points:   8           Points:  20 
 
                          Fri 16th May      
      Leeds Home         Castleford Away    
