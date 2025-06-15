@@ -1,4 +1,4 @@
-=== Leeds & District Ladies Bowling League 2025 (as of Thu 12th Jun)
+=== Leeds & District Ladies Bowling League 2025 (as of Sun 15th Jun)
 === League Match Cards
 
         League               Thu 17th Apr       
@@ -771,7 +771,7 @@ Anne Mackman         21 Dorcas Kirk           5
         League                Thu 5th Jun       
       Division 2                                
       Stanningley              West Royd        
-Louise Roberts        8 *A.N.Other*          21 
+Louise Roberts        8 Caroline Coop        21 
 Karen Uttley         16 Hazel Stancliffe     21 
 Kate Hall            18 Joan Coop            21 
 Nicola Bona          11 Pam Wilson           21 
@@ -806,5 +806,96 @@ Linda Utley          21 Michelle Norcliffe    8
 Pam Ratcliffe        14 Sylvia Petty         21 
 Catherine Marshall    9 Julie Keightley      21 
          Aggregate: 123          Aggregate: 141 
+
+        League               Thu 12th Jun       
+      Division 1                                
+      Greenbottom          Rufford Park 'A'     
+Gwen Smith           21 Janice Waite         11 
+Fiona Haxby          21 Catherine New        17 
+Barbara Harrison     21 Sophie Bennett        5 
+Karen Whitelaw       21 Angela Burnham       18 
+Jean Lees            13 Angela Carter        21 
+Sandy Watson          8 Angela Bennett       21 
+Kate Jukes            4 Val Grace            21 
+Margaret Adamson     14 Pauline Ingleson     21 
+         Aggregate: 123          Aggregate: 135 
+
+        League               Thu 12th Jun       
+      Division 1                                
+    Western Flatts           Shipley Club       
+Dot Taylor           21 Vanessa Telford       7 
+Margaret McPhail     21 Dianne Halliday      18 
+Barbara Nellis       16 Rachael Slater       21 
+Ann Lucas            21 Pam Nellist           6 
+Mary Horrocks        18 Sylvia Halliday      21 
+Maveen Tomlinson     21 Wendy Spivey         11 
+Glennys Ash          15 Ioana Nistor         21 
+Angela Morley        19 Rachel Telford       21 
+         Aggregate: 152          Aggregate: 126 
+
+        League               Thu 12th Jun       
+      Division 1                                
+      Gildersome              Grove Hill        
+Beverley Farrar      21 Belinda Mitchell     13 
+Helen Thomas         21 Brenda Appleyard     18 
+Rachel Barnard       13 Diane Farrar         21 
+Margaret Johnstone   16 Jane Bowden          21 
+Diane Hales          21 Linda Smith          11 
+Tracey Norton        17 Judith Collins       21 
+Alison Lockwood      21 Gill Godden          16 
+Bev Hampshaw         16 Kay Lodge            21 
+         Aggregate: 146          Aggregate: 142 
+
+        League               Thu 12th Jun       
+      Division 1                                
+      Eccleshill               Calverley        
+Shirley Rooks         8 Brenda Chaffer       21 
+Mary Nellist          1 Mandy Wilson         21 
+Paula Graham         21 Anne Newlove          3 
+Melissa Gilroy       21 Lynne Porter          8 
+Diane Emery           6 Margaret Wood        21 
+Sarah Harrison        7 Tina Howard          21 
+Pauline Gilroy       18 Carol Matthews       21 
+Sue Butler           17 Lindsey Rosendale    21 
+         Aggregate:  99          Aggregate: 137 
+
+        League               Thu 12th Jun       
+      Division 2                                
+       Tarnfield              Stanningley       
+Linda Utley          20 Alison Woodfine      21 
+Susan Whelan         21 Linda Barrand        19 
+Dorcas Kirk          21 Eleanor Graves       10 
+Nikki Swithenbabank  21 Louise Roberts       14 
+Anita Howard         21 Kate Hall             5 
+Pam Ratcliffe        21 Tracey Marshall       8 
+Dorcas Kirk          21 Sarah Connolly        9 
+Catherine Marshall   20 Nicola Bona          21 
+         Aggregate: 166          Aggregate: 107 
+
+        League               Thu 12th Jun       
+      Division 2                                
+       West Royd               Holt Park        
+Joan Coop            16 Maureen Sheriden     21 
+Jan Mguiness         20 Janet Sykes          21 
+Anne Gothard         15 Kathleen Haley       21 
+Sandra Knell         15 Michelle Norcliffe   21 
+Caroline Coop        21 Rita Bennett         12 
+Hazel Stancliffe     17 Betty Sparkes        21 
+Elizabeth Farrar     21 Sylvia Petty         15 
+Pam Wilson           10 Julie Keightley      21 
+         Aggregate: 135          Aggregate: 153 
+
+        League               Thu 12th Jun       
+      Division 2                                
+      New Farnley              Hall Park        
+Jean Milner          21 Helen Mylan          20 
+Cath Maury           13 Marion Rider         21 
+Emma Dixon           20 Ruth Owen            21 
+Barbara Taylor       21 Suzanne Henshall     19 
+Susan Jones          11 Anne Mackman         21 
+Jan Ingham           14 Ruth Sutcliffe       21 
+Linda Taylor         13 Sabrina Piggot       21 
+Sophie Worrall       14 Kath Crompton        21 
+         Aggregate: 127          Aggregate: 165 
 
 

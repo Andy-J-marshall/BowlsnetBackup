@@ -1,4 +1,4 @@
-=== Leeds & District (Half Holiday) 2025 (as of Thu 12th Jun)
+=== Leeds & District (Half Holiday) 2025 (as of Sun 15th Jun)
 === League Match Cards
 
         Div 1              Wed 2nd Apr       
@@ -80,7 +80,7 @@ Ian Macfarlaine    14 Ian McMillin        21
 
         Div 3              Wed 2nd Apr       
   Middleton Comm A           Methley         
-Gordon Monk        21 Pam Jukes            9 
+Gordon Monk        21 David Taylor         9 
 Brian Ragan        21 Maggie Boyes         6 
 Neil Hudson         7 Amanda Roberts      21 
 Malcolm Hallas     21 Jeff Baggaley       15 
@@ -1559,6 +1559,17 @@ Ralph Thompson     21 Richard Howlett     18
 John Carr          21 Helen Simms         12 
        Aggregate: 119         Aggregate:  90 
           Points:  27            Points:  19 
+
+        Div 4              Wed 11th Jun      
+      Cranmore              New Armley       
+Ray Watson         11 Fred Hargreaves     21 
+Peter Nicholson    21 Carol Butters       15 
+Harry Gillett      21 Richard Stephen     15 
+Robert Pearson      6 Ken Stockhill       21 
+John Harvey        21 Dave Hurd           10 
+Paul Griffiths     17 Glynn Barrett       21 
+       Aggregate:  97         Aggregate: 103 
+          Points:  21            Points:  23 
 
         Div 4              Wed 11th Jun      
   Scatcherd Park B         Bramley Park      

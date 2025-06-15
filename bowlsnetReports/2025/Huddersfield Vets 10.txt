@@ -1,4 +1,4 @@
-=== Huddersfield Vets (10-Man) 2025 (as of Thu 12th Jun)
+=== Huddersfield Vets (10-Man) 2025 (as of Sun 15th Jun)
 === League Match Cards
 
        Division 1                Tue 8th Apr        
@@ -165,6 +165,21 @@ Nick Johnston          21 John Schofield          5
 John Pearman              Ken Wilson                
               Points:   7               Points:   2 
            Aggregate: 125            Aggregate:  92 
+
+       Division 2                Tue 8th Apr        
+     Thongsbridge A              Elland WMC         
+John Gant              14 Clive Harte            21 
+Brian Moroney          21 Mark Simpson           15 
+Malcolm Mitchell       11 Ray Gledhill           21 
+Peter Jackson          19 Mick Hiscock           21 
+Geoff France            7 Ian Archibald          21 
+Richard Armitage          Melvyn Dunne              
+Robert Schofield       21 Philip Binns           18 
+Tony Swift                John Armitage             
+Geoff Alsop            21 Alan Broad             14 
+Adrian Fish               Nick Lowe                 
+              Points:   3               Points:   6 
+           Aggregate: 114            Aggregate: 131 
 
        Division 3                Tue 8th Apr        
       Brockholes A             Almondbury Lib.      
@@ -601,6 +616,21 @@ Duncan Haigh              Derek Sykes
               Points:   8               Points:   1 
            Aggregate: 145            Aggregate: 101 
 
+       Division 2               Tue 15th Apr        
+    Netherton Con. A           Thongsbridge A       
+D Garner               21 Malcolm Mitchell       15 
+Paul Rangeley          20 Peter Jackson          21 
+G Brook                10 John Gant              21 
+J Q Saxton             21 David Cooper           14 
+J Pickard              10 Robert Schofield       21 
+L Hayden                  Tony Swift                
+James Nolan            21 Geoff Alsop             8 
+Tommy Whitaker            Adrian Fish               
+R Clayton              21 Richard Armitage        7 
+P Winterburn              Geoff France              
+              Points:   6               Points:   3 
+           Aggregate: 124            Aggregate: 107 
+
        Division 3               Tue 15th Apr        
      Almondbury Lib.           Linthwaite Hall      
 Graham Shaw             9 R Spencer              21 
@@ -716,7 +746,7 @@ Michael Smyth          20 David Batley           21
 Gareth Morris             John Pickering            
 Ken Boyles             21 Michael Scholes         3 
 Martin Eastwood           David Owen                
-*A.N.Other*            21 Nick Boothroyd         10 
+Tom Flaherty           21 Nick Boothroyd         10 
 Colin Sykes               Ian Hunter                
               Points:   6               Points:   3 
            Aggregate: 141            Aggregate: 110 
@@ -870,6 +900,213 @@ Michael Connor         21 Mike Garforth          14
 Ian Wright                Brian Parker              
               Points:   3               Points:   6 
            Aggregate: 126            Aggregate: 127 
+
+       Round of 32              Tue 22nd Apr        
+     Lindley Lib. B            Thongsbridge A       
+Steve Mosley            5 John Gant              21 
+Steve Sykes            18 Brian Moroney          21 
+Bob Booth              21 Malcolm Mitchell       14 
+Adrian Baldwin         21 Peter Jackson          19 
+Chris Doran            16 Robert Schofield       21 
+Paul Wright               Tony Swift                
+Richard Long            0 Geoff Alsop            21 
+Michael Ward              Adrian Fish               
+Gary Moorhouse         21 Richard Armitage       13 
+Alan Suddick              Geoff France              
+            Handicap: +32             Handicap: +18 
+           Aggregate: 134            Aggregate: 148 
+               Games:   3                Games:   4 
+
+       Round of 32              Tue 22nd Apr        
+       Denby Dale              Lindley Lib. A       
+Stuart England         12 Martin Skuse           21 
+Michael Jennings       20 John Beverley          21 
+Peter Taylor           14 Geoff Jaskolski        21 
+Neale Wallace           8 Peter Fuller           21 
+Paul Hutchinson        21 Richard Saunders       11 
+Michael Goodwin           Alan Wortley              
+Selwyn Dyson           21 Rob Taylor              6 
+Rob Millington            Peter Thornton            
+David Barraclough       5 Richard Kaye           21 
+Andy Wilson               Michael Thornton          
+            Handicap: +23             Handicap:  +9 
+           Aggregate: 124            Aggregate: 131 
+               Games:   2                Games:   5 
+
+       Round of 32              Tue 22nd Apr        
+    Almondbury B.C. A           Milnsbridge A       
+David Kaye             21 Ian Parr                7 
+John Madden            21 Shaun Irving            6 
+Robert Tracey           9 Jim Baxter             21 
+Richard Brook          14 Kevin Brown            21 
+Dennis Machen          21 John Brook              0 
+Terry Machen              David Deighton            
+Geoff E Brant          20 Roger Hallas           21 
+Simon Neve                Duncan Haigh              
+Harold Hick            13 Dennis Hirst           21 
+Andy Johnson              George Henry              
+            Handicap: +18             Handicap: +18 
+           Aggregate: 137            Aggregate: 115 
+               Games:   3                Games:   4 
+
+       Round of 32              Tue 22nd Apr        
+        Hemplow A                 Cowcliffe         
+Noel Guinan             9 John Burnett           21 
+Steve Pollard           2 Derrick Hewitt         21 
+G Scarcliff             4 David Pollard          21 
+Andrew Beardsall       11 Graham Sigsworth       21 
+Michael Sykes          19 Alan Brown             21 
+Ray Howard                Graham V Dyson            
+K Hopper               21 Richard Crossland      17 
+Graham Kewley             Michael Utting            
+John Lunn              14 Malcolm Stead          21 
+David Armitage            Patrick Conneely          
+            Handicap: +32             Handicap: Scr 
+           Aggregate: 112            Aggregate: 143 
+               Games:   1                Games:   6 
+
+       Round of 32              Tue 22nd Apr        
+     Linthwaite Hall           Lockwood Con. A      
+R Spencer              13 Mick Cox               21 
+A Cross                21 Mark Richardson         8 
+A Singleton             5 Peter Kain             21 
+Alan Bamforth          21 Rob Cox                 0 
+P Haigh                21 Mick Fisher             0 
+C Dack                    Derek Gibson              
+Baldwin Walsh          18 Joe Conneely           21 
+William Higgins           Ray Harper                
+M Eccles               11 Richard Walsh          21 
+D Bradbury                Mick Shore                
+            Handicap: +27             Handicap:  +5 
+           Aggregate: 137            Aggregate:  97 
+               Games:   3                Games:   4 
+
+       Round of 32              Tue 22nd Apr        
+       Elland WMC             Kirkheaton Con. A     
+Clive Harte            21 Adrian Cooper          19 
+Viv Smith              21 Jeff Jacklin            1 
+Mick Hiscock           21 Martin Laycock         16 
+Ray Gledhill           21 Garry Senior           16 
+Nick Lowe              21 Mel Walker             16 
+Mark Simpson              Gordon Walker             
+Philip Binns           14 Tony Butterfield       21 
+John Armitage             Keith Manning             
+Ian Archibald          21 Sean Metcalf           11 
+Melvyn Dunne              Richard Gledhill          
+            Handicap: +23             Handicap:  +5 
+           Aggregate: 163            Aggregate: 105 
+               Games:   6                Games:   1 
+
+       Round of 32              Tue 22nd Apr        
+       Springwood                Holmfirth A        
+Colin Hamshaw          11 Derek Hey              21 
+Brian Hamilton         19 P Sykes                21 
+Chris Windle           21 Alan Birchall          15 
+Jez Chomeczko           6 John Lee               21 
+John Gatenby           21 Peter Brogan           11 
+Dave Morgan               E Visona                  
+Mick Brammah           18 Brian Webb             21 
+Dave Turner               Andrew Norgate            
+John Pix               21 Geoff Rollinson        11 
+Jeff Mellor               E Armitage                
+            Handicap: +32             Handicap: +32 
+           Aggregate: 149            Aggregate: 153 
+               Games:   3                Games:   4 
+
+       Round of 32              Tue 22nd Apr        
+         Shepley                  Meltham A         
+Stuart Pears           10 Philip Swinden         21 
+Norman Raper           21 Nick Beswick           12 
+John Hodgson           21 Andy Mailer             5 
+Paul Van Leeuwen       21 Barry Gibson           13 
+Stanley Hoyle          10 Peter Swinden          21 
+John Taylor               David Bennett             
+John Pearman           16 Steven Addy            21 
+Nick Johnston             Jeff Smith                
+John Hewitt            15 James Bloom            21 
+David Holmes              John Knott                
+            Handicap: +18             Handicap:  +9 
+           Aggregate: 132            Aggregate: 123 
+               Games:   3                Games:   4 
+
+       Round of 32              Tue 22nd Apr        
+      Clayton West            Netherton Con. A      
+Malcolm Gilbert        14 D Garner               21 
+E Haigh                21 J Q Saxton             19 
+T Poulter              19 G Brook                21 
+J Lindley              21 Paul Rangeley          14 
+Peter Rhodes           20 L Hayden               21 
+Robert Barlow             R Clayton                 
+Russell Clarkson        8 Geoff Dyson            21 
+Steven Leaworthy          P Winterburn              
+Colin Lloyd            21 James Nolan             5 
+J Stokes                  Rupert Shires             
+            Handicap:  +9             Handicap: +14 
+           Aggregate: 133            Aggregate: 136 
+               Games:   3                Games:   4 
+
+       Round of 32              Tue 22nd Apr        
+        Waterloo                Golcar Lib B        
+Robert Mudd            21 Martin Robinson        10 
+Roger Lunn             21 John Murphy            14 
+Paul Hartley           21 John Ainley             8 
+John Mitchell          21 Rob Allen              15 
+Alan Stephenson        21 Geoff Rothery          15 
+Ian Lunn                  *A.N.Other*               
+Paul Toon              21 Richard Severn          2 
+Peter Atherton            *A.N.Other*               
+John Hirst              4 Ben Hammond            21 
+Peter Henshaw             Robert Row                
+            Handicap:  +5             Handicap: +23 
+           Aggregate: 135            Aggregate: 108 
+               Games:   6                Games:   1 
+
+       Round of 32              Tue 22nd Apr        
+     Almondbury Lib.           Marsh United A       
+Andy Broughton          4 Tony Clegg             21 
+Andrew Gregory          9 David J Simmons        21 
+Neil Booth             21 Andy Carter            14 
+Graham Shaw            19 John Booker            21 
+Stuart Grey            21 Stephen Mallinson      13 
+Geoff Martin              Trevor Sykes              
+Colin Wood              9 Denis Taylor           21 
+Michael Lee               Brian Swift               
+Peter Crowther         21 Douglas Hamilton        6 
+Peter McWilliam           John Ollerenshaw          
+            Handicap: +27             Handicap: Scr 
+           Aggregate: 131            Aggregate: 117 
+               Games:   3                Games:   4 
+
+       Round of 32              Tue 22nd Apr        
+     Lindley B.C. A             Golcar Lib A        
+Tony Allen             18 Robert Morgan          21 
+Ken Ellis              18 George Simpson         21 
+Mike Dawe               7 Peter Hopkinson        21 
+Stephen Haigh          21 Alan Leonard           11 
+Robert Taylor          21 Nigel Mitchell         19 
+Philip Walker             Steven Lowther            
+Robert Fisher          10 Tim Bolton             21 
+Alan Henderson            Stuart Manson             
+Barry Tinker           18 Mick Chapman           21 
+Alister Henderson         Frank Greenwood           
+            Handicap: +14             Handicap:  +5 
+           Aggregate: 127            Aggregate: 140 
+               Games:   2                Games:   5 
+
+       Round of 32              Tue 22nd Apr        
+        Longwood                 Lowerhouses        
+Robert Dickinson       17 Gary Smith             21 
+Ian Briggs             19 Ashley Daykin          21 
+Andrew Wike            21 Graham Hirst           16 
+David Walkden          14 Andy Mitchell          21 
+Alan Crowther          21 Les Holmes              4 
+Graham Howe               Rob Edwards               
+Tony Crowther          21 Rob Gatenby            18 
+Keith Hatzer              Gary Armitage             
+Ian Crawford           21 Tony Lockwood          14 
+Simon Beaumont            David Sykes               
+           Aggregate: 134            Aggregate: 115 
+               Games:   4                Games:   3 
 
        Division 1               Tue 29th Apr        
         Cowcliffe               Clayton West        
@@ -1116,7 +1353,7 @@ D Bradbury                Robert Gledhill
 Chris Hey               5 Andy Broughton         21 
 Ronnie Manning         21 Andrew Gregory         18 
 Chris Ball             10 Neil Booth             21 
-Lindsey Devenish       12 John Bloomer           21 
+Lindsay Devenish       12 John Bloomer           21 
 Tom Howden             11 Stuart Grey            21 
 David Stocks              Geoff Martin              
 David Cooling          21 Colin Wood             12 
@@ -1320,6 +1557,230 @@ Mike Garforth          21 Dave Leathwood         15
 Brian Parker              Wes White                 
               Points:   4               Points:   5 
            Aggregate: 114            Aggregate: 115 
+
+       Round of 16               Thu 1st May        
+     Thongsbridge A            Lindley Lib. A       
+David Cooper            6 Martin Skuse           21 
+Malcolm Mitchell       21 Geoff Jaskolski        17 
+John Gant              21 Peter Thornton         15 
+Peter Jackson          12 Peter Fuller           21 
+Richard Armitage        9 Richard Saunders       21 
+Geoff France              Alan Wortley              
+Adrian Fish            21 Paul Cooney            18 
+Paul English              Peter Smith               
+Geoff Alsop            21 Rob Taylor             19 
+Robert Schofield          Richard Kaye              
+            Handicap: +18             Handicap:  +9 
+           Aggregate: 129            Aggregate: 141 
+               Games:   4                Games:   3 
+
+       Round of 16               Thu 1st May        
+      Brockholes A            Almondbury B.C. A     
+Mike Wood              20 Andy Johnson           21 
+Keith Broughton        18 Richard Brook          21 
+Tony Stokes            21 John Clarkson          20 
+Carl Beaumont          21 Robert Tracey           7 
+John Crosland          21 Simon Neve              3 
+Richard Johnstone         Geoff E Brant             
+Michael Bell           21 Terry Machen           14 
+Michael Carr              Dennis Machen             
+Neil Tinker            21 Peter Clay              7 
+Keith Hilton              Graham Doughty            
+            Handicap: +27             Handicap: +18 
+           Aggregate: 170            Aggregate: 111 
+               Games:   5                Games:   2 
+
+       Round of 16               Thu 1st May        
+       Holmfirth A                 Shepley          
+John Lee               20 John Hodgson           21 
+Derek Hey              21 Stuart Pears           20 
+Peter Brogan            6 John Hewitt            21 
+E Visona               11 Norman Raper           21 
+Geoff Rollinson        17 Stanley Hoyle          21 
+E Armitage                Geoff Ryder               
+David Tombleson         4 Howard Crowther        21 
+Terry Cowell              John Taylor               
+Brian Webb             21 Nick Johnston          15 
+Andrew Norgate            Michael Hirst             
+            Handicap: +32             Handicap: +18 
+           Aggregate: 132            Aggregate: 158 
+               Games:   2                Games:   5 
+
+       Round of 16               Thu 1st May        
+    Netherton Con. A              Waterloo          
+D Garner               14 John Mitchell          21 
+G Brook                21 Paul Hartley           16 
+J Q Saxton             18 Ian Lunn               21 
+Paul Rangeley          21 Roger Lunn             13 
+L Hayden               21 Rod Jackson            11 
+R Clayton                 Alan Stephenson           
+Rupert Shires          21 Peter Atherton         10 
+J Pickard                 Paul Toon                 
+Geoff Dyson            21 John Hirst             14 
+P Winterburn              Peter Henshaw             
+            Handicap: +14             Handicap:  +5 
+           Aggregate: 151            Aggregate: 111 
+               Games:   5                Games:   2 
+
+       Round of 32               Thu 1st May        
+                               On Milnsbridge       
+       Marsh Lib A            Ravensknowle Park     
+Craig Longbottom        9 Wayne Ogilvie          21 
+Peter Laycock          21 Peter Dickinson        16 
+David Schofield        21 David Batley           12 
+David Laidlaw          21 Eddy McGrath           18 
+Gerard Quinn           21 Thomas Ferguson         5 
+Paul Crosland             Barry Wood                
+James Turney           18 Nick Boothroyd         21 
+Phil Mitton               Ian Hunter                
+Steve Morgan           21 Michael Scholes         2 
+Robert Earnshaw           Kevin Cresswell           
+            Handicap: Scr             Handicap:  +9 
+           Aggregate: 132            Aggregate: 104 
+
+       Round of 32               Thu 1st May        
+                               On Golcar Lib.       
+      Paddock I & C           Huddersfield RUBC     
+Neil Hardy             21 Garry Firth             9 
+Graham Chadwick        21 Brian Stephenson       15 
+A Cockshaw             21 Mark Birch             19 
+D Cooper               21 Andrew Livingstone     15 
+C Gough                21 Frank Westerby         17 
+John Townend              Nigel Roebuck             
+D Hardy                10 Mike Williams          21 
+J McPhillips              Alan Dean                 
+Richard Blacker        21 Ray Brooks              7 
+Stewart Collier           Dave Tallboys             
+            Handicap: Scr             Handicap:  +9 
+           Aggregate: 136            Aggregate: 112 
+
+       Round of 32               Thu 1st May        
+                               On Thongsbridge      
+    Almondbury B.C. B            Marsh Lib B        
+Peter Boakes           21 Tony Falck             11 
+Warwick Whitfield      10 John Banks             21 
+Richard Aylward        20 Ian Young              21 
+David Monks            21 Alan West              13 
+Clive Hetherington      4 Robert Wareham         21 
+Michael Battye            Peter McPartland          
+Neal Hardcastle        21 Maurice Grange         18 
+Donald Tippen             David Sewell              
+John D Lees            21 Robert Parish          18 
+Ian Schofield             John Bennett              
+            Handicap: +27             Handicap: +18 
+           Aggregate: 145            Aggregate: 141 
+
+       Round of 32               Thu 1st May        
+                               On Lindley B.C.      
+      Milnsbridge B            Marsh United B       
+*No Player*             0 Adrian Sykes           21 
+John Hall               9 Dennis James           21 
+David Whitham          14 Mike Street            21 
+Graham Haigh           21 Sandy Guthrie          13 
+Graham Martin Sykes    21 Chris North            16 
+Graham Parr               Ken Roys                  
+Neil Croasdell          2 Neil Hinchliffe        21 
+Grant Smith               Geoff Chadwick            
+David Peacock          21 Alan Hardcastle        18 
+John Brook                Barry Hinchliffe          
+            Handicap:  +9             Handicap:  +5 
+           Aggregate:  97            Aggregate: 136 
+
+       Round of 32               Thu 1st May        
+                                On Cowcliffe        
+    Huddersfield Rec          Kirkheaton Con. B     
+Brian Faichney         21 Mark Berry             19 
+Mike Pointon           13 Leon Wilkczynski       21 
+Robert Haigh           18 Mark Harris            21 
+Geoff Price            21 Steve Hall              5 
+Trevor Atkinson         8 Ian Johnsey            21 
+Mike Hollingdrake         Paul Scott                
+Colin McClusky         15 David McSweeney        21 
+Kevin McClusky            A Slack                   
+Derek Crawley          21 Mike Garforth          11 
+David Watson              Brian Parker              
+            Handicap:  +9             Handicap: +23 
+           Aggregate: 126            Aggregate: 142 
+
+       Round of 32               Thu 1st May        
+                             On Linthwaite Hall     
+     Thongsbridge B            Greenhead Park       
+John Yalden            21 Richard Pearcey         5 
+Jim Sykes              21 Chris Wightman          5 
+Kenneth Whitaker       21 Charlie Bartaby        15 
+Jeffrey Oldroyd        21 Melvyn Blezzard        19 
+Ian Allott             10 David Walker           21 
+John Kingdom              Chris Holt                
+Graham Helm            21 *No Player*             0 
+Maurice Harper            ----------                
+John Hewison           19 David Craddock         21 
+David Eastwood            John D. Richards          
+            Handicap:  +5             Handicap: +27 
+           Aggregate: 139            Aggregate: 113 
+
+       Round of 32               Thu 1st May        
+                               On Marsh United      
+     Lindley B.C. B                Dalton           
+Terry Fletcher         21 John Inman             15 
+Tony Taylor            21 Graham Wood             6 
+Mike Redfern           21 Trevor Boothroyd       18 
+Paul Broadhead         21 Alaister Fraser         7 
+Alan Dutton            16 David Ray              21 
+David Thorp               Percy Harrison            
+Dave Leathwood         12 Philip Battye          21 
+Wes White                 David Mathews             
+William Gee            18 David Hill             21 
+Malcolm Proctor           Colin Walder              
+            Handicap: +18             Handicap: +18 
+           Aggregate: 148            Aggregate: 127 
+
+       Round of 32               Thu 1st May        
+                              On Lockwood Con.      
+       New Mill B                 Hemplow B         
+Terry Johnson          12 Michael Wilby          21 
+Mark Warrender         21 John Millar            16 
+Terry Dean             10 Lloyd Armitage         21 
+Charlie Hatch          21 David Shaw             17 
+Geoff Wrigglesworth    10 John Cocking           21 
+Simon Cave                David Morrison            
+Eddie Brook            15 Gordon Kewley          21 
+John Oscroft              Tony Yates                
+Ian Wright             21 Wright Eastwood        12 
+David Thorpe              Peter Allen               
+            Handicap: +23             Handicap: +23 
+           Aggregate: 133            Aggregate: 152 
+
+       Round of 32               Thu 1st May        
+                                 On New Mill        
+      Skel Windmill          David Brown Sports     
+Graham Roys            20 J Mulligan             21 
+Andrew Clarkson        21 Graham Illingworth     16 
+John Roe               12 Derek Frost            21 
+Kevin Booth            17 M Boon                 21 
+Richard Auty           21 David Heeley            8 
+Stephen Auty              James Rodney Burgin       
+Richard Chaffer        19 Joe Burmand            21 
+Trevor Brook              Paul Gant                 
+Jamal Kelly             6 J Dunne                21 
+Alan Worrall              Peter Meadows             
+            Handicap:  +5             Handicap: +14 
+           Aggregate: 121            Aggregate: 143 
+
+       Round of 32               Thu 1st May        
+                                 On Shepley         
+   Kirkheaton C & BC A           Holmfirth B        
+Ken Boyles             21 Gerald Gorman           8 
+Mick Boyles            21 Philip Woodthorpe      16 
+Eddie Hine             21 William Hobson         14 
+Adrian Fowler          17 J A Crawford           21 
+Tom Flaherty           19 T Boyes                21 
+Colin Sykes               John Swallow              
+Michael Smyth          21 Neil Allsopp           18 
+Gareth Morris             Stewart Swift             
+David Firth            21 *No Player*             0 
+Martin Eastwood           ----------                
+            Handicap:  +5             Handicap: +27 
+           Aggregate: 146            Aggregate: 125 
 
        Division 1                Tue 6th May        
       Clayton West              Golcar Lib A        
@@ -1564,7 +2025,7 @@ Ian Charlesworth          Bryan Cook
        Division 3                Tue 6th May        
        Springwood              Lockwood Con. B      
 Jeff Mellor            21 John Abbott            20 
-Colin Hamshaw          21 Lindsey Devenish        4 
+Colin Hamshaw          21 Lindsay Devenish        4 
 Chris Windle           21 Ronnie Manning         17 
 Brian Hamilton         21 Chris Ball              8 
 John Gatenby           21 Thomas Cowie           11 
@@ -2879,7 +3340,7 @@ Peter Haythornthwaite  21 Chris Ball              6
 Ian Shackcloth         16 Tom Howden             21 
 Allen Conway              Joe Cornelly              
 Philip Raynor          17 Alan Farrier           21 
-Alan Hobson               Lindsey Devenish          
+Alan Hobson               Lindsay Devenish          
 Shaun McAvinue         13 David Cooling          21 
 George Williams           David Stocks              
               Points:   6               Points:   3 
@@ -3117,7 +3578,7 @@ Garry Senior           21 Ray Harper             16
 Adrian Cooper          21 Peter Kain             20 
 Martin Laycock         13 Derek Gibson           21 
 Ian Johnsey            13 Gerrard Clarke         21 
-Barry Wilton              Lindsey Devenish          
+Barry Wilton              Lindsay Devenish          
 Gordon Walker          13 Mick Fisher            21 
 Jeff Jacklin              Mark Richardson           
 Sean Metcalf           21 Richard Walsh          14 
@@ -3580,7 +4041,7 @@ John Swallow              Mike Redfern
 P Livsey               10 Alan Coggin            21 
 Philip Woodthorpe         Robert Knight             
 J A Crawford           21 Stuart Thornton         1 
-Mick Swift                Gerry Beamond             
+Stewart Swift             Gerry Beamond             
             Handicap: +45             Handicap: +39 
            Aggregate: 123            Aggregate: 124 
                Games:   1                Games:   4 
@@ -3642,7 +4103,7 @@ Tommy Whitaker            Colin Walder
 David Birch            14 Nick Lowe              21 
 John Scott                Alan Broad                
 Rod Woods               6 Mick Hiscock           21 
-Ken Boyles                Ray Gledhill              
+John Woodward             Ray Gledhill              
 Nick Dunn               7 Ian Archibald          21 
 Robert Boyles             John Sharp                
 Anthony Dawson         12 Clive Harte            21 
@@ -3725,7 +4186,7 @@ Duncan Haigh              Phil Mitton
                                On Marsh United      
        Lowerhouses             Almondbury Lib.      
 David Sykes            21 Stuart Grey            15 
-Andy Mitchell             Paul Heaume               
+Andy Mitchell             Geoff Martin              
 Gary Smith             21 Peter Crowther         15 
 Tony Lockwood             Ian Jowett                
 Nick Hirst             21 Michael Lee            15 
@@ -3753,6 +4214,23 @@ Mick Chapman            7 Gerry McLoughlin       21
 Frank Greenwood           David Walkden             
             Handicap:  +3             Handicap: Scr 
            Aggregate:  84            Aggregate:  83 
+               Games:   2                Games:   3 
+
+       Round of 32              Tue 10th Jun        
+                             On Kirkheaton Cons     
+     Lockwood Con. B           Lindley Lib. B       
+Lindsay Devenish       15 Chris Doran            21 
+Chris Ball                Paul Wright               
+Alan Farrier           21 Paul Cooney            17 
+Thomas Cowie              Peter Smith               
+Tom Howden             17 Alan Suddick           21 
+Joe Conneely              Gary Moorhouse            
+David Cooling          19 Bob Booth              21 
+David Stocks              Michael Ward              
+Mick Shore             21 Adrian Baldwin         14 
+John Abbott               Kevin Le Bas              
+            Handicap: +26             Handicap: +23 
+           Aggregate: 119            Aggregate: 117 
                Games:   2                Games:   3 
 
 

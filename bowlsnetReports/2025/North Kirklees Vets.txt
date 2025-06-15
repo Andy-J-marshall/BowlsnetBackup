@@ -1,4 +1,4 @@
-=== North Kirklees (Vets) 2025 (as of Thu 12th Jun)
+=== North Kirklees (Vets) 2025 (as of Sun 15th Jun)
 === League Match Cards
 
        Division 1                 Tue 15th Apr           
@@ -468,6 +468,18 @@ David Clarke          21 Mick Addy                     9
 Neil Holmes           19 Graham Knutton               21 
 Philip Long           21 John Leach                   15 
           Aggregate: 156                  Aggregate: 104 
+
+       Division 1                  Tue 6th May           
+   Scatcherd Park - A           Spen Victoria - A        
+Derek McCormack       20 Terry Varney                 21 
+Kevin Taylor           9 Paul Blackburn               21 
+Jeff Holt             16 David Billington             21 
+Geoffrey Firth         5 Malcolm Fowler               21 
+Stephen Briggs        21 Billington Ann               16 
+Graham Goodall        21 Kevin Wood                   16 
+Tony Auty             13 Ian Gould                    21 
+Joe Adams             21 David Rayner                  8 
+          Aggregate: 126                  Aggregate: 145 
 
        Division 2                  Tue 6th May           
   Earlsheaton Park - A           Grange Park - A         
@@ -1056,6 +1068,18 @@ David Clarke          21 Graham Goodall               10
 Peter Lamb            21 Tony Auty                    11 
 Bryan Collier         21 Michael Geary                15 
           Aggregate: 147                  Aggregate: 128 
+
+       Division 1                  Tue 3rd Jun           
+   Spen Victoria - A            Spen Victoria - B        
+Terry Varney          21 Jonathon Smith               12 
+Paul Blackburn        21 Steven Holmes                19 
+Malcolm Fowler        21 Michael Maguire              15 
+David Billington      21 Dorothy Mortimer             16 
+Billington Ann        21 Tim Miller                   10 
+Kevin Wood            14 Phil Rayner                  21 
+Ian Gould             21 Derek Goor                   12 
+David Rayner          21 Paul Warwick                 14 
+          Aggregate: 161                  Aggregate: 119 
 
        Division 2                  Tue 3rd Jun           
        Ossett - C               Mirfield Vets - A        

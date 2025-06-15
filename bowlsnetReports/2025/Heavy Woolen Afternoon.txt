@@ -1,4 +1,4 @@
-=== Heavy Woollen Afternoon League 2025 (as of Thu 12th Jun)
+=== Heavy Woollen Afternoon League 2025 (as of Sun 15th Jun)
 === League Match Cards
 
         Division 1                Mon 7th Apr         
@@ -543,7 +543,7 @@ David Ormsby            19 Les Holmes              21
 
         Division 3                Mon 21st Apr        
    Cleckheaton Moorend          Honley Cons 'B'       
-            Aggregate: 113             Aggregate:  98 
+            Aggregate:  98             Aggregate: 113 
       Manual Result                                   
 
         Division 4                Mon 21st Apr        
@@ -1243,7 +1243,7 @@ Michelle Booth           9 Les Holmes              21
 
         Division 3                Mon 19th May        
    Cleckheaton Moorend         Hanging Heaton 'B'     
-            Aggregate:  99             Aggregate: 119 
+            Aggregate: 119             Aggregate:  99 
       Manual Result                                   
 
         Division 4                Mon 19th May        
@@ -1262,8 +1262,8 @@ John Turner             21 Dave McSweeney           9
 Geoff Hopkin            21 Brian Parker            19 
 Andrew Asquith          21 Leon Wilczynski          9 
 Bill Lovett             21 Maurice Garforth        17 
-John Cresswell          21 Steve Mitchell           6 
-Janet Thornton          21 Ian Johnsey             16 
+John Cresswell          21 Ian Johnsey              6 
+Janet Thornton          21 Paul Scott              16 
             Aggregate: 126             Aggregate:  76 
 
         Division 4                Mon 19th May        
@@ -1956,5 +1956,15 @@ Roy Kellet              19 Edward Bailes           21
 Derek Ludlam             6 Kevin Cresswell         21 
 Terry Dillon            21 Maureen Clark            4 
             Aggregate:  81             Aggregate: 109 
+
+        Division 1                Fri 13th Jun        
+   Thornhill C & BC 'A'      Mirfield Old Bank 'B'    
+Steve Davis             21 Frank Richardson        17 
+Gary Mountain           21 Michael Addy             8 
+Phil Gamble             19 Paul Hartley            21 
+Angela Pursglove        11 Harold Hick             21 
+Mandy Mitchell          21 Mark Prideaux            5 
+Claire Price            21 Ian Fitton              17 
+            Aggregate: 114             Aggregate:  89 
 
 

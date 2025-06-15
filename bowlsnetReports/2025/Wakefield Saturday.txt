@@ -1,4 +1,4 @@
-=== Wakefield Saturday Bowling League 2025 (as of Thu 12th Jun)
+=== Wakefield Saturday Bowling League 2025 (as of Sun 15th Jun)
 === League Match Cards
 
        Division 1                Sat 5th Apr        
@@ -318,11 +318,11 @@ Andy Hoult             21 Barbara Johnstone      16
 Nigel Brook            19 Alan Nash              21 
 David Crest            21 Linda Theaker          14 
 Donald Ward            16 Nora Collier           21 
-Mark Young             21 Dianne Pitchford       18 
-Trevor Newey           21 Linda Callaghan         9 
-Trevor Dey             15 Rena Hirstle           21 
-Peter Claven           21 Alison Sykes           18 
-John Dudding           21 Beverley Bullock        6 
+Peter Claven           21 Dianne Pitchford       18 
+Mark Young             21 Linda Callaghan         9 
+Trevor Newey           15 Rena Hirstle           21 
+John Dudding           21 Alison Sykes           18 
+Trevor Dey             21 Beverley Bullock        6 
            Aggregate: 155            Aggregate: 128 
 
        Division 3               Sat 12th Apr        
@@ -684,6 +684,18 @@ Barry Turner           21 David Laycock           9
 Dave Edwards           21 Chris Smith             8 
 Paul Simmonds          21 John Haikings           6 
            Aggregate: 156            Aggregate: 100 
+
+       Division 2               Sat 26th Apr        
+  MIRFIELD OLD BANK 'B'         DENBY GRANGE        
+Shaun Berry            11 Chris Nicholson        21 
+Norman Booth           12 Neil Broadhead         21 
+Andy Foggo              7 Scott Fisher           21 
+Bruce Illingworth       4 Ian Davis              21 
+Ron Jepson             21 Luke Gant              15 
+Matty Mongon           21 Graham Blythe          13 
+Gary Morton            21 David Walker           16 
+Mark Prideaux          21 Alan Greenwood         17 
+           Aggregate: 118            Aggregate: 145 
 
        Division 3               Sat 26th Apr        
      ROYDS PARK 'B'            OSSETT C&AC 'C'      
@@ -1882,5 +1894,41 @@ Bob Haigh              21 Claire Price           19
 Chris Goodwin          21 Julie Makepeace        10 
 Sam Hargreaves         21 Jennifer Gray          13 
            Aggregate: 155            Aggregate: 134 
+
+       Division 3               Fri 13th Jun        
+     OSSETT C&AC 'C'            WAKEFIELD BC        
+Stephen Blacklock      21 Gosia Miszewska         2 
+Nora Collier           21 Dorothy Smith           5 
+Linda Theaker          19 Bill Bray              21 
+Svajunas Kapitan       19 David Crest            21 
+Alison Sykes           17 Peter Claven           21 
+Linda Callaghan        11 Trevor Newey           21 
+Alan Nash              17 John Dudding           21 
+Connor Dunford          7 Mark Young             21 
+           Aggregate: 132            Aggregate: 133 
+
+       Division 3               Sat 14th Jun        
+     ROYDS PARK 'B'                STANLEY          
+Lesley Osborne          1 Paul Giblin            21 
+Phillip Robinson       21 Holger Cole            18 
+Ruth Day               20 Karen Haist            21 
+Stuart Burton          21 Stephen Haist           8 
+Tyler James            21 Kevin Goodhall         18 
+James Senior           16 Andrew Lord            21 
+Rachel Gowan           21 Clifford Scargill       7 
+Christine Gowan        21 Linda Goodhall          8 
+           Aggregate: 142            Aggregate: 122 
+
+       Division 3               Sat 14th Jun        
+     GRANGE PARK 'A'            WAKEFIELD BC        
+Lynne Cunningham       16 Dorothy Smith          21 
+John Ashton            15 Anita Lawson           21 
+Doreen Ashton          21 Donald Ward            20 
+Jane Illsey            21 Kaz Habib               9 
+David Wilson           20 Peter Claven           21 
+Ian Worthington        21 Trevor Newey           12 
+Pauline Wilson         15 John Dudding           21 
+Derick Hartley          4 Mark Young             21 
+           Aggregate: 133            Aggregate: 146 
 
 

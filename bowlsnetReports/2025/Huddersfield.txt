@@ -1,4 +1,4 @@
-=== Huddersfield Bowling League 2025 (as of Thu 12th Jun)
+=== Huddersfield Bowling League 2025 (as of Sun 15th Jun)
 === Comp. Match Cards
 
     Subscription Cup               Sat 12th Apr          
@@ -34,6 +34,23 @@ J Lindley              20 Colin Hufton                21
            Aggregate: 160                 Aggregate: 200 
                Games:   2                     Games:   8 
               Points:   2                    Points:  12 
+
+    Subscription Cup               Sat 12th Apr          
+                                On Farnley Tyas BC       
+    Kirkheaton Con A            Linthwaite C & BC        
+D Kilburn              21 M Woodruff                  16 
+J A Brown              21 Dennis Fuller                6 
+D Jones                21 Stephen Shaw                12 
+T Gledhill             21 Dean Shaw                   10 
+J Helliwell            15 Carl Taylor                 21 
+A Lumb                 21 D Woodruff                  14 
+Gary Senior            21 G Woodruff                  19 
+Adrian Cooper           5 A Rose                      21 
+Harrison Messenger     16 Tom Marsland                21 
+H Lumb                 21 Mick Armitage               17 
+           Aggregate: 183                 Aggregate: 157 
+               Games:   7                     Games:   3 
+              Points:  11                    Points:   3 
 
     Subscription Cup               Sat 12th Apr          
                               On Thongsbridge C & BC     
@@ -1583,6 +1600,23 @@ I M Brogden            13 Keith Bissell               21
                Games:   6                     Games:   4 
               Points:  10                    Points:   4 
 
+    Subscription Cup               Sat 10th May          
+                                  On Golcar Lib          
+      Lindley BC A               Kirkheaton Con A        
+R Taylor               13 A Lumb                      21 
+Cole Bartys            21 B Waddington                11 
+A D Allen              21 Adrian Cooper               12 
+G Turton               11 J A Brown                   21 
+K Ellis                16 A Tattersley                21 
+L Turton               21 D Jones                     18 
+Micheal Anderson       12 J Helliwell                 21 
+P Fuller               14 Gary Senior                 21 
+F Turton               21 Harrison Messenger          20 
+R Whitcombe             9 O Fox                       21 
+           Aggregate: 159                 Aggregate: 187 
+               Games:   4                     Games:   6 
+              Points:   4                    Points:  10 
+
        Drayton Cup                 Sat 10th May          
                                On Kirkheaton C & BC      
     Almondbury Lib B             Moldgreen Con A         
@@ -1771,6 +1805,23 @@ Robert Tracey          19 T Balderson                 21
               Points:  12                    Points:   2 
 
       Bamforth Cup                 Sat 10th May          
+                                  On Lindley BC          
+    Almondbury Lib C             Kirkheaton Con C        
+Blake Hick             21 Steve Hall                  11 
+Graham Haigh           19 Maurice Garforth            21 
+Harold Hick            21 A Slack                     18 
+Neil Booth             21 Leon Wilczynski             11 
+Peter Liversidge        2 J Metcalfe                  21 
+Stephen Maude          18 P Power                     21 
+Mike Lee               16 Ian Johnsey                 21 
+Anthony Lunn           11 S Goddard                   21 
+Regan Doody            21 Chris Webb                   6 
+Stuart Grey            21 Jacob Jackson                7 
+           Aggregate: 171                 Aggregate: 158 
+               Games:   5                     Games:   5 
+              Points:   8                    Points:   6 
+
+      Bamforth Cup                 Sat 10th May          
                                   On Shepley BC          
        Hemplow BC             Thongsbridge C & BC B      
 Graham Kewley          21 Paul English                 9 
@@ -1912,6 +1963,21 @@ P Harrison             11 Paul Van Leeuwen            21
            Aggregate: 101                 Aggregate: 164 
                Games:   1                     Games:   7 
               Points:   1                    Points:  11 
+
+        Binns Cup                  Sat 10th May          
+                                On Meltham BC No 1       
+      Holmfirth BC                 Lindley BC B          
+T Boyes                10 A Henderson                 21 
+Robert Stratford       12 D Thorp                     21 
+John Lee               21 D Leathwood                  9 
+E Visona               12 G Stott                     21 
+Derek Hey              21 P Broadhead                 18 
+Mirel Buga             21 Anthony Taylor               7 
+E Armitage             21 Alan Henderson              16 
+Alan Birchall          21 W White                     15 
+           Aggregate: 139                 Aggregate: 128 
+               Games:   5                     Games:   3 
+              Points:   9                    Points:   3 
 
         Binns Cup                  Sat 10th May          
                            On Cleckheaton Sports - Back  
@@ -2318,6 +2384,21 @@ Bob Parish              8 Aaron Stott                 21
               Points:   4                    Points:  10 
 
         Binns Cup                  Sat 17th May          
+                                  On Golcar Lib          
+     Broad Oak BC B            Slaithwaite C & BC B      
+Russell Auty           21 John Banks                  16 
+Reg Normington         17 R Slatford                  21 
+J Schofield            21 Keith Hanley                 7 
+K Wilson               17 R Bradshaw                  21 
+Galvin Evans           21 C Sykes                     19 
+Peter Garside          21 Christopher Conway          20 
+Carl Livesey           21 J M Sykes                    6 
+Steve Ridgewick        14 S Wood                      21 
+           Aggregate: 153                 Aggregate: 131 
+               Games:   5                     Games:   3 
+              Points:   9                    Points:   3 
+
+        Binns Cup                  Sat 17th May          
                               On Slaithwaite C & BC      
       Brockholes BC             Kirkheaton C & BC        
 Keith Broughton        12 Alan Stephenson             21 
@@ -2491,6 +2572,23 @@ Cash Brook             17 G Turton                    21
            Aggregate: 170                 Aggregate: 190 
                Games:   4                     Games:   6 
               Points:   4                    Points:  10 
+
+       Drayton Cup                 Sat 7th Jun           
+                          On Cleckheaton Sports - Front  
+    Almondbury Lib B              Lindley Lib A          
+Geoff Martin            9 Nicholas Thornton           21 
+Richard Brook          13 G N Jaskolski               21 
+Andy S Broughton        8 J H Farrell                 21 
+James Robson           21 A Wortley                    5 
+*A.N.Other*            21 Craig Longbottom            15 
+Stuart Grey            16 B Booth                     21 
+*A.N.Other*            21 R Saunders                  20 
+Scott Shaw             21 M Thornton                  13 
+Craig Dyson            21 Peter Thornton              16 
+Jamie Shaw             16 Lyndon Harris               21 
+           Aggregate: 167                 Aggregate: 174 
+               Games:   5                     Games:   5 
+              Points:   6                    Points:   8 
 
        Drayton Cup                 Sat 7th Jun           
                                  On Paddock I & C        
@@ -2883,5 +2981,465 @@ C Gough                21 *A.N.Other*                  8
            Aggregate: 123                 Aggregate: 142 
                Games:   3                     Games:   5 
               Points:   3                    Points:   9 
+
+    Subscription Cup               Sat 14th Jun          
+                                On Kirkheaton Con        
+    Almondbury Lib A             Cowcliffe Lib A         
+Cameron Ghaffar        17 Louis Barker                21 
+Michael Hick           15 Simon Page                  21 
+Ian Haigh              21 S Cameron                   16 
+Daniel Beeby           21 Danny Radcliffe             13 
+Gary Ashwell           21 Colin Hufton                 8 
+Ethan Hick             21 Graham Radcliffe            17 
+Michael Higgins Jnr    20 Harry Chadwick              21 
+Michael Higgins Snr    21 Jim Chadwick                10 
+Andrew Heaume          18 D Hewitt                    21 
+Rob Battye              8 Rhys Beaumont               21 
+           Aggregate: 183                 Aggregate: 169 
+               Games:   5                     Games:   5 
+              Points:   8                    Points:   6 
+
+    Subscription Cup               Sat 14th Jun          
+                                  On Lindley Lib         
+     Clayton West BC             Kirkheaton Con A        
+Robert Craven          21 Gary Senior                  6 
+J Lindley              12 Courtney Allert             21 
+T Poulter              14 Harrison Messenger          21 
+R Dalby                14 A Lumb                      21 
+Stuart Simmons         21 J Waddington                15 
+D M Richardson         21 B Waddington                 7 
+E Haigh                10 H Lumb                      21 
+G M Richardson          6 J A Brown                   21 
+Tom Kaye               21 Adrian Cooper               20 
+J Stokes               12 D Jones                     21 
+           Aggregate: 152                 Aggregate: 174 
+               Games:   4                     Games:   6 
+              Points:   4                    Points:  10 
+
+    Subscription Cup               Sat 14th Jun          
+                               On Crosland Moor BC       
+  Cleckheaton Sports A             Golcar Lib A          
+Norman Swift           21 Mick Chapman                20 
+Reuben Taylor          21 F Greenwood                 20 
+Chris Bray             11 M D Jennings                21 
+Tony Throup            21 I M Brogden                 18 
+Andy Robinson          10 P S Manson                  21 
+Richard Toulson        14 I Singleton                 21 
+Josh Walker            18 Carl Allen                  21 
+Gary Sharp             21 T Liversidge                 7 
+Jason Townend          10 M Hirst                     21 
+Bradley Throup         10 Billy Shaw                  21 
+           Aggregate: 157                 Aggregate: 191 
+               Games:   4                     Games:   6 
+              Points:   4                    Points:  10 
+
+    Subscription Cup               Sat 14th Jun          
+                                On Linthwaite Hall       
+   Crosland Moor BC A              Lindley BC A          
+Mark Atkinson          17 G Turton                    21 
+Trevor Boothroyd       21 Alan Taylor                 10 
+Terry Brook            19 F Turton                    21 
+Richard Chomiak        21 A D Allen                   11 
+Jordan Fernyhough      19 P Fuller                    21 
+Nathan Haigh           21 L Turton                     7 
+Ross Mallinson         21 S Haigh                     13 
+Bradley Ramsden        21 K Ellis                     20 
+Matthew Richardson     21 Micheal Anderson             2 
+Kieran O'Prey          21 R Whitcombe                 10 
+           Aggregate: 202                 Aggregate: 136 
+               Games:   7                     Games:   3 
+              Points:  11                    Points:   3 
+
+       Drayton Cup                 Sat 14th Jun          
+                                On Clayton West BC       
+   Crosland Moor BC B              Meltham BC A          
+Cameron Duffy          21 Ian Wimpenny                 7 
+Derek Frost             5 Steve Bramall               21 
+Dean Berry             17 Darren Hincliffe            21 
+Chris Walker           21 Barry Gibson                20 
+Alec Fowler            18 Jeff Smith                  21 
+Neil Fowler            21 Adrian J Chapman             9 
+Martyn Giles           21 Jim Bloom                    4 
+John Ollerenshaw       16 David Bennett               21 
+Peter Kirwan            4 Peter J Swinden             21 
+Phil Longbottom        17 Cameron Gibson              21 
+           Aggregate: 161                 Aggregate: 166 
+               Games:   4                     Games:   6 
+              Points:   4                    Points:  10 
+
+       Drayton Cup                 Sat 14th Jun          
+                                  On Outlane BC          
+      Golcar Lib B                Lindley Lib A          
+J Ainley               12 Nicholas Thornton           21 
+A Green                15 G N Jaskolski               21 
+C J Hirst              19 Craig Longbottom            21 
+A Leonard              14 A Wortley                   21 
+Sean Price             21 G Cairns                    20 
+J Beckett              12 M Thornton                  21 
+K Walsh                21 Peter Thornton              18 
+Danny Duce              2 Lyndon Harris               21 
+James Martin           15 Martin Skuse                21 
+T Bolton               18 D Bousfield                 21 
+           Aggregate: 149                 Aggregate: 206 
+               Games:   2                     Games:   8 
+              Points:   2                    Points:  12 
+
+       Drayton Cup                 Sat 14th Jun          
+                                  On Lindley BC          
+    Kirkheaton Con B          Thongsbridge C & BC A      
+Chris Webb             21 Roger Beaumont              12 
+Ian Johnsey            21 G Alsop                     19 
+Jacob Jackson          21 *A.N.Other*                 16 
+T Butterfield          21 C Motley                     9 
+Leon Wilczynski        13 R Smith                     21 
+S Walker               21 R Armitage                  18 
+Glyn Moulson           21 J Harrison                  14 
+I McKenzie             19 Peter Jackson               21 
+G Hallsworth           21 R Schofield                 19 
+Kyle Brady             21 B Moroney                   16 
+           Aggregate: 200                 Aggregate: 165 
+               Games:   8                     Games:   2 
+              Points:  12                    Points:   2 
+
+       Drayton Cup                 Sat 14th Jun          
+                                 On Springwood BC        
+    Linthwaite Hall A              Waterloo BC           
+R Singleton             4 Kris Lunn                   21 
+D Bradbury             13 John Shackcloth             21 
+S Meeres               21 Ian Lunn                    18 
+Robert M Spencer Jnr   21 Paul Hartley                17 
+Alan Bamforth          21 David Lunn                  15 
+R Eastwood             21 Mathew Neill                15 
+W Dews                 21 Graham Clegg                12 
+P Haigh                21 Craig Beachill              11 
+D Shaw                 21 Tom Fletcher                11 
+A Cross                21 Rob Mudd                     7 
+           Aggregate: 185                 Aggregate: 148 
+               Games:   8                     Games:   2 
+              Points:  12                    Points:   2 
+
+     Littlewood Cup                Sat 14th Jun          
+                                 On Holmfirth BC         
+     Broad Oak BC A                 Elland WMC           
+Russ Beaumont          21 Mark Simpson                14 
+Steven Irving          15 Phillip Binns               21 
+Connor Beaumont        21 John Sharp                   5 
+Andrew Crowther        21 Darren Parker               12 
+Schofield Tony         17 Robert Newham               21 
+Elliott Heap           17 Sinon Anderson              21 
+Martin Burgess         21 J P Gledhill                 7 
+Mark Heap              21 Clive Harte                 16 
+Benjamin Irving         8 John Armitage               21 
+Shaun Irving           21 Alan Broad                  14 
+           Aggregate: 183                 Aggregate: 152 
+               Games:   6                     Games:   4 
+              Points:  10                    Points:   4 
+
+     Littlewood Cup                Sat 14th Jun          
+                                 On Marsh Utd BC         
+     Cowcliffe Lib B               Rastrick BC           
+S Halsall              21 John Ramsden                16 
+W Garside              21 Dean Swift                   5 
+H E Clark              21 D Hanner                    16 
+John Burnett           21 R Laycock                   10 
+G V Dyson              21 Thomas Thornton              8 
+D Pollard              21 G Hall                      15 
+P Conneely             20 Jim Warne                   21 
+M Stead                20 P Pendleton                 21 
+David Ashworth         17 R Chapman                   21 
+H Grant                18 Brian Thurlow               21 
+           Aggregate: 201                 Aggregate: 154 
+               Games:   6                     Games:   4 
+              Points:  10                    Points:   4 
+
+     Littlewood Cup                Sat 14th Jun          
+                                  On Hemplow BC          
+     Grange Moor BC               Lockwood Con A         
+Dale Winterbottom       8 Chris Valentine             21 
+Gerald Walker          12 Andrew Harper               21 
+David Wright           11 R Jnr Walsh                 21 
+M Booth                21 D Gibson                    15 
+G Shaw                  5 Peter Kain                  21 
+Gordon Walker          21 M Wood                      14 
+D Hardcastle           21 D Slattery                  18 
+D C Gilbert            14 L Devenish                  21 
+D Mills                 5 Jason McMahon               21 
+Paul Messenger         21 Joe Cornelly                10 
+           Aggregate: 139                 Aggregate: 183 
+               Games:   4                     Games:   6 
+              Points:   4                    Points:  10 
+
+     Littlewood Cup                Sat 14th Jun          
+                                 On Hudds RUFC BC        
+      Lindley Lib B              Milnsbridge BC A        
+Kevin Le Bas           17 Roy Sutton                  21 
+D Smith                13 M Peacock                   21 
+R Long                 21 Carl Hirst                  16 
+Gerry Quinn            21 D Peacock                   14 
+K Bryan                 7 Scott Thornton              21 
+Michael Ward           21 Steven Baldwin              19 
+Nigel Kaine            21 Adam Mosley                 17 
+Adrian Baldwin          7 Luke Peacock                21 
+P Cooney               13 Mark Rushworth              21 
+James Brown             6 L Mosley                    21 
+           Aggregate: 147                 Aggregate: 192 
+               Games:   4                     Games:   6 
+              Points:   4                    Points:  10 
+
+     Littlewood Cup                Sat 14th Jun          
+                                 On Almondbury BC        
+       Longwood BC                 Marsh Utd BC          
+G McLoughlin           21 M Street                    10 
+A Crowther             21 M Price                     16 
+Chris Hanley           21 J Booker                     8 
+Steve Barrie           14 S Howard                    21 
+Craig Turner           17 T Sykes                     21 
+James Lee              21 Brian Swift                 16 
+T Crowther             21 C Simmons                   14 
+B Tinker               21 G Chadwick                   4 
+Rob Piercy             21 J D Taylor                  16 
+Roy Whitehead          15 D J Simmons                 21 
+           Aggregate: 193                 Aggregate: 147 
+               Games:   7                     Games:   3 
+              Points:  11                    Points:   3 
+
+     Littlewood Cup                Sat 14th Jun          
+                                 On Moldgreen Con        
+     Netherton Con A             Paddock I & C A         
+P Winterburn           21 Gary Fretwell                6 
+P Rangeley             19 S Hudson                    21 
+T Whitaker              4 G Chadwick                  21 
+J Saxton               18 S Lewis                     21 
+P Brennan              17 J Gough                     21 
+J Nolan                21 Dave Thornton               18 
+G Brook                20 N Hartley                   21 
+R Parker               21 T Mitchell                  20 
+R Hirst                21 Jack Allen                  16 
+R O'Connor             21 B Jowett                    13 
+           Aggregate: 183                 Aggregate: 178 
+               Games:   5                     Games:   5 
+              Points:   8                    Points:   6 
+
+      Bamforth Cup                 Sat 14th Jun          
+                               On Kirkheaton C & BC      
+      Almondbury BC               Hudds RUFC BC          
+Ben Crosland           21 Tony Sayles                  8 
+Simon Neve             21 Peter Hepworth              16 
+Geoff Brant            21 M Williams                  19 
+Tom Berry              21 J Lockwood                   9 
+Andy Johnson           21 A Dean                      18 
+David Bandey           10 M Wallis                    21 
+Mark Berry             21 B Stephenson                20 
+Daniel Berry           18 Simon Wood                  21 
+Richard M Halliwell    19 D Tasker                    21 
+John Clarkson          14 Nigel Roebuck               21 
+           Aggregate: 187                 Aggregate: 174 
+               Games:   6                     Games:   4 
+              Points:  10                    Points:   4 
+
+      Bamforth Cup                 Sat 14th Jun          
+                                On Grange Moor BC        
+    Almondbury Lib C          Thongsbridge C & BC B      
+Harold Hick            13 Graham Helm                 21 
+Blake Hick             21 J Sykes                     20 
+Regan Doody            21 David Cooper                 8 
+Peter McWilliam        21 John Dmoszynski              9 
+Stephen Maude          17 English Paul                21 
+Anthony Lunn           21 Ian Allott                  15 
+Richard Brook          21 David Eastwood              10 
+Mike Lee               21 John Kingdom                18 
+Neil Booth             19 Ken Whittaker               21 
+Graham Haigh           11 J Yalden                    21 
+           Aggregate: 186                 Aggregate: 164 
+               Games:   6                     Games:   4 
+              Points:  10                    Points:   4 
+
+      Bamforth Cup                 Sat 14th Jun          
+                           On Cleckheaton Sports - Back  
+       Hemplow BC                   Marsh Lib            
+Gordon Kewley          21 David Laidlaw               19 
+A Wilkinson             9 Jonathan Woodhouse          21 
+Derek Sykes            11 Bob Parish                  21 
+M Wilby                21 Maurice Grange              12 
+John Miller            21 Robert Earnshaw             18 
+Tony Yates             12 Howard Watson               21 
+Noel Guinan            21 Steve Morgan                20 
+Steven Shaw            18 Jim Turney                  21 
+David Phillips         21 Paul Crosland               17 
+Lloyd Armitage         21 Chris English               20 
+           Aggregate: 176                 Aggregate: 190 
+               Games:   6                     Games:   4 
+              Points:   8                    Points:   6 
+
+      Bamforth Cup                 Sat 14th Jun          
+                              On Slaithwaite C & BC      
+    Kirkheaton Con C               Meltham BC B          
+Maurice Garforth       15 M Waddington                21 
+David McSweeney         8 Ian Lee                     21 
+B Wilton               21 A Starkey                   15 
+Steve Hall              8 Aaron Stott                 21 
+Keith Manning          21 Chris Berry                 10 
+Giles Massey           21 John Armitage               17 
+A Slack                18 Philip M Swinden            21 
+B Creaser              21 Joe Portelli                11 
+S Goddard               3 Lee Fitzgerald              21 
+P Power                12 Steve Hellewell             21 
+           Aggregate: 148                 Aggregate: 179 
+               Games:   4                     Games:   6 
+              Points:   4                    Points:  10 
+
+      Bamforth Cup                 Sat 14th Jun          
+                                On Meltham BC No 2       
+    Linthwaite Hall B             Springwood BC          
+Charlie Patterson      21 M Brammah                   13 
+C Dack                 12 C Hampshaw                  21 
+Chris O'Grady           6 Jonathan Newnham            21 
+Baldwin Walsh          13 Richard Lambert             21 
+Sam Dews               14 Graham Summers              21 
+Timothy Gledhill       10 John Pix                    21 
+K Dack                  6 D Morgan                    21 
+Steve Williams          8 D Cooper                    21 
+Chris Roberts          17 J Mellor                    21 
+A Singleton             8 T Balderson                 21 
+           Aggregate: 115                 Aggregate: 202 
+               Games:   1                     Games:   9 
+              Points:   1                    Points:  13 
+
+      Bamforth Cup                 Sat 14th Jun          
+                                   On Marsh Lib          
+     Lockwood Con B                Outlane BC B          
+R Manning              21 Bryan Mitchell              13 
+C Ball                 21 Bob Stead                    6 
+Bob Harper             21 Jez Simpson                  3 
+Devinder Dhaliwal      17 Malcolm Wragg               21 
+Ray McDermot            8 George Williams             21 
+S Allen                21 Howard Owen                 16 
+S Turner               20 Fred Greenwood              21 
+D Cooling              12 Patrick Campbell            21 
+G Clarke               21 Dave McClean                12 
+John Abbott            21 Mark Earnshaw                7 
+           Aggregate: 183                 Aggregate: 141 
+               Games:   6                     Games:   4 
+              Points:  10                    Points:   4 
+
+        Binns Cup                  Sat 14th Jun          
+                                 On Dalton C & BC        
+     Broad Oak BC B                Holmfirth BC          
+Peter Garside          15 Derek Hey                   21 
+P Bowes                21 Mirel Buga                  10 
+Martin Moran           10 Alan Birchall               21 
+Russell Auty           16 John Lee                    21 
+K Wilson               21 E Visona                    11 
+Galvin Evans           10 G Rollinson                 21 
+J Schofield            14 E Armitage                  21 
+D Rowan                21 *A.N.Other*                 19 
+           Aggregate: 128                 Aggregate: 145 
+               Games:   3                     Games:   5 
+              Points:   3                    Points:   9 
+
+        Binns Cup                  Sat 14th Jun          
+                                On Almondbury Lib        
+      Brockholes BC                 Shepley BC           
+Chris Booth            12 Andrew Astbury              21 
+Dave Barr              20 Jeffrey Samuel              21 
+Gary Doddsworth        17 Robert Oldham               21 
+Brian Gibson           21 John Taylor                 18 
+Callum Fox             10 Stuart Pears                21 
+Graham Sykes            8 Norman Raper                21 
+Nick Swift             18 Russell Clarkson            21 
+Kim Scadden             6 John Hodgson                21 
+           Aggregate: 112                 Aggregate: 165 
+               Games:   1                     Games:   7 
+              Points:   1                    Points:  11 
+
+        Binns Cup                  Sat 14th Jun          
+                                 On Lockwood Con         
+  Cleckheaton Sports B           Moldgreen Con B         
+Michael Binns          19 Stuart Smart                21 
+John Barraclough       21 Norman Ashwell               8 
+John Dyson             21 Pat Daw                     19 
+Greg Hutchinson        21 Wayne Jenkinson              6 
+Jack Glazzard           8 Aidan Crawley               21 
+Gary Blackburn         21 Danny Choma                 19 
+Chris Piercy           21 Shaun Daw                   11 
+Richard Oldroyd        11 Trevor Atkinson             21 
+           Aggregate: 143                 Aggregate: 126 
+               Games:   5                     Games:   3 
+              Points:   9                    Points:   3 
+
+        Binns Cup                  Sat 14th Jun          
+                               On Linthwaite C & BC      
+     Cowcliffe Lib C             Paddock I & C B         
+Richard Crossland      21 E Felton                    16 
+J Doyle                15 A Cockshaw                  21 
+Finley Garside          7 C Gough                     21 
+Ronny Wasps            21 S Lightfoot                 20 
+Stuart Stanley         13 J Townend                   21 
+John Bentley           21 J Mac Phillips              17 
+Paul Bickerdike        21 A Fowler                    15 
+M Utting               21 S Collier                   11 
+           Aggregate: 140                 Aggregate: 142 
+               Games:   5                     Games:   3 
+              Points:   7                    Points:   5 
+
+        Binns Cup                  Sat 14th Jun          
+                                  On Waterloo BC         
+      Dalton C & BC              Milnsbridge BC B        
+D Matthews             21 H Young                     12 
+Colin Wood             21 Andy Thornton                5 
+P Clay                 13 Ian Young                   21 
+K Clarkson             12 David Whitham               21 
+Stewart Clarkson       21 Kian Mosley                 11 
+D Ray                  21 Ian Parr                     9 
+T Boothroyd             9 Richard Eaton               21 
+Ritchard Taylor        18 Paul Rushworth              21 
+           Aggregate: 136                 Aggregate: 121 
+               Games:   4                     Games:   4 
+              Points:   7                    Points:   5 
+
+        Binns Cup                  Sat 14th Jun          
+                                 On Paddock I & C        
+      Golcar Lib C              Kirkheaton C & BC        
+J Murphy               18 Tony Dawson                 21 
+Craig Denton            7 Mark Berry                  21 
+E Thompson             16 Alan Stephenson             21 
+S Kavanagh             21 David Kilner                11 
+G Immediata            19 Colin Sykes                 21 
+R Allen                21 John Taylor                 17 
+P Antich               21 Gareth Morris               17 
+N Bennett              21 Geoff Pearson               19 
+           Aggregate: 144                 Aggregate: 148 
+               Games:   4                     Games:   4 
+              Points:   5                    Points:   7 
+
+        Binns Cup                  Sat 14th Jun          
+                                  On Longwood BC         
+      Lindley BC B               Lowerhouses C BC        
+D Leathwood            12 Steve Lee                   21 
+Anthony Taylor         21 Graham Berry                14 
+Alan Coggin            20 Chris Brook                 21 
+G Stott                21 Nick Hirst                  10 
+P Broadhead             5 Robert Edwards              21 
+A Henderson            21 Kevin McCluskey              5 
+P Ashworth             11 Richard Gatenby             21 
+A Dutton               21 Rob Gatenby                 19 
+           Aggregate: 132                 Aggregate: 132 
+               Games:   4                     Games:   4 
+              Points:   6                    Points:   6 
+
+        Binns Cup                  Sat 14th Jun          
+                          On Cleckheaton Sports - Front  
+     Netherton Con B           Slaithwaite C & BC B      
+J Pickard              21 Keith Hanley                13 
+*A.N.Other*            21 R Bradshaw                  13 
+*A.N.Other*            21 John Banks                  18 
+Geoff Dyson            18 Robert Gledhill             21 
+L Mason                 8 A Thorpe                    21 
+P Jefferson            21 Christopher Conway          19 
+N Priestley            21 R Slatford                   7 
+R Rhodes                0 C Sykes                     21 
+           Aggregate: 131                 Aggregate: 133 
+               Games:   5                     Games:   3 
+              Points:   7                    Points:   5 
 
 

@@ -1,4 +1,4 @@
-=== Huddersfield Ladies Bowling League 2025 (as of Thu 12th Jun)
+=== Huddersfield Ladies Bowling League 2025 (as of Sun 15th Jun)
 === League Match Cards
 
           Section C                    Mon 14th Apr         
@@ -869,6 +869,18 @@ Josie McParland             21 Melanie Mason             15
 Gillian Chalmers            21 Priti Gohil                7 
 Nancy Cartwright            21 Dee Haigh-Elmore          11 
                 Aggregate: 157               Aggregate: 101 
+
+          Section E                    Thu 1st May          
+       Milnsbridge BC B              Almondbury BC B        
+April Rushworth-Robinson    19 Gillean Meachen           21 
+Gemma Senior                 6 Sarah Halliwell           21 
+Alicen Rushworth            18 Linda Davies              21 
+Sylvia Dewhirst             10 Sarah Johnson             21 
+Jan Brook                   16 Eve Johnson               21 
+Sylvia Jones                 7 Theresa Harrison          21 
+Audrey Stern                16 Emma Collins              21 
+Gwyneth Hall                21 Diane Clifford            20 
+                Aggregate: 113               Aggregate: 167 
 
           Section E                    Thu 1st May          
          Brockholes B                  Lindley Lib          
@@ -2082,7 +2094,7 @@ Linda Baxter                21 Jackie Bray               11
 Janet Beaumont              17 Nancy Cartwright          21 
 Anne Booth                  21 Josie McParland           11 
 Jacky Carratt               21 Gillian Chalmers           7 
-Bethany Hague               21 Christine Heeley           0 
+Bethany Hague               21 *No Player*                0 
 Jane Sunter                  6 Brenda Priestley          21 
 Sue Turner                   4 Jane Taylor               21 
 Jackie Moutell               5 Bronwyn Kaye              21 
@@ -2116,5 +2128,47 @@ Pauline Moseley             21 Sharron Broadley          14
 Ann Price                   21 Jane Moore                14 
                  Handicap: +16                Handicap: +24 
                 Aggregate: 142               Aggregate: 155 
+
+   2nd Round Sanderson Cup             Thu 12th Jun         
+                                     On Netherton Con       
+         Broad Oak B              Skelmanthorpe Central     
+Nicola Booth                21 Carol Scaramuzza          17 
+Joan Kaye                    8 Elizabeth Barden          21 
+Brenda Normington           15 Caroline Hawke            21 
+Elaine Elston                9 Maureen Berry             21 
+Alison Withington           10 Margaret White            21 
+Hazel Mularkey              21 Margaret Dollive          13 
+Lynn Bowes                  21 Helen Harries             19 
+Christine Smith             21 Elaine Long               20 
+                 Handicap: +32                Handicap: +16 
+                Aggregate: 158               Aggregate: 169 
+
+   2nd Round Sanderson Cup             Thu 12th Jun         
+                                       On Holmfirth         
+          Marsh Lib                    Lindley Lib          
+Julie Robson                21 Margaret Holt              9 
+Lisa Robson                 13 Nikki Conway              21 
+Megan Beresford             21 Diane Proctor             12 
+Susan Livingstone           21 Dawn Fawcett              13 
+Dawn Neil                   21 Rita Doran                 8 
+Annette Wilson              18 Julie Shaw                21 
+Wendy Smith                 21 Iris Perkins               7 
+Christine Balmforth         21 Sue Thomas                 7 
+                 Handicap: +16                Handicap: +40 
+                Aggregate: 173               Aggregate: 138 
+
+     2nd Round Nunns Cup               Thu 12th Jun         
+                                      On Golcar Lib         
+       Kirkheaton Con A                 Outlane B           
+Sylvia Lane                 21 Janet Holmes               8 
+Lynne Holdroyd              21 Susan Pickup               9 
+Anita Cuniffe               21 Julie Polzin               9 
+Lynn Flowers                21 Megan Tanner               9 
+Ann Butterworth             21 Sharon Senior             10 
+Catherine Glover            21 June Dibb                 10 
+Paula Kershaw               21 Judith Parker              7 
+Cath O'Connor               13 Mary Phillips             21 
+                 Handicap: +24                Handicap: +40 
+                Aggregate: 184               Aggregate: 123 
 
 

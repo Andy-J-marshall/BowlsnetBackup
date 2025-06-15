@@ -1,10 +1,10 @@
-=== Halifax (Hebden Royd Vets) 2025 (as of Thu 12th Jun)
+=== Halifax (Hebden Royd Vets) 2025 (as of Sun 15th Jun)
 === League Match Cards
 
       Division 3            Wed 2nd Apr       
      Ripponden C           Elland W.M. B      
 Gillian Smith       21 Margaret Harte      16 
-Sue Jobson          14 *A.N.Other*         21 
+Sue Jobson          14 B Newman            21 
 Paul Hitchen         7 Peter Clement       21 
 Linda Friend        21 David Priestley     19 
 Fred Greenwood      21 John Jackson        11 
@@ -98,7 +98,7 @@ Pat Hand            21 Peter Scroggins     11
 John Jackson        15 Peter Thompson      21 
 Judith Moroney      10 Gary Hudson         21 
 David Priestley     21 Jim Binns           13 
-*A.N.Other*         16 Andy Johnson        21 
+B Newham            16 Andy Johnson        21 
            Points:   2            Points:   6 
 
       Division 3            Wed 9th Apr       
@@ -231,6 +231,16 @@ Peter Thompson      21 Linda Friend         9
            Points:   7            Points:   1 
 
       Division 3            Wed 16th Apr      
+      Halifax C             Greenroyd B       
+Alan Jeffs          21 Jan White            2 
+Robert Sandie       21 Carole Ludlam       16 
+Mary Barmby         18 Richard Gatecliff   21 
+Chris Lyndsey       21 Mark Hepworth       15 
+Terry Kettle        21 Jennifer Harkness    9 
+David Mitton        21 Janet Jackson        7 
+           Points:   7            Points:   1 
+
+      Division 3            Wed 16th Apr      
      Greenroyd A             Halifax D        
 Ken Campbell        21 Janet Sylvester      7 
 Stephen Baldwin     21 Nigel Fielden        6 
@@ -244,7 +254,7 @@ Ceri Edwards        11 Sue Reed            21
       Bradshaw C           Elland W.M. B      
 Malcolm Rothery     21 John Jackson        12 
 Eric Crowther       21 Sandra Lowe          5 
-Derek Ashington     14 *A.N.Other*         21 
+Derek Ashington     14 B Newham            21 
 Joe Scanlon          2 Pat Hand            21 
 John Furlong         8 David Priestley     21 
 Mervyn Bamford       0 Margaret Harte      21 
@@ -349,6 +359,17 @@ Ian Tootell         21 Faye Curran         14
 
     Division 1 & 2          Wed 23rd Apr      
       Division 2                              
+      Allan Park             Sowerby B        
+Milly Wheelwright   21 Phillip Eastwood    16 
+June Gaukroger      21 Jimmy Bainbridge     9 
+Gary O'Leary        21 Roger Sargison      16 
+Maurice Boyd        18 Harry Charlton      21 
+Linda Lees          21 Linden Howarth      14 
+Paul Rimmer         20 Alan Riddles        21 
+           Points:   6            Points:   2 
+
+    Division 1 & 2          Wed 23rd Apr      
+      Division 2                              
         Savile             Luddendenfoot      
 Andresa McWhirter   15 Paul Wildsmith      21 
 Adrian Baldwin      12 Gerald Rowley       21 
@@ -387,6 +408,16 @@ Alex Myers           9 Clive Barrett       21
 Keith Wadsworth     18 Glenis Kershaw      21 
 David McAlpine      21 Ruth Ratcliffe      16 
            Points:   5            Points:   3 
+
+      Division 3            Wed 23rd Apr      
+    Elland W.M. B           Greenroyd A       
+B Newham            21 Ken Campbell         8 
+Sandra Lowe          8 Phil Shire          21 
+Judith Moroney       5 Stephen Baldwin     21 
+David Priestley     17 Stephen Helliwell   21 
+Margaret Harte       8 Barry Broadbent     21 
+John Jackson        21 John Edwards         9 
+           Points:   2            Points:   6 
 
       Division 3            Wed 23rd Apr      
      Greenroyd B             Bradshaw B       
@@ -506,6 +537,16 @@ Ken Campbell        21 Richard Peter Moss   7
 John Edwards        21 Tamina Oates        14 
 Barry Broadbent     21 Paul Hitchen        11 
            Points:   7            Points:   1 
+
+      Division 3            Wed 30th Apr      
+      Halifax C            Elland W.M. B      
+Alan Jeffs          15 John Jackson        21 
+Mary Barmby         10 David Priestley     21 
+Mavis Walker        21 Sandra Lowe          7 
+Robert Sandie        8 Margaret Harte      21 
+David Mitton        10 B Newham            21 
+Chris Lyndsey       21 Pat Hand            11 
+           Points:   2            Points:   6 
 
       Division 3            Wed 30th Apr      
       Bradshaw B             Halifax D        
@@ -677,6 +718,16 @@ Peter Thompson      21 Stephen Helliwell    3
            Points:   6            Points:   2 
 
       Division 3            Wed 7th May       
+    Elland W.M. B            Bradshaw B       
+Stephen Graydon     21 Pat Wilson           5 
+Margaret Harte       8 Phillip Moran       21 
+B Newham            21 Derek Wilson         9 
+David Priestley     20 Newman Fawley       21 
+John Jackson         7 Max Robinson        21 
+Judith Moroney      12 Trevor Mosey        21 
+           Points:   2            Points:   6 
+
+      Division 3            Wed 7th May       
      Greenroyd B             Crow Wood        
 John Edwards        13 Alex Myers          21 
 Patricia Woodman    16 Edward Marshall     21 
@@ -695,6 +746,28 @@ Derek Ashington     21 Gladys McBride      19
 John Furlong        21 Linda Powell        16 
 Joe Scanlon         16 Angela Lawson       21 
            Points:   7            Points:   1 
+
+    Division 1 & 2          Wed 14th May      
+      Division 1                              
+       Oxenhope              Walsden A        
+Fred Rothwell       13 Andrew Foster       21 
+John Slight         12 Steven Bailey       21 
+Gordon Cox          12 Peter Whitaker      21 
+Eric Holmes         21 Michael Butcher     20 
+Mary Hemsley        10 Malcolm Dimelow     21 
+Roger Whitaker       1 Keith Rudman        21 
+           Points:   1            Points:   7 
+
+    Division 1 & 2          Wed 14th May      
+      Division 1                              
+    Elland W.M. A            Sowerby A        
+Geoff Boothroyd     21 Edward Eyres        13 
+Peter Wright        21 Brian Pickles       13 
+Nick Lowe            6 Renata Eyres        21 
+Geoffrey Place      21 Peter Lomax         19 
+Frank Turner        18 Pat Skene           21 
+John Armitage       11 Glenda Hartley      21 
+           Points:   3            Points:   5 
 
     Division 1 & 2          Wed 14th May      
       Division 1                              
@@ -943,6 +1016,16 @@ Stephen Fieldhouse   7 David Mitton        21
            Points:   6            Points:   2 
 
       Division 3            Wed 21st May      
+      Halifax D             Greenroyd B       
+Beate Atkinson      16 Helen Smith         21 
+Sue Pover           21 Richard Gatecliff   14 
+Clive Martin        21 Patricia Woodman    20 
+Nigel Fielden       21 Lynda Helliwell     15 
+Ann Martin          21 R Milner            15 
+Glyn Owen           21 Wendy Cotterill     20 
+           Points:   7            Points:   1 
+
+      Division 3            Wed 21st May      
      Cross Roads             Bradshaw B       
 Andy Johnson        21 Phillip Moran        0 
 Peter Scroggins     21 Pat Wilson          16 
@@ -961,6 +1044,16 @@ Ken Campbell        21 Margaret Pitt       18
 Stephen Baldwin     21 Angela Lawson        3 
 Barry Broadbent     21 Gladys McBride      12 
            Points:   8            Points:   0 
+
+      Division 3            Wed 21st May      
+    Elland W.M. B            Crow Wood        
+John Jackson        21 Edward Marshall     19 
+Stephen Shaw        20 Alex Myers          21 
+B Newham            21 George Habergham     5 
+Margaret Harte      12 Steve Laycock       21 
+Sandra Lowe         10 Brian Lawrence      21 
+David Priestley     21 David McAlpine      19 
+           Points:   3            Points:   5 
 
     Division 1 & 2          Wed 28th May      
       Division 1                              
@@ -1067,7 +1160,7 @@ Alex Myers          21 Christine Dunwell   14
 Brian Lawrence      21 Loretta Barker       6 
 John Dinsdale       11 Sue Jobson          21 
 Edward Marshall     16 Mary Rowell         21 
-*A.N.Other*         21 Pat Hodgson         11 
+Ian Mellor          21 Pat Hodgson         11 
 George Habergham    21 Gillian Smith       19 
            Points:   6            Points:   2 
 

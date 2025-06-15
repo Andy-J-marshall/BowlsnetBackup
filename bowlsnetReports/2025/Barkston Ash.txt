@@ -1,4 +1,4 @@
-=== Barkston Ash ABA (Saturday) 2025 (as of Thu 12th Jun)
+=== Barkston Ash ABA (Saturday) 2025 (as of Sun 15th Jun)
 === League Match Cards
 
           Division 1                   Sat 5th Apr        
@@ -24,6 +24,18 @@ Ruth Nicholson                9 D Franks               21
 Geoff Saunders               21 Guy Stewart             8 
 David Milnes                 15 Sam Donnelly           21 
                  Aggregate: 132            Aggregate: 130 
+
+          Division 1                   Sat 5th Apr        
+         Swillington A                  Roundhay          
+Chris Firth                  21 Andy Sharratt          11 
+Adam Conlon                  21 John Bates              7 
+Nathan Conlon                17 Paul Burke             21 
+Karl Getliffe                19 Andy Ford              21 
+Thomas Scorah                21 Jim Jordan             16 
+Andy Webb                    18 R Taylor               21 
+Ian Vickers                  21 Martin Lally           16 
+Andrew Morris                12 James Bird             21 
+                 Aggregate: 150            Aggregate: 134 
 
           Division 1                   Sat 5th Apr        
            Magnets A                    Kippax A          
@@ -128,7 +140,7 @@ Julie Goldup                 21 Keith Dodgson          16
 Brian Hill                   21 David Croft             7 
 Andrew Savery                21 Terry Maclean          10 
 Tim Harris                   21 Michael Higgins        11 
-*A.N.Other*                  21 David Wright           13 
+Jade Johnson                 21 David Wright           13 
 Graham Walker                21 Gill Potter             4 
 Nathan Biddles               21 Stuart Cockerham       18 
                  Aggregate: 168            Aggregate:  86 
@@ -452,6 +464,18 @@ Simon Cahill                 21 Steven Porter           9
                  Aggregate: 149            Aggregate:  95 
 
           Division 1                  Sat 19th Apr        
+           Roundhay                    Tadcaster A        
+John Bates                   17 Graeme Franklin        21 
+Paul Burke                   12 David Lightfoot        21 
+Andy Ford                    21 Mick Cooper            11 
+Jim Jordan                   13 Neil Wood              21 
+Martin Lally                 17 F Cook                 21 
+Philip Schofield             19 Mark Hopps             21 
+Andy Sharratt                21 Martin Thornton        17 
+R Taylor                     21 Aimee Tootell          10 
+                 Aggregate: 141            Aggregate: 143 
+
+          Division 1                  Sat 19th Apr        
          Swillington B                Crossgates BC       
 Sam Donnelly                 13 Rachel Wilcox          21 
 Paul Hazelgrave              21 Tom Smith              17 
@@ -462,6 +486,18 @@ Guy Stewart                  21 Lynne Wilcox           18
 Andrew Morris                20 Mark Taylor            21 
 M Edge                       10 James Wilcox           21 
                  Aggregate: 148            Aggregate: 142 
+
+          Division 1                  Sat 19th Apr        
+           Kippax A                   Swillington A       
+Chris Sumner                  8 Adam Conlon            21 
+Jade Johnson                 19 Ian Vickers            21 
+Robert Earl                  21 Nathan Conlon          13 
+Gary Earl                    18 Daryl Harrap           21 
+Rod Chew                     20 Chris Firth            21 
+Liam Todd                    19 David A Smith          21 
+Phillip Hatch                17 Scott Normington       21 
+Graham Hodder                15 Thomas Scorah          21 
+                 Aggregate: 137            Aggregate: 160 
 
           Division 1                  Sat 19th Apr        
          Garforth CC A                  Magnets A         
@@ -550,13 +586,13 @@ Ray Barret                   18 Steve Clough           21
           Division 3                  Sat 19th Apr        
           Aberford A                    Kippax B          
 Mark Moorhouse               21 Julie Goldup           16 
-Brownridge Don               11 Paul Stephenson        21 
-*A.N.Other*                  21 Richard Robson          6 
+Don Brownridge               11 Paul Stephenson        21 
+Jan Collinson                21 Richard Robson          6 
 Alan Braithwaite             12 Andrew Savery          21 
-*A.N.Other*                  21 Ronald Hill            19 
+Mick Fletcher                21 Ronald Hill            19 
 Lynda Lock                   21 Tim Harris             17 
 Sue Hancock                  21 *A.N.Other*            17 
-*A.N.Other*                  18 Graham Walker          21 
+Dennis Hancock               18 Graham Walker          21 
                  Aggregate: 146            Aggregate: 138 
 
           Division 3                  Sat 19th Apr        
@@ -691,6 +727,18 @@ Dennis Bainbridge            20 David Ryder            21
 Nick Moulding                21 Andrea Ryder           13 
                  Aggregate: 161            Aggregate: 117 
 
+          Division 2                  Sat 26th Apr        
+       Crossgates Rec A              Chapel Allerton      
+*A.N.Other*                  21 Ian Macmillan          16 
+*A.N.Other*                  21 Steve Bird             19 
+Maria Durkin                 21 Andrew Paxton          19 
+A Walton                     21 Adrienne Blackwell     14 
+Stephen Tyas                 21 David Blackwell        16 
+Alan Durant                  21 Colin Wilson           19 
+Graham Scholes               21 David Burke            18 
+Bob Paterson                 12 Alex McSheehy          21 
+                 Aggregate: 159            Aggregate: 142 
+
           Division 3                  Sat 26th Apr        
            Kippax B                    Fearnville         
 Natale Pasquale              21 *A.N.Other*             8 
@@ -707,7 +755,7 @@ Chris Sumner                 21 Stuart Poulter         13
           Aberford A                   Sherburn B         
 Bev Wharton                   9 *A.N.Other*            21 
 Mark Moorhouse               21 Helen Crawshaw          8 
-Brownridge Don               21 Joan Kilburn Mrs       15 
+Don Brownridge               21 Joan Kilburn Mrs       15 
 Dennis Hancock               21 Veronica Jenkins        7 
 Mick Fletcher                21 Gordon McGlone         12 
 Sue Hancock                  21 Christine Towell Mrs   11 
@@ -892,6 +940,18 @@ Sophie Olivant               15 David Tinker           21
                  Aggregate: 119            Aggregate: 140 
 
           Division 2                   Sat 3rd May        
+        Chapel Allerton               Boston Spa A        
+Mandy Wilson                 21 David Taylor            8 
+Adrienne Blackwell            6 Steve Richardson       21 
+Tommy Massey                 21 William Shaw           14 
+Laurentiu Barbu              21 Sephton Baxter         20 
+Colin Wilson                 21 Ian Lindsay            10 
+David Blackwell              21 Ruth Meades            10 
+Tina Howard                  21 Janet Taylor           15 
+Steve Bird                   21 Trevor Howard          19 
+                 Aggregate: 153            Aggregate: 117 
+
+          Division 2                   Sat 3rd May        
         Garforth Rec A                  Barwick A         
 Carole Kitchen               21 Dennis Bainbridge       8 
 B Deighton                   21 Denise Gent            11 
@@ -930,7 +990,7 @@ Morse Shah                   15 James Taylor           21
           Division 3                   Sat 3rd May        
            Barwick B                   Aberford A         
 Jennifer Dodgson             21 Bev Wharton            17 
-Rachel Proctor                9 Brownridge Don         21 
+Rachel Proctor                9 Don Brownridge         21 
 Stuart Cockerham             21 Mark Moorhouse         17 
 Ken Maxim                    20 Alan Braithwaite       21 
 David Wright                 14 Sue Hancock            21 
@@ -1035,6 +1095,18 @@ John Walker                  21 Chris Cook              9
 Michelle Scorah              13 Owen Laurie            21 
                  Aggregate: 113            Aggregate: 129 
 
+          Division 1                  Sat 10th May        
+         Swillington A                Swillington B       
+Adam Conlon                  21 Paul Hazelgrave         7 
+Nathan Conlon                 7 Lee Stewart            21 
+David A Smith                21 Sam Donnelly            8 
+Andrew Morris                21 D Godley               14 
+Chris Firth                  21 Daniel Scarlett        18 
+Karl Getliffe                12 Adrian Sharp           21 
+Keiron Smith Jnr             21 Guy Stewart             9 
+Thomas Scorah                21 D Franks               15 
+                 Aggregate: 145            Aggregate: 113 
+
           Division 2                  Sat 10th May        
        Crossgates Rec A               East End Park       
 Bob Paterson                 20 Sophie Olivant         21 
@@ -1054,7 +1126,7 @@ David Burke                  14 Carolyn Fiddler        21
 David Blackwell              21 Rosemary Baxter        17 
 Andrew Paxton                15 James Hawkins          21 
 Alex McSheehy                14 Carl (Rob) Preene      21 
-*A.N.Other*                  17 Trevor Hardy           21 
+Steve Bird                   17 Trevor Hardy           21 
 Graham Pickles               21 Morse Shah             18 
 Chris Jones                  21 Barry Shooter          12 
                  Aggregate: 144            Aggregate: 144 
@@ -1180,6 +1252,18 @@ D Franks                     21 Jim Jordan             19
                  Aggregate:  99            Aggregate: 165 
 
           Division 1                  Sat 17th May        
+         Crossgates BC                Swillington A       
+Tom Smith                    21 Andrew Morris          18 
+Mick Wood                    21 Ian Vickers            20 
+Rachel Wilcox                21 Thomas Scorah          13 
+Natalie Sanderson            15 Daryl Harrap           21 
+Lynne Wilcox                 21 David A Smith          16 
+Louie Taylor                 18 Scott Normington       21 
+James Wilcox                 21 Adam Conlon            10 
+Grant Bartle                 18 Nathan Conlon          21 
+                 Aggregate: 156            Aggregate: 140 
+
+          Division 1                  Sat 17th May        
            Kippax A                   Garforth CC A       
 Chris Sumner                 21 Nigel Turner           19 
 Rod Chew                     21 Les Hudson             10 
@@ -1228,6 +1312,18 @@ Jeff Binns                   10 James Hawkins          21
                  Aggregate: 142            Aggregate: 137 
 
           Division 2                  Sat 17th May        
+         East End Park               Chapel Allerton      
+Paul Reynard                 21 Steve Bird             10 
+Ryley Patrick                20 David Burke            21 
+Steve Olivant                 7 David Blackwell        21 
+Matt Ramsey                  11 Mandy Wilson           21 
+Dave Smith                   21 Laurentiu Barbu        12 
+Josie Olivant                16 Tommy Massey           21 
+Tony Groves                  12 Tina Howard            21 
+Darran Baker                 21 Colin Wilson           16 
+                 Aggregate: 129            Aggregate: 143 
+
+          Division 2                  Sat 17th May        
            Colton A                 Crossgates Rec A      
 Ray Dixon                    21 Dave Farman            18 
 Martin Dowling               21 Maria Durkin            7 
@@ -1253,8 +1349,8 @@ Terry Rock                   21 John Walker            11
 
           Division 3                  Sat 17th May        
           Woodlesford                   Kippax B          
-Arthur Whiteley              21 R Auty                 11 
-Dennis Birch                 20 R Matterson            21 
+Arthur Whiteley              21 Richard Auty           11 
+Dennis Birch                 20 Ray Matterson          21 
 Tony Harriman                21 Paul Stephenson        15 
 David Mosby                  10 Brian Hill             21 
 Roger Boyes                  11 Andrew Savery          21 
@@ -1325,7 +1421,7 @@ John Bailey                  14 John Orrell            21
 
           Division 4                  Sat 17th May        
          Garforth CC B                 North Leeds        
-Ian Thornhill                21 Sue Altman             10 
+Ian Thornhill                21 Sue Allman             10 
 Sheila Tyson Mrs             13 Terry Rock             21 
 Philip Brook                 21 Mary Kinder             6 
 Alison Roberts               21 Sanjay Thurkral         4 
@@ -1358,6 +1454,18 @@ Dale Williamson              21 Graham Hodder          17
 David McGourty               21 Phillip Hatch           7 
 Phil Hill                    21 Robert Earl             5 
                  Aggregate: 167            Aggregate: 113 
+
+          Division 1                  Sat 31st May        
+           Roundhay                   Crossgates BC       
+John Bates                   21 Mark Taylor             4 
+James Bird                   14 Rachel Wilcox          21 
+Paul Burke                   21 Louie Taylor           15 
+Andy Sharratt                11 James Wilcox           21 
+Andy Ford                    13 Gareth Lally           21 
+Martin Lally                 12 Tom Smith              21 
+R Taylor                     21 Natalie Sanderson      14 
+Jim Jordan                   21 Lynne Wilcox           17 
+                 Aggregate: 134            Aggregate: 134 
 
           Division 1                  Sat 31st May        
           Tadcaster A                   Magnets A         
@@ -1412,7 +1520,7 @@ Darran Baker                 21 Barrie Wilson          15
 Tina Howard                  18 Martin Dowling         21 
 Colin Wilson                 15 David Ryder            21 
 Phillip Port                 21 Jack Render            18 
-*A.N.Other*                  16 Gary Mahoney           21 
+Steve Bird                   16 Gary Mahoney           21 
 David Burke                  21 Andrea Ryder           14 
 Mandy Wilson                 21 Mike Noble             14 
 Tommy Massey                 21 Mick Galley            19 
@@ -1486,7 +1594,7 @@ D Brooksbank Mrs             21 John Ramsbottom        14
 Bryan Wilkinson              20 John Bailey            21 
 Pat Parker                   21 Susan Dunwell          10 
 Andrew Best                  21 Pat Bailey              8 
-Kim Dickinson                 5 Brownridge Don         21 
+Kim Dickinson                 5 Don Brownridge         21 
 Damian Dickinson             21 Paul Farrer             2 
 Mike Osborne                 13 Terry Collier          21 
                  Aggregate: 143            Aggregate: 103 
@@ -1669,12 +1777,12 @@ Simon Cahill                 17 Philip Elliott         21
           Qtr-Finals                   Sat 7th Jun        
                                        On Barwick         
            Kippax B                    Aberford A         
-R Auty                       15 Jan Collinson          21 
+Richard Auty                 15 Jan Collinson          21 
 Brian Hill                   18 Paul Brownridge        21 
 Graham Walker                21 Mark Moorhouse          9 
 Andrew Savery                13 Alan Braithwaite       21 
 Julie Goldup                 16 Lynda Lock             21 
-R Matterson                   8 Mick Fletcher          21 
+Ray Matterson                 8 Mick Fletcher          21 
 Jade Johnson                 21 Dennis Hancock         18 
 Tim Harris                   17 David Walker           21 
                  Aggregate: 129            Aggregate: 153 
@@ -1718,5 +1826,209 @@ Chris Cook                   21 Bev Dixon               9
 Darren Evans                 21 John Dixon             11 
                   Handicap: Scr             Handicap: +16 
                  Aggregate: 162            Aggregate: 107 
+
+          Division 1                  Sat 14th Jun        
+         Swillington B                  Whitkirk          
+Sam Donnelly                 21 Phil Hill              13 
+Paul Hazelgrave              21 Simon Cahill           20 
+Lee Stewart                  21 Mike Carroll           15 
+Liam Massey                  21 Pauline Farrar          8 
+D Franks                     21 Jack Williamson        20 
+Adrian Sharp                 21 Andy Johnson           17 
+Guy Stewart                  11 Stan Elwell            21 
+M Edge                       21 Paul Hardy             18 
+                 Aggregate: 158            Aggregate: 132 
+
+          Division 1                  Sat 14th Jun        
+          Sherburn A                    Roundhay          
+Shirley Ryan                 21 James Bird             19 
+Helen Crawshaw               11 Paul Burke             21 
+Ruth Nicholson               15 R Taylor               21 
+Mavis Kendall                21 Philip Schofield       12 
+Steven Porter                21 Andy Ford              16 
+Peter Kendall                13 John Bates             21 
+Albert Mouser                 5 Jim Jordan             21 
+David Milnes                 21 Andy Sharratt           9 
+                 Aggregate: 128            Aggregate: 140 
+
+          Division 1                  Sat 14th Jun        
+           Magnets A                  Swillington A       
+Peter Greenwood              16 David A Smith          21 
+Glenn Dickinson              21 Nathan Conlon          18 
+Liz White                    10 Karl Getliffe          21 
+Pauline Wetherhill           14 Andrew Morris          21 
+Melanie Collins              21 Chris Firth            17 
+Graham Beck                  21 Adam Conlon            19 
+David Bedford                10 Daryl Harrap           21 
+Jon Lucas                    17 Thomas Scorah          21 
+                 Aggregate: 130            Aggregate: 159 
+
+          Division 1                  Sat 14th Jun        
+          Tadcaster A                 Garforth CC A       
+F Cook                        9 Duncan Ruddlesden      21 
+Neil Wood                    21 Michael Firth           9 
+Graeme Franklin              21 Steve Miller            2 
+Aimee Tootell                21 Les Hudson             19 
+David Lightfoot              21 Stuart Cranston        14 
+Mark Hopps                   15 Nigel Cranston         21 
+Martin Thornton              21 Philip Lodge           11 
+John Dykes                   21 Nigel Turner           14 
+                 Aggregate: 150            Aggregate: 111 
+
+          Division 2                  Sat 14th Jun        
+        Harehills Park              Crossgates Rec A      
+Danny Love                   21 Alan Dean              17 
+David Smith                  21 Graham Scholes         17 
+Paul Lawson                  21 Dave Farman             7 
+John Atkinson                21 Alan Wood              13 
+Alan McConnell               17 Kyle Rennison          21 
+Peter Simmons                20 James Taylor           21 
+Laura Love                   21 Peter Evans             7 
+Raymond Swallow              21 Stephen Tyas           13 
+                 Aggregate: 163            Aggregate: 116 
+
+          Division 2                  Sat 14th Jun        
+           Barwick A                  Boston Spa A        
+Jeff Binns                   21 David Gooch            11 
+Denise Gent                  21 Ian Lindsay            10 
+Pam Binns                    21 Sephton Baxter         14 
+Antoanetta Bainbridge        21 William Shaw           13 
+Nick Moulding                21 Janet Taylor            9 
+Jane Boyd                    21 David Taylor           15 
+Chris Boyd                   21 Trevor Howard          12 
+Dennis Bainbridge            18 Ruth Meades            21 
+                 Aggregate: 165            Aggregate: 105 
+
+          Division 2                  Sat 14th Jun        
+        Garforth Rec A                East End Park       
+Tony Boyes                   21 Tony Groves            13 
+Ray Brown                    21 Josie Olivant          12 
+B Deighton                   12 Sophie Olivant         21 
+Barbara Kyle                 10 Dave Smith             21 
+Joy Slater                    9 Darran Baker           21 
+Julie Matthews               21 Helen Simms            11 
+Bob Felton                    2 Paul Reynard           21 
+Bill Robinson                21 Matt Ramsey            12 
+                 Aggregate: 117            Aggregate: 132 
+
+          Division 2                  Sat 14th Jun        
+            Scholes                  Chapel Allerton      
+Steve Hartley                19 Tina Howard            21 
+Marie Jones                   9 Adrienne Blackwell     21 
+Brenda Pennock               21 Steve Bird             13 
+Karen Lewis                  21 David Blackwell        15 
+John Pennock                 21 Colin Wilson           18 
+David White                  21 Graham Pickles         19 
+Steven Proberts              21 Mandy Wilson           20 
+James Frisby                 21 Tommy Massey           10 
+                 Aggregate: 154            Aggregate: 137 
+
+          Division 2                  Sat 14th Jun        
+           Colton A                     Magnets B         
+Dave Clarkson                21 Carl (Rob) Preene      16 
+Ray Dixon                    19 Morse Shah             21 
+Mick Galley                  21 Barrie Wilson          16 
+Gary Mahoney                 21 Rosemary Baxter        12 
+Mike Noble                   21 Dave Skinner           11 
+Jack Render                  16 James Hawkins          21 
+Andrea Ryder                 21 Eileen Emmett          12 
+David Ryder                  21 Trevor Hardy           17 
+                 Aggregate: 161            Aggregate: 126 
+
+          Division 3                  Sat 14th Jun        
+           Kippax B                    Sherburn B         
+Ray Matterson                21 Joan Kilburn Mrs       16 
+Paul Stephenson              21 Jim Humphreys           6 
+Brian Hill                   21 Christine Towell Mrs   15 
+Tim Harris                   21 Gareth Lloyd            5 
+Julie Goldup                 21 Jan Tope Mrs           10 
+Andrew Savery                21 Veronica Jenkins        5 
+Nathan Biddles               21 Simon Umpleby           4 
+Jade Johnson                 19 Lyndon Senior          21 
+                 Aggregate: 166            Aggregate:  82 
+
+          Division 3                  Sat 14th Jun        
+          Woodlesford                  Aberford A         
+Sharon Harriman              21 Mark Moorhouse          5 
+Dennis Birch                 16 Don Brownridge         21 
+Roger Boyes                  17 Lynda Lock             21 
+Tony Harriman                13 Jan Collinson          21 
+Maggie Boyes                 17 Alan Braithwaite       21 
+Jim Keenan                   18 Sue Hancock            21 
+Liz Mace                     21 Mick Fletcher          19 
+Stuart Marsh                 17 Dennis Hancock         21 
+                 Aggregate: 140            Aggregate: 150 
+
+          Division 3                  Sat 14th Jun        
+            Thorner                     Barwick B         
+Toni Laurie                  21 Terry Maclean           9 
+Katie Simms                  21 Julie Higgins           6 
+Christine Holmes             20 Gill Potter            21 
+Howard Broadbent             21 Derek Harding          14 
+Alistair Warren               3 David Wright           21 
+Chris Cook                   21 David Croft            16 
+Peter Holmes                 21 Michael Higgins         8 
+Owen Laurie                  21 Stuart Cockerham        6 
+                 Aggregate: 149            Aggregate: 101 
+
+          Division 3                  Sat 14th Jun        
+       Crossgates Rec B                Fearnville         
+Keith Dobson                 21 Martin Atkinson        14 
+Elsie Baxter                 20 Stella Gibbons         21 
+Dave Cuss                     9 Stuart Poulter         21 
+Joyce Hornung                18 Douglas Fraser         21 
+Roy Beverley                 17 Paul Foster            21 
+Alan Dixon                   21 Madge Cass             12 
+Peter Walker                 21 John West              13 
+Terry Rock                   16 Ray Barret             21 
+                 Aggregate: 143            Aggregate: 144 
+
+          Division 4                  Sat 14th Jun        
+          North Leeds                   Wetherby          
+David Jones                  21 Jennifer Wright        18 
+Angela Baker                 20 Carole Aldred          21 
+Sanjay Thurkral               4 Lee Prentice           21 
+Howard Hesling               18 Judy Stow              21 
+Catherine Harrison           10 George Haywood         21 
+Hilary Asoko                 16 Michael Malawer        21 
+Emma Hesling                 12 Andrew Orton           21 
+Ralph Thompson               21 Alex May               15 
+                 Aggregate: 122            Aggregate: 159 
+
+          Division 4                  Sat 14th Jun        
+         Garforth CC B               Garforth Rec B       
+Nigel Ware                   21 John Dixon              9 
+Trevor Curtis                21 Mike Osborne           13 
+Dave Mincher                 20 Bryan Wilkinson        21 
+Anne Doughty                 19 Bev Dixon              21 
+Philip Brook                 21 Damian Dickinson       14 
+Alison Roberts               21 Mary Wilkinson          8 
+Trevor Kell                  21 Kim Dickinson          15 
+Stewart Tyson                21 Andrew Best            16 
+                 Aggregate: 165            Aggregate: 117 
+
+          Division 4                  Sat 14th Jun        
+         Valley Ridge                   Colton B          
+Phil Howarth                 21 Ann Tubby               7 
+Cliff Edwards                21 Monica Buckroyd        15 
+Hugh Carr                    21 Anthony Fawcett        17 
+Dennis Johnson               21 Elizabeth Loveday      11 
+Peter Smith                  21 Ian Longfellow         11 
+Barry Chew                   21 Roy Wheatley           12 
+Trevor Booth                 14 Peter Griffin          21 
+Roy Barton                   10 Maria Wright           21 
+                 Aggregate: 150            Aggregate: 115 
+
+          Division 4                  Sat 14th Jun        
+          Aberford B                   Tadcaster B        
+John Bailey                   9 Neil Taylor            21 
+Susan Dunwell                21 Ian Hamilton           16 
+Trevor Hardaker               8 Janet Gomersall        21 
+Paul Farrer                   9 Louise Lendell         21 
+Colin Roe                    21 Philip Thirkill        12 
+Terry Collier                13 Robin Addis            21 
+Gordon Davison               12 Jim Smith              21 
+David Howson                 21 John Munday             4 
+                 Aggregate: 114            Aggregate: 137 
 
 

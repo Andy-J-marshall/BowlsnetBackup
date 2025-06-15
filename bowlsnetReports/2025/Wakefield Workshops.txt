@@ -1,4 +1,4 @@
-=== Wakefield Workshops League 2025 (as of Thu 12th Jun)
+=== Wakefield Workshops League 2025 (as of Sun 15th Jun)
 === League Match Cards
 
           League                  Mon 31st Mar        
@@ -511,15 +511,15 @@ Don Ward                21 John Wallis              5
           League                  Wed 9th Apr         
         Division 4                                    
      Grange Park 'B'             Slazengers 'D'       
-Doreen Ashton           21 John Bagshaw            16 
-Julie Clark             21 Sarah McAteer           13 
-John Sparling           21 Steve Rayner            11 
-Jane Illsley            21 Micheal Barrett          5 
-Derick Hartley          21 Irene Brown              4 
-June Herrera            21 Nathan McAteer           9 
-Fred Watson             21 Arthur Birro            16 
-Victor Flynn            21 David Fox               18 
-            Aggregate: 168             Aggregate:  92 
+Julie Clark              5 Wendy Fairham           21 
+Doreen Ashton           21 Sarah McAteer           20 
+Victor Flynn            21 Russell Studd           10 
+Mick Richardson          9 John Bagshaw            21 
+Fred Watson             21 Nathan McAteer          15 
+June Herrera            21 Micheal Barrett          6 
+Lynda Russell           21 David Fox               14 
+David Wells             21 John Hellam             13 
+            Aggregate: 140             Aggregate: 120 
 
           League                  Mon 14th Apr        
         Division 4                                    
@@ -2481,7 +2481,7 @@ John Packer             21 Graham Kirkaldy         14
  Frank Stephenson Trophy          Wed 11th Jun        
                               On Wakefield Thornes    
       Slazengers 'D'              Altofts 'B'         
-Steve Rayner            21 Geoff Mulvey             9 
+Steve Rayner             9 Geoff Mulvey            21 
 Micheal Barrett         14 Brian Toole             21 
 John Bagshaw            15 Fred Millership         21 
 David Fox               12 Graham Brook            21 
@@ -2490,7 +2490,7 @@ Nathan McAteer           1 Nigel Smith             21
 Arthur Birro            15 Steve Newman            21 
 Lorraine Allott          9 Brian Robson            21 
              Handicap: +56              Handicap: +32 
-            Aggregate: 164             Aggregate: 181 
+            Aggregate: 152             Aggregate: 193 
 
  Frank Stephenson Trophy          Wed 11th Jun        
                                 On Denby Grange       

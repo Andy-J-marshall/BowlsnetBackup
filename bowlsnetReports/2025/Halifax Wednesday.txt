@@ -1,4 +1,4 @@
-=== Halifax (Wed. Evening) 2025 (as of Thu 12th Jun)
+=== Halifax (Wed. Evening) 2025 (as of Sun 15th Jun)
 === Comp. Match Cards
 
     Cockroft Cup Division 1              Wed 9th Apr          
@@ -137,6 +137,12 @@ Stephen Mallinson             21 Arthur Walmsley           10
                   Aggregate: 188               Aggregate: 151 
 
   Webster's Trophy Division 2            Wed 9th Apr          
+          Elland WMC B               Luddenden Foot BC B      
+                     Points:   8                  Points:   4 
+                  Aggregate:   0               Aggregate:   0 
+         Manual Result               No Individual Scores     
+
+  Webster's Trophy Division 2            Wed 9th Apr          
         Ripponden Park A                Cross Roads B         
 Tom Robertshaw                21 Neil Madden               16 
 Simon Robinson                21 Nigel Graham              13 
@@ -150,6 +156,12 @@ David Culpan                  16 David Kirkbright          21
 Graham Smith                  17 Steve Peers               21 
                      Points:   8                  Points:   4 
                   Aggregate: 190               Aggregate: 157 
+
+  Webster's Trophy Division 2            Wed 9th Apr          
+        Hipperholme BC A                  West End A          
+                     Points:   6                  Points:   6 
+                  Aggregate:   0               Aggregate:   0 
+         Manual Result               No Individual Scores     
 
   Wilkinson Trophy Division 3            Wed 9th Apr          
         Mytholmroyd BC B                Siddal Park B         
@@ -279,6 +291,21 @@ Julie Sykes                   21 Harry Talbot              11
                   Aggregate: 135               Aggregate: 131 
 
     Cockroft Cup Division 1              Wed 16th Apr         
+          Hill Crest A                Clayton Victoria A      
+Rebecca Woodhead              21 Andrew Heenan             16 
+Aaron Bottomley               21 Myles Summers             12 
+Gary Murphy                   21 David Scott                9 
+Geoffrey Jaskolski            21 Andy Southwell            18 
+Phillip Holroyd               21 Peter Oliver              15 
+Scott Haynes                  21 Jack Summers              10 
+Lyndon Harris                 21 John Smith                14 
+Mark Senior                   20 Chris Wilson              21 
+David Barnes                  21 Malcolm Fowler            18 
+Robert Woodhead                6 Paul Gill                 21 
+                     Points:  10                  Points:   2 
+                  Aggregate: 194               Aggregate: 154 
+
+    Cockroft Cup Division 1              Wed 16th Apr         
         Mytholmroyd BC A                Greetland BC A        
 Brendon Malone                14 Robert Morgan             21 
 David Warburton               21 George Simpson            16 
@@ -397,6 +424,12 @@ John Stewart                  15 Peter Barstow             21
 Philip Stone                  21 Richard Sugden            13 
                      Points:   8                  Points:   4 
                   Aggregate: 187               Aggregate: 160 
+
+  Webster's Trophy Division 2            Wed 16th Apr         
+      Luddenden Foot BC B                Elland WMC B         
+                     Points:   4                  Points:   8 
+                  Aggregate:   0               Aggregate:   0 
+         Manual Result               No Individual Scores     
 
   Webster's Trophy Division 2            Wed 16th Apr         
          Cross Roads B                 Ripponden Park A       
@@ -807,6 +840,19 @@ Jeremy Firth                  14 John Simpson              21
                   Aggregate:  98               Aggregate: 167 
 
 Malcolm Edmondson Div4 8 Person          Wed 23rd Apr         
+          Hove Edge B                     West End B          
+Steve Mycroft                 18 Gareth Webster            21 
+Jimmy Procter                 18 Alan Duke                 21 
+Janet Carney                  11 Neil Fielden              21 
+Barry Greenwood               21 John Poweli               13 
+Steven Bloomer                21 Patrick Considine         19 
+Kevin Longbottom              21 Jason Spence               8 
+Val Mycroft                   21 Stephen Duke               9 
+Neil Mount                    19 Adam Schofield            21 
+                     Points:   6                  Points:   4 
+                  Aggregate: 150               Aggregate: 133 
+
+Malcolm Edmondson Div4 8 Person          Wed 23rd Apr         
          Greenroyd BC B                  King Cross B         
 Jasmine White                 21 Graham Briggs              8 
 Gerald Smith                  19 Stuart Alderson           21 
@@ -1099,6 +1145,19 @@ John Simpson                  21 Danny Blamires            15
                   Aggregate: 168               Aggregate: 103 
 
 Malcolm Edmondson Div4 8 Person          Wed 30th Apr         
+           West End B                    Hove Edge B          
+John Poweli                   21 Martyn Halliday           12 
+Stephen Duke                  10 Neil Mount                21 
+Stephen Holroyd               21 Joanna Robinson           12 
+Patrick Considine             21 Steven Bloomer             8 
+Alan Duke                     12 Val Mycroft               21 
+Neil Fielden                  20 Jimmy Procter             21 
+Gareth Webster                13 Barry Greenwood           21 
+Adam Schofield                 6 Kevin Longbottom          21 
+                     Points:   3                  Points:   7 
+                  Aggregate: 124               Aggregate: 137 
+
+Malcolm Edmondson Div4 8 Person          Wed 30th Apr         
           King Cross B                  Greenroyd BC B        
 Stuart Alderson               21 Chris Giddings            11 
 Joe Gibbons                   21 Ken Campbell              18 
@@ -1286,6 +1345,12 @@ Tom Robertshaw                21 Chris Walton               8
 Simon Robinson                21 Terry Horsfall            10 
                      Points:  10                  Points:   2 
                   Aggregate: 191               Aggregate: 135 
+
+  Webster's Trophy Division 2            Wed 7th May          
+        Hipperholme BC A             Luddenden Foot BC B      
+                     Points:   8                  Points:   4 
+                  Aggregate:   0               Aggregate:   0 
+         Manual Result               No Individual Scores     
 
   Wilkinson Trophy Division 3            Wed 7th May          
         Mytholmroyd BC B                 King Cross A         
@@ -1576,6 +1641,12 @@ Martin Pilkington              8 Andy Freer                21
 Terry Horsfall                 7 Simon Robinson            21 
                      Points:   6                  Points:   6 
                   Aggregate: 165               Aggregate: 168 
+
+  Webster's Trophy Division 2            Wed 14th May         
+      Luddenden Foot BC B              Hipperholme BC A       
+                     Points:   2                  Points:  10 
+                  Aggregate:   0               Aggregate:   0 
+         Manual Result               No Individual Scores     
 
   Wilkinson Trophy Division 3            Wed 14th May         
           King Cross A                 Mytholmroyd BC B       
@@ -1943,6 +2014,19 @@ John Hickey                   21 Ann Greenwood             17
                   Aggregate: 206               Aggregate: 103 
 
 Malcolm Edmondson Div4 8 Person          Wed 21st May         
+           West End B                    Hill Crest B         
+Patrick Considine             21 Mark Cartwright           12 
+Neil Fielden                   5 Frank Clissit             21 
+Gareth Webster                21 Gary Jackson              17 
+John Poweli                   21 Simon Buxton              13 
+Alan Duke                     13 Andy Parker               21 
+Stephen Duke                  10 Stephen Balmforth         21 
+Stephen Holroyd               12 Pamela Woodhead           21 
+Jason Spence                  10 Tim Brumby                21 
+                     Points:   3                  Points:   7 
+                  Aggregate: 113               Aggregate: 147 
+
+Malcolm Edmondson Div4 8 Person          Wed 21st May         
           Hove Edge B                  Stainland Park B       
 Val Mycroft                    9 Holly Sykes               21 
 Jimmy Procter                 11 Julie Sykes               21 
@@ -2233,6 +2317,19 @@ Laurie Dyer                   21 Colin Beard (a)           11
 Andy Cole                     11 Joanne Jowett             21 
                      Points:   4                  Points:   8 
                   Aggregate: 147               Aggregate: 168 
+
+Malcolm Edmondson Div4 8 Person          Wed 28th May         
+          Hill Crest B                    West End B          
+Stephen Balmforth             13 Patrick Considine         21 
+Andy Parker                   20 Adam Schofield            21 
+Gary Jackson                  21 Gareth Webster            14 
+Mark Cartwright               21 John Poweli                8 
+Frank Clissit                 21 Neil Fielden              10 
+Tim Brumby                    21 Gary Roe                  13 
+Pamela Woodhead               21 Stephen Holroyd            9 
+Rebecca Woodhead              21 Stephen Duke               3 
+                     Points:   8                  Points:   2 
+                  Aggregate: 159               Aggregate:  99 
 
 Malcolm Edmondson Div4 8 Person          Wed 28th May         
         Stainland Park B                 Hove Edge B          
@@ -2579,6 +2676,19 @@ Howard Owen                   21 Graham Habbershaw         15
 Daniel Barron                 21 Gary Jackson              14 
                      Points:   6                  Points:   4 
                   Aggregate: 147               Aggregate: 146 
+
+Malcolm Edmondson Div4 8 Person          Wed 4th Jun          
+        Pellon Social B                   West End B          
+Chris Clark                   21 Stephen Holroyd           11 
+John Clark                    10 Adam Schofield            21 
+Andrew Roy                    21 Stephen Duke               7 
+Ian Fearnley                  21 Neil Fielden               5 
+Peter Steele                  21 Gary Roe                   5 
+David Gowing                  19 John Poweli               21 
+Lynne Greenwood               10 Gareth Webster            21 
+Peter Greenwood                8 Patrick Considine         21 
+                     Points:   6                  Points:   4 
+                  Aggregate: 131               Aggregate: 112 
 
 Malcolm Edmondson Div4 8 Person          Wed 4th Jun          
          Elland C& BC B                   Oxenhope A          

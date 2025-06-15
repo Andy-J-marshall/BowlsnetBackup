@@ -1,4 +1,4 @@
-=== Halifax (Tues. Evening) 2025 (as of Thu 12th Jun)
+=== Halifax (Tues. Evening) 2025 (as of Sun 15th Jun)
 === Comp. Match Cards
 
         Division 1                  Tue 8th Apr         
@@ -275,6 +275,12 @@ Gary Plane               21 Jim Eaton                12
                 Points:   8                 Points:   2 
 
         Division 1                 Tue 15th Apr         
+       Hipperholme A            Clayton Victoria A      
+             Aggregate:   0              Aggregate:   0 
+                Points:   8                 Points:   2 
+       Manual Result           No Individual Scores     
+
+        Division 1                 Tue 15th Apr         
          Siddal A                    Pellon A           
 Darren Hickey            21 G Normanton              20 
 Simon Clayton            17 Martin Dodd              21 
@@ -481,6 +487,12 @@ Phil Shire               21 Jan Carney               17
 Ken Ward                 10 Linda Heyhoe             21 
              Aggregate: 135              Aggregate: 125 
                 Points:   6                 Points:   4 
+
+        Division 1                 Tue 22nd Apr         
+    Clayton Victoria A           Luddenden Foot A       
+             Aggregate:   0              Aggregate:   0 
+                Points:   4                 Points:   6 
+       Manual Result           No Individual Scores     
 
         Division 1                 Tue 22nd Apr         
         Ripponden A                  Siddal A           
@@ -990,6 +1002,12 @@ Gary Plane               13 Ian Armstrong            21
                 Points:   7                 Points:   3 
 
         Division 1                  Tue 6th May         
+       Hipperholme A                 Siddal A           
+             Aggregate:   0              Aggregate:   0 
+                Points:   8                 Points:   2 
+       Manual Result           No Individual Scores     
+
+        Division 1                  Tue 6th May         
        Hill Crest A                  Pellon A           
 R Woodhead               21 K Barker                  7 
 Mark Senior              18 Martin Dodd              21 
@@ -1235,6 +1253,12 @@ R Woodhead               18 Alan Peel                21
 L Harris                 16 Mick Skwarek             21 
              Aggregate: 157              Aggregate: 147 
                 Points:   7                 Points:   3 
+
+        Division 1                 Tue 13th May         
+     Luddenden Foot A              Hipperholme A        
+             Aggregate:   0              Aggregate:   0 
+                Points:   7                 Points:   3 
+       Manual Result           No Individual Scores     
 
         Division 2                 Tue 13th May         
      Elland C & B.C.A              Halifax B.C.         

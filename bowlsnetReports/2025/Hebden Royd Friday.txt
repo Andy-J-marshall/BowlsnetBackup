@@ -1,8 +1,99 @@
-=== Halifax (Hebden Royd Fri.) 2025 (as of Thu 12th Jun)
-=== Comp. Match Cards
+=== Halifax (Hebden Royd Fri.) 2025 (as of Sun 15th Jun)
+=== League Match Cards
 
-Friday Morning Fours Group 1       Fri 2nd May       
-                                  On Hill Crest      
+           League                  Fri 25th Apr      
+         Division 1                                  
+        Cross Roads A                Oxenhope        
+Leah Emery                 17 Liam Bairstow       21 
+Sally Grundy               21 Roger Whitaker      15 
+Jim Binns                  21 John Slight          8 
+Steve Hird                 21 Mary Hemsley        10 
+Kath Gower                 21 Rob Harvie          16 
+Thomas Hargreaves          21 David Milnes        18 
+                  Points:  28            Points:  17 
+               Aggregate: 122         Aggregate:  88 
+                   Games:   5             Games:   1 
+
+           League                  Fri 25th Apr      
+         Division 2                                  
+        Hill Crest B                 Sowerby         
+Ed Tinker                  17 Joanne Fairhurst    21 
+Stephen Greenwood          21 Julia Palmer        11 
+Ella Clisset               21 Jean Sutton          1 
+Alan Wooliscroft           14 David Fairhurst     21 
+Colin Wright               10 Alan Riddles        21 
+Ken Cheslett                8 Phillip Eastwood    21 
+                  Points:  18            Points:  22 
+               Aggregate:  91         Aggregate:  96 
+                   Games:   2             Games:   4 
+
+           League                  Fri 25th Apr      
+         Division 2                                  
+        Cullingworth                Old Town A       
+Linda Maloney              21 Peter Cockroft      13 
+Ann Grogan                 15 John McDermondy     21 
+Linda Crawford             21 Harry Coleman        9 
+Geoff Battye               21 Tom Faulkner        17 
+Mike Barbour               21 John Bewick          4 
+Mick Grogan                12 Ian Coleman         21 
+                  Points:  25            Points:  16 
+               Aggregate: 111         Aggregate:  85 
+                   Games:   4             Games:   2 
+
+           League                  Fri 25th Apr      
+         Division 2                                  
+         Heptonstall              Cross Roads B      
+Andy Greenwood             21 Malcolm Porter       8 
+David Dunn                 21 *A.N.Other*          9 
+Sarah Mason                21 Daniel Hargreaves    9 
+Matthew Flannagan          21 *A.N.Other*         14 
+Luke Sessions              21 Simon Woodvine       8 
+Jack Rogers                21 Terry Fawthorp       6 
+                  Points:  30            Points:   7 
+               Aggregate: 126         Aggregate:  54 
+                   Games:   6             Games:   0 
+
+           League                  Fri 2nd May       
+         Division 1                                  
+       Luddendenfoot B                Savile         
+Daniel Stafford            21 Andressa McWhirter  13 
+Mark Horner                21 David Whitehouse    16 
+Gill Horner                 7 Yvonne Sanderson    21 
+Chris Watkins              14 Peter Lilley        21 
+Tamina Oates               21 Deb Roper            3 
+Ray Cope                   21 Bob Sanderson       17 
+                  Points:  23            Points:  18 
+               Aggregate: 105         Aggregate:  91 
+                   Games:   4             Games:   2 
+
+           League                  Fri 2nd May       
+         Division 2                                  
+           Sowerby                 Cullingworth      
+Phillip Eastwood           21 Mike Barbour        11 
+Alan Riddles               15 Linda Crawford      21 
+David Fairhurst            21 Linda Maloney        7 
+Joanne Fairhurst            5 Gillian Holt        21 
+Julia Palmer                6 Martin Bentley      21 
+Jean Sutton                21 *No Player*          0 
+                  Points:  20            Points:  18 
+               Aggregate:  89         Aggregate:  81 
+                   Games:   3             Games:   3 
+
+           League                  Fri 2nd May       
+         Division 2                                  
+         Old Town A                Heptonstall       
+Ian Coleman                21 Jack Rogers         12 
+John McDermondy            21 Luke Sessions       12 
+Tom Faulkner               20 Sarah Mason         21 
+Peter Cockroft              5 Matthew Flannagan   21 
+Harry Coleman               8 Adrian Baldwin      21 
+John Bewick                17 Steve Greenwood     21 
+                  Points:  19            Points:  24 
+               Aggregate:  92         Aggregate: 108 
+                   Games:   2             Games:   4 
+
+    Friday Morning Fours           Fri 2nd May       
+Friday Morning Fours Group 1      On Hill Crest      
         Hill Crest 4s             Bradshaw 4s A      
 Bob Woodhead               21 Russell Lockley     14 
 John Jackson               21 Linsey Metcalfe     16 
@@ -11,8 +102,8 @@ Ernie Rickman              21 Gary Kinvig          7
                Aggregate:  84         Aggregate:  56 
                   Points:  20            Points:   9 
 
-Friday Morning Fours Group 1       Fri 2nd May       
-                                  On Hill Crest      
+    Friday Morning Fours           Fri 2nd May       
+Friday Morning Fours Group 1      On Hill Crest      
          Oxenhope 4s               Walsden 4s A      
 Mary Hemsley                8 Keith Rudman        21 
 David Milnes               17 Andrew Foster       21 
@@ -21,8 +112,8 @@ John Slight                 3 Paul Senior         21
                Aggregate:  49         Aggregate:  80 
                   Points:   9            Points:  18 
 
-Friday Morning Fours Group 2       Fri 2nd May       
-                                   On Bradshaw       
+    Friday Morning Fours           Fri 2nd May       
+Friday Morning Fours Group 2       On Bradshaw       
         Bradshaw 4s B              Walsden 4s B      
 John Furlong                8 Tony Hunking        21 
 Mervyn Bamford              5 Syd Smith           21 
@@ -31,8 +122,8 @@ Eric Crowther              21 Shirley Smith        3
                Aggregate:  54         Aggregate:  66 
                   Points:  11            Points:  15 
 
-Friday Morning Fours Group 2       Fri 2nd May       
-                                   On Bradshaw       
+    Friday Morning Fours           Fri 2nd May       
+Friday Morning Fours Group 2       On Bradshaw       
         Ripponden 4s               Elland WM 4s      
 Nicola Sutcliffe           21 Sandra Lowe          8 
 Paul Hitchen               18 Nancy Priestley     21 
@@ -41,8 +132,73 @@ Fred Greenwood             21 David Priestley     14
                Aggregate:  78         Aggregate:  64 
                   Points:  16            Points:  13 
 
-Friday Morning Fours Group 1       Fri 9th May       
-                                   On Bradshaw       
+           League                  Fri 9th May       
+         Division 1                                  
+       Luddendenfoot A            Cross Roads A      
+Chris Mitchell             21 Thomas Hargreaves   15 
+Kath Mitchell              21 Daniel Hargreaves   10 
+Alex Hadfield              10 Leah Emery          21 
+Ian Armstrong              21 Stephen Peers        9 
+Natalie Swain              21 Lindsey Harker       9 
+Royston Colley             17 Kath Gower          21 
+                  Points:  25            Points:  17 
+               Aggregate: 111         Aggregate:  85 
+                   Games:   4             Games:   2 
+
+           League                  Fri 9th May       
+         Division 1                                  
+        Hill Crest A             Luddendenfoot B     
+Craig Charlwood            14 Dave Stafford       21 
+Stephen Balmforth          21 Gillian Thornber    12 
+Nicola Simpson             21 Chris Watkins       20 
+Stuart Pilling             21 Ray Cope            11 
+Tim Brumby                 21 Phil Thornber       17 
+Craig Thomasson            21 Tamina Oates        12 
+                  Points:  27            Points:  18 
+               Aggregate: 119         Aggregate:  93 
+                   Games:   5             Games:   1 
+
+           League                  Fri 9th May       
+         Division 2                                  
+         Heptonstall                 Sowerby         
+David Dunn                 15 Phillip Eastwood    21 
+Matthew Flannagan          21 David Fairhurst      9 
+Sarah Mason                21 Alan Riddles         6 
+Jack Rogers                21 Denise Anderton      1 
+Luke Sessions              21 Joanne Fairhurst    19 
+Drew Marsh                 14 Julia Palmer        21 
+                  Points:  25            Points:  15 
+               Aggregate: 113         Aggregate:  77 
+                   Games:   4             Games:   2 
+
+           League                  Fri 9th May       
+         Division 2                                  
+        Cross Roads B               Old Town A       
+Stuart Wainwright          21 Harry Coleman        8 
+Malcolm Porter             16 John McDermondy     21 
+Simon Woodvine             21 John Bewick         16 
+Terry Fawthorp              8 Tom Faulkner        21 
+Paul Claughan              21 Peter Cockroft      15 
+John Larner                10 Ian Coleman         21 
+                  Points:  21            Points:  22 
+               Aggregate:  97         Aggregate: 102 
+                   Games:   3             Games:   3 
+
+           League                  Fri 9th May       
+         Division 2                                  
+         Old Town B                Hill Crest B      
+Rodger Walsh                3 Stephen Greenwood   21 
+Simon Phillips              9 Alan Wooliscroft    21 
+Tom Sapey                  13 Colin Wright        21 
+Stewert Andrews            10 Michael Holdsworth  21 
+Karl Theobald              17 Carol Harris        21 
+Dave Ruse                  21 Ella Clisset        13 
+                  Points:  13            Points:  27 
+               Aggregate:  73         Aggregate: 118 
+                   Games:   1             Games:   5 
+
+    Friday Morning Fours           Fri 9th May       
+Friday Morning Fours Group 1       On Bradshaw       
         Bradshaw 4s A              Walsden 4s A      
 Kyle Jones                 16 Geoff Crabtree      21 
 Keith Noble                16 Keith Rudman        21 
@@ -51,8 +207,8 @@ Russell Lockley            17 Mark Howley         21
                Aggregate:  58         Aggregate:  84 
                   Points:  10            Points:  20 
 
-Friday Morning Fours Group 1       Fri 9th May       
-                                   On Bradshaw       
+    Friday Morning Fours           Fri 9th May       
+Friday Morning Fours Group 1       On Bradshaw       
          Oxenhope 4s              Hill Crest 4s      
 John Slight                 6 Pamela Woodhead     21 
 David Milnes               19 Frank Clissitt      21 
@@ -61,8 +217,8 @@ Fred Rothwell              21 Bob Woodhead        16
                Aggregate:  61         Aggregate:  79 
                   Points:  12            Points:  18 
 
-Friday Morning Fours Group 2       Fri 9th May       
-                                   On Ripponden      
+    Friday Morning Fours           Fri 9th May       
+Friday Morning Fours Group 2       On Ripponden      
         Ripponden 4s               Walsden 4s B      
 Howard Owen                15 Tony Hunking        21 
 Paul Hitchen               15 Syd Smith           21 
@@ -71,8 +227,8 @@ Tamina Oates               21 Meredith Wilkinson   5
                Aggregate:  62         Aggregate:  68 
                   Points:  13            Points:  16 
 
-Friday Morning Fours Group 2       Fri 9th May       
-                                   On Ripponden      
+    Friday Morning Fours           Fri 9th May       
+Friday Morning Fours Group 2       On Ripponden      
         Bradshaw 4s B              Elland WM 4s      
 John Furlong               14 Peter Clement       21 
 Malcolm Rothery            18 David Priestley     21 
@@ -81,8 +237,60 @@ Duncan Johnson             21 Sandra Lowe         13
                Aggregate:  58         Aggregate:  76 
                   Points:  11            Points:  17 
 
-Friday Morning Fours Group 1       Fri 16th May      
-                                   On Oxenhope       
+           League                  Fri 16th May      
+         Division 1                                  
+          Oxenhope                 Hill Crest A      
+Mary Hemsley               21 Sheryl Robinson     17 
+Liam Bairstow              10 Tim Brumby          21 
+Kevin Butterfield           6 Stephen Balmforth   21 
+David Milnes               17 Ernie Rickman       21 
+Trevor Bairstow             6 Craig Thomasson     21 
+Andrew Hollywood           18 Nicola Simpson      21 
+                  Points:  15            Points:  28 
+               Aggregate:  78         Aggregate: 122 
+                   Games:   1             Games:   5 
+
+           League                  Fri 16th May      
+         Division 2                                  
+           Sowerby                Cross Roads B      
+Phillip Eastwood           21 John Larner          9 
+Alistair Baigent           21 Simon Woodvine       7 
+Alan Riddles               21 Keith Wilson        16 
+Julia Palmer               21 Stuart Wainwright   12 
+Jean Sutton                 6 Malcolm Porter      21 
+Denise Anderton            19 Justine Wainwright  21 
+                  Points:  24            Points:  17 
+               Aggregate: 109         Aggregate:  86 
+                   Games:   4             Games:   2 
+
+           League                  Fri 16th May      
+         Division 2                                  
+         Old Town B                Heptonstall       
+Dave Ruse                   7 Matthew Flannagan   21 
+Karl Theobald              11 Sarah Mason         21 
+Tom Sapey                  17 Jack Rogers         21 
+Stewert Andrews             7 Steve Greenwood     21 
+Rodger Walsh                6 Nicola Greenwood    21 
+John Tolley                11 Alan Thorpe         21 
+                  Points:  10            Points:  30 
+               Aggregate:  59         Aggregate: 126 
+                   Games:   0             Games:   6 
+
+           League                  Fri 16th May      
+         Division 2                                  
+        Hill Crest B               Cullingworth      
+Stephen Greenwood           9 Martin Bentley      21 
+Alan Wooliscroft            8 Ron Thompson        21 
+Colin Wright               21 Joseph Cookson       7 
+Michael Holdsworth         16 Linda Crawford      21 
+Ella Clisset               21 Mike Barbour         2 
+Frank Clissitt             21 Linda Maloney        1 
+                  Points:  20            Points:  16 
+               Aggregate:  96         Aggregate:  73 
+                   Games:   3             Games:   3 
+
+    Friday Morning Fours           Fri 16th May      
+Friday Morning Fours Group 1       On Oxenhope       
          Oxenhope 4s              Bradshaw 4s A      
 Fred Rothwell              21 Russell Lockley     15 
 Eric Holmes                21 Linsey Metcalfe      5 
@@ -91,8 +299,8 @@ David Milnes               21 Kyle Jones          18
                Aggregate:  84         Aggregate:  43 
                   Points:  20            Points:   8 
 
-Friday Morning Fours Group 1       Fri 16th May      
-                                   On Oxenhope       
+    Friday Morning Fours           Fri 16th May      
+Friday Morning Fours Group 1       On Oxenhope       
         Hill Crest 4s              Walsden 4s A      
 Frank Clissitt             13 Richard Helliwell   21 
 Ernie Rickman              14 Geoff Crabtree      21 
@@ -101,8 +309,8 @@ John Jackson               21 Andrew Foster       20
                Aggregate:  56         Aggregate:  83 
                   Points:  10            Points:  19 
 
-Friday Morning Fours Group 2       Fri 16th May      
-                                    On Walsden       
+    Friday Morning Fours           Fri 16th May      
+Friday Morning Fours Group 2        On Walsden       
         Walsden 4s B               Elland WM 4s      
 Darrell Halstead           18 Peter Clement       21 
 Syd Smith                  21 Sandra Lowe         10 
@@ -111,8 +319,8 @@ Ian Tootell                21 David Priestley     11
                Aggregate:  81         Aggregate:  62 
                   Points:  18            Points:  13 
 
-Friday Morning Fours Group 2       Fri 16th May      
-                                    On Walsden       
+    Friday Morning Fours           Fri 16th May      
+Friday Morning Fours Group 2        On Walsden       
         Ripponden 4s              Bradshaw 4s B      
 Tamina Oates               17 Joe Scanlan         21 
 Paul Hitchen               21 Mervyn Bamford       8 
@@ -121,8 +329,73 @@ Howard Owen                21 *No Player*          0
                Aggregate:  80         Aggregate:  35 
                   Points:  18            Points:   7 
 
-Friday Morning Fours Group 1       Fri 23rd May      
-                                    On Walsden       
+           League                  Fri 23rd May      
+         Division 1                                  
+           Savile                 Cross Roads A      
+Sam Redfearne              20 Thomas Hargreaves   21 
+*A.N.Other*                 1 Daniel Hargreaves   21 
+Deb Roper                   1 Lindsey Harker      21 
+Yvonne Sanderson           21 Sally Grundy        17 
+Bob Sanderson              21 Malcolm Porter      14 
+David Nichol               21 Kath Gower           9 
+                  Points:  19            Points:  21 
+               Aggregate:  85         Aggregate: 103 
+                   Games:   3             Games:   3 
+
+           League                  Fri 23rd May      
+         Division 1                                  
+       Luddendenfoot B               Oxenhope        
+Tamina Oates               15 Mary Hemsley        21 
+Gill Horner                21 Andrew Hollywood     4 
+Gillian Thornber            8 David Milnes        21 
+Phil Thornber              21 Liam Bairstow       10 
+Mark Horner                21 John Slight          8 
+Chris Watkins              21 Trevor Bairstow     19 
+                  Points:  24            Points:  16 
+               Aggregate: 107         Aggregate:  83 
+                   Games:   4             Games:   2 
+
+           League                  Fri 23rd May      
+         Division 2                                  
+         Old Town A                  Sowerby         
+Dave Hudson                21 Alan Riddles        16 
+Harry Coleman              15 Jean Sutton         21 
+Tom Faulkner               21 David Fairhurst     16 
+Peter Cockroft             15 Joanne Fairhurst    21 
+John McDermondy             3 Phillip Eastwood    21 
+Ian Coleman                21 Alistair Baigent    12 
+                  Points:  21            Points:  23 
+               Aggregate:  96         Aggregate: 107 
+                   Games:   3             Games:   3 
+
+           League                  Fri 23rd May      
+         Division 2                                  
+        Cullingworth                Old Town B       
+Linda Crawford             21 Dave Ruse           16 
+Geoff Battye               21 Tom Sapey           18 
+Mike Barbour               21 Karl Theobald       18 
+Linda Maloney              10 Simon Phillips      21 
+Mick Grogan                21 Stewert Andrews      6 
+Joseph Cookson             21 Rodger Walsh        17 
+                  Points:  27            Points:  18 
+               Aggregate: 115         Aggregate:  96 
+                   Games:   5             Games:   1 
+
+           League                  Fri 23rd May      
+         Division 2                                  
+         Heptonstall               Hill Crest B      
+Matthew Flannagan          21 Stephen Greenwood    5 
+Alan Thorpe                 7 Colin Wright        21 
+Sarah Mason                21 Alan Wooliscroft     6 
+Steve Greenwood            21 Ed Tinker           11 
+Jack Rogers                21 Craig Charlwood     16 
+David Dunn                 21 Craig Thomasson     10 
+                  Points:  26            Points:  14 
+               Aggregate: 112         Aggregate:  69 
+                   Games:   5             Games:   1 
+
+    Friday Morning Fours           Fri 23rd May      
+Friday Morning Fours Group 1        On Walsden       
         Walsden 4s A               Oxenhope 4s       
 Geoff Crabtree             21 Fred Rothwell       13 
 Keith Rudman               21 Mary Hemsley        11 
@@ -131,8 +404,8 @@ Andrew Foster              21 David Milnes        10
                Aggregate:  84         Aggregate:  39 
                   Points:  20            Points:   7 
 
-Friday Morning Fours Group 1       Fri 23rd May      
-                                    On Walsden       
+    Friday Morning Fours           Fri 23rd May      
+Friday Morning Fours Group 1        On Walsden       
         Hill Crest 4s             Bradshaw 4s A      
 Bob Woodhead               21 Gary Kinvig          2 
 John Jackson               21 Keith Noble         14 
@@ -141,8 +414,8 @@ Frank Clissitt             21 Linsey Metcalfe     16
                Aggregate:  78         Aggregate:  53 
                   Points:  18            Points:  10 
 
-Friday Morning Fours Group 2       Fri 23rd May      
-                                   On Elland WM      
+    Friday Morning Fours           Fri 23rd May      
+Friday Morning Fours Group 2       On Elland WM      
         Elland WM 4s               Ripponden 4s      
 Nick Lowe                  21 Tina Ives            7 
 Nancy Priestley            21 Peter Briggs        12 
@@ -151,8 +424,8 @@ David Priestley            13 Howard Owen         21
                Aggregate:  76         Aggregate:  49 
                   Points:  17            Points:   9 
 
-Friday Morning Fours Group 2       Fri 23rd May      
-                                   On Elland WM      
+    Friday Morning Fours           Fri 23rd May      
+Friday Morning Fours Group 2       On Elland WM      
         Walsden 4s B              Bradshaw 4s B      
 Ian Tootell                19 Colin Hall          21 
 Neville East               19 Mervyn Bamford      21 
@@ -161,8 +434,73 @@ Tony Hunking               16 Duncan Johnson      21
                Aggregate:  63         Aggregate:  84 
                   Points:  10            Points:  20 
 
-Friday Morning Fours Group 1       Fri 30th May      
-                                   On Bradshaw       
+           League                  Fri 30th May      
+         Division 1                                  
+        Cross Roads A              Hill Crest A      
+Thomas Hargreaves          21 Stephen Balmforth   11 
+Daniel Hargreaves          21 Craig Thomasson     14 
+Kath Gower                 21 Tim Brumby          17 
+Sally Grundy               12 *A.N.Other*         21 
+Lindsey Harker             21 Paul Oldfield       11 
+*A.N.Other*                13 Stuart Pilling      21 
+                  Points:  24            Points:  19 
+               Aggregate: 109         Aggregate:  95 
+                   Games:   4             Games:   2 
+
+           League                  Fri 30th May      
+         Division 1                                  
+       Luddendenfoot A           Luddendenfoot B     
+Kevin Mitchell             21 Mark Horner         14 
+Ian Armstrong              21 Gill Horner          9 
+Tom Bridges                21 Phil Thornber       14 
+Chris Mitchell             21 Chris Watkins       12 
+Barry Farrar               21 Ray Cope            12 
+Royston Colley             21 Gillian Thornber    12 
+                  Points:  30            Points:  11 
+               Aggregate: 126         Aggregate:  73 
+                   Games:   6             Games:   0 
+
+           League                  Fri 30th May      
+         Division 2                                  
+         Old Town B                 Old Town A       
+Simon Phillips             21 Dave Hudson         10 
+Rodger Walsh               11 Peter Cockroft      21 
+Stewert Andrews            11 Harry Coleman       21 
+Karl Theobald               6 John McDermondy     21 
+Tom Sapey                  13 Tom Faulkner        21 
+Dave Ruse                  17 Ian Coleman         21 
+                  Points:  15            Points:  27 
+               Aggregate:  79         Aggregate: 115 
+                   Games:   1             Games:   5 
+
+           League                  Fri 30th May      
+         Division 2                                  
+        Hill Crest B              Cross Roads B      
+Ed Tinker                  14 Paul Robinson       21 
+Craig Charlwood            21 Simon Woodvine      11 
+Colin Wright               21 Malcolm Porter      14 
+Alan Wooliscroft           21 Terry Fawthorp      11 
+Ella Clisset                5 Paul Claughan       21 
+Carol Harris                8 John Larner         21 
+                  Points:  19            Points:  21 
+               Aggregate:  90         Aggregate:  99 
+                   Games:   3             Games:   3 
+
+           League                  Fri 30th May      
+         Division 2                                  
+        Cullingworth               Heptonstall       
+Linda Crawford              3 Matthew Flannagan   21 
+Geoff Battye                9 Sarah Mason         21 
+Mick Grogan                19 Steve Greenwood     21 
+Mike Barbour               13 Jack Rogers         21 
+Joseph Cookson              3 David Dunn          21 
+Linda Maloney              10 Peter Huyton        21 
+                  Points:   8            Points:  30 
+               Aggregate:  57         Aggregate: 126 
+                   Games:   0             Games:   6 
+
+    Friday Morning Fours           Fri 30th May      
+Friday Morning Fours Group 1       On Bradshaw       
         Bradshaw 4s A              Oxenhope 4s       
 Linsey Metcalfe            16 Fred Rothwell       21 
 Kyle Jones                 21 John Slight         11 
@@ -171,8 +509,8 @@ Gary Kinvig                17 Mary Hemsley        21
                Aggregate:  74         Aggregate:  74 
                   Points:  15            Points:  17 
 
-Friday Morning Fours Group 1       Fri 30th May      
-                                   On Bradshaw       
+    Friday Morning Fours           Fri 30th May      
+Friday Morning Fours Group 1       On Bradshaw       
         Walsden 4s A              Hill Crest 4s      
 Keith Rudman               21 Sheryl Robinson     10 
 Geoff Crabtree             21 Bob Woodhead         7 
@@ -181,8 +519,8 @@ Paul Senior                13 Frank Clissitt      21
                Aggregate:  76         Aggregate:  41 
                   Points:  17            Points:   8 
 
-Friday Morning Fours Group 2       Fri 30th May      
-                                    On Walsden       
+    Friday Morning Fours           Fri 30th May      
+Friday Morning Fours Group 2        On Walsden       
         Walsden 4s B               Ripponden 4s      
 Syd Smith                  12 Howard Owen         21 
 Darrell Halstead           21 Paul Hitchen        10 
@@ -191,8 +529,8 @@ Ian Tootell                21 Fred Greenwood      20
                Aggregate:  75         Aggregate:  63 
                   Points:  17            Points:  13 
 
-Friday Morning Fours Group 2       Fri 30th May      
-                                    On Walsden       
+    Friday Morning Fours           Fri 30th May      
+Friday Morning Fours Group 2        On Walsden       
         Bradshaw 4s B              Elland WM 4s      
 Duncan Johnson             14 Peter Clement       21 
 Colin Hall                 17 Nancy Priestley     21 
@@ -201,8 +539,73 @@ Joe Scanlan                 8 Sandra Lowe         21
                Aggregate:  52         Aggregate:  84 
                   Points:   8            Points:  20 
 
-Friday Morning Fours Group 1       Fri 6th Jun       
-                                  On Hill Crest      
+           League                  Fri 6th Jun       
+         Division 1                                  
+       Luddendenfoot B            Cross Roads A      
+Daniel Stafford            21 Thomas Hargreaves   17 
+Dave Stafford              10 Daniel Hargreaves   21 
+Gillian Thornber           13 Gorden Clarke       21 
+Phil Thornber              21 Sally Grundy         7 
+Chris Watkins               8 *A.N.Other*         21 
+Tamina Oates                8 Kath Gower          21 
+                  Points:  16            Points:  24 
+               Aggregate:  81         Aggregate: 108 
+                   Games:   2             Games:   4 
+
+           League                  Fri 6th Jun       
+         Division 1                                  
+          Oxenhope               Luddendenfoot A     
+David Milnes               13 Tom Bridges         21 
+Andrew Hollywood           21 Alex Hadfield       17 
+Trevor Bairstow            10 Barry Farrar        21 
+John Slight                 4 Royston Colley      21 
+Roger Whitaker             15 Kevin Mitchell      21 
+Liam Bairstow              21 Kath Mitchell       19 
+                  Points:  17            Points:  26 
+               Aggregate:  84         Aggregate: 120 
+                   Games:   2             Games:   4 
+
+           League                  Fri 6th Jun       
+         Division 2                                  
+           Sowerby                  Old Town B       
+Phillip Eastwood           21 Simon Phillips       4 
+David Fairhurst            21 Tom Sapey           14 
+Joanne Fairhurst           10 Karl Theobald       21 
+Alan Riddles               21 Rodger Walsh         6 
+Julia Palmer               14 Stewert Andrews     21 
+Denise Anderton            21 John Tolley         19 
+                  Points:  24            Points:  16 
+               Aggregate: 108         Aggregate:  85 
+                   Games:   4             Games:   2 
+
+           League                  Fri 6th Jun       
+         Division 2                                  
+         Old Town A                Hill Crest B      
+Ian Coleman                21 Ella Clisset        11 
+Tom Faulkner               21 Michael Holdsworth  13 
+John McDermondy            20 Craig Charlwood     21 
+Peter Cockroft             12 Nicola Simpson      21 
+Harry Coleman              19 Carol Harris        21 
+John Bewick                21 Ed Tinker           16 
+                  Points:  24            Points:  22 
+               Aggregate: 114         Aggregate: 103 
+                   Games:   3             Games:   3 
+
+           League                  Fri 6th Jun       
+         Division 2                                  
+        Cross Roads B              Cullingworth      
+Paul Claughan               7 Linda Crawford      21 
+Paul Robinson              21 Geoff Battye        10 
+John Larner                21 Mike Barbour        10 
+Malcolm Porter             21 Mick Grogan         17 
+Stuart Wainwright          21 Linda Maloney       12 
+Terry Fawthorp             21 Joseph Cookson       7 
+                  Points:  26            Points:  15 
+               Aggregate: 112         Aggregate:  77 
+                   Games:   5             Games:   1 
+
+    Friday Morning Fours           Fri 6th Jun       
+Friday Morning Fours Group 1      On Hill Crest      
         Hill Crest 4s              Oxenhope 4s       
 Sheryl Robinson             6 Mary Hemsley        21 
 Dave Barnes                21 David Milnes         6 
@@ -211,8 +614,8 @@ John Jackson               21 John Slight          4
                Aggregate:  62         Aggregate:  52 
                   Points:  13            Points:  11 
 
-Friday Morning Fours Group 1       Fri 6th Jun       
-                                  On Hill Crest      
+    Friday Morning Fours           Fri 6th Jun       
+Friday Morning Fours Group 1      On Hill Crest      
         Walsden 4s A              Bradshaw 4s A      
 Keith Rudman               21 Gary Kinvig          1 
 Geoff Crabtree             21 Peter Craigie       20 
@@ -221,8 +624,8 @@ Andrew Foster              21 Kyle Jones          16
                Aggregate:  84         Aggregate:  48 
                   Points:  20            Points:   9 
 
-Friday Morning Fours Group 2       Fri 6th Jun       
-                                   On Bradshaw       
+    Friday Morning Fours           Fri 6th Jun       
+Friday Morning Fours Group 2       On Bradshaw       
         Bradshaw 4s B              Ripponden 4s      
 Eric Crowther              21 Tamina Oates         9 
 Mervyn Bamford              1 Fred Greenwood      21 
@@ -231,8 +634,8 @@ Joe Scanlan                 9 Howard Owen         21
                Aggregate:  38         Aggregate:  72 
                   Points:   7            Points:  16 
 
-Friday Morning Fours Group 2       Fri 6th Jun       
-                                   On Bradshaw       
+    Friday Morning Fours           Fri 6th Jun       
+Friday Morning Fours Group 2       On Bradshaw       
         Walsden 4s B               Elland WM 4s      
 Tony Hunking               21 Mark Simpson        20 
 Gaynor Leaff               17 Nancy Priestley     21 
@@ -240,5 +643,110 @@ Syd Smith                  17 Peter Clement       21
 Darrell Halstead            9 Nick Lowe           21 
                Aggregate:  64         Aggregate:  83 
                   Points:  12            Points:  19 
+
+           League                  Fri 13th Jun      
+         Division 1                                  
+          Oxenhope                Cross Roads A      
+Roger Whitaker             18 Daniel Hargreaves   21 
+Brian Bairstow              4 Sally Grundy        21 
+Andrew Hollywood            9 Thomas Hargreaves   21 
+Liam Bairstow              21 Lindsey Harker       7 
+David Milnes               21 *A.N.Other*         13 
+Mary Hemsley               21 Steve Hird          13 
+                  Points:  19            Points:  20 
+               Aggregate:  94         Aggregate:  96 
+                   Games:   3             Games:   3 
+
+           League                  Fri 13th Jun      
+         Division 1                                  
+        Hill Crest A                  Savile         
+Craig Thomasson            21 Yvonne Sanderson    13 
+Stuart Pilling             21 Sam Redfearne       12 
+Craig Charlwood            21 Paul Pitchforth      5 
+Nicola Simpson             21 Deb Roper            8 
+Paul Oldfield              21 David Nichol         3 
+Tim Brumby                 21 Bob Sanderson       14 
+                  Points:  30            Points:   8 
+               Aggregate: 126         Aggregate:  55 
+                   Games:   6             Games:   0 
+
+           League                  Fri 13th Jun      
+         Division 2                                  
+           Sowerby                 Hill Crest B      
+Phillip Eastwood           21 Colin Wright         9 
+Alistair Baigent           21 Ella Clisset        17 
+David Fairhurst            13 Michael Holdsworth  21 
+Joanne Fairhurst           15 Daniel Gladock      21 
+Denise Anderton             9 Carol Harris        21 
+Jean Sutton                12 Ed Tinker           21 
+                  Points:  18            Points:  24 
+               Aggregate:  91         Aggregate: 110 
+                   Games:   2             Games:   4 
+
+           League                  Fri 13th Jun      
+         Division 2                                  
+         Old Town A                Cullingworth      
+Tom Faulkner               16 Ron Thompson        21 
+Vivienne Bewick             5 Linda Maloney       21 
+Dave Hudson                10 Mark Smith          21 
+John McDermondy            21 Geoff Battye        13 
+Peter Cockroft              8 Rosemary Spencer    21 
+John Bewick                11 Mick Grogan         21 
+                  Points:  14            Points:  27 
+               Aggregate:  71         Aggregate: 118 
+                   Games:   1             Games:   5 
+
+           League                  Fri 13th Jun      
+         Division 2                                  
+        Cross Roads B              Heptonstall       
+John Larner                21 David Dunn          14 
+Paul Robinson              12 Matthew Flannagan   21 
+Stuart Wainwright          21 Luke Sessions       19 
+Simon Woodvine             20 Jack Rogers         21 
+Malcolm Porter             21 Alan Thorpe         12 
+Terry Fawthorp             16 Drew Marsh          21 
+                  Points:  24            Points:  22 
+               Aggregate: 111         Aggregate: 108 
+                   Games:   3             Games:   3 
+
+    Friday Morning Fours           Fri 13th Jun      
+Friday Morning Fours Group 1       On Oxenhope       
+         Oxenhope 4s               Walsden 4s A      
+Fred Rothwell              16 Richard Helliwell   21 
+David Milnes               11 Andrew Foster       21 
+Mary Hemsley               21 Mark Howley         18 
+Steve Griffiths            21 Paul Senior          8 
+               Aggregate:  69         Aggregate:  68 
+                  Points:  15            Points:  14 
+
+    Friday Morning Fours           Fri 13th Jun      
+Friday Morning Fours Group 1       On Oxenhope       
+        Hill Crest 4s             Bradshaw 4s A      
+John Jackson               21 Gary Kinvig          6 
+Frank Clissitt             21 Russell Lockley      9 
+Bob Woodhead               21 Linsey Metcalfe     14 
+Pamela Woodhead            18 Kyle Jones          21 
+               Aggregate:  81         Aggregate:  50 
+                  Points:  18            Points:   9 
+
+    Friday Morning Fours           Fri 13th Jun      
+Friday Morning Fours Group 2       On Ripponden      
+        Ripponden 4s               Elland WM 4s      
+Fred Greenwood             21 David Priestley     11 
+Paul Hitchen               10 Peter Clement       21 
+Tamina Oates                8 Mark Simpson        21 
+Howard Owen                20 Nick Lowe           21 
+               Aggregate:  59         Aggregate:  74 
+                  Points:  12            Points:  17 
+
+    Friday Morning Fours           Fri 13th Jun      
+Friday Morning Fours Group 2       On Ripponden      
+        Walsden 4s B              Bradshaw 4s B      
+Tony Hunking               21 Mervyn Bamford       3 
+Syd Smith                  21 Joe Scanlan         15 
+Shirley Smith              12 John Furlong        21 
+Ian Tootell                21 Eric Crowther       13 
+               Aggregate:  75         Aggregate:  52 
+                  Points:  17            Points:  10 
 
 

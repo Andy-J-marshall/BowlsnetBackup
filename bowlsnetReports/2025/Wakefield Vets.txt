@@ -1,4 +1,4 @@
-=== Wakefield Veterans CGBA 2025 (as of Thu 12th Jun)
+=== Wakefield Veterans CGBA 2025 (as of Sun 15th Jun)
 === League Match Cards
 
       Division 1             Mon 14th Apr       
@@ -566,6 +566,18 @@ Trevor Dey           21 Jenny Berry          16
          Aggregate: 141          Aggregate: 152 
 
       Division 1              Mon 5th May       
+    Ossett C & AC A           Horbury WMC       
+Laurie Woodlock      16 Adrian Smart         21 
+Linda Pearson        21 John Stokes          10 
+Lawrence Bairstow    21 David Horan           7 
+John Wigglesworth    21 David Pursell        12 
+Stephen Briggs       14 A Clarkson           21 
+Gary Foulkes          9 Roy Blackburn        21 
+Phillip Long         21 Denis Law            19 
+Peter Lamb           21 Derek Heaton          7 
+         Aggregate: 144          Aggregate: 118 
+
+      Division 1              Mon 5th May       
   Wakefield Thornes A       Ossett C & AC B     
 David Warwick        15 Tom McAllister       21 
 Roy Stables          13 Derek Flint          21 
@@ -836,7 +848,7 @@ John Sudworth        21 Linda Leather        19
 Terry Etherington    13 Shirley Griffiths    21 
 David Whitaker       21 Sylvia Joule          3 
 Karen Gee            21 Peter Joule          12 
-Ann Brown            21 *A.N.Other*           5 
+Ann Brown            21 M Kiddle              5 
 Andrew Hughes        21 Barbara Oxley         5 
 Jan Grey             16 Lee Brooke           21 
          Aggregate: 155          Aggregate:  93 
@@ -925,6 +937,18 @@ Vernon Green         21 Glyn Beresford       16
 Phil Berry           21 Stewart Widdrington   9 
          Aggregate: 164          Aggregate: 106 
 
+      Division 1             Mon 26th May       
+    Ossett C & AC A       Wakefield Thornes A   
+Phillip Long         21 David Warwick        10 
+Peter Lamb           21 Steven Findlay        8 
+Stephen Briggs       21 Dianne Eley          18 
+Tom McAllister       21 Gerry Taylor         19 
+Lawrence Bairstow    21 David Guile           2 
+John Wigglesworth    21 Leo Herrera          20 
+Laurie Woodlock      21 Johny Walker         12 
+Linda Pearson        21 Bob Holmes           13 
+         Aggregate: 168          Aggregate: 102 
+
       Division 2             Mon 26th May       
       Outwood WMC            Grange Park A      
 Tony Hunter          21 Gill Ettles          10 
@@ -999,7 +1023,7 @@ Joan Watson          15 Holger Cole          21
 
       Division 3             Mon 26th May       
   Wakefield Thornes B      Horbury Bridge B     
-*A.N.Other*           0 David Whitaker       21 
+Louise Bloor          0 David Whitaker       21 
 Gary Milner          21 Maureen Bradshaw     17 
 John Leith           13 John Sudworth        21 
 June Herrera          9 Ann Brown            21 

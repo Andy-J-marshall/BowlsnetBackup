@@ -1,4 +1,4 @@
-=== Yorkshire County Vets Inter-District League 2025 (as of Thu 12th Jun)
+=== Yorkshire County Vets Inter-District League 2025 (as of Sun 15th Jun)
 === Comp. Match Cards
 
                           Fri 2nd May      
@@ -213,11 +213,11 @@ Gordon Bradford   21 Adrian Cooper       6
    Wakefield Home        Skipton Away      
 John Packer       21 Robert Jeffrey     10 
 Tommy McAlister   21 Mick Demain        15 
-*A.N.Other*        7 Steve Griffiths    21 
+Malcolm Shaw       7 Steve Griffiths    21 
 Phil Schofield     8 Peter Hepworth     21 
 Peter Lamb        13 Fred Rothwell      21 
 Roger Lunn        17 Dennis Henderson   21 
-*A.N.Other*       21 David Kirkbright    8 
+Mick Scott        21 David Kirkbright    8 
 Kevin Box         21 Steve Bowes        12 
       Aggregate: 129        Aggregate: 129 
          Points:  14           Points:  14 
@@ -312,5 +312,109 @@ Alan Box          17 Paul Holden        21
 Stuart Thompson   21 David Warburton    18 
       Aggregate: 131        Aggregate: 152 
          Points:  10           Points:  18 
+
+                         Fri 13th Jun      
+  West Riding Home        Leeds Away       
+Paul Fincher      20 John Armitage      21 
+Chris Blakeley    20 Steven Hartley     21 
+David Armitage    20 Steve Longly       21 
+Paul Blackburn    12 Roger Birdsall     21 
+John Leach        21 Chris Firth        13 
+John Wilson        9 Ian Howard         21 
+Michael Robinson  12 John Whiteley      21 
+Michael Rhodes    15 Nigel Cranston     21 
+      Aggregate: 129        Aggregate: 160 
+         Points:   7           Points:  21 
+
+                         Fri 13th Jun      
+     Leeds Home        West Riding Away    
+Mark Whitaker     17 Tony Green         21 
+Paul Bowes        21 Graham Blenkinsop  18 
+Bob Whitfield     21 Graham Hirst       13 
+Mario Biancardo   21 Les Mitchell       18 
+Joe Adams         21 Clive Hirst        14 
+Martin Fulton     21 Peter Ellis         7 
+Adam Hawkins      21 Phillip Smith      13 
+Jon Lucas         18 Ian Briggs         21 
+      Aggregate: 161        Aggregate: 125 
+         Points:  21           Points:   7 
+
+                         Fri 13th Jun      
+ Huddersfield Home      Wakefield Away     
+Andy Carter       21 Nigel McDermott    16 
+Stephen Haigh     21 Steve Goddard      20 
+Tony Cross        21 Neil Holmes        12 
+John Bloomer      21 Gerry Taylor       12 
+Mick Chapman      21 Tommy McAlister     9 
+Robert Dickinson  14 Philip Long        21 
+Graham Sigsworth  21 Steve Briggs        5 
+Andrew Wike       21 Dave Horan         19 
+      Aggregate: 161        Aggregate: 114 
+         Points:  23           Points:   5 
+
+                         Fri 13th Jun      
+   Wakefield Home      Huddersfield Away   
+John Packer       21 David Pollard      15 
+Peter Lamb         9 Tim Poulter        21 
+Gary Foulkes      21 Dave Sykes         13 
+Alan Nash          5 Roger Stopford     21 
+Allan Poyser      15 Malcolm Gilbert    21 
+Graeme Eyre       19 Tony Butterfield   21 
+Kevin Box         17 Steve Mallinson    21 
+Mick Scott        15 Garry Senior       21 
+      Aggregate: 122        Aggregate: 154 
+         Points:   8           Points:  20 
+
+                         Fri 13th Jun      
+   Bradford Home         Halifax Away      
+Clive Foord       21 John Horsley       11 
+Andrew Walker     13 Andrew Balmforth   21 
+Mick Bastow       20 Robert Morgan      21 
+Rod Bastow         6 David Warburton    21 
+John Beverley     21 Steve Kenworthy     7 
+Peter Oliver      21 Nigel Mitchell     12 
+Glen Pratt         3 Ian Smith          21 
+Nick Dewhirst      7 Paul Holden        21 
+      Aggregate: 112        Aggregate: 135 
+         Points:  10           Points:  18 
+
+                         Fri 13th Jun      
+    Halifax Home         Bradford Away     
+David Barnes      21 Paul Gill          20 
+Phillip Holroyd   16 Ian Johnson        21 
+Peter Owen        13 Mally Fowler       21 
+Michael Walker    21 Ian Wilson         17 
+Lyndon Harris     19 Kevin Wood         21 
+Nick Oddy         21 John Stevenson     10 
+Martin Greenwood  14 Steve Cooper       21 
+Gordon Bradford    8 Trevor Benn        21 
+      Aggregate: 133        Aggregate: 152 
+         Points:  10           Points:  18 
+
+                         Fri 13th Jun      
+  Castleford Home     Aire & Wharfe Away   
+Glyn Hanson       16 Kevin Rankin       21 
+Ian Lewis          8 Stewart Watson     21 
+*A.N.Other*       13 Kenneth Lee        21 
+Graham Hodder     19 Ian Scott          21 
+Tony Chambers     21 Glyn Goodyear      14 
+Michael Firth     21 Andrew Thornton    10 
+Alan Box           9 Chris Hight        21 
+Stuart Thompson   21 Derek Pickering    12 
+      Aggregate: 128        Aggregate: 141 
+         Points:  11           Points:  17 
+
+                         Fri 13th Jun      
+ Aire & Wharfe Home     Castleford Away    
+Tony Beeden       20 Alan Glenn         21 
+John Benson       21 Peter Whipp        11 
+Colin Rhodes      17 Gary Haley         21 
+Phil Clayton      19 Jack Sharp         21 
+Stuart Brook      16 David Steel        21 
+Allan Caine       21 Stephen Portman    20 
+Andrew Durkin     12 Wayne Bond         21 
+Steve Calvert     21 David Beck          4 
+      Aggregate: 147        Aggregate: 140 
+         Points:  14           Points:  14 
 
 

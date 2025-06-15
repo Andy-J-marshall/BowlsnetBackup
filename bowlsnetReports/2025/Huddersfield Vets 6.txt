@@ -1,4 +1,4 @@
-=== Huddersfield Vets (6-Man) 2025 (as of Thu 12th Jun)
+=== Huddersfield Vets (6-Man) 2025 (as of Sun 15th Jun)
 === League Match Cards
 
        Division 1                  Mon 7th Apr            
@@ -934,7 +934,7 @@ E Armitage               Paul Wright
        Division 2                  Mon 5th May            
       Lockwood Con                Crosland Moor           
 Ronnie Manning        14 Chris Walker                  21 
-Lindsey Devenish      20 Derek Frost                   21 
+Lindsay Devenish      20 Derek Frost                   21 
 Chris Ball            21 B Haigh                       11 
 Richard Walsh         21 Peter Meadows                 10 
 Colman Conneely       21 Paul Gant                     11 
@@ -977,14 +977,14 @@ Michael Pearson          Ian Jowett
 
        Division 3                  Mon 5th May            
     Milnsbridge BC B               Marsh Lib B            
-Robert Iredale         9 Robert Gledhill               21 
+Robert Iredale        21 Robert Gledhill                9 
 Graham Haigh          21 Ian Bolton                    10 
 David Whitham         18 Tony Falck                    21 
 John Hall              9 John Banks                    21 
 Neil Croasdell        21 Paul Crosland                 19 
 Grant Smith              Peter McPartland                 
-             Points:   2                      Points:   5 
-          Aggregate:  78                   Aggregate:  92 
+             Points:   5                      Points:   2 
+          Aggregate:  90                   Aggregate:  80 
 
        Division 3                  Mon 5th May            
    Primrose Hill Lib             Greenhead Park A         
@@ -1867,7 +1867,7 @@ Stephen Hirst            John Mitchell
        Golcar Lib                  Lockwood Con           
 Chris J Hirst         21 Mick Cox                      19 
 Martin Robinson       21 Patrick Conneely               7 
-Robert Row             5 Lindsey Devenish              21 
+Robert Row             5 Lindsay Devenish              21 
 Gino Immediata        21 Ronnie Manning                 2 
 Paul Antich           21 David Cooling                 14 
 Eddie Thompson           Colman Conneely                  

@@ -1,4 +1,4 @@
-=== Halifax (Elland) 2025 (as of Thu 12th Jun)
+=== Halifax (Elland) 2025 (as of Sun 15th Jun)
 === Comp. Match Cards
 
          Division 1                  Mon 28th Apr         
@@ -23,7 +23,7 @@ Jacob Hatfield-Goodall    21 Ian Moxon                  9
 Ian Newby                 21 Helen Simpson              9 
 Wayne Hirst               21 Anthony Naylor            12 
 Paul Arthurs              21 Holly Jenkins              9 
-Ross Ingham               20 Ja Horsley                21 
+Ross Ingham               20 Jason Horsley             21 
 Tom Hirst                 21 Nigel Marshall            15 
                  Points:  46                  Points:  16 
               Aggregate: 167               Aggregate:  89 
@@ -429,7 +429,7 @@ Graham Ward               21 Lewis Whalley              7
 Jacqui Bateson            14 Sarah Horsley             21 
 Lynn Seddon               18 Steven Bedford            21 
 Helen Seed                21 Ruby Whalley              14 
-Rowena Oakey              21 Oria Horsley              15 
+Rowena Oakey              21 Orla Horsley              15 
 Alex Green                12 Jodie Barraclough         21 
                  Points:  32                  Points:  33 
               Aggregate: 137               Aggregate: 135 
@@ -483,7 +483,7 @@ Helen Simpson             21 Robert Hitchen            14
 *No Player*                0 Ian Booth                 21 
 Gordon Johnson            17 Gary Smith                21 
 Ian Moxon                 10 Andrea Buckley            21 
-Ja Horsley                15 Fin Hickey                21 
+Jason Horsley             15 Fin Hickey                21 
 Dale Dyson                 7 Graham Hickey             21 
 *No Player*                0 Clive Harte               21 
 *No Player*                0 Paul Ingleby              21 
@@ -532,6 +532,20 @@ Lee Kenny                 17 Steve Swallow             21
                  Points:  25                  Points:  41 
               Aggregate: 116               Aggregate: 155 
                   Games:   2                   Games:   6 
+
+         Division 2                  Mon 5th May          
+      Stainland Park A              Siddal Park A         
+Daniel Barron             20 Darren Hickey             21 
+Mark Barron               21 Martin Greenwood          20 
+Keith Hatzer              21 S.O. Else                 17 
+Frank Higgins             18 A.N. Other                21 
+Scott Hynes               21 A.N. Other (a)            16 
+Tom Robertshaw            21 A.N. Other(b)              7 
+Simon Robinson            21 A.N. Other(c)             13 
+Mick Severn               21 A.N. Other(d)             13 
+                 Points:  43                  Points:  27 
+              Aggregate: 164               Aggregate: 128 
+                  Games:   6                   Games:   2 
 
          Division 3                  Mon 5th May          
          Outlane A                    Kingston B          
@@ -833,7 +847,7 @@ Phillip Hawtin            21 Gerald Smith               9
 Ben English               21 Julie Priestley            7 
 Steven Bedford            21 Ken Campbell              12 
 Katharine Fletcher         9 David Roy                 21 
-Oria Horsley              21 David Horsfall            11 
+Orla Horsley              21 David Horsfall            11 
 Lewis Whalley             13 Adrian Rose               21 
 Ruby Whalley              21 Tim Freeman                5 
 David Wood                21 Mark Hepworth             12 
@@ -861,7 +875,7 @@ Keith Wadsworth           21 Del Haigh                 14
 Shaun Farrell             21 Janet Silvester           15 
 Brian Lawrence            21 Michael Calvert            5 
 Steve Laycock             13 Phillip Hallowell         21 
-A.N. Other                21 Julie Baker               19 
+Andrew Gudzelak           21 Julie Baker               19 
 Lynda Owen                17 Clive Martin              21 
 Chris Foy                  3 Terry Kettle              21 
 Peter Foster              14 Matthew Onions            21 
@@ -1309,7 +1323,7 @@ Jonas Webster             21 John Gibbs                 2
 Sue Jobson                21 Lewis Whalley              7 
 Michaela Houlker          18 Jeff Greenwood            21 
 Barry Nellis              21 Katharine Fletcher        11 
-Andy Webster              11 Oria Horsley              21 
+Andy Webster              11 Orla Horsley              21 
 Jane Cooke                21 Ruby Whalley              19 
 Julian Carr                6 Sarah Horsley             21 
 Kate Bedford              21 Ben English               18 
@@ -1414,6 +1428,20 @@ Lee Kenny                 19 Aidan Crawley             21
                  Points:  36                  Points:  34 
               Aggregate: 146               Aggregate: 140 
                   Games:   4                   Games:   4 
+
+         Division 2                  Mon 19th May         
+      Stainland Park A                  Wyke A            
+Daniel Barron             21 Andy Bairstow             14 
+Mark Barron               21 Trevor Benn               18 
+Keith Hatzer              21 Vince Cleary              14 
+Frank Higgins             21 Matthew Hicks             17 
+Scott Hynes               21 Eddie Hill                14 
+Tom Robertshaw            21 Nigel Swales              14 
+Simon Robinson            21 Robert Wilkinson          14 
+Mick Severn               21 Nigel Wormald             16 
+                 Points:  48                  Points:  19 
+              Aggregate: 168               Aggregate: 121 
+                  Games:   8                   Games:   0 
 
          Division 2                  Mon 19th May         
        Siddal Park A                Hipperholme A         
@@ -1599,7 +1627,7 @@ June Smith                13 Chris English             21
 
          Division 5                  Mon 19th May         
     Cleckheaton MoorEnd                 Dalton            
-Richard Hemmingway        16 A.N. Other                21 
+Richard Hemmingway        16 Liz Kilner                21 
 Stephen Haist             20 Liz McNeil                21 
 Robert Hoyle              21 David Ray                 14 
 Philip Long               18 Sonya Sanderson           21 
@@ -1764,6 +1792,20 @@ Terry Kettle              21 John Bradley              17
                  Points:  26                  Points:  38 
               Aggregate: 112               Aggregate: 150 
                   Games:   3                   Games:   5 
+
+         Division 1                  Mon 2nd Jun          
+        Elland WM A               Cowcliffe Sports A      
+Robert Hitchen            21 Sophie Brown              18 
+Gareth Coates             21 Mick Higgins               7 
+Clive Harte               21 Chloe Hirst               17 
+Graham Hickey             21 Colin Hufton              11 
+Simon Anderson            21 A.N. Other                19 
+Gary Smith                21 Danny Radcliffe           15 
+Fin Hickey                21 Michael Higgins Senior     5 
+Paul Ingleby              15 Graham Radcliffe          21 
+                 Points:  45                  Points:  23 
+              Aggregate: 162               Aggregate: 113 
+                  Games:   7                   Games:   1 
 
          Division 1                  Mon 2nd Jun          
      Brighouse Sports A             Lower Hopton A        
@@ -2202,7 +2244,7 @@ Nigel Dyson               21 Izzy Burke                14
          Division 7                  Mon 2nd Jun          
          Lindley D                Brighouse Sports D      
 David Leathwood           21 Phillip Hawtin            14 
-Robert Fisher             16 Oria Horsley              21 
+Robert Fisher             16 Orla Horsley              21 
 Alan Dutton               21 Ruby Whalley              20 
 June Taylor               15 Lewis Whalley             21 
 Jill Driver               21 Sarah Horsley              8 
@@ -2217,7 +2259,7 @@ Jean Dawe                 21 Ben English                3
      Brighouse Sports B             Luddenden Foot        
 Anthony Naylor            10 Gareth Swain              21 
 Ryan Collins               9 John Halliday             21 
-Ja Horsley                21 Becky Woodhead             8 
+Jason Horsley             21 Becky Woodhead             8 
 Ian Moxon                 21 Julie Marsden             20 
 Jamie Horsley             21 Craig Thomasson           10 
 Helen Simpson             21 Trish Austin              12 
@@ -2597,7 +2639,7 @@ Julie Hirst               21 Jeff Greenwood            19
 Moraq Myers               14 Sarah Horsley             21 
 Gerry Beamond             21 Katharine Fletcher        18 
 Judith Hall                6 Ruby Whalley              21 
-Christine Henderson       19 Oria Horsley              21 
+Christine Henderson       19 Orla Horsley              21 
 Brian Craven              12 Ben English               21 
 Ruth Beamond              12 Phillip Hawtin            21 
 Jane Blackmore            15 Lewis Whalley             21 

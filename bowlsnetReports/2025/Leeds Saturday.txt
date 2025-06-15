@@ -1,4 +1,4 @@
-=== Leeds & District (Saturday) 2025 (as of Thu 12th Jun)
+=== Leeds & District (Saturday) 2025 (as of Sun 15th Jun)
 === League Match Cards
 
    Saturday League          Sat 5th Apr       
@@ -187,7 +187,7 @@ Stephen Morley      10 Andrew Marshall     21
      League Div 1                             
      Holbeck Ltd            New Farnley       
 James Cuffe         21 Pat Skelton         17 
-Joanne Unwin        12 David J Taylor      21 
+Joanne Unwin        12 Dave Taylor         21 
 Alex Perry          21 Sophie Worral       13 
 Jason Ream           4 Ryan Lynch          21 
 Rhys Hammill        10 Ian Worrall         21 
@@ -1159,5 +1159,109 @@ Stuart Reardon      15 Ian Wardle          21
 Paul Shackleton     21 Kyle Hainsworth     16 
         Aggregate: 156         Aggregate: 110 
            Points:  36            Points:  23 
+
+   YEN Cup (Div 1)          Sat 14th Jun      
+                          On Holbeck Moor     
+     Cross Flatts           New Farnley       
+Paul Hatch          11 Sophie Worral       21 
+Stephanie Wood      13 Ian Worrall         21 
+Jim Bootland        21 Linda Taylor        12 
+Mel Lister          11 Graham Davison      21 
+John Lister          2 Dave Taylor         21 
+Ian Wood            20 Ryan Lynch          21 
+*No Player*          0 Paul Jagger         21 
+*No Player*          0 Andy Thompson       21 
+        Aggregate:  78         Aggregate: 159 
+
+   YEN Cup (Div 1)          Sat 14th Jun      
+                          On Cross Flatts     
+   Sth Leeds Cons A           Meanwood        
+Monica Adams         8 Oliver Devaney      21 
+Simon Hemmingway    17 Ian Macfarlane      21 
+David Brooke        21 David L Miller      17 
+Reece Pratt         10 Julie Keightley     21 
+Tony Auty           18 Douglas Blair       21 
+Derek McCormack     21 Lynda Heath          5 
+Mark Rastrick       21 Paul Dishman        20 
+Joe Adams           20 Jeff Blackburn      21 
+        Aggregate: 136         Aggregate: 147 
+
+   YEN Cup (Div 1)          Sat 14th Jun      
+                           On New Farnley     
+     Holbeck Ltd         Stanningley Park A   
+Andrew Dewhirst     10 David Eaton         21 
+Ian Wardle          21 Martin Fulton       19 
+James Cuffe         21 Richard Hodgson     16 
+Jason Ream          13 Malvin Miller       21 
+Alex Perry          21 Andrew Marshall     16 
+Kian Hendry          8 Paul Bowes          21 
+Joanne Unwin        19 Jim Swailes         21 
+Lisa Hogan          16 Alyssa Randell      21 
+        Aggregate: 129         Aggregate: 156 
+
+   YEN Cup (Div 1)          Sat 14th Jun      
+                           On New Wortley     
+     Holbeck Moor         Scatcherd Park A    
+Geoff Warburton     10 Ian Dufton          21 
+Brian Thompson      21 Geoff Firth         13 
+John Binns          21 Roy Kellett          6 
+Steve Milton        21 Stuart Wardlaw      20 
+Hilary Campbell     21 Chris Stuart        10 
+Wayne Warburton     15 Graham Goodhall     21 
+Mick Stott          14 Steve Briggs        21 
+Steve Brown         21 Martin Huxley       12 
+        Aggregate: 144         Aggregate: 124 
+
+  Trigg Cup (Div 2)         Sat 14th Jun      
+                         On Western Flatts    
+   Sth Leeds Cons B         New Armley B      
+Chloe Grant         21 Howard Gothard      19 
+Neville Salmon      21 Matthew Rollinson   16 
+Julie Cavalli       21 Mark Rollinson       9 
+Jack Tinker         21 David Anker         10 
+Alan Goodall        21 Josie Burdon         6 
+Bob Emerson         21 Jonathan Kaye        7 
+Damien Wright       21 Fred Hargreaves      8 
+Malcolm Collinson   18 Anne Gothard        21 
+        Aggregate: 165         Aggregate:  96 
+
+  Trigg Cup (Div 2)         Sat 14th Jun      
+                          On Bramley Park     
+     Gildersome B           Gildersome A      
+Michael Ross        12 Daphne Scott        21 
+Neil Schofield      11 Frank Hales         21 
+Margaret Johnstone  21 Glenda Holmes       15 
+Barbara Hall        16 Graham Gaunt        21 
+John Ackroyd         6 Diane Hales         21 
+David Holmes        15 Kevin Smales        21 
+Tracy Norton        21 David Norton        13 
+Tony Morris         21 Linda Gaunt          6 
+        Aggregate: 123         Aggregate: 139 
+
+  Trigg Cup (Div 2)         Sat 14th Jun      
+                        On Stanningley Park   
+    Western Flatts          Bramley Park      
+Margaret McPhail    21 Anthony Caywood      1 
+Gary Reddyhoff       7 Terry Astley        21 
+Shirley Barker      15 Sean Fish           21 
+Geoff Clark         11 Shirley Allman      21 
+Anne Lucas          21 Peter Ritchie       18 
+Mary Horrocks       16 Barry Palmer        21 
+Susan Reddyhoff     21 Jeff Allman         17 
+Granville Stoyles   21 Brian Fish          20 
+        Aggregate: 133         Aggregate: 140 
+
+  Trigg Cup (Div 2)         Sat 14th Jun      
+                         On Sth Leeds Cons    
+     New Armley A          Middleton Comm     
+Richard Aspin        7 Neil Hudson         21 
+Glynn Barrett       14 Roy Tebbutt         21 
+Karl Chapman        21 Terry Maher         20 
+Walter Stockhill    21 Mick Harrison       18 
+Richard Stephens     7 Malcolm Cameron     21 
+Mark Aspin          21 Christine Glynn     12 
+Karl Dutton         21 Sue Harrison        17 
+David Hurd           7 Gordon Monk         21 
+        Aggregate: 119         Aggregate: 151 
 
 

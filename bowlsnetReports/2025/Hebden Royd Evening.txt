@@ -1,4 +1,4 @@
-=== Halifax (Hebden Royd Mon.) 2025 (as of Thu 12th Jun)
+=== Halifax (Hebden Royd Mon.) 2025 (as of Sun 15th Jun)
 === Comp. Match Cards
 
 Division 1, 6 person teams        Mon 12th May       
@@ -6,7 +6,7 @@ Division 1, 6 person teams        Mon 12th May
 David Hewitt             21 Harry Ashworth         5 
 Andy Matthews            21 John Hartley          10 
 Sean Picken              21 Andresa McWhirter     10 
-Mick Dunne               21 Steve Morris          12 
+Mick Dunn                21 Steve Morris          12 
 Robert Lightowler        21 David Whitehouse       9 
 Steve Griffiths          18 Stephen D Robinson    21 
                 Points:   7              Points:   1 
@@ -115,7 +115,7 @@ Joan Collins             12 David Hewitt          21
 Ann Greenwood            18 Robert Lightowler     21 
 Gary Peel                21 Sean Picken           18 
 William Ashley           13 Andy Matthews         21 
-Lorraine Boulton         10 Mick Dunne            21 
+Lorraine Boulton         10 Mick Dunn             21 
 David Greenwood          14 Steve Griffiths       21 
                 Points:   1              Points:   7 
              Aggregate:  88           Aggregate: 123 
@@ -223,7 +223,7 @@ Peter Thompson           20 Andy Matthews         21
 Mick Peel                11 David Hewitt          21 
 Mark Simpson             21 Sean Picken           13 
 Marcus Grundy            21 Robert Lightowler      8 
-John Copperwaite         21 Mick Dunne            17 
+John Copperwaite         21 Mick Dunn             17 
 Thomas Hargreaves        13 Steve Griffiths       21 
                 Points:   5              Points:   3 
              Aggregate: 107           Aggregate: 101 
@@ -308,7 +308,7 @@ Robert Crowther          11 Dave Ruse             21
 Andy Matthews            21 Tony Cooper            7 
 Sean Picken              21 Derek Williamson       7 
 Steve Griffiths          21 Sue Martin             6 
-Mick Dunne               21 Tim Ham               18 
+Mick Dunn                21 Tim Ham               18 
                 Points:   7              Points:   1 
              Aggregate: 116           Aggregate:  77 
                  Games:   5               Games:   1 
@@ -359,6 +359,18 @@ Graham Habbershaw        17 Gaynor Leaff          21
 Tim Brumby               21 Nigel Halsteadi       13 
                 Points:   7              Points:   1 
              Aggregate: 122           Aggregate:  83 
+                 Games:   5               Games:   1 
+
+Division 2, 6 person teams        Mon 9th Jun        
+       Luddendenfoot               Old Town B        
+Thomas Bridges           21 Vivienne Bewick        2 
+Kevin Mitchell           21 Ian Coleman           17 
+Ian Armstrong            21 Harry Coleman          4 
+Kay Lund                 19 John McDermondy       21 
+J Barry Farrar           21 John Bewick           18 
+Chris Watkins            21 Tom Faulkner          10 
+                Points:   7              Points:   1 
+             Aggregate: 124           Aggregate:  72 
                  Games:   5               Games:   1 
 
 

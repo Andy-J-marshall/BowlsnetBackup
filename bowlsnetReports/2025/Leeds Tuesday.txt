@@ -1,4 +1,4 @@
-=== Leeds & District (Tuesday) 2025 (as of Thu 12th Jun)
+=== Leeds & District (Tuesday) 2025 (as of Sun 15th Jun)
 === League Match Cards
 
       Division 1            Tue 8th Apr       
@@ -1392,6 +1392,19 @@ David Burke         21 Richard Hodgson     11
         Aggregate: 168         Aggregate: 109 
            Points:  40            Points:  20 
 
+      Division 2            Tue 10th Jun      
+   East End Park A        Crossgates Rec A    
+Dave Smith          21 Maria Durkan        11 
+Dave Howard          8 Dave Sharp          21 
+Matt Ramsey         20 Alan Wood           21 
+Nigel Rawlings       8 Dave Farman         21 
+Josey Olivant       21 Terry Rock          12 
+Paul Reynard        21 Graham Scholes      19 
+Sophie Olivant      21 John Durkan         15 
+Darran Baker        21 Andy Walton          4 
+        Aggregate: 141         Aggregate: 124 
+           Points:  31            Points:  26 
+
       Division 3            Tue 10th Jun      
     Pudsey Park A          Middleton Comm     
 Callum Birkin       21 Malcolm Hallas      17 
@@ -1414,7 +1427,7 @@ George Ellener      18 Susan Lee           21
 Wayne Warburton     21 George Ramsden      11 
 Steve Brown         21 Peter Aves          14 
 John Binns          21 Geoff West          11 
-Pat Parker          13 Mike Gould          21 
+Pat Parker          13 John Alper          21 
         Aggregate: 157         Aggregate: 112 
            Points:  36            Points:  21 
 

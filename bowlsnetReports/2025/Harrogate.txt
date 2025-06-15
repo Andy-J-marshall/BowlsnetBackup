@@ -1,4 +1,4 @@
-=== Harrogate 2025 (as of Thu 12th Jun)
+=== Harrogate 2025 (as of Sun 15th Jun)
 === League Match Cards
 
        Division 3               Tue 1st Apr        
@@ -39,6 +39,19 @@ Stewart Goosey         17 Steve Smith           21
 Nick Coutts            21 Carole Harpham        18 
            Aggregate: 164           Aggregate: 111 
               Points:   9              Points:   1 
+
+       Division 3               Tue 1st Apr        
+     Low Harrogate C           Bardsey Osprey      
+David Clarke           21 Raymond Hill          19 
+Bernard Poulter        21 Mary Phillips         12 
+Brian Rayner           21 Linda Matthews         7 
+Ann Wilson             21 Martin Cocker          8 
+Marwood Smith          15 James Phillips        21 
+Jim Whitton            17 Ron Clark             21 
+Pauline Parker         21 Phil Bouic            20 
+Robin Addis            16 John Conyers          21 
+           Aggregate: 153           Aggregate: 129 
+              Points:   7              Points:   3 
 
        Division 3               Tue 1st Apr        
       Starbeck 2nd            Wayside Ramblers     
@@ -390,6 +403,19 @@ Lynn Curl              21 Corwin Juras           2
 Phil Dolan             21 George Collinson       9 
            Aggregate: 163           Aggregate:  71 
               Points:   9              Points:   1 
+
+       Division 4               Tue 15th Apr       
+     Low Harrogate D            Starbeck 3rd       
+Margaret Brockhill     21 Robin Drury           18 
+Paul Howell            10 Richard Farrar        21 
+Glenys Old             21 Jonathan Pearson       8 
+Dave Rodger            19 Iain Johnson          21 
+Charlie Peacock        18 Carol Abbott          21 
+Adele Zagorski         21 Brian Baldry          11 
+Malcolm Davies         21 Stephen Day           12 
+Den Morris             21 Evan Challis          19 
+           Aggregate: 152           Aggregate: 131 
+              Points:   7              Points:   3 
 
        Division 4               Tue 15th Apr       
       Starbeck 4th               Dacre Owls        
@@ -1107,6 +1133,19 @@ Peter White            21 Alex May               5
               Points:   8              Points:   2 
 
        Division 3               Tue 6th May        
+     Bardsey Osprey              Bilton WMC        
+Derek Stone             3 Paul Renton           21 
+Phil Bouic             21 Stephen Clayton        6 
+Ian Carr               21 Phil Wrightson        11 
+Ron Clark              21 Geoff Fowler           8 
+Martin Cocker           3 Derrick Fox           21 
+Peter Forshaw          21 Tommy Bland           19 
+Linda Matthews         21 Trevor Baranovski      9 
+James Phillips         21 Alan Gazey            17 
+           Aggregate: 132           Aggregate: 112 
+              Points:   8              Points:   2 
+
+       Division 3               Tue 6th May        
      Low Harrogate C           Collingham 3rd      
 Robin Addis            21 Paul Nice             20 
 David Clarke           21 Michael Jennings      15 
@@ -1400,9 +1439,9 @@ Richard Widnall        21 David Dean            20
 Philip Harrison        14 Neil Roberts          21 
 David Taylor           21 Sarah Jarvis          16 
 John Potter            20 Maureen Burleigh      21 
-John Mais              21 Michael Hatfield       9 
-           Aggregate: 151           Aggregate: 141 
-              Points:   7              Points:   3 
+John Mais               9 Michael Hatfield      21 
+           Aggregate: 139           Aggregate: 153 
+              Points:   4              Points:   6 
 
        Division 3               Mon 12th May       
       Dacre Falcons            Bardsey Osprey      
@@ -1533,6 +1572,19 @@ Norman Parker          21 John Lambert           5
 Marwood Smith          21 Stephen Tucker        12 
            Aggregate: 167           Aggregate: 117 
               Points:   9              Points:   1 
+
+       Division 4               Tue 13th May       
+    Almscliffe Hikers       Knaresborough Foxes    
+Judith Saynor          21 Sue Taylor             5 
+Dione Rowbotham        11 Barry Nobbs           21 
+Paul Howarth           11 Phil Dolan            21 
+Richard Saynor         21 Sue Massey            16 
+Malcolm Spence         13 David Wilkinson       21 
+Debbie Petch           11 Andy Minty            21 
+Caroline Cowling       15 Alan Hill             21 
+Orin Joistdahl         15 Maggie Dolan          21 
+           Aggregate: 118           Aggregate: 147 
+              Points:   2              Points:   8 
 
        Division 4               Tue 13th May       
       Starbeck 3rd          Pateley Bridge Cubs    
@@ -1797,6 +1849,19 @@ Richard Bullough       11 Julia Heaton          21
 Kevin Wood             21 Keith Hardcastle      16 
            Aggregate: 130           Aggregate: 132 
               Points:   3              Points:   7 
+
+       Division 3               Tue 20th May       
+     Bardsey Osprey        Knaresborough Badgers   
+James Phillips         21 Eric Taylor           17 
+Linda Matthews          6 Alan Bowman           21 
+Mary Phillips          21 Karen Blaymire        16 
+Ian Carr               21 Karen Ibbotson        14 
+Peter Forshaw          10 David Rowlands        21 
+Raymond Hill           13 Paul Wood             21 
+Ron Clark              21 Bill Harrison         20 
+John Conyers           21 Martin Gough           6 
+           Aggregate: 134           Aggregate: 136 
+              Points:   5              Points:   5 
 
        Division 3               Tue 20th May       
      Low Harrogate C             Bilton WMC        
@@ -2229,6 +2294,19 @@ Alan Pickering         20 Debbie Stockdale      21
 Paul Nice              15 Steve Hastings        21 
            Aggregate: 146           Aggregate: 151 
               Points:   3              Points:   7 
+
+       Division 3               Tue 3rd Jun        
+       Bilton WMC             Wayside Ramblers     
+Phil Wrightson         21 Mick Watson           15 
+Alan Gazey             21 Brian Snodgrass        8 
+Stephen Clayton        12 Lynn Daly             21 
+Michelle Hill          18 Martha Whitehouse     21 
+Tommy Bland            21 Susie Whistler        15 
+Paul Renton            18 Paul McIntyre         21 
+Trevor Baranovski      18 Simon Daly            21 
+David Berry            21 Shaun Ellenthorpe      6 
+           Aggregate: 150           Aggregate: 128 
+              Points:   6              Points:   4 
 
        Division 4               Tue 3rd Jun        
     Bilton Athenians        Knaresborough Foxes    

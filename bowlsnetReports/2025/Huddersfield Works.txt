@@ -1,4 +1,4 @@
-=== Huddersfield Works League 2025 (as of Thu 12th Jun)
+=== Huddersfield Works League 2025 (as of Sun 15th Jun)
 === Comp. Match Cards
 
          Division 1                   Thu 24th Apr          
@@ -39,6 +39,19 @@ Mick Mozley                14 T Gledhill                 21
 Jason Moore                12 O Fox                      21 
                Aggregate: 102                Aggregate: 168 
                   Points:   0                   Points:  10 
+
+         Division 1                   Thu 24th Apr          
+ Roses Cleaning Services (A)   M.Thornton Estate Agents A   
+Tony Schofield              6 Glynis Philbin             21 
+M Skuse                    21 Mike Thornton              13 
+D Frost                    19 Graham Sigsworth           21 
+Steven Shaw                15 Richard Turton             21 
+Dean Shaw                  13 Tony Allen                 21 
+B Gilbert                  21 Barry Tinker               18 
+A Rose                     21 Lewis Turton               17 
+M Armitage                  9 R Whitcombe                21 
+               Aggregate: 125                Aggregate: 153 
+                  Points:   3                   Points:   7 
 
          Division 2                   Thu 24th Apr          
         Paddock I & C          Roses Cleaning Services (B)  
@@ -197,6 +210,19 @@ Katie Thorpe               15 N Booth                    21
                   Points:   4                   Points:   6 
 
          Division 1                    Thu 1st May          
+        CP Electrical                  H R Blowers          
+Anthony Cross              21 Jasmine Gant               17 
+Gary Holmes                10 Chloe Ghaffar              21 
+Wayne Dews                 21 Craig Gant                 17 
+Robert Eastwood             7 David Cooper               21 
+Rob Spencer Snr            21 Cameron Duffy              10 
+Thomas Mozley              21 Trevor Balderson           20 
+Rob Spencer Jnr            21 Ann Kendal                  1 
+Richard Mozley             21 Jeff Mellor                 9 
+               Aggregate: 143                Aggregate: 116 
+                  Points:   8                   Points:   2 
+
+         Division 1                    Thu 1st May          
         Fox Engravers          Roses Cleaning Services (A)  
 Nathan Haigh               21 Carl Taylor                19 
 D Fox                      21 Lorraine Hirst              9 
@@ -320,8 +346,8 @@ Michael Higgins            21 Mark Berry                  7
 Craig Walsh                21 John Clarkson              18 
 Richard Brook              21 Andy Johnson               13 
 Geoff Martin               12 Ben Crosland               21 
-*A.N.Other*                21 Daniel Berry               14 
-Craig Dyson                21 Richard Halliwell          15 
+Mike Lee                   21 Daniel Berry               14 
+Rob Battye                 21 Richard Halliwell          15 
 Peter McWilliam            17 Robert Tracey              21 
                Aggregate: 155                Aggregate: 123 
                   Points:   8                   Points:   2 
@@ -574,6 +600,19 @@ Jason Moore                16 Thomas Mozley              21
                   Points:   2                   Points:   8 
 
          Division 1                   Thu 15th May          
+ Roses Cleaning Services (A)   Marshall Landscaping Prod A  
+A Rose                     21 Chris Churm                 9 
+B Gilbert                  21 Karen Gant                 20 
+G Woodruff                 21 Nancy Harrison             16 
+Dean Shaw                  21 John Belfield              12 
+Carl Taylor                19 Ian Ross                   21 
+M Armitage                 21 John Gant                  19 
+Tony Schofield             21 Robert Schofield           11 
+Steven Shaw                21 Lyndon Campbell             6 
+               Aggregate: 166                Aggregate: 114 
+                  Points:   9                   Points:   1 
+
+         Division 1                   Thu 15th May          
          H R Blowers                   Debriar Ltd          
 Cameron Duffy               8 Jane Hollingworth          21 
 Ann Kendal                 21 S Oliver                    8 
@@ -702,6 +741,19 @@ Derek Hey                  11 T Gledhill                 21
 Ed Haigh                    6 O Fox                      21 
                Aggregate: 105                Aggregate: 168 
                   Points:   0                   Points:  10 
+
+         Division 2                   Fri 16th May          
+ Roses Cleaning Services (B)        Kel Air Plastics        
+Dennis Fuller               8 Robert Taylor              21 
+Eileen Johnson             21 Richard Saunders            8 
+Shirley Dillingham         21 Gordon Cairns              19 
+Richard Quarmby            21 Steve Sykes                 2 
+Jeremy Ford                18 Richard Long               21 
+Jayne Armitage             21 Gerry Quinn                17 
+Mark Woodruff              21 Paul Cooney                17 
+David Woodruff             21 Daniel Bousfield           18 
+               Aggregate: 152                Aggregate: 123 
+                  Points:   8                   Points:   2 
 
          Division 2                   Fri 16th May          
        Spring Clean A                 Golcar Lib A          
@@ -871,6 +923,19 @@ Holly Robinson             21 Chris Motley               14
 Ken Ellis                  21 Kenneth Whitaker           12 
                Aggregate: 153                Aggregate: 108 
                   Points:   8                   Points:   2 
+
+         Division 1                   Fri 23rd May          
+ Marshall Landscaping Prod A      Crested and Country A     
+Karen Gant                 18 Jm Lindley                 21 
+Simon Hough                21 Michael Hardy               6 
+Ben Fisher                 17 Tim Poulter                21 
+Joshua Stephans            11 Robert Craven              21 
+John Gant                  21 *A.N.Other*                 8 
+Ian Ross                   21 Dawn Jessop                 2 
+Robert Schofield            9 Stephen Bramall            21 
+Nancy Harrison             21 Ed Haigh                   19 
+               Aggregate: 139                Aggregate: 119 
+                  Points:   6                   Points:   4 
 
          Division 2                   Fri 23rd May          
         Golcar Lib A                   C.T.Mowers           
