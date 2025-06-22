@@ -1,4 +1,4 @@
-=== Halifax (Thurs. Afternoon) 2025 (as of Sun 15th Jun)
+=== Halifax (Thurs. Afternoon) 2025 (as of Sun 22nd Jun)
 === Comp. Match Cards
 
    Marsden Trophy Division 1          Thu 10th Apr        
@@ -319,6 +319,17 @@ John McDermondy              21 Alf Praulins           10
 Ian Coleman                  21 Steve Emery            19 
                     Points:   7               Points:   1 
                  Aggregate: 108            Aggregate:  78 
+
+    Dyson Trophy Division 6           Thu 10th Apr        
+         Halifax BC E                 Wibsey Park B       
+John West                    21 Katherine Bartle       17 
+Glyn Owen                    21 Daryl Fieldhouse        7 
+Steven Webster               21 Ray Leadbetter         19 
+Alan Jeffs                   15 David Saville          21 
+Christopher Lindsey          21 Roy Lee                 5 
+David Mitton                 21 Dennis Flaherty        16 
+                    Points:   7               Points:   1 
+                 Aggregate: 120            Aggregate:  85 
 
     Dyson Trophy Division 6           Thu 10th Apr        
       Akroydon Victoria C            Bailiff Bridge       
@@ -660,6 +671,17 @@ Chris Rhodes                 15 Geoffrey Beaumont      21
 Philip Brearley              18 Malcom Rothery         21 
                     Points:   6               Points:   2 
                  Aggregate: 117            Aggregate: 109 
+
+    Dyson Trophy Division 6           Thu 17th Apr        
+        Elland C & BC B               Halifax BC E        
+Peter Morgan                  3 John West              21 
+Anita Naylor                 21 Ann Booth              16 
+Alf Praulins                 16 Christopher Lindsey    21 
+Mel Temple                   15 Steven Webster         21 
+John Broadbent               21 David Mitton           13 
+Steve Emery                  20 Denise Stocks          21 
+                    Points:   2               Points:   6 
+                 Aggregate:  96            Aggregate: 113 
 
     Dyson Trophy Division 6           Thu 17th Apr        
         Bailiff Bridge              Sowerby T & BC B      
@@ -1696,6 +1718,17 @@ John Jackson                 21 Tim Brumby             10
                  Aggregate: 112            Aggregate:  87 
 
 Pearson Bros Trophy Division 5         Thu 8th May        
+         Allan Park B                Bradshaw Park C      
+Matt Wilkins                 21 Pat Wilson             18 
+Frank Lowney                 16 Trevor Mosey           21 
+Bob Solomons                 21 Derek Wilson           11 
+Christine Holdsworth          2 Barry Walker           21 
+Peter Mc Owen                11 Max Robinson           21 
+Milly Wheelwright            14 Derek Ashington        21 
+                    Points:   2               Points:   6 
+                 Aggregate:  85            Aggregate: 113 
+
+Pearson Bros Trophy Division 5         Thu 8th May        
        Holmfield Park A              Brighouse BC C       
 Edward Moss                  21 Les Sampson             4 
 Stephen Hardy                21 John Hunter            13 
@@ -2046,6 +2079,17 @@ Gerald Rowley                13 Stephen Hardy          21
 David McMahon                21 Malcom Rothery         17 
                     Points:   2               Points:   6 
                  Aggregate:  87            Aggregate: 108 
+
+Pearson Bros Trophy Division 5        Thu 15th May        
+         Allan Park B                 Wibsey Park A       
+Matt Wilkins                 12 Steve Thornton         21 
+Frank Lowney                 21 Charles Fell           15 
+Bob Solomons                  7 John May               21 
+Peter Mc Owen                11 John Simpson           21 
+Milly Wheelwright            21 Paul Broome            10 
+Gregg Reinsch                21 John Walsh             14 
+                    Points:   3               Points:   5 
+                 Aggregate:  93            Aggregate: 102 
 
 Pearson Bros Trophy Division 5        Thu 15th May        
          Hill Crest B                 Halifax BC D        
@@ -3542,5 +3586,16 @@ John Pix                     19 Joe Gibbons            21
 John Stevenson               21 Adrian Dinsmore        13 
                     Points:   5               Points:   3 
                  Aggregate: 116            Aggregate: 102 
+
+  Jack Dean Trophy Division 2         Thu 19th Jun        
+        Pellon Social B              Greetland BC B       
+Martin Alders                15 Geoff Clegg            21 
+Denise Walton                21 Graham Crompton        20 
+Lynne Greenwood              21 Peter Webb             18 
+Peter Greenwood              21 Lewis Mitchell         12 
+Ian Fearnley                 11 Gary Hinchliffe        21 
+Mark Bolton                  21 David Farrar            5 
+                    Points:   6               Points:   2 
+                 Aggregate: 110            Aggregate:  97 
 
 

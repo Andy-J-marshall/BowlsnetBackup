@@ -1,4 +1,4 @@
-=== Wakefield Saturday Bowling League 2025 (as of Sun 15th Jun)
+=== Wakefield Saturday Bowling League 2025 (as of Sun 22nd Jun)
 === League Match Cards
 
        Division 1                Sat 5th Apr        
@@ -254,6 +254,11 @@ Chris Cullen           21 Denis Law              19
            Aggregate: 158            Aggregate: 124 
 
        Division 1               Sat 12th Apr        
+     HANGING HEATON           BARNSLEY CENTRAL      
+           Aggregate: 154            Aggregate: 104 
+      Manual Result                                 
+
+       Division 1               Sat 12th Apr        
     WEST BRETTON 'A'            MORTON HOUSE        
 John Wright            12 Darren Ripley          21 
 James Szabo            11 Michael Sweeney        21 
@@ -456,6 +461,11 @@ Michael Wood           21 Steve Darby            17
 Charlie Sykes          11 Steven Sykes           21 
 Duncan Terry           21 Ian Fisher              8 
            Aggregate: 155            Aggregate: 127 
+
+       Division 1               Sat 19th Apr        
+    BARNSLEY CENTRAL             ROTHWELL BC        
+           Aggregate: 164            Aggregate: 128 
+      Manual Result                                 
 
        Division 2               Sat 19th Apr        
      ROYDS PARK 'A'            OSSETT C&AC 'B'      
@@ -1034,6 +1044,12 @@ Alistair Ettles        21 Simon Geal              6
            Aggregate: 126            Aggregate: 128 
 
       Wakefield Cup             Sun 11th May        
+       ROTHWELL BC             HORBURY WMC 'A'      
+            Handicap:  +8             Handicap: +16 
+           Aggregate:   0            Aggregate:   0 
+      Manual Result                                 
+
+      Wakefield Cup             Sun 11th May        
                              On ALVERTHORPE WMC     
      OSSETT C&AC 'A'           HANGING HEATON       
 Sam Beresford          21 Kath Robinson          15 
@@ -1162,6 +1178,18 @@ Ron Owen               20 Brian Taylor           21
 Peter Burrows          14 Chris Cullen           21 
 Charlotte Holmes       21 Lee Grieve             19 
            Aggregate: 150            Aggregate: 133 
+
+       Division 2               Sat 17th May        
+  MIRFIELD OLD BANK 'B'        ALVERTHORPE WMC      
+Gary Morton            16 John Wood              21 
+Matty Mongon           14 Keith Exley            21 
+Bruce Illingworth      13 Richard Ramsden        21 
+Mark Morton            21 Eddie Wilkinson        15 
+Andy Foggo             21 David Wright           14 
+Josh Perks             21 Anita Dack             14 
+Shaun Berry            21 Mick Dack              15 
+Mark Prideaux          21 Phillip Schofield       6 
+           Aggregate: 148            Aggregate: 127 
 
        Division 2               Sat 17th May        
     LOWER HOPTON 'B'            DENBY GRANGE        
@@ -1560,6 +1588,11 @@ Paul Hawes             21 Joe Peckett            11
            Aggregate: 163            Aggregate: 132 
 
        Division 1               Sat 31st May        
+       ROTHWELL BC             HANGING HEATON       
+           Aggregate: 140            Aggregate: 150 
+      Manual Result                                 
+
+       Division 1               Sat 31st May        
     BARNSLEY CENTRAL           HEMSWORTH CONS       
 John Shepherd          21 Lee Grieve             12 
 Dean Ledgeway          21 Jim Ascroft            10 
@@ -1930,5 +1963,245 @@ Ian Worthington        21 Trevor Newey           12
 Pauline Wilson         15 John Dudding           21 
 Derick Hartley          4 Mark Young             21 
            Aggregate: 133            Aggregate: 146 
+
+       Division 4               Sat 14th Jun        
+  SKELMANTHORPE CENTRAL        GRANGE PARK 'B'      
+Liz Barden             21 Donald Cheyne          16 
+Elaine Long            21 Lynda Russell           4 
+Carol Scaramuzza       21 Hilary Richardson      11 
+Clarence Johnson       21 Gill Ettles            16 
+Michael Harries        21 Margaret Cheyne        14 
+Stephen Scaramuzza     21 Freda White            18 
+Richard Auty           13 Kevin Oldfield         21 
+Jonathan Taylor        21 Alistair Ettles        11 
+           Aggregate: 160            Aggregate: 111 
+
+       Division 3               Fri 20th Jun        
+     OSSETT C&AC 'C'              SOOTHILL          
+Stephen Blacklock      21 Stephen Hall           18 
+Nora Collier           21 Peter Wilson           14 
+Svajunas Kapitan       21 Colin Szynkowski       13 
+Alan Nash              21 Karen Ainley           17 
+Linda Theaker          21 Stuart Gledhill         5 
+Alison Sykes           21 Carole Gattrell         6 
+Rena Hirstle           11 Neil Brighton          21 
+Connor Dunford         21 Ian Taylor             19 
+           Aggregate: 158            Aggregate: 113 
+
+       Division 1               Sat 21st Jun        
+     HANGING HEATON            OSSETT C&AC 'A'      
+Gary Amatt             21 Peter Lamb             15 
+Jacob Amatt             6 Mick Scott             21 
+Amanda Hagen            9 Robert Dunford         21 
+Kath Robinson           2 Joshua Dunford         21 
+Keith Smith            15 Oscar Scott-Parker     21 
+Tony Render             9 Chris Nuttall          21 
+Roger Birdsall         21 Nigel Miller           16 
+David Armitage         19 Harley Tattersley      21 
+           Aggregate: 102            Aggregate: 157 
+
+       Division 1               Sat 21st Jun        
+    LOWER HOPTON 'A'           HORBURY WMC 'A'      
+Ian Newby              21 Paul Hawes              9 
+Wayne Hirst            21 Adrian Smart           17 
+Clive Hirst            21 David Purssell          6 
+Graham Hirst           21 John Shaw               4 
+Martin Laycock         21 David Horan            18 
+Ross Ingham            13 Denis Law              21 
+Aiden Fox              21 Arthur Clarkson        13 
+Daniel Clarke          16 Malcolm Shaw           21 
+           Aggregate: 155            Aggregate: 109 
+
+       Division 1               Sat 21st Jun        
+     HEMSWORTH CONS         MIRFIELD OLD BANK 'A'   
+Chris Cullen           21 Michael Addy            6 
+Steve Hall             14 Trevor Morgan          21 
+Jason Dale             21 Colin Fisher           11 
+Lee Grieve             21 Graham Sheard           7 
+Mark Coulson           11 Michael Wood           21 
+Derek Hatton           21 David Bentley          12 
+Christopher L Cullen   21 Bryan Ibbetson         19 
+Brian Taylor           18 Duncan Terry           21 
+           Aggregate: 148            Aggregate: 118 
+
+       Division 1               Sat 21st Jun        
+       ROTHWELL BC              MORTON HOUSE        
+Mick Goodall           21 Doug Bulmer            12 
+Georgina Holmes        21 Mandy Hyde             14 
+Alan Box               21 John Leach             15 
+Andy Limbert           21 Paul Wright            15 
+Charlotte Holmes       21 Darren Ripley          16 
+Ellis Owen             16 Angela Whitworth       21 
+Ron Owen               11 Millie Hyde            21 
+Lyn Dye                10 Chris Sweeney          21 
+           Aggregate: 142            Aggregate: 135 
+
+       Division 1               Sat 21st Jun        
+    WEST BRETTON 'A'          BARNSLEY CENTRAL      
+Paul Wainwright        18 Mick Pointer           21 
+Steve Hall             21 Isaac Cook             12 
+Joe Peckett            21 Nathan Best            14 
+Steven Sykes           21 Patrick Murphy         17 
+Kim Fisher             21 David Bingham          14 
+James Szabo            21 John Shepherd          11 
+Mick Goodwin           18 Anthony Makin          21 
+John Wright            14 Nigel McDermott        21 
+           Aggregate: 155            Aggregate: 131 
+
+       Division 2               Sat 21st Jun        
+     OSSETT C&AC 'B'          LOWER HOPTON 'B'      
+Andrew Callaghan       21 Martin Fox             19 
+Bryan Collier          19 Graham Knutton         21 
+Graeme Eyre            21 Janet Griffiths        19 
+Tina Eyre              21 Bryan Jenkins          11 
+Linda Pearson          21 John Haikings           5 
+Svajunas Kapitan       16 Paul Moon              21 
+Neil Holmes            21 David Griffths         10 
+Keith Hirstle          21 David Laycock           9 
+           Aggregate: 161            Aggregate: 115 
+
+       Division 2               Sat 21st Jun        
+     ALVERTHORPE WMC           ROYDS PARK 'A'       
+John Wood              20 Philip Rann            21 
+Jeff Normanton         21 Phillip Robinson        7 
+Mick Dack              14 Tyler James            21 
+Richard Ramsden        21 Susan Bentley           9 
+Keith Exley            21 Barbara Johnstone       7 
+Eddie Wilkinson        17 Richard Smith          21 
+David Wright           21 Steve Busz             19 
+Neil Parkin            21 Harry Parsan            1 
+           Aggregate: 156            Aggregate: 106 
+
+       Division 2               Sat 21st Jun        
+     SLAZENGERS 'A'             DENBY GRANGE        
+Liam Redican           21 David Walker            6 
+Micheal Redican        21 Chris Nicholson        10 
+Angela Pursglove       18 Michael Knowles        21 
+Gary Larner            13 Luke Gant              21 
+Lucie Harding          19 Ian Davis              21 
+Glynis Philbin         20 Chris Shires           21 
+Stephen Davis          21 Graham Blythe           9 
+Andy Hoult             21 Neil Broadhead         17 
+           Aggregate: 154            Aggregate: 126 
+
+       Division 2               Sat 21st Jun        
+  MIRFIELD OLD BANK 'B'    NOSTELL MINERS WELFARE   
+Ron Jepson             21 Kirk Picken            16 
+Mark Prideaux          13 Darren Crummack        21 
+Bruce Illingworth       2 Tony Whitlam           21 
+Andy Foggo              8 Ross Taylor            21 
+Josh Perks             15 Derek McAdam           21 
+Matty Mongon           21 Les Conway             13 
+Norman Booth           14 Barry Turner           21 
+Shaun Berry             2 Andrew Chadwick        21 
+           Aggregate:  96            Aggregate: 155 
+
+       Division 3               Sat 21st Jun        
+       WRENTHORPE              OSSETT C&AC 'C'      
+Paul Horrocks          21 Linda Theaker          14 
+Brian Marden           21 Nora Collier            4 
+Eileen Wardman         21 Rena Hirstle           12 
+Martin Turner          13 Stephen Blacklock      21 
+Vernon Green           21 Dianne Pitchford       10 
+Eric Hargreaves        21 Alison Sykes           15 
+John Scholey           20 Connor Dunford         21 
+Dave Gordon            21 Alan Nash              11 
+           Aggregate: 159            Aggregate: 108 
+
+       Division 3               Sat 21st Jun        
+        SOOTHILL               GRANGE PARK 'A'      
+Carole Gattrell        21 Doreen Ashton          17 
+Ian Taylor             21 Lynne Cunningham       16 
+Kenneth Walker         17 Derick Hartley         21 
+Neil Brighton          21 Ron Walker             14 
+Stephen Hall           15 Jane Illsey            21 
+Karen Ainley           21 Pauline Wilson          6 
+Peter Wilson           15 David Wilson           21 
+Colin Szynkowski        4 Ian Worthington        21 
+           Aggregate: 135            Aggregate: 137 
+
+       Division 3               Sat 21st Jun        
+     ROYDS PARK 'B'                SANDAL           
+David Renshaw          17 Andrew Evison          21 
+Stuart Burton          21 Roger Steel            19 
+Ruth Day               21 Lynn Lawson            20 
+Lesley Osborne         21 Jane Caven             13 
+Christine Gowan        10 Archie Evison          21 
+James Senior           19 Doug Lawson            21 
+Rachel Gowan            9 David Dixon            21 
+Raymond Downes         21 James Evison           18 
+           Aggregate: 139            Aggregate: 154 
+
+       Division 3               Sat 21st Jun        
+      WAKEFIELD BC            WAKEFIELD THORNES     
+Dorothy Smith           9 Gerry Taylor           21 
+Donald Ward            21 David Warwick          20 
+Trevor Dey             21 Susan Twohig           12 
+David Crest            21 Gary Milner            10 
+Trevor Newey           21 John Walker            10 
+Peter Claven            7 Robert Holmes          21 
+John Dudding           21 Steve Findlay          15 
+Mark Young             21 Khalid Mahmood         11 
+           Aggregate: 142            Aggregate: 120 
+
+       Division 4               Sat 21st Jun        
+       ARDSLEY 'A'          SKELMANTHORPE CENTRAL   
+Derek Walker           21 Alan Worrall            5 
+Pat Lee                20 Carol Scaramuzza       21 
+Gerry Swift            21 Helen Harries          19 
+Marilyn Robinson       21 Liz Barden             20 
+Andrew Morley          21 Elaine Long            17 
+Brian Weatherill       21 Michael Harries        14 
+Janet Jeffreys         21 Stephen Scaramuzza     18 
+Jim Leach              21 Stephen Auty           14 
+           Aggregate: 167            Aggregate: 128 
+
+       Division 4               Sat 21st Jun        
+     GRANGE PARK 'B'           THORNHILL C&BC       
+Hilary Richardson      21 Joyce Tolson            5 
+Alistair Ettles        21 Joyce Parker            8 
+Freda White            21 Martin Cullen          15 
+Margaret Cheyne        18 Brian Skinner          21 
+Lynda Russell           7 Julie Makepeace        21 
+Donald Cheyne           6 Jennifer Gray          21 
+John Ashton            21 Hazel Cullen           18 
+Gill Ettles            17 Derek Robinson         21 
+           Aggregate: 132            Aggregate: 130 
+
+       Division 4               Sat 21st Jun        
+     HORBURY BRIDGE              ARDSLEY 'B'        
+Chris Pennock          21 Karen Bembridge        12 
+Karen Gee              21 Bev Henderson          14 
+Melvyn Whittaker       20 Di Labourn             21 
+Mark Senior            21 Carol Hargreaves        4 
+Malcolm Child          18 Mark Scruton           21 
+Andrew Hughes          21 Terry Townend           9 
+Geoff Close            21 Bob Haigh              14 
+David Whitaker         21 Sam Hargreaves         20 
+           Aggregate: 164            Aggregate: 115 
+
+       Division 4               Sat 21st Jun        
+     HORBURY WMC 'B'          WEST BRETTON 'B'      
+Michael Gilbert        21 Trevor Gibbons          5 
+Paul Shilito           21 Kate Moore              9 
+Kath Andrews           21 Tony Hydes              4 
+Christopher Wilkinson  21 Robert Calton          17 
+David Ingham            6 Steve Slawycz          21 
+Martin Barlow          21 Tony Hooper             8 
+Darren Addison         21 Simon Geal              7 
+Derek Hawes            12 Mick Shaw              21 
+           Aggregate: 144            Aggregate:  92 
+
+       Division 4               Sat 21st Jun        
+       EARLSHEATON             SLAZENGERS 'B'       
+Keith Pinchbeck        21 Carol Boyer            11 
+Vera Battye            20 Norman Stansfield      21 
+Davd Banks             21 Tricia Eastwood        17 
+Lee Crossland          21 Terry Walker           14 
+Malcolm Battye         21 Wendy Stansfield       18 
+Phil Crossland         21 Maureen Jennings        7 
+Jenny Pitchforth       21 Stephen Boyer          10 
+Harry Goodhall         21 Alan Shillito          18 
+           Aggregate: 167            Aggregate: 116 
 
 

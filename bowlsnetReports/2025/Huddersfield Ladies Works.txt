@@ -1,4 +1,4 @@
-=== Huddersfield Ladies Works 2025 (as of Sun 15th Jun)
+=== Huddersfield Ladies Works 2025 (as of Sun 22nd Jun)
 === Comp. Match Cards
 
             Div 1                     Mon 28th Apr          
@@ -120,6 +120,18 @@ U Noel                     21 M Parkes                    6
 P Beever                   15 S Hallas                   21 
 R Dhanoya                  19 J Heraty                   21 
                Aggregate: 156                Aggregate: 109 
+
+            Div 2                     Fri 16th May          
+         PEG Perego                   D. Haigh & Co         
+A Ramsden                  21 H Sykes                    19 
+J Robson                   19 J Bray                     21 
+S Livingstone              21 C Bowker                    4 
+C Balmforth                21 B Slevin                    4 
+Dawn Neill                  9 J Bradley                  21 
+W Smith                    18 K Downey                   21 
+A Booth                    14 H Hadfield                 21 
+N Priestly                 21 S Westgarth                13 
+               Aggregate: 144                Aggregate: 124 
 
             Div 1                     Mon 19th May          
        Brook Hansen A                Shaws Cleaning         
@@ -276,5 +288,77 @@ H Hadfield                  5 S Dyson                    21
 B Wilkinson                 2 L Sykes                    21 
 B Slevin                    4 A Rothery                  21 
                Aggregate: 116                Aggregate: 106 
+
+            Div 1                     Mon 16th Jun          
+           Debriar               Bolster Moor Farm Shop     
+A Hinchliffe               21 A Holmes                    8 
+L Carter                   21 Gina Watts                  5 
+P Taylor                   21 D Hopkin                   13 
+S Howard                   21 E Chapman                   9 
+C Townend                  11 C Scaife                   21 
+Sarah Oliver               21 L Bamforth                 14 
+Alison Heal                11 J Brook                    21 
+G Philbin                  21 L Chadwick                  6 
+               Aggregate: 148                Aggregate:  97 
+
+            Div 1                     Mon 16th Jun          
+        Holden Smith          Huddersfield Recreation Club  
+Lyn Bowes                  21 L Kirkman                   8 
+Christine Smith            21 P Moseley                  12 
+Melissa Hoyle              21 L Penny                    20 
+Tracey Singleton           21 M Pointon                   4 
+Alison Withington          21 D Atkins                    8 
+Diane Firth                21 S Bentley                   9 
+Catherine Hoyle            21 J Wilkinson                 7 
+Janet Coulman              21 A Price                    19 
+               Aggregate: 168                Aggregate:  87 
+
+            Div 1                     Mon 16th Jun          
+        SB Homes Ltd                 Brook Hansen A         
+Marie Nicholson            21 B Toon                      9 
+Tracey Hirst               21 M Brown                    18 
+Vicky Holroyd              14 Stacey Shaw                21 
+Hazel Rangeley             21 C Carruthers                8 
+Gillian Hallas             21 S Carruthers               18 
+Janet Roberts              21 B Hirst                     9 
+Rachel Byram               14 K Atkinson                 21 
+Pat Hodgson                 6 Y Sykes                    21 
+               Aggregate: 139                Aggregate: 125 
+
+            Div 2                     Tue 17th Jun          
+        D. Haigh & Co                Holmes Dresser         
+A Myers                    21 C Collier                   1 
+P Keogh                    21 J Scott                     8 
+G Brooksbank               10 D McQueen                  21 
+A Johnson                  16 K Moorhouse                21 
+Carol Eastwood             21 P Beeby                     6 
+C Bowker                   11 K Gibson                   21 
+B Littlewood               11 S Dickinson                21 
+J Kilburn                  21 A N Other                   8 
+               Aggregate: 132                Aggregate: 107 
+
+            Div 2                     Tue 17th Jun          
+    Holroyd Construction             Pearce Displays        
+H Sykes                    21 K Moore                     6 
+L Ainley-Wood              21 S Pitt                     19 
+H Dyson                     1 S Hallas                   21 
+L Ainley                   21 L Snarr                    19 
+E Carter-Burke             21 S Ash                       7 
+A Dymowski                 21 J Heraty                   19 
+C Ainley                   21 J McDonald                 16 
+S Dyson                    21 J Smith                    20 
+               Aggregate: 148                Aggregate: 127 
+
+            Div 2                     Fri 20th Jun          
+         PEG Perego                  Mark's Kitchens        
+A Ramsden                  20 J Jimenez                  21 
+S Livingstone              21 C Mays                      5 
+W Smith                    11 A Dhaliwal                 21 
+C Balmforth                21 M Patterson                17 
+J Robson                    5 M Hennigan                 21 
+M Beresford                21 J Hilton                    3 
+L Robson                   21 U Noel                     20 
+Dawn Neill                 18 Kate Garside               21 
+               Aggregate: 138                Aggregate: 129 
 
 

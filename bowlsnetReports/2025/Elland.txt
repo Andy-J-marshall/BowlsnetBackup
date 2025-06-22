@@ -1,4 +1,4 @@
-=== Halifax (Elland) 2025 (as of Sun 15th Jun)
+=== Halifax (Elland) 2025 (as of Sun 22nd Jun)
 === Comp. Match Cards
 
          Division 1                  Mon 28th Apr         
@@ -464,6 +464,20 @@ Jonas Webster             21 Oliver Barstow             7
                   Games:   3                   Games:   5 
 
          Division 1                  Mon 5th May          
+     Cowcliffe Sports A          Cleckheaton Sports A     
+Danny Radcliffe           21 Mick Rhodes                8 
+Mick Higgins              11 Tony Throup               21 
+Harry Chadwick            21 Norman Swift               9 
+Fern Beaumont             21 Andy Robinson             10 
+Poppy Fox                 21 A.N. Other                13 
+Chloe Hirst               21 Tim Hall                  19 
+A.N. Other                 6 John Ineson               21 
+Michael Higgins Senior    16 Jason Townend             21 
+                 Points:  36                  Points:  28 
+              Aggregate: 138               Aggregate: 122 
+                  Games:   5                   Games:   3 
+
+         Division 1                  Mon 5th May          
        Luddenden Foot                Greetland A          
 Trish Austin              11 Barry Sugden              21 
 Gareth Swain              21 Ken Fleming                8 
@@ -478,17 +492,31 @@ Freddie Priestley         21 Gordon Bradford           16
                   Games:   5                   Games:   3 
 
          Division 1                  Mon 5th May          
+         Asa Briggs               Brighouse Sports A      
+Myles Summers             19 Richard Hobson            21 
+Paul Gill                  8 Robert Hopper             21 
+Stuart King               21 John Bloomer              14 
+Andy Denton               15 Mark Connolly             21 
+Jason Watters             21 Stuart Fletcher           12 
+Frank Cullen              21 Graham Robert             17 
+Jordan Brown              21 Neal Hopper               13 
+Garreth Metcalfe          18 Peter Owen                21 
+                 Points:  35                  Points:  33 
+              Aggregate: 144               Aggregate: 140 
+                  Games:   4                   Games:   4 
+
+         Division 1                  Mon 5th May          
      Brighouse Sports B              Elland WM A          
 Helen Simpson             21 Robert Hitchen            14 
-*No Player*                0 Ian Booth                 21 
+Anthony Naylor            10 Ian Booth                 21 
 Gordon Johnson            17 Gary Smith                21 
 Ian Moxon                 10 Andrea Buckley            21 
 Jason Horsley             15 Fin Hickey                21 
 Dale Dyson                 7 Graham Hickey             21 
-*No Player*                0 Clive Harte               21 
-*No Player*                0 Paul Ingleby              21 
-                 Points:  15                  Points:  44 
-              Aggregate:  70               Aggregate: 161 
+Ryan Collins               8 Clive Harte               21 
+Simon Cresswell            6 Paul Ingleby              21 
+                 Points:  19                  Points:  44 
+              Aggregate:  94               Aggregate: 161 
                   Games:   1                   Games:   7 
 
          Division 1                  Mon 5th May          
@@ -518,6 +546,20 @@ Linda Gledhill            20 Andrew Wike               21
                  Points:  41                  Points:  26 
               Aggregate: 162               Aggregate: 116 
                   Games:   5                   Games:   3 
+
+         Division 2                  Mon 5th May          
+         Rastrick A                     Wyke A            
+John Gant                 21 Joe Mellor                17 
+Michael Wood              21 Matthew Hicks             20 
+Tony Sutcliffe            21 Robert Wilkinson          17 
+Joanne Marsden             4 Trevor Benn               21 
+Joshua Smith              21 Steven Ward               14 
+Robert Laycock            21 Nigel Wormald             13 
+David Wood                21 Michael Walton            17 
+Karen Gant                21 Nigel Swales              10 
+                 Points:  42                  Points:  25 
+              Aggregate: 151               Aggregate: 129 
+                  Games:   7                   Games:   1 
 
          Division 2                  Mon 5th May          
         Greenroyd A                 Hipperholme A         
@@ -1358,6 +1400,20 @@ A.N. Other                21 Chris Mitchell             8
                  Points:  36                  Points:  27 
               Aggregate: 141               Aggregate: 121 
                   Games:   5                   Games:   3 
+
+         Division 1                  Mon 19th May         
+         Asa Briggs              Cleckheaton Sports A     
+Myles Summers             21 Tim Hall                  11 
+Mark Hiirst               21 Jason Townend              7 
+Jack Summers              21 Richard Toulson           16 
+Garreth Metcalfe          20 Andy Robinson             21 
+Andy Denton               21 John Ineson               13 
+Jason Watters             21 Andrew Walker             17 
+Frank Cullen              21 Bradley Throup            19 
+Joe Bray                   9 Tony Throup               21 
+                 Points:  41                  Points:  27 
+              Aggregate: 155               Aggregate: 125 
+                  Games:   6                   Games:   2 
 
          Division 1                  Mon 19th May         
      Brighouse Sports B              Greetland A          
@@ -2256,6 +2312,20 @@ Jean Dawe                 21 Ben English                3
                   Games:   4                   Games:   4 
 
          Division 1                  Mon 9th Jun          
+     Cowcliffe Sports A               Asa Briggs          
+Sophie Brown              13 Andy Denton               21 
+Harry Chadwick            20 Myles Summers             21 
+Mick Higgins              21 Paul Gill                 12 
+Michael Higgins Senior    16 Jordan Brown              21 
+Chloe Hirst                8 Stuart King               21 
+Danny Radcliffe           21 Jack Summers              17 
+Lorraine Hirst            21 Jason Watters              9 
+A.N. Other                21 Garreth Metcalfe          18 
+                 Points:  34                  Points:  33 
+              Aggregate: 141               Aggregate: 140 
+                  Games:   4                   Games:   4 
+
+         Division 1                  Mon 9th Jun          
      Brighouse Sports B             Luddenden Foot        
 Anthony Naylor            10 Gareth Swain              21 
 Ryan Collins               9 John Halliday             21 
@@ -2702,5 +2772,453 @@ Alex Green                21 Mark Hepworth             12
                  Points:  41                  Points:  29 
               Aggregate: 162               Aggregate: 130 
                   Games:   5                   Games:   3 
+
+         Division 1                  Mon 16th Jun         
+     Brighouse Sports A           Cowcliffe Sports A      
+Dale Dyson                21 Poppy Fox                  8 
+Peter Owen                21 Mick Higgins               3 
+Graham Robert             13 Harry Chadwick            21 
+Anthony Naylor            18 Michael Higgins Senior    21 
+Robert Hopper             21 Sophie Brown               6 
+John Bloomer               9 Danny Radcliffe           21 
+Neal Hopper               17 Lynda Drury               21 
+Gordon Johnson            21 Colin Hufton              20 
+                 Points:  33                  Points:  30 
+              Aggregate: 141               Aggregate: 121 
+                  Games:   4                   Games:   4 
+
+         Division 1                  Mon 16th Jun         
+        Greetland A                  Elland WM A          
+Peter Lea                 16 Fin Hickey                21 
+Robert Morgan             21 Clive Harte               19 
+Nick Oddy                 18 Andrea Buckley            21 
+Ken Fleming               10 Robert Hitchen            21 
+Barry Sugden              21 Gary Smith                12 
+Steve Rothwell            15 Graham Hickey             21 
+Andrew Balmforth          18 Paul Ingleby              21 
+Gordon Bradford           13 Ian Booth                 21 
+                 Points:  28                  Points:  42 
+              Aggregate: 132               Aggregate: 157 
+                  Games:   2                   Games:   6 
+
+         Division 1                  Mon 16th Jun         
+    Cleckheaton Sports A            Lower Hopton A        
+Tim Hall                  21 Graham Hirst               7 
+Jason Townend              6 Wayne Hirst               21 
+Tony Throup               12 Ryan Clark                21 
+Andy Robinson             16 Ian Newby                 21 
+Garry Walker              15 Jacob Hatfield-Goodall    21 
+Bradley Throup            11 Paul Arthurs              21 
+Mick Rhodes               21 Ross Ingham               17 
+John Ineson               21 Richard Crowther          17 
+                 Points:  29                  Points:  37 
+              Aggregate: 123               Aggregate: 146 
+                  Games:   3                   Games:   5 
+
+         Division 1                  Mon 16th Jun         
+       Luddenden Foot                 Kingston A          
+Trish Austin              14 Ben Fisher                21 
+Craig Thomasson            9 Ian Smith                 21 
+Natalie Swain             15 Anthony O'Brien           21 
+Freddie Priestley          7 Andy Hoult                21 
+John Butterworth          17 Jason Barker              21 
+Julie Marsden             21 Simon Page                19 
+Gareth Swain              21 Louis Barker               9 
+Becky Woodhead            20 Robert Cestrone           21 
+                 Points:  26                  Points:  41 
+              Aggregate: 124               Aggregate: 154 
+                  Games:   2                   Games:   6 
+
+         Division 1                  Mon 16th Jun         
+         Asa Briggs               Brighouse Sports B      
+Stuart King               21 Ian Johnson                2 
+Garreth Metcalfe          21 Ryan Collins              18 
+Andy Denton               21 Jason Horsley              6 
+Jordan Brown              21 Ian Moxon                  7 
+Jason Watters             17 Helen Simpson             21 
+Mark Hiirst               21 Jon Gamble                19 
+Glenn McCafferty          21 Jamie Horsley             20 
+Frank Cullen              21 Simon Cresswell            9 
+                 Points:  45                  Points:  20 
+              Aggregate: 164               Aggregate: 102 
+                  Games:   7                   Games:   1 
+
+         Division 2                  Mon 16th Jun         
+           Wyke A                     Lindley A           
+Nigel Wormald             14 Ben Jowett                21 
+Vince Cleary              21 Kenneth Ellis             20 
+Andy Bairstow             20 Richard Whitcombe         21 
+Matthew Hicks             21 Mike Thornton             17 
+Robert Wilkinson           8 Stephen Haigh             21 
+Eddie Hill                20 Graham Sigsworth          21 
+Shaun Godfrey             18 Finley Turton             21 
+Trevor Benn               19 Peter Fuller              21 
+                 Points:  30                  Points:  43 
+              Aggregate: 141               Aggregate: 163 
+                  Games:   2                   Games:   6 
+
+         Division 2                  Mon 16th Jun         
+       Moldgreen Cons               Hipperholme A         
+Trevor Atkinson           11 Paul Wilczynski           21 
+Mick Surman               12 Nigel Parker              21 
+Stephen Hall              19 David Ryding              21 
+Aidan Crawley              9 Chris Cox                 21 
+Richard Quarmby           19 Mathew Parker             21 
+Andrew Wike               21 Steve Swallow             11 
+Garry Senior              21 Ian Ryding                 9 
+Anthony Crawley           21 Les Holmes                12 
+                 Points:  31                  Points:  35 
+              Aggregate: 133               Aggregate: 137 
+                  Games:   3                   Games:   5 
+
+         Division 2                  Mon 16th Jun         
+        Hove Edge A                Stainland Park A       
+Stephen Mallinson         14 Richard Lunn              21 
+Julie Mallinson           21 Daniel Barron             14 
+Linda Gledhill            15 Tom Robertshaw            21 
+Julie Best                16 Mark Barron               21 
+Nigel Firth               21 Simon Robinson             8 
+Lynne Saxby               19 Keith Hatzer              21 
+Andy Carter               14 Scott Hynes               21 
+Richard Hopley            21 Mick Severn               12 
+                 Points:  32                  Points:  35 
+              Aggregate: 141               Aggregate: 139 
+                  Games:   3                   Games:   5 
+
+         Division 2                  Mon 16th Jun         
+         Rastrick A                  Greenroyd A          
+Derek Hanner              21 Jasmine White             18 
+Tony Sutcliffe            16 Stephen Fearnley          21 
+Michael Wood              21 Stephen Baldwin           20 
+John Gant                 21 Lee Kenny                  7 
+Robert Laycock            21 John Ingham               14 
+Joanne Marsden            21 Paul Birkhead             10 
+Joshua Smith              21 Vaughan Murgatroyd         7 
+Karen Gant                21 Mick Walker               15 
+                 Points:  45                  Points:  22 
+              Aggregate: 163               Aggregate: 112 
+                  Games:   7                   Games:   1 
+
+         Division 3                  Mon 16th Jun         
+      Elland CA & BC A                Outlane A           
+David Greenwood           21 Lynne Brook                7 
+Adam Taylor               21 Sue Hammond                9 
+Abby Burke                21 Rob Sowerby               10 
+J Firth                   21 Richard Hartley           14 
+R Berrett                  9 Wayne Hudson              21 
+Sam Oldfield              12 Peter Haythornthwaite     21 
+Vicky Senior              13 Ben Hammond               21 
+Andrew Brewer             15 Barry Hawksworth          21 
+                 Points:  32                  Points:  30 
+              Aggregate: 133               Aggregate: 124 
+                  Games:   4                   Games:   4 
+
+         Division 3                  Mon 16th Jun         
+     Cowcliffe Sports B           Sowerby West End A      
+Stephen Cameron           21 Ryan Healey               15 
+Malcolm Stead             16 Simon George              21 
+Wayne Garside             11 David Blackburn           21 
+Phoebe Heslop             21 Martin Murphy              9 
+Graham Radcliffe          21 Scott Healey              17 
+Abbie Garside             21 Ivan Taylor               20 
+Lynn Rynham               21 Adam Schofield            18 
+Derek Hewitt              16 David Ainley              21 
+                 Points:  38                  Points:  32 
+              Aggregate: 148               Aggregate: 142 
+                  Games:   5                   Games:   3 
+
+         Division 3                  Mon 16th Jun         
+         Kingston B                     Pellon            
+Pasquale Cestrone         21 Denise Walton             14 
+Paul Cestrone             21 David Agnew               12 
+James Akesson             21 Michael Holmes            11 
+Liam Gleave               21 John Clark                11 
+Paul O'Brien              16 Robert Walker             21 
+Martyn Simms              15 Peter Steele              21 
+P Stone                   20 Mark Bolton               21 
+John Stewart              17 Peter Greenwood           21 
+                 Points:  37                  Points:  32 
+              Aggregate: 152               Aggregate: 132 
+                  Games:   4                   Games:   4 
+
+         Division 3                  Mon 16th Jun         
+         Hill Crest                  King Cross A         
+Nikki Conway              14 Steven Clifford           21 
+Andrew Parker             15 Alywn Guide               21 
+Frank Clisset             17 Peter Stead               21 
+Annice Copley             21 John Ashton                6 
+Paul Oldfield             21 Howard Owen                8 
+Ernie Rickman             21 Julian Boddy               9 
+Pamela Woodhead           21 Terry Jackson             16 
+Sheryl Robinson           21 Darren Turnbull           16 
+                 Points:  38                  Points:  27 
+              Aggregate: 151               Aggregate: 118 
+                  Games:   5                   Games:   3 
+
+         Division 3                  Mon 16th Jun         
+        Elland WM B                     Wyke B            
+Nick Lowe                 21 Micheal Lambert           15 
+Mark Simpson              21 Mark Gummery              12 
+Jon Woodhouse             21 Michael Walton            13 
+John Armitage             21 Gerry Hird                15 
+Phil Binns                12 Andy Jacobs               21 
+Paul Gledhill             21 Vincent Kerr              16 
+Aaron Bottomly            21 Richard Kerr               8 
+John Gledhill             21 Dominic Hanson            15 
+                 Points:  44                  Points:  23 
+              Aggregate: 159               Aggregate: 115 
+                  Games:   7                   Games:   1 
+
+         Division 4                  Mon 16th Jun         
+         Lindley B                Akroydon Victoria       
+Karen Stott               20 Tony Wolke                21 
+Sheila Thorp              21 Peter Dawson               9 
+Velma Henderson           10 Mick Uttley               21 
+David Thorp               21 Jansson Ashford           11 
+Susan Neave               20 Chris Meade               21 
+Geoff Stott               15 Baz Morgan                21 
+Susan Scott               21 Corey Fountain            15 
+Alister Henderson         10 Danny Fountain            21 
+                 Points:  33                  Points:  36 
+              Aggregate: 138               Aggregate: 140 
+                  Games:   3                   Games:   5 
+
+         Division 4                  Mon 16th Jun         
+        Allan Park A                 Hove Edge B          
+Colin Beard               21 David Moore                8 
+Tom Fowler                20 Mick Cowley               21 
+June Gaukroger            19 Chris Illingworth         21 
+Martin Grace              21 Lisa King                  9 
+John Hickey               21 Julian King               18 
+Hannah Jowett             18 Judy Cockroft             21 
+Joanne Jowett             21 Peter Barstow             13 
+Roger Grace               17 Richard Brown             21 
+                 Points:  38                  Points:  31 
+              Aggregate: 158               Aggregate: 132 
+                  Games:   4                   Games:   4 
+
+         Division 4                  Mon 16th Jun         
+       Lower Hopton B                 Longwood A          
+Lynne Arthurs             11 Martyn Sykes              21 
+John Haikings             20 Allan Crowther            21 
+Duncan Terry               6 Barry Tinker              21 
+Janet Griffiths           21 Tony Crowther             13 
+Ann Mitchell              21 Craig Turner               8 
+Janet Bolt                10 Robert Dickinson          21 
+Daniel Clarke             21 Lee Simpson               18 
+Chris Smith               10 David Walkden             21 
+                 Points:  29                  Points:  36 
+              Aggregate: 120               Aggregate: 144 
+                  Games:   3                   Games:   5 
+
+         Division 4                  Mon 16th Jun         
+    Cleckheaton Sports B              Halifax B           
+Norman Swift              21 David Russell             12 
+Dave Marshall             18 Kath Webster              21 
+John Bradley              21 Peter Krenc               16 
+Chris Bray                21 Stephen Smith             15 
+Alan Potter               12 Andrew Gee                21 
+Chris Piercy              21 Steven Webster            11 
+Kath Icke                 19 Ian Tweedale              21 
+Janice Walton             21 Gary Robinson             14 
+                 Points:  39                  Points:  30 
+              Aggregate: 154               Aggregate: 131 
+                  Games:   5                   Games:   3 
+
+         Division 5                  Mon 16th Jun         
+           Dalton                    Greetland B          
+Liz Kilner                21 Lynne Greenwood           20 
+Phil Battye               21 Peter Fletcher            17 
+Liz McNeil                12 Chris Green               21 
+Sonya Sanderson           21 Jayne Bradley             15 
+David Ray                 17 Gary Hinchliffe           21 
+Lisa Taylor               21 Simon Mackrill            20 
+Elaine Hirst              21 Kathleen Fletcher         11 
+Susan Field               13 Graham Crompton           21 
+                 Points:  37                  Points:  34 
+              Aggregate: 147               Aggregate: 146 
+                  Games:   5                   Games:   3 
+
+         Division 5                  Mon 16th Jun         
+         Marsh Libs                   Rastrick B          
+Dawn Neill                21 Janet Holroyd              5 
+Megan Beresford           16 Anne Heley                21 
+James Robson              21 Christopher Jenkinson     19 
+Julie Robson              21 Mark Whiting              10 
+Wendy Smith               14 Geoff Normanton           21 
+Lee Welburn               12 Julian Bull               21 
+Annette Wilson            21 Eddie Jessett             13 
+Gracie Hartley-Jowett     20 Maureen Gaukroger         21 
+                 Points:  35                  Points:  33 
+              Aggregate: 146               Aggregate: 131 
+                  Games:   4                   Games:   4 
+
+         Division 5                  Mon 16th Jun         
+         Longwood B                   Lindley C           
+John Hunsley              21 Janet Allen               18 
+Margaret Parr             21 Lorna Briggs              15 
+Julie Russell             18 Michael Anderson          21 
+Amelia Piercy              6 Margaret Coulson          21 
+Jennifer Marshall         21 Cole Bartys                4 
+James Lee                 21 Mark Rushworth            19 
+Daniel Piecy              21 Sharron Broadley          13 
+Robert Piercy             14 Tony Allen                21 
+                 Points:  36                  Points:  30 
+              Aggregate: 143               Aggregate: 132 
+                  Games:   5                   Games:   3 
+
+         Division 5                  Mon 16th Jun         
+       Siddal Park B             Cleckheaton MoorEnd      
+Andrew Priestley          21 Martin Bailey              9 
+Paul McDonald             19 Robert Hoyle              21 
+Sean McDonald             13 Stephen Haist             21 
+Daniel Gladok             21 Frank Turnbull             9 
+Callum Pilling            21 Karen Haist               18 
+Stephen Lees              21 David Lloyd               16 
+Darren Hickey             21 Lee Collinson              4 
+Robert Bruce               6 Mick Stewart              21 
+                 Points:  37                  Points:  26 
+              Aggregate: 143               Aggregate: 119 
+                  Games:   5                   Games:   3 
+
+         Division 5                  Mon 16th Jun         
+     Sowerby West End B               Brockholes          
+Stephen Duke               9 Jose Bradley              21 
+G Roe                     10 Steve Kilburn             21 
+David Connoly              9 Gillian Brooksbank        21 
+Steve Holroyd             12 Callum Fox                21 
+Alan Duke                 13 Elaine Bell               21 
+A.N. Other                14 Karen Beaumont            21 
+Simon Gill                21 Breanne Rogers             8 
+Gareth Webster            10 Sophie McCaffrey          21 
+                 Points:  18                  Points:  43 
+              Aggregate:  98               Aggregate: 155 
+                  Games:   1                   Games:   7 
+
+         Division 6                  Mon 16th Jun         
+        Spring Hall                  Thorpe Green         
+Elspeth Hartley           21 Andrew Nicholson           9 
+Neil Mort                 21 Heather Wood               8 
+Dawn Leather               6 David Blackburn           21 
+Mick Milnes               21 Janet Campbell            11 
+Michael Brocklehurst      21 Tyler Halmshaw            10 
+Edward Jones              20 Patrick Campbell          21 
+Paul Greenwood            21 Micheala Drew             13 
+Danny Leather             21 Kathryn Parlar             8 
+                 Points:  41                  Points:  21 
+              Aggregate: 152               Aggregate: 101 
+                  Games:   6                   Games:   2 
+
+         Division 6                  Mon 16th Jun         
+         Outlane B                Brighouse Sports C      
+Andrew Tanner             21 Noah Charlesworth         17 
+Freddie Delmonte - Brown  10 Ruby Whalley              21 
+Bev Delmonte              13 David Wood                21 
+Steve Shickell            21 Ann Horsley               10 
+Gail Haythornthwaite      15 Melissa Dunkerley         21 
+June Dibb                 21 James Wood                17 
+Megan Tanner               8 Steven Bedford            21 
+Nicola Tanner              3 Gemma Maloney             21 
+                 Points:  26                  Points:  38 
+              Aggregate: 112               Aggregate: 149 
+                  Games:   3                   Games:   5 
+
+         Division 6                  Mon 16th Jun         
+        King Cross B                 Hove Edge C          
+Emlyn Craven              21 Terry Allington            7 
+Amy Barron                21 Neil Mount                20 
+Muriel Guide              21 Jimmy Procter              8 
+Stuart Alderson           13 Valerie Mycroft           21 
+Geoffrey Cowgill          21 Linda Heyhoe              20 
+Julie King                20 Steve Mycroft             21 
+Graham Briggs             21 Karen Warne                8 
+Josh Craven               21 Kevin Longbottom          20 
+                 Points:  42                  Points:  27 
+              Aggregate: 159               Aggregate: 125 
+                  Games:   6                   Games:   2 
+
+         Division 6                  Mon 16th Jun         
+         Halifax C                   Allan Park B         
+Lynn Wood                 13 Linda Lees                21 
+Ann Booth                 21 Katie Grogan               9 
+Colleen Agnew             20 Olivia Hickey             21 
+Helen Smith               21 Marie Rules-Hazard        17 
+Margaret Green            15 Gary O Leary              21 
+Ann Martin                21 Maxine Hickey             18 
+Lynda Canning             21 Chris Johnstone           18 
+Martin Taylor             17 Greg Dimelow              21 
+                 Points:  36                  Points:  34 
+              Aggregate: 149               Aggregate: 146 
+                  Games:   4                   Games:   4 
+
+         Division 6                  Mon 16th Jun         
+       Hipperholme B                Bailiff Bridge        
+R Lee                     21 Helen Butler              12 
+S Denham                   9 Kevin Page                21 
+Bob Sandie                21 Andy Stoutt               14 
+Chris Peever              11 John Woodruff             21 
+Mark Crowther             15 Jill Heffernan            21 
+J Donavon                 21 Mary Stoutt               17 
+Kate Palmer               21 Ian Addy                  11 
+I Philp                   21 Martin Broadbent          20 
+                 Points:  36                  Points:  31 
+              Aggregate: 140               Aggregate: 137 
+                  Games:   5                   Games:   3 
+
+         Division 7                  Mon 16th Jun         
+        Greenroyd B                   Lindley E           
+Janet Jackson             21 Julie Hirst               12 
+Debra Harasyn             10 Jane Blackmore            21 
+Gerald Smith              21 Brian Craven              12 
+Adrian Rose               21 Moraq Myers               15 
+Catherine Murgatroyd      21 Judith Hall                9 
+Roger Bateman             21 Jackie Brewerton          13 
+Brian Reynolds            21 Lynne Nutton               6 
+Paul Reynolds             21 Stuart Thornton           12 
+                 Points:  44                  Points:  19 
+              Aggregate: 157               Aggregate: 100 
+                  Games:   7                   Games:   1 
+
+         Division 7                  Mon 16th Jun         
+       Ripponden Park            Cleckheaton Sports C     
+Sue Jobson                13 Jacqui Bateson            21 
+Julian Carr               21 Graham Ward               16 
+Cath Hart                 19 Rowena Oakey              21 
+Jonas Webster             19 Joe Brook                 21 
+Cathie Freer               7 Callum Brook              21 
+Andy Webster              14 Alex Green                21 
+Tamina Oates               3 Lynn Seddon               21 
+Barry Nellis              21 Mark Bailey                8 
+                 Points:  25                  Points:  40 
+              Aggregate: 117               Aggregate: 150 
+                  Games:   2                   Games:   6 
+
+         Division 7                  Mon 16th Jun         
+      Stainland Park B                Halifax D           
+Jane Dyson                21 Terry Kettle               8 
+Martyn Hollingsworth      21 Janet Silvester            2 
+John Dinsdale             21 Del Haigh                 20 
+Rebecca Fletcher          21 Phillip Hallowell         17 
+Oliver Barstow            21 Clive Martin               2 
+Damian Diggles            21 Robert Dean               12 
+Cherie Diggles            21 Myra Smith                12 
+Nigel Dyson               20 Matthew Onions            21 
+                 Points:  46                  Points:  18 
+              Aggregate: 167               Aggregate:  94 
+                  Games:   7                   Games:   1 
+
+         Division 7                  Mon 16th Jun         
+     Brighouse Sports D            Elland CA & BC B       
+Jeff Greenwood            21 Hilary Brady              14 
+Lewis Whalley             15 Izzy Burke                21 
+Orla Horsley              13 Neil Thompson             21 
+Bailey Roberts            21 Kryworucska Graham        12 
+Ellis Marshall            15 Annaliesa Burke-Thompson  21 
+Sarah Horsley             21 Matty Holden              13 
+Ben English               21 Anita Naylor              14 
+Chris Dodd                17 Harry Talbot              21 
+                 Points:  35                  Points:  32 
+              Aggregate: 144               Aggregate: 137 
+                  Games:   4                   Games:   4 
 
 

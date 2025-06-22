@@ -1,5 +1,17 @@
-=== Castleford (Evening) 2025 (as of Sun 15th Jun)
-=== Comp. Match Cards
+=== Castleford (Evening) 2025 (as of Sun 22nd Jun)
+=== League Match Cards
+
+        Division 2                 Tue 27th May         
+        Smirthwaite                  Townville          
+Eddie Fox                21 Paul Wright              18 
+David Watson             21 Dougie Ellis             11 
+Alan France              21 Steve Butcher            12 
+Robert Nowakowski        21 Geoffrey Painter         14 
+Lisa Evans               12 Tony Wright              21 
+Roy Dunwell              21 Keith Jones               8 
+Neil Clayton             21 Edward Farrah            12 
+Roy Limb                 21 *No Player*               0 
+             Aggregate: 159              Aggregate:  96 
 
         Division 1                 Wed 28th May         
       Hawhill Park A             Allerton Bywater       
@@ -74,6 +86,18 @@ Albert Lee               21 *A.N.Other*              11
              Aggregate: 162              Aggregate: 117 
 
         Division 1                 Thu 29th May         
+       Ferrybridge A             Allerton Bywater       
+Arthur Firth             21 Mathew Sawyer            19 
+Derrick Senior            9 Paul Baddeley            21 
+Steve Pease              21 Edward Parker            16 
+Robert McEwan            13 Bill Smallwood           21 
+Dennis Dobson            21 John Robshaw             20 
+Brian Clarke             21 Nichola Eustace          15 
+John Kirby               21 Michael Revell            9 
+Martin Lawrence          21 Michael Wood              6 
+             Aggregate: 148              Aggregate: 127 
+
+        Division 1                 Thu 29th May         
        Pontefract A              Castleford Town B      
 Tony Chambers (s)        21 Trevor Hawkin             9 
 Stuart Thompson (s)      21 Alan Walstow              8 
@@ -96,6 +120,18 @@ Ryan Tankard-Little      20 Amy Charlotte            21
 Darren Maxwell           21 Alan Godridge             8 
 Colin Jarvis (s)         14 James Shepherd           21 
              Aggregate: 140              Aggregate: 133 
+
+        Division 2                 Thu 29th May         
+          Methley                   Smirthwaite         
+David Taylor             21 Michael Elliott          10 
+Roy Naylor               15 Robert Nowakowski        21 
+Rob Wake                  9 Roy Dunwell              21 
+Molly Depledge           12 Roy Limb                 21 
+Chris Paul               21 Lisa Evans               18 
+Amanda Roberts           21 David Watson             20 
+Joanne Lund              11 Brian Daniel             21 
+Keith Render             10 Eddie Fox                21 
+             Aggregate: 120              Aggregate: 153 
 
         Division 2                 Thu 29th May         
       Glasshoughton B               Queens Park         
@@ -121,6 +157,18 @@ Laurie Heaton            13 Edward Farrah            21
 Corrine Franks            4 Tony Wright              21 
              Aggregate: 122              Aggregate: 144 
 
+        Division 2                 Fri 30th May         
+        Smirthwaite               Glasshoughton B       
+Roy Limb                 21 Adrian Firth              1 
+Lisa Evans               21 Carol Wheeler             4 
+Roy Dunwell              21 Steve Harris             12 
+Alan France              21 Ray Tennant              14 
+David Watson             21 Ben Middleton            15 
+George Hall              21 Tommy Siddall            17 
+Eddie Fox                20 Albert Lee               21 
+Neil Clayton             21 Tracey Wales             10 
+             Aggregate: 167              Aggregate:  94 
+
         Division 1                 Sat 31st May         
        Savile Park A               Ferrybridge A        
 David Steel              21 Arthur Firth             15 
@@ -132,6 +180,18 @@ Mark Hopps (s)           21 Martin Lawrence           1
 Steve Portman            21 John Kirby               16 
 Ian Lewis                21 Dennis Dobson            16 
              Aggregate: 156              Aggregate: 110 
+
+        Division 2                 Sat 31st May         
+          Fryston                   Smirthwaite         
+Mark Harrap              21 Brian Daniel             10 
+Barry May                21 Eddie Fox                17 
+Les Denton               13 Robert Nowakowski        21 
+Wendy Johnson             5 Roy Dunwell              21 
+C Cale                   20 Lisa Evans               21 
+Steven Harrison           8 Alan France              21 
+Neil Johnson             21 David Watson             17 
+Mick North               15 George Hall              21 
+             Aggregate: 124              Aggregate: 149 
 
         Division 2                 Sat 31st May         
        Ferrybridge B                Queens Park         
@@ -217,6 +277,18 @@ Paul Senior              21 Neil Johnson             19
 Sam Waite                21 Philip Greenwwod         11 
              Aggregate: 138              Aggregate: 114 
 
+        Division 2                  Sun 1st Jun         
+        Smirthwaite                Ferrybridge B        
+Robert Nowakowski        21 Derrick Senior           13 
+Lisa Evans               21 Tony Jacklin             13 
+George Hall              21 John Child               15 
+Roy Dunwell              21 Paul Whitehead           11 
+Roy Limb                 21 Steve Pease               4 
+Eddie Fox                21 Robin Ayres               6 
+Alan France              21 Archie Richardson         8 
+Neil Clayton             21 Diane Bradbury            6 
+             Aggregate: 168              Aggregate:  76 
+
         Division 1                  Mon 2nd Jun         
      Allerton Bywater             Featherstone A        
 John Robshaw             21 Zac Bond                 20 
@@ -228,6 +300,18 @@ Mathew Sawyer            21 Gordon Alex Maxwell (s)  13
 Philip Sykes             21 Neil Rush                20 
 Edward Parker            21 Marjorie Hanson          13 
              Aggregate: 150              Aggregate: 134 
+
+        Division 1                  Mon 2nd Jun         
+       Ferrybridge A             Castleford Town A      
+Martin Lawrence          10 Mark Lewis               21 
+John Kirby               20 David Watson             21 
+Dennis Dobson            13 Calum Fennell            21 
+Arthur Firth             11 Lisa Winterburn          21 
+George Bradbury          14 Robert Lloyd (s)         21 
+Gary Haley               15 Steve Winterburn         21 
+Brian Clarke             17 Daryl Woofinden          21 
+Robert Firth              7 Robert McGuire           21 
+             Aggregate: 107              Aggregate: 168 
 
         Division 1                  Mon 2nd Jun         
        Pontefract B                Savile Park A        
@@ -336,6 +420,18 @@ Philip Sykes             19 Glyn Bentley             21
 Michael Wood              3 Alan Glenn               21 
 Edward Parker             4 Richard Johnson          21 
              Aggregate: 131              Aggregate: 129 
+
+        Division 1                  Wed 4th Jun         
+       Ferrybridge A               Pontefract B         
+Arthur Firth             21 Michael Hill Snr         17 
+George Bradbury          21 Amy Charlotte            20 
+Robert McEwan            21 Tony Hames               15 
+Brian Clarke             21 Robert Stansfield         9 
+Martin Lawrence          21 John Godridge            11 
+Steve Pease              21 Ralph Davies             17 
+John Kirby                7 Steve Derry              21 
+Dennis Dobson            21 Sarah Hill                8 
+             Aggregate: 154              Aggregate: 118 
 
         Division 1                  Wed 4th Jun         
        Pontefract A               Hawhill Park A        
@@ -480,6 +576,18 @@ Steve Butcher            21 Tracey Wales             18
 Geoffrey Painter         21 Steve Harris             14 
 *No Player*               0 Albert Lee               21 
              Aggregate: 136              Aggregate: 119 
+
+        Division 2                  Fri 6th Jun         
+      Featherstone B                Smirthwaite         
+John Parkinson           14 Michael Wood             21 
+Hazel Firth               2 Lisa Evans               21 
+Delphine Baxter          21 Brian Daniel             14 
+Malcolm Wright            9 Eddie Fox                21 
+Callum Maxwell           17 David Watson             21 
+Mary Sharpe              11 Roy Limb                 21 
+Ken Robinson             21 George Hall              13 
+Colin Jarvis (s)         21 Alan France              18 
+             Aggregate: 116              Aggregate: 150 
 
         Division 2                  Sat 7th Jun         
         Queens Park                 Smirthwaite         

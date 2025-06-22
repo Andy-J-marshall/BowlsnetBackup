@@ -1,4 +1,4 @@
-=== Huddersfield Ladies Bowling League 2025 (as of Sun 15th Jun)
+=== Huddersfield Ladies Bowling League 2025 (as of Sun 22nd Jun)
 === League Match Cards
 
           Section C                    Mon 14th Apr         
@@ -874,13 +874,13 @@ Nancy Cartwright            21 Dee Haigh-Elmore          11
        Milnsbridge BC B              Almondbury BC B        
 April Rushworth-Robinson    19 Gillean Meachen           21 
 Gemma Senior                 6 Sarah Halliwell           21 
-Alicen Rushworth            18 Linda Davies              21 
-Sylvia Dewhirst             10 Sarah Johnson             21 
+Alicen Rushworth            10 Linda Davies              21 
+Sylvia Dewhirst             19 Sarah Johnson             21 
 Jan Brook                   16 Eve Johnson               21 
 Sylvia Jones                 7 Theresa Harrison          21 
 Audrey Stern                16 Emma Collins              21 
 Gwyneth Hall                21 Diane Clifford            20 
-                Aggregate: 113               Aggregate: 167 
+                Aggregate: 114               Aggregate: 167 
 
           Section E                    Thu 1st May          
          Brockholes B                  Lindley Lib          
@@ -1444,8 +1444,8 @@ Iris Perkins                14 Sylvia Dewhirst           21
 Julie Shaw                  21 Jan Brook                 12 
 Denise Jones                21 Gemma Senior              19 
 Nikki Conway                21 Sylvia Jones               9 
-Dawn Fawcett                21 Alicen Rushworth           4 
-Margaret Holt               21 April Rushworth-Robinson   5 
+Dawn Fawcett                21 April Rushworth-Robinson   4 
+Margaret Holt               21 Alicen Rushworth           5 
 Diane Proctor               21 Gwyneth Hall              13 
                 Aggregate: 161               Aggregate: 101 
 
@@ -2170,5 +2170,305 @@ Paula Kershaw               21 Judith Parker              7
 Cath O'Connor               13 Mary Phillips             21 
                  Handicap: +24                Handicap: +40 
                 Aggregate: 184               Aggregate: 123 
+
+          Section C                    Mon 16th Jun         
+       Bradley & Colne               Almondbury BC A        
+Eileen Nicholson            19 Aimee Jennings            21 
+Ruth Dhanoya                21 Debbie Mark               14 
+Lyn Boustead                21 Jean Halliwell            15 
+Ursula Noel                 21 Allison Schofield         10 
+Lorraine Beever             21 Jasmine Sanderson         18 
+Kerry Fox                   21 Dianne Moore              17 
+Mary Patterson              21 Katie Thorpe              11 
+Jenny Jimenez               11 Debra Neve                21 
+                Aggregate: 156               Aggregate: 127 
+
+          Section A                    Tue 17th Jun         
+        Jackson Bridge                  Marsh Utd           
+Jane Buchan                 21 Lynn Carter               14 
+Julie Wood                   6 Susan Scott               21 
+Dawn Jessop                 17 Sue Bentley               21 
+Sophie McCaffrey            15 Jane Hollingworth         21 
+Sheila Illingworth           8 Barbara Johnstone         21 
+Karen Dennis                21 Pat Taylor                20 
+Fiona Bonnor                12 Sally Howard              21 
+Jean Barlow                 21 Sarah Oliver              14 
+                Aggregate: 121               Aggregate: 153 
+
+          Section A                    Tue 17th Jun         
+     Linthwaite C & BC B                Outlane A           
+Jacquie Haigh               21 Sue Hammond               16 
+Karen Gant                  21 Helen Taylor              14 
+Shirley Dillingham          15 Anne Holmes               21 
+Jasmine Gant                21 Jane Dyson                 7 
+Chloe Ghaffer               21 Lynne Brook               11 
+Alicia Ormsby               21 Bev Delmonte               5 
+Jayne Armitage              21 Julie Vance               18 
+Alison Heal                 21 *A.N.Other*               14 
+                Aggregate: 162               Aggregate: 106 
+
+          Section A                    Tue 17th Jun         
+         Farnley Tyas                   Cowcliffe           
+Katy Atkinson               21 Lynn Rynham               10 
+Yeolande Sykes              21 Rachael Brierley           4 
+Isabel Morgan                9 Abbie Garside             21 
+Janet Dyson                 11 Simone Kelly              21 
+Clare Carruthers            21 Kathryn Garside           15 
+Jodie Dickinson             19 Poppy Fox                 21 
+Sophie Brown                21 Phoebe Heslop             16 
+Michelle Brown              21 Linda Grant               14 
+                Aggregate: 144               Aggregate: 122 
+
+          Section B                    Tue 17th Jun         
+    Skelmanthorpe Central               Marsh Lib           
+Elizabeth Barden            21 Christine Balmforth        8 
+Lydsey Holmes               16 Annette Wilson            21 
+Beverley Crossland          21 Anne Booth                 6 
+Helen Harries               21 Wendy Smith               19 
+Carol Scaramuzza            21 Susan Livingstone         10 
+Elaine Long                 13 Angela Ramsden            21 
+Margaret White              21 Lisa Robson               20 
+Caroline Hawke              20 Julie Robson              21 
+                Aggregate: 154               Aggregate: 126 
+
+          Section C                    Tue 17th Jun         
+          Lindley BC                    Denby Dale          
+Margaret Coulson            21 Joy Stainthorpe           15 
+Lorna Briggs                21 Sue Wain                  10 
+Glynis Philbin              20 Jenny Maddrell            21 
+Sharron Broadley            21 Diana Swaine               8 
+Andrea Laycock              21 Susan Black               19 
+Irene Haigh                 21 Karen Taylor              12 
+Janet Allen                 21 Janet Depledge            17 
+Jill Driver                 21 *A.N.Other*               20 
+                Aggregate: 167               Aggregate: 122 
+
+          Section D                    Tue 17th Jun         
+           Hemplow                       Shepley            
+Elaine Kewley               21 Heather Raper             13 
+Dianne Sykes                21 Claire Buxton              1 
+Glynis Whitehead            14 Jean Walton               21 
+Judith Butters              20 Pamela McMath             21 
+Linda Sykes                 21 Brenda Wood                5 
+Ann Taylor                  21 Yvonne Harding             9 
+Karen Crowther              21 Andrea Oldham             18 
+Carol Howard                21 Elizabeth Hirst            8 
+                Aggregate: 160               Aggregate:  96 
+
+          Section D                    Tue 17th Jun         
+          New Mill A               Kirkheaton C & BC B      
+Jane Freeman                15 Liz McNeil                21 
+Jan Harker                  21 Pam Coyle                 16 
+Jean Hinchliffe             21 Sue Dunn                  18 
+Sheila Boocock              20 Glynis Cox                21 
+Linda Wood                  21 Sylvia Ray                12 
+Diane Liddle                 5 Sonia Sanderson           21 
+Sheila Cooke                13 Sue Field                 21 
+Karen Beaumont              12 Liz Kilner                21 
+                Aggregate: 128               Aggregate: 151 
+
+          Section E                    Tue 17th Jun         
+          Outlane B                    Lindley Lib          
+Gail Haythornthwaite        21 Carol Skuse               14 
+Janet Holmes                 6 Julie Shaw                21 
+Megan Tanner                21 Denise Jones              15 
+Mary Phillips               12 Pat Rowley                21 
+Joan Cook                   21 Dawn Fawcett              15 
+June Dibb                   13 Margaret Holt             21 
+Kelly Goldthorpe            13 Nikki Conway              21 
+Lesyle Lowther              14 Diane Proctor             21 
+                Aggregate: 121               Aggregate: 149 
+
+          Section E                    Tue 17th Jun         
+           Meltham                 Linthwaite C & BC A      
+Linda Baxter                21 Trish Rose                17 
+Janet Beaumont              10 Stephanie Sykes           21 
+Anne Booth                  21 Carole Warren              7 
+Jacky Carratt               21 Betty Sparrow             10 
+Jacky Connolly               3 Celia Gardner             21 
+Sharon Dean                 20 Diane Balderson           21 
+Bethany Hague               21 Angela Sykes               6 
+Victoria Ledwold             7 Pauline Heeley            21 
+                Aggregate: 124               Aggregate: 124 
+
+          Section B                    Wed 18th Jun         
+        Hudds RUFC BC                Linthwaite Hall        
+Catherine Sykes             21 Lucy Warwick               7 
+Valerie Lockwood            11 Sam Eastwood              21 
+Heather Roebuck             19 Val Harris                21 
+Kate Schofield              21 Lynn Cross                19 
+Barbara Mark                21 Carol Taylor               6 
+Ann Stephenson              21 Hazel Dews                14 
+Jackie Turnpenny            21 Susan Lockwood            16 
+Rachel Hulley                8 Judith Singleton          21 
+                Aggregate: 143               Aggregate: 125 
+
+          Section E                    Wed 18th Jun         
+        Lockwood Con B               Milnsbridge BC B       
+Mary Kain                   11 Gwyneth Hall              21 
+Caroline Dempsey            21 Diane Horton               6 
+Anula Tennakoon             21 Sylvia Jones              12 
+Yvonne Stead                21 Sylvia Dewhirst           15 
+Barnie Walsh                21 Gemma Senior              13 
+Michaela Brennan            21 Jan Brook                 11 
+Rebecca Harper              21 Alicen Rushworth          11 
+Rebecca Kirk                16 April Rushworth-Robinson  21 
+                Aggregate: 153               Aggregate: 110 
+
+          Section A                    Thu 19th Jun         
+        Thongsbridge A                  New Mill B          
+Hazel Rangeley              19 Lisa Daykin               21 
+Pat Hodgson                 13 Lynda Drury               21 
+Marie Nicholson             20 Lily Hesling              21 
+Liz Wiltshire               13 Andrea Buckley            21 
+Nancy Harrison              14 Julie Best                21 
+Pat Beever                  11 Hazel Lunn                21 
+Gill Hallas                 21 *A.N.Other*               13 
+Tracey Hirst                 9 Laura Middleton           21 
+                Aggregate: 120               Aggregate: 160 
+
+          Section A                    Thu 19th Jun         
+         Broad Oak A                  Lockwood Con A        
+Janet Coulman               12 Irene Crowther            21 
+Diane Firth                 21 Beth Moseley              19 
+Leah Keyworth               21 Linda Gledhill            17 
+Christine Dawson             5 Stacey Dyson              21 
+Melissa Hoyle               21 Bridie Buckley             5 
+Catherine Hoyle             21 Julie Mallinson           17 
+Tracey Singleton            21 Jean Winchcombe           18 
+Charlie White               21 Rachel Byram               7 
+                Aggregate: 143               Aggregate: 125 
+
+          Section B                    Thu 19th Jun         
+         Lower Hopton                  Golcar Lib A         
+Joan Sangster               21 Cynthia Scaife            10 
+Margaret Pointon             3 Janet Bennett             21 
+Janet Bolt                  21 Gina Watts                12 
+Lyn Arthurs                 21 Wendy Crowther             4 
+Lynn Greenwood              21 Phyllis Beeby              5 
+Janet Griffiths             20 Jessica Sykes             21 
+Ann Mitchell                21 Lyndsay Ainley-Wood       18 
+*No Player*                  0 *No Player*                0 
+                Aggregate: 128               Aggregate:  91 
+
+          Section B                    Thu 19th Jun         
+     Kirkheaton C & BC A                Longwood B          
+Barbara Flaherty            21 Karen Stott               12 
+Margaret Hennigan           16 Ann Hinchliffe            21 
+Elaine Hirst                21 Maggie Parr               12 
+Jean Pickup                 21 Jean Gee                  20 
+Silva Scott                 21 Jenny Marshall            13 
+Pat Stephenson              21 June Gledhill             11 
+Lisa Taylor                 11 Velma Henderson           21 
+Christine Wood               8 Sheila Thorp              21 
+                Aggregate: 140               Aggregate: 131 
+
+          Section B                    Thu 19th Jun         
+        Almondbury Lib                Primrose Hill         
+Leanne McGowan              10 Liz Beaumont              21 
+Stacey Donaldson            17 Angela Dhaliwal           21 
+Julie Haigh                 12 Pauline Moseley           21 
+Elizabeth Martin            21 Ann Price                 13 
+Jean Martin                 14 Vicky Holroyd             21 
+Leigh-Ann Short             19 Audrey Hunter             21 
+Amanda Donaldson            10 Janet Wilkinson           21 
+Heather Dyson               21 Janet Thorpe               3 
+                Aggregate: 124               Aggregate: 142 
+
+          Section C                    Thu 19th Jun         
+       Kirkheaton Con A               Thongsbridge B        
+Sylvia Lane                  9 Sue Hallas                21 
+Lynne Holdroyd              21 Sandra Ash                15 
+Anita Cuniffe               21 Bronwyn Battye             8 
+Catherine Glover            21 Jane Heraty               10 
+Paula Kershaw               21 Lynn Snarr                 8 
+Gillian Barker               5 Sue Pitt                  21 
+Carole Earnshaw             21 Nikki Monday              12 
+Krystal Hemingway            9 Jennifer Smith            21 
+                Aggregate: 128               Aggregate: 116 
+
+          Section C                    Thu 19th Jun         
+         Brockholes A                 Paddock I & C         
+Carol Bowker                13 Angela Fowler             21 
+Josie Bradley               21 Kay Moorhouse             11 
+Jean Bray                   21 Angela Horner             17 
+Karen Downey                17 Sue Dickinson             21 
+Anne Johnson                14 Julie Scott               21 
+Audrey Myers                21 Diane Felton               9 
+Breanne Rodgers             21 Carol Collier             12 
+Wendy Sykes                 21 Linda Hirst               10 
+                Aggregate: 149               Aggregate: 122 
+
+          Section C                    Thu 19th Jun         
+       Milnsbridge BC A               Golcar C & BC         
+Helen Bamforth              15 Toni Hopkin               21 
+Margaret Brennan            21 Dawn Hopkin                7 
+Jane Fielding               21 Jean Brook                 7 
+Susan Smith                 21 Linda Chadwick             7 
+Vera Foster                 21 Georgina Rothery           8 
+Julie Sykes                 21 Jane Flaharty             19 
+Janet Henry                 13 Gill Todd                 21 
+Barbara Peacock             21 Deborah Tolson            20 
+                Aggregate: 154               Aggregate: 110 
+
+          Section D                    Thu 19th Jun         
+       Lowerhouses CBC              Slaithwaite C & BC      
+Rochelle Kane                9 Virginia Manning          21 
+Sue Richards                21 Patricia Schofield        15 
+Caitlyn Choma               14 Isabel Moran              21 
+Sue Brennan                  7 Christine Charlesworth    21 
+Ann Dobson                  21 Alison Forrest            15 
+Jane Gatenby                14 Pauline Wilson            21 
+Michelle Booth              21 Karen Rausse               9 
+Sue Hanson                  13 Toni Agnew                21 
+                Aggregate: 120               Aggregate: 144 
+
+          Section D                    Thu 19th Jun         
+         Golcar Lib B                  Broad Oak B          
+Holly Sykes                 21 Joan Kaye                 12 
+Susan Ainley                21 Nicola Booth              20 
+Elaine Carter-Burke         14 Barbara Lockwood          21 
+Susan Robinson               8 Christine Smith           21 
+Susan Furey                 21 Nicole Holland             9 
+Angela Dymowski             19 Alison Withington         21 
+Margaret Whitwam            21 Lynn Bowes                13 
+*A.N.Other*                 21 Hazel Mularkey             8 
+                Aggregate: 146               Aggregate: 125 
+
+          Section D                    Thu 19th Jun         
+          Holmfirth                  Kirkheaton Con B       
+Barbara Littlewood          21 Jennifer Ball              8 
+Gill Farnsworth              6 Sharon Lumb               21 
+Jean Taylor                 21 Susan Lumb                14 
+Pamela Keogh                17 Margaret Goldthorpe       21 
+Lorraine Walker             15 Charlotte Rawlinson       21 
+Carol Allsopp               12 Helen Fox                 21 
+Dawn Whiteley               21 Niamh Mulqueen            12 
+Deborah Williams            18 Hazel Kelly               21 
+                Aggregate: 131               Aggregate: 139 
+
+          Section E                    Thu 19th Jun         
+        Netherton Con                  Brockholes B         
+Brenda Priestley            21 Geraldine Groves          11 
+Bronwyn Kaye                21 Lisa Corley               14 
+Jane Taylor                 21 Elaine Horncastle         13 
+Josie McParland             18 Gillian Brooksbank        21 
+Christine Harrison          21 Vicki Stones              18 
+Nancy Cartwright            21 Hazel Hadfield            12 
+Gillian Chalmers            21 Maureen Quinn              6 
+Christine Heeley            21 Pauline Westerman          9 
+                Aggregate: 165               Aggregate: 104 
+
+          Section E                    Thu 19th Jun         
+          Longwood A                 Almondbury BC B        
+Pamela Atkins                4 Theresa Harrison          21 
+Priti Gohil                 21 Christine Bullingham      15 
+Dee Haigh-Elmore            21 Gillean Meachen           11 
+Melanie Mason               11 Louise Sadler             21 
+Cheryl Reid                 21 Eve Johnson               13 
+Vina Randhawa               21 Anne Brant                10 
+Julie Russell               21 Sarah Halliwell           19 
+*A.N.Other*                  7 Linda Davies              21 
+                Aggregate: 127               Aggregate: 131 
 
 
