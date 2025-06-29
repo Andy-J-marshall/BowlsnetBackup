@@ -1,4 +1,4 @@
-=== Halifax (Tues. Evening) 2025 (as of Sun 22nd Jun)
+=== Halifax (Tues. Evening) 2025 (as of Sun 29th Jun)
 === Comp. Match Cards
 
         Division 1                  Tue 8th Apr         
@@ -1045,6 +1045,19 @@ D Barker                 21 N Burke-Thompson         12
 Steve Livesey            21 Adam Taylor              12 
              Aggregate: 168              Aggregate:  82 
                 Points:  10                 Points:   0 
+
+        Division 2                  Tue 6th May         
+     Mytholmroyd B C B              West End A          
+Joan Collins             21 Simon George              7 
+Darren Metcalfe          21 Martin Murphy            12 
+S Gill                   18 Adam Schofield           21 
+D Smith                  21 Paddy Considine          19 
+Mark Beard               10 Jim Fitton               21 
+Derek Priestley          21 Simon Gill               14 
+Gary Peel                21 Jason Spence              8 
+P Collins                21 Craig Ogilvie            20 
+             Aggregate: 154              Aggregate: 122 
+                Points:   8                 Points:   2 
 
         Division 2                  Tue 6th May         
          Pellon B                  Halifax B.C.         
@@ -2663,5 +2676,252 @@ Karen Warne               4 Lee Kenny                21
 Val Mycroft              21 Phil Shire               11 
              Aggregate: 115              Aggregate: 148 
                 Points:   3                 Points:   7 
+
+        Division 1                 Tue 24th Jun         
+     Luddenden Foot A           Clayton Victoria A      
+Steve Bridges            21 Jack Summers              5 
+Phil Brown               21 Chris Wilson             14 
+Gary Cartlidge           21 Philip Lister            10 
+Craig Elwin              21 Mick Skwarek             11 
+John Halliday            21 June Wilson              20 
+David Clegg              21 Myles Summers            17 
+Chris Mitchell           10 Mark Hirst               21 
+Jon Robinson             20 John Smith               21 
+             Aggregate: 156              Aggregate: 119 
+                Points:   8                 Points:   2 
+
+        Division 1                 Tue 24th Jun         
+         Siddal A                   Ripponden A         
+Martin Greenwood          9 Tom Robertshaw           21 
+Robert Holmes            21 Andy Freer                4 
+Michael O'Prey           21 Nick Oddy                17 
+Andy Orme                21 Dave Culpan               8 
+Darren Hickey             5 Simon Robinson           21 
+James Scott              14 Andrew Gee               21 
+Bev Clayton              21 Gary Plane                5 
+Simon Clayton            21 Michael Robertshaw       14 
+             Aggregate: 133              Aggregate: 111 
+                Points:   7                 Points:   3 
+
+        Division 1                 Tue 24th Jun         
+     Mytholmroyd B C A               Pellon A           
+P Collins                10 G Normanton              21 
+Brendon Malone           19 A Bottomley              21 
+Tony Bannister           21 Ian Smith                 8 
+Janette Nicholson        21 Adrian Holmes            20 
+Clive Austin             21 David Craigie            12 
+R Nicholson              21 Peter() Craigie          11 
+Freddie Priestley        21 K Barker                 13 
+Richard Priestley        21 Simon Leeming            16 
+             Aggregate: 155              Aggregate: 122 
+                Points:   8                 Points:   2 
+
+        Division 1                 Tue 24th Jun         
+        Hove Edge A                Hill Crest A         
+Steve Rothwell ()        21 Rebecca Woodhead         15 
+Nigel Firth              13 Mark Barnett             21 
+Anthony James            21 D Barnes                 17 
+Richard Sugden ()         5 R Woodhead               21 
+Chris Illingworth        15 P Holroyd                21 
+Frank Higgins            11 L Harris                 21 
+Richard Hopley ()        21 Mark Senior              14 
+Keith Hatzer             21 Jordon Crabtree          13 
+             Aggregate: 128              Aggregate: 143 
+                Points:   4                 Points:   6 
+
+        Division 1                 Tue 24th Jun         
+       Hipperholme A                Greenroyd A         
+Chris Cox                21 Colin Pidgeon            10 
+Adrian Megson            21 Stephen Baldwin           6 
+Mick Frost               21 Mike Berry                2 
+Mathew Parker            20 Mick Walker              21 
+Njh Crowther             20 Andrew Crabtree          21 
+N Parker                 21 Peter Hanson              5 
+Steve Oakes              21 Vaughan Murgatroyd       13 
+Nigel Broadbent          13 Paul Birkhead            21 
+             Aggregate: 158              Aggregate:  99 
+                Points:   7                 Points:   3 
+
+        Division 2                 Tue 24th Jun         
+        West End A              Akroydon Victoria A     
+Martin Murphy            21 M Uttley                 20 
+Simon George             18 D Barker                 21 
+Simon Gill               15 Dale Holdsworth          21 
+Paddy Considine          21 Graham Halliday          15 
+Ryan Healey               9 Alan Bray                21 
+David Ainley             16 D Gibson                 21 
+Adam Schofield           10 Julian Dawson            21 
+Craig Ogilvie            21 Steve Livesey             8 
+             Aggregate: 131              Aggregate: 148 
+                Points:   3                 Points:   7 
+
+        Division 2                 Tue 24th Jun         
+       Halifax B.C.              Mytholmroyd B C B      
+Keith Hanson             21 D Smith                   4 
+David Russell            21 S Gill                    7 
+Josh Craven              21 Bill Ashley              11 
+Peter Grant              21 Derek Priestley          13 
+Eric McGinnis            10 Stephen Parker           21 
+Sheridan Paterson        21 Joan Collins              8 
+Gary Robinson            21 Darren Metcalfe          19 
+Danny Leather            21 Gary Peel                10 
+             Aggregate: 157              Aggregate:  93 
+                Points:   9                 Points:   1 
+
+        Division 2                 Tue 24th Jun         
+      Elland W.M.C. A              King Cross A         
+Geoff Boothroyd          14 Peter Jackson            21 
+Philip Binns             17 Mark McLoughlin          21 
+David Priestley          21 S Halliday               14 
+Nick Lowe                21 Terry Jackson            14 
+John Gledhill            21 J Boddy                  14 
+Jack Gledhill            21 Emlyn Craven             17 
+Paul Gledhill            18 Peter Stead              21 
+R Newham                 16 Peter O'Callaghan        21 
+             Aggregate: 149              Aggregate: 143 
+                Points:   6                 Points:   4 
+
+        Division 2                 Tue 24th Jun         
+     Elland C & B.C.A                Siddal B           
+Andrew Scott              9 Callum Pilling           21 
+Izzy Burke               10 Paul McDonald            21 
+Harry Talbot             21 Andrew Priestley          7 
+Matty Holden             21 Andrew Bruce             19 
+Andrew Brewer            16 Cathy Ness               21 
+Maddy Rodd               18 Wayne Mitton             21 
+Jeremy Firth             21 Michael Greenwood        14 
+Josh Talbot              21 Zac Hickey                7 
+             Aggregate: 137              Aggregate: 131 
+                Points:   6                 Points:   4 
+
+        Division 2                 Tue 24th Jun         
+         Pellon B                    Old Town           
+M Alders                  7 John Hartley             21 
+D Walton                 21 G Hughes                 19 
+P Steele                 21 Jenny Cooper             13 
+J Clark                  12 D Williamson             21 
+Peter Greenwood          19 Andy Greenwood           21 
+P Firth                   5 Derek Senior             21 
+Michael Holmes           21 F Rothwell               15 
+R Walker                 21 T Cooper                  5 
+             Aggregate: 127              Aggregate: 136 
+                Points:   4                 Points:   6 
+
+        Division 3                 Tue 24th Jun         
+       Allan Park A                 Hove Edge B         
+Joanne Jowett            21 Paul Wilkinson            6 
+Martin Grace             21 Bob Spriggs               6 
+Hannah Jowett            21 Steven Shaw               9 
+Gary O Leary             21 Steve Mycroft            11 
+Tom Fowler               21 Neil Mount               12 
+Katie Grogan             21 Philip Brearley          18 
+David Greenwood          21 Martyn Halliday          18 
+Ann Greenwood            20 Alex Walton              21 
+             Aggregate: 167              Aggregate: 101 
+                Points:   9                 Points:   1 
+
+        Division 3                 Tue 24th Jun         
+       Hill Crest B              Sowerby T & B.C.       
+Nikki Conway             21 Peter Lomax              12 
+Craig Thomasson          21 Martyn Summerscales       7 
+F Clissett               20 Helen Harrison           21 
+G Jackson                21 Michael Wood             12 
+Andrew Parker            10 Pam Wood                 21 
+G Habbershaw             21 Keith Hartley            20 
+Pam Woodhead             21 Philip Eastwood          11 
+E Rickman                21 Don Hayward              13 
+             Aggregate: 156              Aggregate: 117 
+                Points:   8                 Points:   2 
+
+        Division 3                 Tue 24th Jun         
+        Kingston A                 Hipperholme B        
+John Stewart             20 Neil Davidson            21 
+John Dunne               21 Rob Sandie               18 
+Arthur Walmsley          21 Dave Berry               16 
+Martin Pilkington        21 Neil Greenwood           18 
+Robert Cestrone          21 Steve Rooks               6 
+Paul Greenwood           21 P Barnes                 17 
+Stuart Gray               7 Dave Mount               21 
+Terry Horsfall           19 I Ryding                 21 
+             Aggregate: 151              Aggregate: 138 
+                Points:   7                 Points:   3 
+
+        Division 3                 Tue 24th Jun         
+    Akroydon Victoria B            Bradshaw Park        
+D Morgan                 21 S Barker                  9 
+Claire Innes              3 David Avery              21 
+Anicet Tchoffo           21 David Hudson             18 
+Jansson Ashford          15 Tony Young               21 
+Sean Cumisky             11 Colin Hall               21 
+Tony Wolke               19 K Noble                  21 
+C Wilmot                 21 M Horsfall               10 
+Martin Moana             21 Richard Spivey            6 
+             Aggregate: 132              Aggregate: 127 
+                Points:   6                 Points:   4 
+
+        Division 3                 Tue 24th Jun         
+       King Cross B              Luddenden Foot B       
+G Briggs                 21 Chris Watkins             9 
+J Ashton                 20 Heather Smith            21 
+A Asghar                 21 Kay Lund                 16 
+Paul Grey                12 Julie Marsden            21 
+S Clifford                7 Barrie Farrar            21 
+Joe Gibbons              20 Tamina Oates             21 
+G Cowgill                17 Royston Colley           21 
+Stuart Alderson          21 Alex Hadfield             6 
+             Aggregate: 139              Aggregate: 136 
+                Points:   5                 Points:   5 
+
+        Division 4                 Tue 24th Jun         
+        Greenroyd B                 Greetland A         
+Geoff Mitchell           19 Sarah Meadows            21 
+Ken Campbell             21 Chris Green              18 
+Richard Gatecliff        21 Lynne Greenwood          13 
+Roger Bateman            18 Laurel Binks             21 
+Stephen Fearnley         21 Gary Hinchliffe          10 
+Mark Hepworth             6 Peter Webb               21 
+Robin Hanson             21 Denise Page              20 
+Phil Shire               10 Chris Crawshaw           21 
+             Aggregate: 137              Aggregate: 145 
+                Points:   4                 Points:   6 
+
+        Division 4                 Tue 24th Jun         
+        Ripponden B                 Holmfield A         
+Jonas Webster            21 Tony Barrett             10 
+Ian Crossland            15 Diane Barber             21 
+Dan Stievenard           16 Andrew Hurcombe          21 
+Richard Wells            21 Sue Kent                  0 
+Julianna Forsythe-Baker  13 Alan Wilson              21 
+Andy Webster              8 Stephen Hardy            21 
+Cathie Freer              4 Andy Hurcombe Jnr        21 
+Michaela Houlker         18 Sue Hurcombe             21 
+             Aggregate: 116              Aggregate: 136 
+                Points:   2                 Points:   8 
+
+        Division 4                 Tue 24th Jun         
+    Clayton Victoria B              Hove Edge C         
+Bob Armitage             21 Jimmy Procter             7 
+Alan Peel                21 Valerie Radcliffe         4 
+Malcolm Riggs            21 Diane Brearley           16 
+Simon Russell            21 Dawn Greenwood           11 
+Bev Shutt                21 Margaret Shuker           7 
+Shaun Toehill            21 Linda Heyhoe              8 
+Ian Findlay              21 Karen Warne              18 
+David Moore              19 Val Mycroft              21 
+             Aggregate: 166              Aggregate:  92 
+                Points:   9                 Points:   1 
+
+        Division 4                 Tue 24th Jun         
+      Bailiff Bridge               Allan Park B         
+James Wheeler            21 Debbie Oates              1 
+Andy Stoutt              21 Linda Lees               16 
+Kevin Page               21 Marie Rules-Hazard        5 
+Martin Broadbent         21 Keiran Waterworth        14 
+John Foster              21 Tony Szoke               17 
+Jill Heffernan           18 Olivia Hickey            21 
+Mike Brocklehurst        17 Greg Dimelow             21 
+Alison Singleton         18 Marcus Rules-Hazard      21 
+             Aggregate: 158              Aggregate: 116 
+                Points:   7                 Points:   3 
 
 

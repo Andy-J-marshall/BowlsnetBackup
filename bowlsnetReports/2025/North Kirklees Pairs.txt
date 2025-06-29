@@ -1,4 +1,4 @@
-=== North Kirklees (Vets Pairs) 2025 (as of Sun 22nd Jun)
+=== North Kirklees (Vets Pairs) 2025 (as of Sun 29th Jun)
 === Comp. Match Cards
 
       Division 1             Thu 17th Apr       
@@ -89,7 +89,7 @@ Malcolm Child           Hilary Richardson
         Ardsley               Birkenshaw        
 Paul Gilpin          21 Jack Holdsworth      11 
 Tony Hartley            Audrey Firth            
-Derek Walker         21 David Cockett         4 
+Dougie Broadhurst    21 David Cockett         4 
 Pat Lee                 Anne Ellis              
 Roy Luty             21 William Dyas         15 
 Glen Parkinson          Margaret Dyas           
@@ -156,6 +156,18 @@ Stephen Blacklock       Elsie Jowett
 Bryan Collier        20 Alison Sykes         21 
 Mick Stewart            John Shooter            
          Aggregate:  48          Aggregate:  84 
+
+      Division 1             Thu 24th Apr       
+  Cleckheaton Sports       Mirfield Old Bank    
+Alan Potter           8 Walter Morgan        21 
+John Barraclough        David Bentley           
+Kath Wilson          16 Harold Hick          21 
+John Wilson             Paul Hartley            
+Kath Icke            21 Brian Scarth         17 
+Richard Bentley         Kevin Crowe             
+Carol Turner          4 Mel Stradling        21 
+Anne Watkinson          Bryan Ibbetson          
+         Aggregate:  49          Aggregate:  80 
 
       Division 1             Thu 24th Apr       
     Royds Park - A          Royds Park - B      
@@ -1188,5 +1200,125 @@ Donald Goodall          Andrew Asquith
 Malcolm Battye       12 Robert Frost         21 
 Vera Battye             Karen Gee               
          Aggregate:  73          Aggregate:  73 
+
+      Division 1             Thu 26th Jun       
+      Ossett - B           Mirfield Vets - A    
+Bryan Collier        21 Bryan Middleham       5 
+John Shooter            Keith Townend           
+Alan Nash            21 Angela Whitley       11 
+Linda Theaker           Janet Thornton          
+Laurie Bairstow      21 Brian Taylor         10 
+Stephen Briggs          Michael Addy            
+Kath Shooter         21 Ian Evans            12 
+Elsie Jowett            Geoff Hopkin            
+         Aggregate:  84          Aggregate:  38 
+
+      Division 1             Thu 26th Jun       
+     Spen Victoria          Royds Park - B      
+Steve Kemp           18 Ken Lill             21 
+Dave Hutton             Linda Lill              
+Terry Varney         21 Brian Elliott         1 
+John Shackleton         David Morrell           
+John Smith           21 Bruce Illingworth     8 
+David Raynor            Elaine Murphy           
+Paul Warwick         16 Steve Busz           21 
+Phil Rayner             Stuart Burton           
+         Aggregate:  76          Aggregate:  51 
+
+      Division 1             Thu 26th Jun       
+      Ossett - C            Grange Park - A     
+Glen Beresford       12 Ian Worthington      21 
+Stan Hodge              Jane Illsley            
+Derek Flint          21 Val Kirk             17 
+Stephen Blacklock       Victor Flynn            
+David Clarkson        6 Don Hall             21 
+Charles Ellis           Lynne Cunningham        
+Barry Senior         21 Kevin Oldfield       15 
+John Kellett            Susan Oldfield          
+         Aggregate:  60          Aggregate:  74 
+
+      Division 1             Thu 26th Jun       
+  Cleckheaton Sports          Ossett - A        
+Anne Watkinson       11 Tina Eyre            21 
+Kath Icke               Neil Holmes             
+Richard Bentley      10 Peter Lamb           21 
+John Barraclough        Philip Long             
+Carol Turner         21 Catharine Skelton    20 
+John Bradley            Linda Pearson           
+Alan Potter          12 Alison Sykes         21 
+Greg Hutchinson         Graeme Eyre             
+         Aggregate:  54          Aggregate:  83 
+
+      Division 1             Thu 26th Jun       
+    Royds Park - A        Cleckheaton Moorend   
+Susan Bentley        21 Janet Firth          11 
+Christine Gowan         Pat Parkinson           
+Ruth Day             16 Frank Turnbull       21 
+Lesley Osborne          Ian Northrop            
+Derek Brown          20 Magaret Lloyd        21 
+Robert Sutcliffe        Yvonne Northrop         
+Steven Lumb          17 David Lloyd          21 
+Raymond Gowan           Ann Fisher              
+         Aggregate:  74          Aggregate:  74 
+
+      Division 1             Thu 26th Jun       
+       Soothill            Mirfield Old Bank    
+Carole Gattrell      21 Andrew Foggo         14 
+Karen Ainley            David Sharp             
+Peter Wilson          8 David Bentley        21 
+Janet Stewart           Walter Morgan           
+Pauline Mullarkey    15 Harold Hick          21 
+Paul Falloon            Paul Hartley            
+Stuart Gledhill      18 Brian Scarth         21 
+Nigel Ainley            Colin Fisher            
+         Aggregate:  62          Aggregate:  77 
+
+      Division 2             Thu 26th Jun       
+    Hanging Heaton              Ardsley         
+Malcolm Preston      10 Tony Hartley         21 
+John R. Brooks          Paul Gilpin             
+Kath Robinson        21 Derek Walker          8 
+Mark Jones              Pat Lee                 
+Chris Blakeley       21 Roy Luty              9 
+Colin Wilson            Gerry Swift             
+Tony Render          21 Terry Townend         9 
+David Whitaker          Geoff Rodham            
+         Aggregate:  73          Aggregate:  47 
+
+      Division 2             Thu 26th Jun       
+       Thornhill              Birkenshaw        
+Derek Robinson       21 William Dyas          6 
+Bill Chambers           Margaret Dyas           
+Joyce Parker         21 Steven Smith         19 
+Malcolm Parkinson       Gary Newsome            
+Hazel Cullen         21 William Navem         6 
+Mandy Mitchell          Jack Holdsworth         
+Julie Makepeace      21 Jean Mortimer        14 
+Joyce Tolson            Peter Mortimer          
+         Aggregate:  84          Aggregate:  45 
+
+      Division 2             Thu 26th Jun       
+   Staincliffe Park        Earlsheaton Park     
+Carol Lawton         20 Marjorie Artley      21 
+Josie Stokes            Sonia Proctor           
+Yvonne Ainley        21 Vera Battye          19 
+Carol Sykes             Maureen Harrison        
+Denise Roderick       2 Steven Dufton        21 
+Margaret Hopkins        Anne Dufton             
+Jim Stokes           21 Harry Goodall        15 
+David Kellett           Donald Goodall          
+         Aggregate:  64          Aggregate:  76 
+
+      Division 2             Thu 26th Jun       
+   Mirfield Vets - B          Ossett - D        
+Colin Watson         21 Keith Batley         19 
+Dawn Wilkinson          Pearl Batley            
+Malcolm Blackburn    12 Keith Hirstle        21 
+Eileen Marchant         Andrew Callaghan        
+Stuart Bunting       17 Pauline Clarkson     21 
+Ruedi Honnegar          Sharon Scholey          
+Terry Atkins         15 Kevin Smith          21 
+Keith Stones            Brian Wood              
+         Aggregate:  65          Aggregate:  82 
 
 

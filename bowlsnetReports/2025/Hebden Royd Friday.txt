@@ -1,4 +1,4 @@
-=== Halifax (Hebden Royd Fri.) 2025 (as of Sun 22nd Jun)
+=== Halifax (Hebden Royd Fri.) 2025 (as of Sun 29th Jun)
 === League Match Cards
 
            League                   Fri 25th Apr       
@@ -905,5 +905,123 @@ Ian Tootell                21 Paul Hitchen          13
 Polly Halstead             11 Fred Greenwood        21 
                Aggregate:  65           Aggregate:  68 
                   Points:  14              Points:  14 
+
+           League                   Fri 27th Jun       
+         Division 1                                    
+        Cross Roads A             Luddendenfoot A      
+Thomas Hargreaves          14 Ian Armstrong         21 
+Daniel Hargreaves          14 Becky Woodhead        21 
+Kath Gower                  7 Tom Bridges           21 
+Sally Grundy               10 Chris Watkins         21 
+Steve Hird                 21 Natalie Swain         19 
+Lindsey Harker              8 Chris Mitchell        21 
+                  Points:  13              Points:  28 
+               Aggregate:  74           Aggregate: 124 
+                   Games:   1               Games:   5 
+
+           League                   Fri 27th Jun       
+         Division 1                                    
+       Luddendenfoot B              Hill Crest A       
+Phil Thornber              10 Paul Oldfield         21 
+Mark Horner                21 Craig Thomasson       19 
+Daniel Stafford            21 Stuart Pilling        18 
+Dave Stafford              21 Tim Brumby            18 
+Gill Horner                15 Nicola Simpson        21 
+Gillian Thornber           18 Stephen Balmforth     21 
+                  Points:  23              Points:  24 
+               Aggregate: 106           Aggregate: 118 
+                   Games:   3               Games:   3 
+
+           League                   Fri 27th Jun       
+         Division 1                                    
+          Oxenhope                     Savile          
+David Milnes               21 David Whitehouse      10 
+Liam Bairstow              21 David Nichol          18 
+John Slight                15 Sam Redfearne         21 
+Trevor Bairstow            14 Yvonne Sanderson      21 
+Rob Harvie                 21 Bob Sanderson         12 
+Andrew Hollywood           14 Paul Pitchforth       21 
+                  Points:  22              Points:  22 
+               Aggregate: 106           Aggregate: 103 
+                   Games:   3               Games:   3 
+
+           League                   Fri 27th Jun       
+         Division 2                                    
+           Sowerby                  Heptonstall        
+Phillip Eastwood            6 Matthew Flannagan     21 
+Alistair Baigent           16 Sarah Mason           21 
+Alan Riddles                6 Steve Greenwood       21 
+Jean Sutton                 8 David Dunn            21 
+Stephen Baitscheff         21 Drew Marsh            20 
+Denise Anderton             8 Luke Sessions         21 
+                  Points:  12              Points:  29 
+               Aggregate:  65           Aggregate: 125 
+                   Games:   1               Games:   5 
+
+           League                   Fri 27th Jun       
+         Division 2                                    
+         Old Town A                Cross Roads B       
+John Bewick                21 Simon Woodvine        19 
+Jenny Cooper               21 Terry Fawthorp         8 
+Tom Faulkner               21 Justine Wainwright     7 
+Tony Cooper                 6 John Larner           21 
+John McDermondy            21 Malcolm Porter        16 
+Ian Coleman                21 Stuart Wainwright     11 
+                  Points:  26              Points:  15 
+               Aggregate: 111           Aggregate:  82 
+                   Games:   5               Games:   1 
+
+           League                   Fri 27th Jun       
+         Division 2                                    
+        Hill Crest B                 Old Town B        
+Daniel Gladock             16 Dave Ruse             21 
+Ed Tinker                  21 Aimee Smith            4 
+Michael Holdsworth         20 Stewert Andrews       21 
+Craig Charlwood            21 Tom Sapey             20 
+Carol Harris               21 Rodger Walsh           8 
+Ella Clisset               21 John Tolley           12 
+                  Points:  27              Points:  17 
+               Aggregate: 120           Aggregate:  86 
+                   Games:   4               Games:   2 
+
+    Friday Morning Fours            Fri 27th Jun       
+Friday Morning Fours Group 1        On Bradshaw        
+        Bradshaw 4s A              Hill Crest 4s       
+Keith Noble                21 Pamela Woodhead       16 
+Kyle Jones                 15 Sheryl Robinson       21 
+Colin Hall                 14 Bob Woodhead          21 
+Peter Craigie              14 Ernie Rickman         21 
+               Aggregate:  64           Aggregate:  79 
+                  Points:  12              Points:  18 
+
+    Friday Morning Fours            Fri 27th Jun       
+Friday Morning Fours Group 1        On Bradshaw        
+         Oxenhope 4s                Walsden 4s A       
+Steve Griffiths            18 Andrew Foster         21 
+Fred Rothwell              17 Geoff Crabtree        21 
+Mary Hemsley               19 Keith Rudman          21 
+David Milnes                4 Paul Senior           21 
+               Aggregate:  58           Aggregate:  84 
+                  Points:   9              Points:  20 
+
+    Friday Morning Fours            Fri 27th Jun       
+Friday Morning Fours Group 2        On Ripponden       
+        Ripponden 4s               Bradshaw 4s B       
+Nicola Sutcliffe           21 Eric Crowther         12 
+Howard Owen                21 Mervyn Bamford         4 
+Fred Greenwood             21 Joe Scanlan            7 
+Paul Hitchen               21 John Furlong          13 
+               Aggregate:  84           Aggregate:  36 
+                  Points:  20              Points:   5 
+
+    Friday Morning Fours            Fri 27th Jun       
+Friday Morning Fours Group 2        On Ripponden       
+        Walsden 4s B                Elland WM 4s       
+Tony Hunking                8 Nick Lowe             21 
+Polly Halstead             14 Sandra Lowe           21 
+Darrell Halstead           12 Mark Simpson          21 
+Ian Tootell                15 Peter Clement         21 
+               Aggregate:  49           Aggregate:  84 
+                  Points:   8              Points:  20 
 
 

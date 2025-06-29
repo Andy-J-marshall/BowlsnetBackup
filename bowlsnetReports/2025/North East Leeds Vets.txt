@@ -1,4 +1,4 @@
-=== North East Leeds Vets 2025 (as of Sun 22nd Jun)
+=== North East Leeds Vets 2025 (as of Sun 29th Jun)
 === League Match Cards
 
        Division 1               Thu 10th Apr        
@@ -1988,5 +1988,17 @@ David Miller           21 David Norton           15
 Barrie Michaelson      16 Derek Harding          21 
 Rodney Cundle          21 Tony Lumb               9 
            Aggregate: 163            Aggregate:  79 
+
+       Division 2               Thu 26th Jun        
+      Rothwell BC B              Whitkirk B         
+Trevor Hawkin          21 Philip Hatch           16 
+Roger Cockerham        21 Jenny Mullins          11 
+Jimmy Hughes           21 William Newstead       12 
+Robert Leighton         3 Martin Costello        21 
+Lyn Owen               21 John Hardwick          10 
+Nigel Richardson       20 Tony Bond              21 
+Mark Scruton           21 Mick Hebden            15 
+John Turpin            21 James Lancaster         3 
+           Aggregate: 149            Aggregate: 109 
 
 

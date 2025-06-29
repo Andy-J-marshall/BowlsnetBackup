@@ -1,4 +1,4 @@
-=== Halifax (Tues.Afternoon) 2025 (as of Sun 22nd Jun)
+=== Halifax (Tues.Afternoon) 2025 (as of Sun 29th Jun)
 === Comp. Match Cards
 
       Division 2              Tue 8th Apr       
@@ -1440,5 +1440,65 @@ Margaret Thompson    18 Allan Wilson         21
          Aggregate:  76          Aggregate: 112 
              Games:   2              Games:   4 
             Points:   2             Points:   6 
+
+      Division 2             Tue 24th Jun       
+   Luddenden Foot A          Hill Crest B       
+Gerald Rowley        21 Ella Clissitt         3 
+John Shann           18 Tim Brumby           21 
+David McMahon        21 Derek Hall           20 
+David Stafford       12 Pamela Woodhead      21 
+Ray Cope              3 Paul Oldfield        21 
+Ray Wolsey           21 J Jackson             8 
+         Aggregate:  96          Aggregate:  94 
+             Games:   3              Games:   3 
+            Points:   5             Points:   3 
+
+      Division 2             Tue 24th Jun       
+    Bailiff Bridge            Allan Park        
+Malcolm Park         11 Martin Grace         21 
+Jenny Moffat          5 June Gaukroger       21 
+Colin White          21 Paul Rimmer          19 
+Bob Foalks           11 Linda Lees           21 
+Chris Stout          14 Gary O Leary         21 
+Vincent Kerr         21 Peter Mc Owen        12 
+         Aggregate:  83          Aggregate: 115 
+             Games:   2              Games:   4 
+            Points:   2             Points:   6 
+
+      Division 2             Tue 24th Jun       
+      Ripponden B             Kingston A        
+Fred Greenwood       21 Philip Stone          8 
+Julian Carr          21 Martyn Simms          7 
+Lorna Briggs         11 John Stewart         21 
+Steve Mackrell        9 Terry Horsfall       21 
+Peter Briggs         21 Pasqual Cestrone     18 
+Andy Webster         15 Ian Smith            21 
+         Aggregate:  98          Aggregate:  96 
+             Games:   3              Games:   3 
+            Points:   5             Points:   3 
+
+      Division 2             Tue 24th Jun       
+    Bradshaw Park A          Elland WMC A       
+S Barker             21 P Hand                6 
+T Mosey              15 G Boothroyd          21 
+N Fawley             21 Malcolm Murray        5 
+Keith Noble          14 Geoffrey Place       21 
+Graham Sellars       21 P Wright             11 
+Tony Young           18 Peter Clement        21 
+         Aggregate: 110          Aggregate:  85 
+             Games:   3              Games:   3 
+            Points:   5             Points:   3 
+
+      Division 2             Tue 24th Jun       
+    Sowerby T & BC            Hove Edge B       
+Alastair Baigent     15 Ray Armstrong        21 
+Peter Lomax          17 Patrick O'Connor     21 
+Martyn Summerscales  21 Jimmy Procter         5 
+Keith Hartley        21 Chris Wood           19 
+Don Hayward          20 Stewart Greenwood    21 
+Edward Eyres         21 Peter Martin         10 
+         Aggregate: 115          Aggregate:  97 
+             Games:   3              Games:   3 
+            Points:   5             Points:   3 
 
 

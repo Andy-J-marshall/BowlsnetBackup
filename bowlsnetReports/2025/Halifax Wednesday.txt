@@ -1,4 +1,4 @@
-=== Halifax (Wed. Evening) 2025 (as of Sun 22nd Jun)
+=== Halifax (Wed. Evening) 2025 (as of Sun 29th Jun)
 === Comp. Match Cards
 
     Cockroft Cup Division 1              Wed 9th Apr          
@@ -1472,7 +1472,7 @@ Lee Kenny                     12 Martin Moana              21
 Mark Horsfall                 21 Peter Lomax               10 
 John Nicholson                21 Keith Hartley              7 
 John Fish                     21 Helen Harrison            10 
-Syd Smith                      5 Heather Parker            21 
+Stuart Smith                   5 Heather Parker            21 
 David McFarland                9 Pamela Wood               21 
 Colin Hall                    21 Philip Eastwood           17 
 Richard Spivey                21 Martyn Summerscales       13 
@@ -1651,6 +1651,21 @@ Neil Madden                   10 Martyn Skuse              21
 Nigel Graham                  10 Barry Hawksworth          21 
                      Points:   3                  Points:   9 
                   Aggregate: 159               Aggregate: 178 
+
+  Webster's Trophy Division 2            Wed 14th May         
+          Halifax BC A                    West End A          
+Ray Clegg                     21 David Ainley              14 
+Alan Cowburn                  13 Martin Murphy             21 
+Peter Grant                   20 Ryan Healey               21 
+Peter Greenwood               21 David Blackburn           20 
+Keith Hanson                  21 Simon Gill                14 
+Danny Leather                 21 Ian Crossland             17 
+Eric McGinnis                 21 Shane Greaves             13 
+Sheridan Paterson             21 Simon George              12 
+Gary Robinson                 21 Craig Ogilvie             16 
+David Russell                 21 John Hamer                17 
+                     Points:  10                  Points:   2 
+                  Aggregate: 201               Aggregate: 165 
 
   Webster's Trophy Division 2            Wed 14th May         
            Denholme A                    Hove Edge A          
@@ -3027,7 +3042,7 @@ Stephen Smith                 21 Chris Johnstone           17
 
   Wilkinson Trophy Division 3            Wed 11th Jun         
           Outlane BC B                 Bradshaw Park A        
-Jackie Jepson                 21 Syd Smith                 13 
+Jackie Jepson                 21 Stuart Smith              13 
 Andy Harris                   21 Richard Hodgson           20 
 Andrew Tanner                 21 Mark Horsfall             19 
 Alan Hobson                   11 Colin Hall                21 
@@ -3304,7 +3319,7 @@ Martin Moana                  21 Laurie Dyer               18
          Greenroyd BC A                Bradshaw Park A        
 John Ingham                   21 Mark Horsfall              9 
 Stephen Baldwin               21 David McFarland           16 
-Steve Trow                    14 Syd Smith                 21 
+Steve Trow                    14 Stuart Smith              21 
 Lee Kenny                     21 Gary Kinvig                6 
 Paul Reynolds                 21 Richard Hodgson           12 
 Peter Hanson                  21 Colin Hall                 4 
@@ -3409,5 +3424,340 @@ Rob Harvie                    13 Neil Mount                21
 Steve Collier                 21 Martyn Halliday           11 
                      Points:   2                  Points:   8 
                   Aggregate: 117               Aggregate: 149 
+
+    Cockroft Cup Division 1              Wed 25th Jun         
+          Elland WMC A                 Mytholmroyd BC A       
+Fin Hickey                    21 Freddie Priestley         14 
+Simon Anderson                14 Keiran Bannister          21 
+George Turton                 21 Janette Nicholson         17 
+Graham Hirst                  21 Brendon Malone            10 
+Ben Halliday                  21 Daniel Barker             11 
+Paul Ingelby                  21 Clive Austin               8 
+Robert Hitchen                19 Roy Nicholson             21 
+Robert Holmes                 21 Richard Priestley          8 
+Gary Smith                    21 Gareth Nicholson          14 
+Graham Hickey                 15 Tony Bannister            21 
+                     Points:   9                  Points:   3 
+                  Aggregate: 195               Aggregate: 145 
+
+    Cockroft Cup Division 1              Wed 25th Jun         
+       Clayton Victoria A               Greetland BC A        
+David Scott                   21 Peter Lea                  7 
+Paul Gill                     21 Tony Dubaj                 9 
+Jack Summers                  21 Barry Sugden              14 
+Chris Wilson                  21 Robert Morgan             16 
+Myles Summers                 21 Andrew Balmforth          18 
+Malcolm Fowler                19 Clive Foord               21 
+John Smith                    18 Ken Fleming               21 
+Peter Oliver                  15 Gordon Bradford           21 
+Andrew Heenan                 14 Russell Broadbent         21 
+Andy Southwell                 7 Nick Oddy                 21 
+                     Points:   7                  Points:   5 
+                  Aggregate: 178               Aggregate: 169 
+
+    Cockroft Cup Division 1              Wed 25th Jun         
+       Kingston Social A                Siddal Park A         
+Robert Cestrone               21 David Craigie             14 
+Louis Barker                  21 Simon Clayton             15 
+Zinedine Ayub                 21 Neil Tordoff              18 
+Charlie White                 21 Gareth Metcalf            16 
+Jason Barker                  21 Jason Watters             17 
+James Akesson                 21 David Helliwell            9 
+Paul Cestrone                 21 Trevor Benn               15 
+Anthony O'Brien               19 Mark Regan                21 
+Andy Hoult                    21 Martin Atkinson           13 
+Simon Page                    21 Darren Hickey              7 
+                     Points:  11                  Points:   1 
+                  Aggregate: 208               Aggregate: 145 
+
+    Cockroft Cup Division 1              Wed 25th Jun         
+      Luddenden Foot BC A               Cross Roads A         
+Gareth Swain                  14 Ryan Tiler                21 
+Paul Turner                   11 Peter Clark (a)           21 
+Philip Brown                  15 Neill Hargreaves (a)      21 
+Matthew Briggs                21 Thomas Johnson            15 
+Aiden Fox                     21 Peter Hepworth            12 
+Andrew Gallagher              21 Les Foster (a)            14 
+Rob Houghton                  21 Richard Hargreaves (a)    18 
+Richard Helliwell             21 Paul Berry                 5 
+Des Senior                    16 Craig Wilkins             21 
+Gary Cartlidge                10 Richard Dunhill (a)       21 
+                     Points:   7                  Points:   5 
+                  Aggregate: 171               Aggregate: 169 
+
+    Cockroft Cup Division 1              Wed 25th Jun         
+          Hill Crest A                 Pellon Social A        
+Phillip Holroyd               21 Mark Bolton               10 
+David Barnes                  21 Ian Smith                 17 
+Mark Barnett                  21 Adrian Holmes              9 
+Lyndon Harris                 21 Terry Jackson             15 
+Geoffrey Jaskolski            16 Robert Walker             21 
+Rebecca Woodhead               8 Michael Holmes            21 
+Gary Murphy                   20 Keith Barker              21 
+Glen McCafferty               21 Glen Normanton             5 
+Scott Haynes                   6 Simon Leeming             21 
+Mark Senior                   15 Martin Dodd               21 
+                     Points:   7                  Points:   5 
+                  Aggregate: 170               Aggregate: 161 
+
+    Cockroft Cup Division 1              Wed 25th Jun         
+      Akroydon Victoria A              Stainland Park A       
+Gareth Coates                 21 Mark Hirst                 4 
+Steve Livsey                  21 Paul Senior                9 
+Dale Holdsworth               21 Mark Barron               10 
+Bailey Dawson                 21 Peter Hopkinson           11 
+Peter O'Callaghan             21 Linda Drury               14 
+Julien Dawson                 21 J M Severn                15 
+Paul Birkhead                 21 Robert Dickinson          18 
+Michael Oprey                 21 Sally Turner              20 
+John Williamson               15 Lorraine Hirst            21 
+Danny Fountain                16 Robert Senior             21 
+                     Points:  10                  Points:   2 
+                  Aggregate: 199               Aggregate: 143 
+
+  Webster's Trophy Division 2            Wed 25th Jun         
+         Cross Roads B                    Denholme A          
+David Kirkbright              21 Thomas Tyne-Miller        12 
+Steve Peers                   21 Nigel Tyne-Miller         11 
+Guy Barrie                    16 David Hewitt              21 
+Debbie Kirkbright             21 Robert Lightowler         10 
+Karl Lockwood                 21 Andrew Matthews           15 
+Peter Thompson                11 Phillip Price             21 
+Phil Robinson                 21 Shaun Picken              18 
+Marcus Grundy                 16 Michael Dunn              21 
+Neil Madden                   21 Thomas Hook               19 
+Nigel Graham                   3 Steve Griffiths           21 
+                     Points:   8                  Points:   4 
+                  Aggregate: 172               Aggregate: 169 
+
+  Webster's Trophy Division 2            Wed 25th Jun         
+          Outlane BC A                 Elland C & BC A        
+Malcolm Dibb                  19 Abby Burke                21 
+Ben Fisher                    15 Stephen Kenworthy         21 
+David Frost                   21 David Greenwood           11 
+Richard Hartley               17 Harry Talbot              21 
+Barry Hawksworth              21 Sam Oldfield              10 
+Leslye Lowther                16 Stuart Rodd               21 
+Steven Lowther                21 Andrew Scott              17 
+Chris Jepson                  21 Andy Brewer               20 
+Nigel Mitchell                14 Josh Talbot               21 
+Martyn Skuse                  21 Jeremy Firth              11 
+                     Points:   7                  Points:   5 
+                  Aggregate: 186               Aggregate: 174 
+
+  Webster's Trophy Division 2            Wed 25th Jun         
+        Ripponden Park A                 Hove Edge A          
+Tom Robertshaw                21 Richard Hopley             7 
+Simon Robinson                21 Stephen Rothwell           9 
+Michael Robertshaw            14 Richard Sugden            21 
+Andy Freer                     7 Tom Gasson                21 
+Fred Rothwell                 21 Chloe Hirst               18 
+Andrew Gee                    21 Frank Higgins              4 
+David Culpan                  21 Anthony James              8 
+Paul Holden                   21 Peter Barstow             15 
+Mick Walker                   18 Julie Best                21 
+Nick Blackburn                18 Nigel Firth               21 
+                     Points:   8                  Points:   4 
+                  Aggregate: 183               Aggregate: 145 
+
+  Webster's Trophy Division 2            Wed 25th Jun         
+        Hipperholme BC A                 Elland WMC B         
+Paul Barnes                   13 Clive Harte               21 
+Robin Sugden                  21 Bob Newham                13 
+Steve Swallow                 21 Stuart Carroll            13 
+Neil Greenwood                17 Les Holmes                21 
+Rob Sandie                     4 Nick Lowe                 21 
+Nigel Parker                  21 Alan Broad                17 
+Ian Ryding                    16 Philip Binns              21 
+Nigel Broadbent               21 Ian Archibald             14 
+Dave Mount                    21 Paul Demetriades          12 
+Tom Roper                     19 Melvyn Dunne              21 
+                     Points:   6                  Points:   6 
+                  Aggregate: 174               Aggregate: 174 
+
+  Webster's Trophy Division 2            Wed 25th Jun         
+          Halifax BC A                Kingston Social B       
+Alan Cowburn                   6 Paul Obrien               21 
+Peter Grant                   21 Martyn Simms              14 
+Keith Hanson                  15 Philip Stone              21 
+Stephen Holmes                21 Chris Walton              16 
+Peter Krenc                   13 John Dunne                21 
+Danny Leather                 21 Terry Horsfall             4 
+Eric McGinnis                 21 John Stewart               7 
+Sheridan Paterson             21 Pasqual Cestrone          11 
+Gary Robinson                 21 Martin Pilkington         20 
+David Russell                 21 Christine Midgley          4 
+                     Points:   9                  Points:   3 
+                  Aggregate: 181               Aggregate: 139 
+
+  Webster's Trophy Division 2            Wed 25th Jun         
+           West End A                Luddenden Foot BC B      
+Martin Murphy                 21 Chris Mitchell            13 
+Shane Greaves                 15 John Halliday             21 
+John Hamer                    15 Craig Elwin               21 
+Ian Crossland                 21 Nikki Conway              13 
+Craig Ogilvie                 21 Barrie Farrar             15 
+Simon George                   5 Gavin Brumby              21 
+David Ainley                  21 Thomas Bridges            11 
+Simon Gill                    12 John Butterworth          21 
+David Blackburn               21 Philip Swain               3 
+Ivan Taylor                   17 Stephen Bridges           21 
+                     Points:   7                  Points:   5 
+                  Aggregate: 169               Aggregate: 160 
+
+  Wilkinson Trophy Division 3            Wed 25th Jun         
+          King Cross A                   Outlane BC B         
+Alwyn Guide                   21 Paul Haythornthwaite      10 
+Emlyn Craven                  21 Andrew Tanner             11 
+Julian Boddy                  21 Andy Harris               20 
+John Ashton                   21 Jackie Jepson             14 
+Ali Asghar                    21 Wayne Hudson              15 
+Kieth Noble                    7 Peter Haythornthwaite     21 
+Josh Craven                   21 Rob Sowerby               17 
+Peter Stead                   21 Brian Maxwell             12 
+Paul Gray                     21 Mathew Chapman            11 
+Howard Owen                   18 Steve Shickell            21 
+                     Points:  10                  Points:   2 
+                  Aggregate: 193               Aggregate: 152 
+
+  Wilkinson Trophy Division 3            Wed 25th Jun         
+        Mytholmroyd BC B             Akroydon Victoria B      
+Gary Peel                     21 Corey Fountain            15 
+Ann Greenwood                 21 Chris Wilmot              14 
+George Whittaker               9 Philip Keast              21 
+Stuart Gill                   14 Michael Uttley            21 
+Joan Collins                  21 Chris Meade Jnr            2 
+Andy Cole                     13 Graham Halliday           21 
+Rodney Lowe                   21 Michael Jagger            14 
+Laurie Dyer                   21 Terry Keast                3 
+David Greenwood               21 Tony Wolke                 7 
+Darren Metcalfe               19 Martin Moana              21 
+                     Points:   8                  Points:   4 
+                  Aggregate: 181               Aggregate: 139 
+
+  Wilkinson Trophy Division 3            Wed 25th Jun         
+        Bradshaw Park A                 Greenroyd BC A        
+David McFarland               18 Jasmine White             21 
+Stuart Smith                  21 Vaughan Murgatroyd        12 
+Mark Horsfall                 21 Brian Reynolds            12 
+Colin Hall                    19 John Ingham               21 
+Chris Major                   19 Stephen Baldwin           21 
+David Avery                   21 Steve Trow                 8 
+John Fish                     20 Peter Hanson              21 
+Kyle Jones                     7 Stephen Fearnley          21 
+Peter Craigie                 21 Paul Reynolds              7 
+Richard Spivey                16 Andrew Crabtree           21 
+                     Points:   6                  Points:   6 
+                  Aggregate: 183               Aggregate: 165 
+
+  Wilkinson Trophy Division 3            Wed 25th Jun         
+         Siddal Park B                   Allan Park A         
+Zac Hickey                    21 Roger Grace                5 
+Callum Pilling                21 Marcus Rules-Hazard       16 
+Wayne Mitton                  21 Hannah Jowett             20 
+Adam Payne                    21 Tony Szoke                 3 
+Cathy Ness                    21 Katie Grogan               2 
+Natalie Riley                 13 Gary O Leary              21 
+Bev Clayton                   21 Colin Beard (a)           17 
+Michael J Greenwood           21 Tom Fowler                19 
+Andrew Orme                   21 Martin Grace              17 
+Andrew Bruce                  17 Joanne Jowett             21 
+                     Points:  10                  Points:   2 
+                  Aggregate: 198               Aggregate: 141 
+
+  Wilkinson Trophy Division 3            Wed 25th Jun         
+         Greetland BC B               Sowerby T and BC A      
+Colin Pidgeon                 21 Glenda Hartley             8 
+Jordon Brown                  21 Heather Parker            12 
+George Simpson                21 Philip Eastwood            5 
+Adrian Robertshaw              7 Michael Wood              21 
+Gary Hinchliffe               13 Helen Harrison            21 
+Chris Crawshaw                21 Peter Lomax                8 
+Peter Walker                  21 Renata Eyres              12 
+Peter Webb                    21 Edward Eyres              15 
+Simon Mackrill                14 Keith Hartley             21 
+Michael Boylan                 5 Pamela Wood               21 
+                     Points:   8                  Points:   4 
+                  Aggregate: 165               Aggregate: 144 
+
+Malcolm Edmondson Div4 8 Person          Wed 25th Jun         
+            Savile A                      West End B          
+Peter Jackson                 21 Gareth Webster            17 
+Steve Trewartha               21 Stephen Holroyd           13 
+John Simpson                  21 Stephen Duke               8 
+Darren Earnshaw               21 John Poweli               15 
+Peter Smith                   13 Neil Fielden              21 
+Godfrey Higginbotham          21 Gary Roe                   7 
+Steve Morris                  21 Jason Spence              11 
+David Whitehouse              21 Adam Schofield            17 
+                     Points:   9                  Points:   1 
+                  Aggregate: 160               Aggregate: 109 
+
+Malcolm Edmondson Div4 8 Person          Wed 25th Jun         
+        Pellon Social B                  Hill Crest B         
+John Clark                    21 Graham Habbershaw         13 
+Chris Clark                    8 Robert Woodhead           21 
+Martin Alders                 13 Andy Parker               21 
+Paul Firth                     9 Simon Buxton              21 
+Lynne Greenwood               17 Pamela Woodhead           21 
+Peter Greenwood               19 Mark Cartwright           21 
+David Gowing                  21 Gary Jackson              20 
+Peter Steele                  17 Aaron Bottomley           21 
+                     Points:   2                  Points:   8 
+                  Aggregate: 125               Aggregate: 159 
+
+Malcolm Edmondson Div4 8 Person          Wed 25th Jun         
+        Stainland Park B                 King Cross B         
+Julie Sykes                   21 Julie King                14 
+Maria Palmer Hoyes            16 Stuart Alderson           21 
+Jessica Sykes                  7 Steven Clifford           21 
+Peter Morgan                   7 Amy Barron                21 
+Julian Bull                   20 Joe Gibbons               21 
+Janet Campbell                 9 Graham Briggs             21 
+Holly Sykes                   21 Graham Dewhirst            7 
+Trevor Wilcock                16 Daniel Barron             21 
+                     Points:   2                  Points:   8 
+                  Aggregate: 117               Aggregate: 147 
+
+Malcolm Edmondson Div4 8 Person          Wed 25th Jun         
+         Elland C& BC B                Hipperholme BC B       
+John Naylor                   18 Beth Healey               21 
+Hilary Brady                  15 Chris Peever              21 
+Anita Naylor                  21 Sue Denham                14 
+Denise Crossley               21 John Donovan              14 
+Graham Kryworucska            11 Kate Palmer               21 
+Matty Holden                  21 Alan Jacques              15 
+Geoffrey Firth                21 Luke Britton              11 
+Izzy Burke                    19 Steve Rooks               21 
+                     Points:   6                  Points:   4 
+                  Aggregate: 147               Aggregate: 138 
+
+Malcolm Edmondson Div4 8 Person          Wed 25th Jun         
+          Hove Edge B                     Oxenhope A          
+Martyn Halliday               21 Sandra Pickles             6 
+Janet Carney                   9 Richard Hemsley           21 
+Jimmy Procter                 14 Charlie Heaton            21 
+Kevin Longbottom              21 Rob Harvie                 9 
+Neil Mount                    21 Stephen Heaton            19 
+Steve Mycroft                 21 Mary Hemsley              11 
+Steven Bloomer                 2 Peter Ousey               21 
+Val Mycroft                   21 David Milnes              18 
+                     Points:   7                  Points:   3 
+                  Aggregate: 130               Aggregate: 126 
+
+    Cockroft Cup Division 1              Thu 26th Jun         
+         Greetland BC A               Clayton Victoria A      
+Tony Dubaj                    21 Malcolm Fowler             8 
+Clive Foord                   21 Chris Wilson              12 
+Gordon Bradford               21 Jack Summers              13 
+Andrew Balmforth              21 Andrew Heenan             14 
+Peter Lea                     21 Paul Gill                 18 
+Ken Fleming                   21 Philip Lister             18 
+Nick Oddy                     14 Andy Southwell            21 
+Robert Morgan                 17 Joe Bray                  21 
+Barry Sugden                  17 Myles Summers             21 
+Russell Broadbent             20 David Scott               21 
+                     Points:   8                  Points:   4 
+                  Aggregate: 194               Aggregate: 167 
 
 

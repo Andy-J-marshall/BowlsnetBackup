@@ -1,4 +1,4 @@
-=== Huddersfield Vets (6-Man) 2025 (as of Sun 22nd Jun)
+=== Huddersfield Vets (6-Man) 2025 (as of Sun 29th Jun)
 === League Match Cards
 
        Division 1                  Mon 7th Apr            
@@ -2316,5 +2316,70 @@ Bob Bates             14 Kenneth Taylor                21
 Robert Booth             Ian Rank                         
              Points:   2                      Points:   5 
           Aggregate:  87                   Aggregate:  89 
+
+       Division 4                  Mon 23rd Jun           
+     Thongsbridge C               Marsh United B          
+Alan Helm             20 Tony Smith                    21 
+Bob Bates              9 Dave Sutcliffe                21 
+Jeffrey Oldroyd       21 David Holmes                  16 
+David Ashwell         16 Sandy Guthrie                 21 
+David Birch           20 Dave Howard                   21 
+Richard Hazelden         Steve Sykes                      
+             Points:   1                      Points:   6 
+          Aggregate:  86                   Aggregate: 100 
+
+       Qtr-Finals                  Mon 23rd Jun           
+                               On Primrose Hill Lib       
+     Lindley Lib A                Clayton West A          
+Bob Booth             14 Stuart Simmonds               21 
+Bill Beattie             Stuart England                   
+Peter Smith           21 S Greaves                     14 
+Richard Kaye             J Waltham                        
+Gary Moorhouse        20 D Hallas                      21 
+Michael Ward             M Sellers                        
+           Handicap:  +4                    Handicap:  +3 
+          Aggregate:  59                   Aggregate:  59 
+              Games:   1                       Games:   2 
+
+       Qtr-Finals                  Mon 23rd Jun           
+                                  On Slaithwaite          
+     Marsh United A                 Broad Oak             
+Geoff Chadwick        11 Carl Taylor                   21 
+Dennis James             Andy Crowther                    
+Trevor Sykes          16 Russ Auty                     21 
+Ken Roys                 Malcolm Burn                     
+*No Player*            0 Paul Rushworth                21 
+----------               Carl Livesey                     
+           Handicap:  -3                    Handicap:  +7 
+          Aggregate:  24                   Aggregate:  70 
+              Games:   0                       Games:   3 
+   Result Overridden          Marsh Utd Hcap adj -3       
+
+       Qtr-Finals                  Mon 23rd Jun           
+                                   On Holmfirth           
+       Shepley A                 Greenhead Park B         
+Stuart Pears          21 John Richards                 16 
+Norman Raper             David Morton                     
+Geoff Ryder           18 David Hunter                  21 
+Michael Hirst            Chris Wightman                   
+Howard Crowther       21 David Craddock                 2 
+Nick Johnston            Nathan Gill                      
+           Handicap: Scr                    Handicap: +16 
+          Aggregate:  60                   Aggregate:  55 
+              Games:   2                       Games:   1 
+
+       Qtr-Finals                  Mon 23rd Jun           
+                                On Almondbury Lib         
+     Thongsbridge A                Golcar C&BC            
+Robert Schofield      21 David Ruscoe                  16 
+Peter Jackson            Stephen Hirst                    
+Jim Sykes             21 Graham Parr                    6 
+David Eastwood           Graham Sykes                     
+John Yalden           16 Tony Lockwood                 21 
+Robert Barlow            Mick Chapman                     
+           Handicap:  +1                    Handicap:  -1 
+          Aggregate:  59                   Aggregate:  42 
+              Games:   2                       Games:   1 
+   Result Overridden            Adjusts both sides        
 
 

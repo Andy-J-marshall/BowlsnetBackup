@@ -1,4 +1,4 @@
-=== Skipton (Merit) 2025 (as of Sun 22nd Jun)
+=== Skipton (Merit) 2025 (as of Sun 29th Jun)
 === League Match Cards
 
    Clarkson Cup Prelim            Tue 8th Apr        
@@ -32,16 +32,16 @@ Rob Morgan              15 Arthur Woolacott       21
    Clarkson Cup Prelim            Tue 8th Apr        
                                On Lund Park Top      
       Sutton Park C               Crosshils B        
-David Alexander          8 Russell Newton         21 
-Sue Alexander           21 *A.N.Other*            17 
-Will Bestwick           21 *A.N.Other*            15 
-Roger Hopkins           14 Mike Binns             21 
-Richard Naylor           8 Paul Kaye              21 
-David Hunt               8 Colin Morris           21 
-Ron Walton              14 Derek Chapman          21 
-David Jefferson         14 Matthew Barraclough    21 
+David Alexander          3 Matthew Barraclough    21 
+Sue Alexander           21 Phillip Hudson         19 
+Will Bestwick            8 Paul Kaye              21 
+Roger Hopkins           17 Mike Binns             21 
+Richard Naylor          13 Russell Newton         21 
+David Hunt               7 Colin Morris           21 
+Ron Walton              15 Derek Chapman          21 
+David Jefferson         18 *A.N.Other*            21 
             Handicap: +100            Handicap:  +70 
-           Aggregate:  208           Aggregate:  228 
+           Aggregate:  202           Aggregate:  236 
 
    Clarkson Cup Prelim            Tue 8th Apr        
                                 On Colne Legion      
@@ -119,7 +119,7 @@ Philip Rowley           21 Colin Edwards           7
 David Craig             21 Michael Henson         11 
 Geoff Monkhouse         17 Janice Dibb            21 
 Nigel Green             21 Jean Staniforth        17 
-S Hounslow              21 Martin Bailey          20 
+Steve Hounslow          21 Martin Bailey          20 
 Keith Buchanan          13 Helen Gatenby          21 
 M Holt                  18 Alex Watson            21 
 Ryan Atkins             21 Paul Jacques           18 
@@ -192,7 +192,7 @@ Cliff Taylor             7 Glyn Shuttleworth      21
 Richard Baker           14 Claire Russell         21 
 Gary Hodge              18 Steve Clamp            21 
 Graham Perry            18 Aaron Harrison         21 
-Denis Henderson          9 John Whitaker          21 
+Dennis Henderson         9 John Whitaker          21 
                Games:    1               Games:    7 
            Aggregate:  119           Aggregate:  167 
               Points:    1              Points:    9 
@@ -285,7 +285,7 @@ Walker Foster Merit Div 3        Thu 10th Apr
       Trawden Forest              Gargrave B         
 Ryan Atkins             19 Malcolm Bishop         21 
 David Craig             15 Keith Moore            21 
-S Hounslow              15 Archie Lambert         21 
+Steve Hounslow          15 Archie Lambert         21 
 Nigel Green             21 Andy Sylvester         11 
 Geoff Monkhouse         21 Giles Winterton         9 
 David Graham            21 Martyn Foulds           5 
@@ -414,7 +414,7 @@ Les Foster              21 Cliff Taylor           12
 Steve Birch             18 Richard Perry          21 
 Nick Squires            21 Kevin Burnett          12 
 Peter Bailey            21 Gary Hodge             19 
-Peter Clark             21 Denis Henderson        12 
+Peter Clark             21 Dennis Henderson       12 
 Steve Senior            10 Richard Baker          21 
 David Ryding            21 Graham Perry           16 
                Games:    6               Games:    2 
@@ -693,7 +693,7 @@ Richard Perry           21 Andrew Welch           15
 Graham Perry            21 David Fairless         15 
 Cliff Taylor            21 Chris Wilson            8 
 Gary Bailey             21 Stephen Griffiths      13 
-Denis Henderson         20 Des Kearney            21 
+Dennis Henderson        20 Des Kearney            21 
 Gary Hodge              15 Michael Dunn           21 
 Kevin Burnett           21 Colin Edwards           5 
 Richard Baker           14 John Callanan          21 
@@ -801,7 +801,7 @@ Sara McHale             10 Malcolm Bishop         21
 
 Walker Foster Merit Div 3        Thu 24th Apr        
          Craven B               Trawden Forest       
-Sean Kirby              10 S Hounslow             21 
+Sean Kirby              10 Steve Hounslow         21 
 Catherine Leigh         12 Ryan Atkins            21 
 Joanne Ellis            21 David Craig             3 
 Richard Pratt           21 Geoff Monkhouse         3 
@@ -947,7 +947,7 @@ Kevin Burnett           21 Michael Claxton        13
 Graham Perry            21 Peter Haworth          10 
 Richard Perry           19 Gordon Pickles         21 
 Cliff Taylor            21 Graham Mitchell        18 
-Denis Henderson         21 Steve Senior           13 
+Dennis Henderson        21 Steve Senior           13 
 Richard Baker           11 Paul Naylor            21 
 Gary Hodge              21 Steve Birch            19 
             Handicap:  +43            Handicap:  +55 
@@ -1096,7 +1096,7 @@ Aaron Harrison          20 Stephen Lofthouse      21
 Walker Foster Merit Div 1         Thu 8th May        
        Crosshills A               Whinfield A        
 Bryan Harrison          21 Graham Perry           10 
-Keiran Bannister        21 Denis Henderson         8 
+Keiran Bannister        21 Dennis Henderson        8 
 Ben Titorenko           21 Kevin Burnett          10 
 Robbie Ellis            21 Gary Bailey             4 
 Anthony Walsh           21 Richard Baker          14 
@@ -1236,7 +1236,7 @@ Malcolm Bishop          16 Alan Pickering         21
 Walker Foster Merit Div 3         Thu 8th May        
       Trawden Forest             Crosshills B        
 Nigel Green             14 Paul Kaye              21 
-S Hounslow              21 Matthew Barraclough    10 
+Steve Hounslow          21 Matthew Barraclough    10 
 David Craig             21 Terry Greenwood        13 
 E Holmes                 9 Sandra Eastell         21 
 Noreen Graham           21 Derek Chapman          13 
@@ -1379,7 +1379,7 @@ Cliff Taylor            21 Alan Barber            19
 Gary Bailey             18 Peter Hepworth         21 
 Graham Perry            19 Jason Jennings         21 
 Philip Dunderdale       21 Anthony Emmott          7 
-Denis Henderson         21 Kevin Mackie           18 
+Dennis Henderson        21 Kevin Mackie           18 
 Gary Hodge              10 David Cadwallader      21 
 Kevin Burnett           21 Craig Smith             9 
 Chris Ettenfield        21 Guy Greene             20 
@@ -1816,7 +1816,7 @@ Helen Waters            11 Gordon Staniforth      21
 Geoff Monkhouse         21 Paul Sincock           10 
 Nigel Green             21 Mick Mitchell           9 
 J Pilling               10 Peter Bendall          21 
-S Hounslow              21 Alex Watson            10 
+Steve Hounslow          21 Alex Watson            10 
                Games:    5               Games:    3 
            Aggregate:  145           Aggregate:  113 
               Points:    7              Points:    3 
@@ -1910,7 +1910,7 @@ Andrew Breare           21 Paul Drinkall          14
        Lund Park B              Trawden Forest       
 Muriel Baker            10 David Craig            21 
 Liz Bland               21 Ryan Atkins            17 
-Barbara Rowen            7 S Hounslow             21 
+Barbara Rowen            7 Steve Hounslow         21 
 Stuart Hall             13 Geoff Monkhouse        21 
 Sue Gaines               4 David Graham           21 
 *A.N.Other*              6 Nigel Green            21 
@@ -1982,7 +1982,7 @@ Paul Kaye               21 Richard Perry          14
 Sandra Eastell           6 Graham Perry           21 
 Derek Chapman           19 Kevin Burnett          21 
 Matthew Barraclough     11 Cliff Taylor           21 
-Terry Greenwood          6 Denis Henderson        21 
+Terry Greenwood          6 Dennis Henderson       21 
 Russell Newton          12 Gary Hodge             21 
 J Hardisty              21 Gary Bailey            20 
 Rob Garth               21 Richard Baker          15 
@@ -2191,7 +2191,7 @@ Richard Perry            5 Mick Gadd              21
 Philip Chadwick          6 Ian Dewhirst           21 
 Kevin Burnett           21 Sharon Gadd            16 
 Cliff Taylor             9 Rob Scarr              21 
-Denis Henderson         21 Jim Calvert            16 
+Dennis Henderson        21 Jim Calvert            16 
 Gary Bailey             21 Alister Keighley        1 
 Richard Baker           13 Wayne Lee              21 
 Gary Hodge              11 Grahame Sharp          21 
@@ -2302,7 +2302,7 @@ Walker Foster Merit Div 3         Thu 5th Jun
 Steve O'Brien            5 Ryan Atkins            21 
 Peter Peacock           21 David Craig            18 
 David Radcliffe         21 Nigel Green            18 
-Roger Hopkins           13 S Hounslow             21 
+Roger Hopkins           13 Steve Hounslow         21 
 Tony Walton             21 S Green                 3 
 Will Bestwick           21 Geoff Monkhouse        11 
 Alan Minney             18 David Graham           21 
@@ -2431,7 +2431,7 @@ Kevin Burnett           21 Richard Lord            9
 Cliff Taylor            21 Bryan Lord             12 
 Chris Ettenfield        21 Rob McLernon           16 
 Gary Hodge              21 Keith Moore            17 
-Denis Henderson         21 Chris Smales           20 
+Dennis Henderson        21 Chris Smales           20 
 Richard Baker           18 Mick Higson            21 
                Games:    7               Games:    1 
            Aggregate:  165           Aggregate:  109 
@@ -2540,7 +2540,7 @@ Walker Foster Merit Div 3        Thu 12th Jun
 E Holmes                21 Phillip Boocock        14 
 Len Robinson            11 Ros Storey             21 
 Nigel Green             21 Amanda Driver          10 
-S Hounslow              21 Tony Finn               8 
+Steve Hounslow          21 Tony Finn               8 
 Ryan Atkins             21 Debbie Sargent         17 
 Geoff Monkhouse         16 June Whitaker          21 
 David Craig             21 Jefffey Driver          6 
@@ -2681,7 +2681,7 @@ Martyn Benson           21 Gary Bailey            12
 Mary Hemsley             5 Cliff Taylor           21 
 Trevor Douglas          14 Kevin Burnett          21 
 Debbie Hosty            21 Richard Perry          20 
-David Kirkbright        21 Denis Henderson        10 
+David Kirkbright        21 Dennis Henderson       10 
 Debbie Kirkbright       21 Richard Baker          14 
 Sue Cook                10 Gary Hodge             21 
 Derek Pollard           21 Graham Perry           20 
@@ -2793,7 +2793,7 @@ Vince Wright            13 David Craig            21
 Tommy Johnson           17 Ryan Atkins            21 
 Kath Whitaker           21 Nigel Green             6 
 Henry Ryder             21 Geoff Monkhouse        13 
-Bev Guffick             14 S Hounslow             21 
+Bev Guffick             14 Steve Hounslow         21 
 Stuart Miller           21 E Holmes               12 
 Peter O'Neill           12 David Graham           21 
 Tony Fairclough         21 Mick Gee               15 
@@ -2842,5 +2842,145 @@ Neil Howlett            21 Lee Procter            14
                Games:    5               Games:    3 
            Aggregate:  149           Aggregate:  137 
               Points:    7              Points:    3 
+
+Walker Foster Merit Div 4        Wed 25th Jun        
+       Crosshills C                Craven C          
+Colin Morris            20 Catherine Leigh        21 
+Richard Lewis           21 Andrew Noller          14 
+Carol Wellwood          21 Stuart Cracknell       19 
+Bob Wellwood            21 Doug Scriven            8 
+Mick Riddiough          21 Harry Spriggs          15 
+Peter Ashmore           21 Elliott Moore           9 
+Harold Taylor            4 Joshua Titorenko       21 
+Robert Savage           21 David Watson           10 
+               Games:    6               Games:    2 
+           Aggregate:  150           Aggregate:  117 
+              Points:    8              Points:    2 
+
+Walker Foster Merit Div 4        Thu 26th Jun        
+       Lund Park B                 Craven C          
+Liz Bland               11 Leanne Akrigg          21 
+Martin Cleasby          13 Stuart Cracknell       21 
+Muriel Baker            14 Elliott Moore          21 
+Sue Gaines              21 David Watson           19 
+Dave Idle               20 Richard Pratt          21 
+Barbara Rowen           12 Harry Spriggs          21 
+Michael Rhodes          21 Joshua Titorenko       14 
+Caroline Rhodes         20 Andrew Noller          21 
+               Games:    2               Games:    6 
+           Aggregate:  132           Aggregate:  159 
+              Points:    2              Points:    8 
+
+        Qtr-Finals               Thu 26th Jun        
+                               On Lund Park Top      
+        Keighley A               Crosshills C        
+Trevor Hargreaves       21 Mick Taylor             4 
+Jeff Bradley            21 Phillip Hudson         11 
+Joshua McHale           21 Brian Riddiough        11 
+Nigel Hall              21 Michael Gallagher      12 
+Peter Wormald           21 Carol Wellwood         14 
+Paul McHale             21 Robert Savage          17 
+John Toothill           21 Mike Binns             17 
+George Hutson           12 Trevor Johnson         21 
+            Handicap:  +60            Handicap: +105 
+           Aggregate:  219           Aggregate:  212 
+
+        Qtr-Finals               Thu 26th Jun        
+                                 On Foulridge        
+         Craven A               Trawden Forest       
+Jim Akrigg              21 David Craig            20 
+David Jubb              19 Ryan Atkins            21 
+Mick Demain             19 Nigel Green            21 
+Warren Burnett Jnr      10 Steve Hounslow         21 
+Viv Abell               21 E Holmes               19 
+Wayne Smithies          21 Keith Buchanan          9 
+Alan Pickering           6 Len Robinson           21 
+Andrew Breare           21 Mick Gee               10 
+            Handicap:  +55            Handicap:  +70 
+           Aggregate:  193           Aggregate:  212 
+
+        Qtr-Finals               Thu 26th Jun        
+                                  On Gargrave        
+      Colne Legion A             Silsden PF A        
+Dean Emmott             21 Chris Wilson           12 
+Matthew Harrison        21 Stephen Griffiths      13 
+Mike Bysouth            21 John Callanan          17 
+Alan Handford           19 David Fairless         21 
+David Hitchcox          21 Des Kearney            14 
+Ian Gardiner             8 Andrew Welch           21 
+Kieron Handford         14 Michael Dunn           21 
+David H Hough           21 Paul Spencer           20 
+            Handicap:  +55            Handicap:  +50 
+           Aggregate:  201           Aggregate:  189 
+
+        Qtr-Finals               Thu 26th Jun        
+                                  On Keighley        
+       Devonshire B              Devonshire A        
+Gordon Pickles          12 Les Foster             21 
+Jonathan Barrett        21 Nigel Breadley         14 
+Michael Claxton          3 Nick Squires           21 
+Andy Cook                3 Peter Clark            21 
+Graham Mitchell          2 David Ryding           21 
+Steve Senior            13 Stephen Lofthouse      21 
+Paul Naylor              8 Daniel Moore           21 
+Peter Haworth           21 Ian Hargreaves         20 
+            Handicap:  +55            Handicap:   +4 
+           Aggregate:  138           Aggregate:  164 
+
+       Clarkson Cup              Thu 26th Jun        
+                                 On Addingham        
+       Whinfield A             Alkincoates PW A      
+Richard Perry           14 Dean Brown             21 
+Cliff Taylor            11 John Whitaker          21 
+Kevin Burnett            7 Josh Mordue            21 
+Gary Bailey             21 Claire Russell         10 
+Graham Perry            19 Sarah Edmondson        21 
+Dennis Henderson         6 Glyn Shuttleworth      21 
+Gary Hodge               6 Daryl Wright           21 
+Philip Chadwick          7 Steve Clamp            21 
+            Handicap:  +43            Handicap:  Scr 
+           Aggregate:  134           Aggregate:  157 
+
+       Clarkson Cup              Thu 26th Jun        
+                                  On Cononley        
+         Rolls A                 Sutton Park A       
+John Crotty              9 Craig Smith            21 
+Neil Whitaker           21 David Cadwallader      15 
+Joe Reger               21 Jason Jennings         15 
+David Curran            11 Peter Hepworth         21 
+Jenny Whitaker          14 Kevin Mackie           21 
+Brent Taylforth         11 Guy Greene             21 
+Andy Duckworth          21 Tony Walton            10 
+Alec Hutchinson         14 Will Bestwick          21 
+            Handicap:  +52            Handicap:  +20 
+           Aggregate:  174           Aggregate:  165 
+
+       Clarkson Cup              Thu 26th Jun        
+                                On Sutton Park       
+       Crosshills A                Oxenhope          
+Ryan Tiler              21 Derek Pollard           5 
+Danny Barker            21 Sue Cook               12 
+Ben Titorenko           21 Stephen Peers          16 
+Robbie Ellis            21 Debbie Kirkbright       6 
+David Scott             21 David Kirkbright        8 
+Keiran Bannister        21 Martyn Benson           7 
+Rob Garth               21 Debbie Hosty           15 
+Anthony Walsh            9 Richard Hemsley        21 
+            Handicap:   -4            Handicap:  +55 
+           Aggregate:  152           Aggregate:  145 
+
+       Clarkson Cup              Thu 26th Jun        
+                               On Broughton Road     
+      Colne Legion B              Cononley A         
+Michael Binks            1 Ian Dewhirst           21 
+John Barry               5 Mick Gadd              21 
+Terry Lane              21 Matt Carter            16 
+Geoffrey Ellis           6 Wayne Lee              21 
+Stuart Hurlstone         6 Sharon Gadd            21 
+Sarah Omerod            11 David Brown            21 
+Stuart Smith            21 Grahame Sharp          15 
+Barry Russell           13 Tony Finn              21 
+            Handicap:  +70            Handicap:   +7 
+           Aggregate:  154           Aggregate:  164 
 
 
