@@ -1,4 +1,4 @@
-=== Skipton (Merit) 2025 (as of Sun 29th Jun)
+=== Skipton (Merit) 2025 (as of Sun 6th Jul)
 === League Match Cards
 
    Clarkson Cup Prelim            Tue 8th Apr        
@@ -289,7 +289,7 @@ Steve Hounslow          15 Archie Lambert         21
 Nigel Green             21 Andy Sylvester         11 
 Geoff Monkhouse         21 Giles Winterton         9 
 David Graham            21 Martyn Foulds           5 
-*A.N.Other*             21 *A.N.Other*            16 
+E Holmes                21 Mick Cox               16 
 Keith Buchanan          21 Bryan Lord              9 
                Games:    5               Games:    3 
            Aggregate:  154           Aggregate:  113 
@@ -1191,6 +1191,20 @@ John Toothill           21 Barry Russell          16
            Aggregate:  133           Aggregate:  132 
               Points:    7              Points:    3 
 
+Walker Foster Merit Div 2         Thu 8th May        
+         Rolls B               Broughton Road A      
+*A.N.Other*             20 *A.N.Other*            21 
+*A.N.Other*             20 *A.N.Other*            21 
+*A.N.Other*             20 *A.N.Other*            21 
+*A.N.Other*             20 *A.N.Other*            21 
+*A.N.Other*             20 *A.N.Other*            21 
+*A.N.Other*             21 *A.N.Other*            20 
+*A.N.Other*             21 *A.N.Other*            20 
+*A.N.Other*             21 *A.N.Other*            20 
+               Games:    3               Games:    5 
+           Aggregate:  163           Aggregate:  165 
+              Points:    3              Points:    7 
+
 Walker Foster Merit Div 3         Thu 8th May        
         Cononley B               Sutton Park B       
 Jon Brown               21 Peter Peacock          16 
@@ -1428,6 +1442,20 @@ Hannah Greenwood        10 David H Hough          21
                Games:    0               Games:    8 
            Aggregate:  101           Aggregate:  168 
               Points:    0              Points:   10 
+
+Walker Foster Merit Div 2        Thu 15th May        
+         Rolls B                   Craven A          
+Stephen Naylor          21 Viv Abell              17 
+Brian Livesey           15 Wayne Smithies         21 
+Ian Mason               14 David Jubb             21 
+Maurice Oldfield        21 Andrew Breare          14 
+Alec Hutchinson         21 Sean Kirby              6 
+John Crotty             21 Jim Akrigg             16 
+Les Prenton             12 Peter Shaw             21 
+Kenneth Simmons         21 Warren Burnett Jnr     18 
+               Games:    5               Games:    3 
+           Aggregate:  146           Aggregate:  134 
+              Points:    7              Points:    3 
 
 Walker Foster Merit Div 3        Thu 15th May        
        Addingham A                Gargrave B         
@@ -1722,6 +1750,20 @@ Denis Mackie            21 Andrew Cleminson       13
                Games:    4               Games:    4 
            Aggregate:  152           Aggregate:  149 
               Points:    6              Points:    4 
+
+Walker Foster Merit Div 2        Thu 22nd May        
+      Colne Legion A                Rolls B          
+*A.N.Other*             21 *A.N.Other*            20 
+*A.N.Other*             21 *A.N.Other*            20 
+*A.N.Other*             21 *A.N.Other*            20 
+*A.N.Other*             21 *A.N.Other*            20 
+*A.N.Other*             21 *A.N.Other*            20 
+*A.N.Other*             21 *A.N.Other*            20 
+*A.N.Other*             21 *A.N.Other*            20 
+*A.N.Other*             20 *A.N.Other*            21 
+               Games:    7               Games:    1 
+           Aggregate:  167           Aggregate:  161 
+              Points:    9              Points:    1 
 
 Walker Foster Merit Div 2        Thu 22nd May        
        Devonshire B             Colne Legion B       
@@ -2982,5 +3024,229 @@ Stuart Smith            21 Grahame Sharp          15
 Barry Russell           13 Tony Finn              21 
             Handicap:  +70            Handicap:   +7 
            Aggregate:  154           Aggregate:  164 
+
+Walker Foster Merit Div 4         Wed 2nd Jul        
+      Sutton Park C               Lund Park B        
+David Jefferson         21 Philip Ward            11 
+Sue Alexander           11 Liz Bland              21 
+Dianne O'Brien           8 Sue Gaines             21 
+Valerie Golding         17 Stuart Hall            21 
+Steve O'Brien           16 Barbara Rowen          21 
+David Alexander         21 Martin Cleasby         15 
+David Hunt              14 Dave Idle              21 
+Ron Walton              20 Michael Rhodes         21 
+               Games:    2               Games:    6 
+           Aggregate:  128           Aggregate:  152 
+              Points:    2              Points:    8 
+
+Walker Foster Merit Div 1         Thu 3rd Jul        
+     Alkincoates PW A             Whinfield A        
+Josh Mordue             21 Graham Perry           11 
+Dean Brown              21 Dennis Henderson        5 
+Daryl Wright            21 Cliff Taylor            8 
+Glyn Shuttleworth       21 Gary Bailey             7 
+Sarah Edmondson         20 Philip Chadwick        21 
+John Whitaker           21 Gary Hodge             12 
+Steve Clamp             18 Kevin Burnett          21 
+Aaron Harrison          21 Richard Perry          14 
+               Games:    6               Games:    2 
+           Aggregate:  164           Aggregate:   99 
+              Points:    8              Points:    2 
+
+Walker Foster Merit Div 1         Thu 3rd Jul        
+       Crosshills A                 Rolls A          
+Jamie Cunningham        21 Alec Hutchinson         4 
+David Scott             21 Neil Whitaker           5 
+Danny Barker            21 Colin Maud              7 
+Anthony Walsh           21 Joe Reger               8 
+Ben Titorenko           21 John Crotty             9 
+Keiran Bannister        21 Paul Sharples          12 
+Dave Smith              21 Jenny Whitaker         15 
+Ryan Tiler              21 David Curran           18 
+               Games:    8               Games:    0 
+           Aggregate:  168           Aggregate:   78 
+              Points:   10              Points:    0 
+
+Walker Foster Merit Div 1         Thu 3rd Jul        
+       Devonshire A               Gargrave A         
+Nigel Breadley          21 Rob McLernon            9 
+Daniel Moore            21 Richard Lord           15 
+Ian Hargreaves          18 Mick Cox               21 
+Nick Squires            21 Chris Smales           17 
+Les Foster              21 Andrew Cleminson        8 
+Peter Clark             21 Paul Drinkall           8 
+Stephen Lofthouse       21 Martyn Cox              9 
+David Ryding            21 Cath Rushton           13 
+               Games:    7               Games:    1 
+           Aggregate:  165           Aggregate:  100 
+              Points:    9              Points:    1 
+
+Walker Foster Merit Div 1         Thu 3rd Jul        
+         Oxenhope                 Cononley A         
+David Kirkbright        21 Ian Dewhirst           16 
+Sue Cook                13 Wayne Lee              21 
+Martyn Benson           15 Sharon Gadd            21 
+Debbie Hosty            21 Alister Keighley       11 
+Debbie Kirkbright       14 Matt Carter            21 
+Trevor Douglas          21 Grahame Sharp          18 
+Mary Hemsley            15 Jim Calvert            21 
+Richard Hemsley         17 Mick Gadd              21 
+               Games:    3               Games:    5 
+           Aggregate:  137           Aggregate:  150 
+              Points:    3              Points:    7 
+
+Walker Foster Merit Div 1         Thu 3rd Jul        
+       Silsden PF A              Sutton Park A       
+John Callanan           14 Tony Walton            21 
+Colin Edwards           20 Peter Hepworth         21 
+Derek Metcalfe          21 Guy Greene             14 
+David Fairless          21 Kevin Mackie           15 
+Chris Wilson            21 David Cadwallader      10 
+Andrew Welch            11 Jason Jennings         21 
+Michael Dunn            21 Craig Smith            17 
+Stephen Griffiths       16 Will Bestwick          21 
+               Games:    4               Games:    4 
+           Aggregate:  145           Aggregate:  140 
+              Points:    6              Points:    4 
+
+Walker Foster Merit Div 2         Thu 3rd Jul        
+      Colne Legion A             Devonshire B        
+Ian Gardiner            21 Gordon Pickles         10 
+Alan Handford           21 Jonathan Barrett       20 
+Matthew Harrison        21 Michael Claxton        10 
+Dean Emmott             21 Graham Mitchell        12 
+David Hitchcox          21 Andy Cook              16 
+Mike Bysouth            13 Steve Senior           21 
+Kieron Handford         21 Paul Naylor            10 
+David H Hough           21 Peter Haworth           9 
+               Games:    7               Games:    1 
+           Aggregate:  160           Aggregate:  108 
+              Points:    9              Points:    1 
+
+Walker Foster Merit Div 2         Thu 3rd Jul        
+         Craven A              Broughton Road A      
+David Jubb              21 David Stirk             9 
+Jim Akrigg              11 Sam Cotterill          21 
+Warren Burnett          21 Stephen Clough          2 
+Mick Demain             21 David Precious         10 
+Alan Pickering          21 Darrell Gore           15 
+Viv Abell               21 Brian Gore              1 
+Wayne Smithies          21 Craig Carpenter        17 
+Andrew Breare           10 Tim Bucke              21 
+               Games:    6               Games:    2 
+           Aggregate:  147           Aggregate:   96 
+              Points:    8              Points:    2 
+
+Walker Foster Merit Div 2         Thu 3rd Jul        
+        Keighley A             Alkincoates PW B      
+Thomas Hargreaves       21 John Southworth        19 
+Daniel Hargreaves       11 Pat Avrill             21 
+John Lund               21 Charlie Heaton         20 
+George Hutson           21 Steve Heaton           19 
+Nigel Hall               8 Wayne Ellison          21 
+Brian Dean              21 Joan Riley             16 
+Joshua McHale           21 Dominic Doyle          17 
+John Toothill           21 Stan Reynolds          12 
+               Games:    6               Games:    2 
+           Aggregate:  145           Aggregate:  145 
+              Points:    7              Points:    3 
+
+Walker Foster Merit Div 2         Thu 3rd Jul        
+         Rolls B                   Settle A          
+Stephen Naylor          11 Maurice Biott          21 
+David Carson             9 Roger Woolley          21 
+David Bowker            16 David Gordon           21 
+Kenneth Simmons         21 Chris Lett             17 
+Ian Mason               21 Brett Hopper           11 
+Brian Livesey           21 James Cokell            8 
+Roy Prenton             10 Mick Duke              21 
+Les Prenton              1 David Leeming          21 
+               Games:    3               Games:    5 
+           Aggregate:  110           Aggregate:  141 
+              Points:    3              Points:    7 
+
+Walker Foster Merit Div 3         Thu 3rd Jul        
+       Lund Park A               Crosshills B        
+Kath Whitaker           15 Philip Dowgill         21 
+Vince Wright            17 Terry Greenwood        21 
+Darren Rees             18 Sandra Eastell         21 
+Henry Ryder             13 Paul Kaye              21 
+Stuart Miller           12 Matthew Barraclough    21 
+Bev Guffick             12 Derek Chapman          21 
+Tony Fairclough         17 J Hardisty             21 
+Peter O'Neill           11 Rob Garth              21 
+               Games:    0               Games:    8 
+           Aggregate:  115           Aggregate:  168 
+              Points:    0              Points:   10 
+
+Walker Foster Merit Div 3         Thu 3rd Jul        
+        Gargrave B              Trawden Forest       
+Peter Akers             21 Len Robinson           15 
+Mick Higson             21 Nigel Green            13 
+Hugh Mardall            20 David Craig            21 
+Bryan Lord              21 Noreen Graham          17 
+Malcolm Bishop          12 E Holmes               21 
+Keith Moore             10 Steve Hounslow         21 
+Robin Sands             17 David Graham           21 
+Martyn Foulds           21 Mick Gee                8 
+               Games:    4               Games:    4 
+           Aggregate:  143           Aggregate:  137 
+              Points:    6              Points:    4 
+
+Walker Foster Merit Div 3         Thu 3rd Jul        
+       Whinfield B                 Craven B          
+Helen Taylor            21 Catherine Leigh        10 
+Pip Chadwick            21 Stuart Cracknell        6 
+Derek Squires           21 Leanne Akrigg          13 
+Philip Dunderdale       21 Doug Scriven            2 
+Idris Wade              21 Mel Titorenko          19 
+Liam Gatenby            19 Richard Pratt          21 
+Chris Ettenfield        21 Philip Rowley           4 
+Ian McDade              21 Darren Shaw            10 
+               Games:    7               Games:    1 
+           Aggregate:  166           Aggregate:   85 
+              Points:    9              Points:    1 
+
+Walker Foster Merit Div 3         Thu 3rd Jul        
+      Sutton Park B               Addingham A        
+Eric Brook              21 Michael Henson         19 
+Shaun Birch             21 Jean Staniforth         8 
+Terry Birch             21 Janice Dibb            15 
+Peter Peacock           12 Mick Mitchell          21 
+Alan Minney             21 Paul Jacques           16 
+Roger Hopkins           21 Gordon Staniforth      20 
+Kevin Denham            17 Alex Watson            21 
+David Radcliffe         13 Martin Bailey          21 
+               Games:    5               Games:    3 
+           Aggregate:  147           Aggregate:  141 
+              Points:    7              Points:    3 
+
+Walker Foster Merit Div 4         Thu 3rd Jul        
+       Addingham B                Whinfield C        
+Steve Coleman            2 Rosemary Bootland      21 
+David Marsden            5 Freda Lester           21 
+Margaret Ginty          12 Ann Heyworth           21 
+Jacqui Collier           7 Greg Mortimer          21 
+John Ford               15 Tim Jones              21 
+Ken Edgar               13 Carol Hayhurst         21 
+Joe Ginty               10 John Taylor            21 
+Martin Brunger          13 Lee Procter            21 
+               Games:    0               Games:    8 
+           Aggregate:   77           Aggregate:  168 
+              Points:    0              Points:   10 
+
+Walker Foster Merit Div 4         Thu 3rd Jul        
+        Steeton A                  Steeton B         
+Wendy Ward              21 Billy Westfall         15 
+Nona Scott              21 Glynn Bottomley        14 
+Linda Hudson            21 Martin Rishton         17 
+Jack Carter-Rawnsley    21 Cheryl Golding         16 
+James Broadbent         21 Janet Green            16 
+Kevin Scott             21 Jackie Rishton         10 
+Alden Phillips          21 Mark Westfall           4 
+Neil Howlett            21 Ann Coward             16 
+               Games:    8               Games:    0 
+           Aggregate:  168           Aggregate:  108 
+              Points:   10              Points:    0 
 
 

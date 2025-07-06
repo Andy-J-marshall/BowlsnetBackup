@@ -1,4 +1,4 @@
-=== Halifax (Hebden Royd Fri.) 2025 (as of Sun 29th Jun)
+=== Halifax (Hebden Royd Fri.) 2025 (as of Sun 6th Jul)
 === League Match Cards
 
            League                   Fri 25th Apr       
@@ -1023,5 +1023,110 @@ Darrell Halstead           12 Mark Simpson          21
 Ian Tootell                15 Peter Clement         21 
                Aggregate:  49           Aggregate:  84 
                   Points:   8              Points:  20 
+
+           League                   Fri 4th Jul        
+         Division 1                                    
+        Hill Crest A                  Oxenhope         
+Stephen Balmforth          21 *A.N.Other*           14 
+Nicola Simpson             21 Roger Whitaker        15 
+Craig Thomasson            21 David Milnes           9 
+Paul Oldfield              21 Mary Hemsley          10 
+Tim Brumby                 21 Nigel Tyne-Miller      9 
+Stuart Pilling              7 Mick Milnes           21 
+                  Points:  26              Points:  14 
+               Aggregate: 112           Aggregate:  78 
+                   Games:   5               Games:   1 
+
+           League                   Fri 4th Jul        
+         Division 1                                    
+           Savile                 Luddendenfoot A      
+Claire Morrison            17 Dave Stafford         21 
+David Nichol               12 Tom Bridges           21 
+Paul Pitchforth             5 Mark Horner           21 
+Yvonne Sanderson           11 Barry Farrar          21 
+Sam Redfearne               7 Chris Mitchell        21 
+David Whitehouse           16 Kevin Mitchell        21 
+                  Points:  12              Points:  30 
+               Aggregate:  68           Aggregate: 126 
+                   Games:   0               Games:   6 
+
+           League                   Fri 4th Jul        
+         Division 2                                    
+        Cross Roads B                 Sowerby          
+Paul Claughan              17 Alistair Baigent      21 
+John Larner                21 Alan Riddles           9 
+Stuart Wainwright          21 Julia Palmer           9 
+Malcolm Porter             21 Jean Sutton           13 
+Simon Woodvine             19 Denise Anderton       21 
+Justine Wainwright         21 Ken Johnson           10 
+                  Points:  26              Points:  16 
+               Aggregate: 120           Aggregate:  83 
+                   Games:   4               Games:   2 
+
+           League                   Fri 4th Jul        
+         Division 2                                    
+         Heptonstall                 Old Town B        
+Matthew Flannagan          21 Dave Ruse             13 
+David Dunn                 21 Simon Phillips        11 
+Jack Rogers                15 Karl Theobald         21 
+Drew Marsh                 21 Rodger Walsh          12 
+Sarah Mason                21 Tom Sapey              2 
+Luke Sessions              21 Stewert Andrews       18 
+                  Points:  28              Points:  14 
+               Aggregate: 120           Aggregate:  77 
+                   Games:   5               Games:   1 
+
+           League                   Fri 4th Jul        
+         Division 2                                    
+        Cullingworth                Hill Crest B       
+Linda Crawford             21 Carol Harris          10 
+Robert Cooke               17 Craig Charlwood       21 
+Mike Barbour               18 Ella Clisset          21 
+Geoff Battye               21 Michael Holdsworth     4 
+Linda Maloney              21 Daniel Gladock        18 
+Joseph Cookson             10 Ed Tinker             21 
+                  Points:  23              Points:  20 
+               Aggregate: 108           Aggregate:  95 
+                   Games:   3               Games:   3 
+
+    Friday Morning Fours            Fri 4th Jul        
+Friday Morning Fours Group 1       On Hill Crest       
+        Hill Crest 4s               Walsden 4s A       
+Bob Woodhead               21 Keith Rudman          15 
+Ernie Rickman              16 Geoff Crabtree        21 
+Frank Clissitt             21 Andrew Foster         14 
+John Jackson               11 Paul Senior           21 
+               Aggregate:  69           Aggregate:  71 
+                  Points:  15              Points:  15 
+
+    Friday Morning Fours            Fri 4th Jul        
+Friday Morning Fours Group 1       On Hill Crest       
+        Bradshaw 4s A               Oxenhope 4s        
+Colin Hall                 20 Mary Hemsley          21 
+Russell Lockley            21 David Milnes          18 
+Chris Major                21 John Slight           11 
+Kyle Jones                 11 Richard Hargreaves    21 
+               Aggregate:  73           Aggregate:  71 
+                  Points:  16              Points:  15 
+
+    Friday Morning Fours            Fri 4th Jul        
+Friday Morning Fours Group 2        On Bradshaw        
+        Bradshaw 4s B               Elland WM 4s       
+John Furlong                7 David Priestley       21 
+Eric Crowther               6 Peter Clement         21 
+Mervyn Bamford              7 Sandra Lowe           21 
+*No Player*                 0 Nancy Priestley       21 
+               Aggregate:  20           Aggregate:  84 
+                  Points:   3              Points:  20 
+
+    Friday Morning Fours            Fri 4th Jul        
+Friday Morning Fours Group 2        On Bradshaw        
+        Walsden 4s B                Ripponden 4s       
+Syd Smith                  21 Tamina Oates          13 
+Meredith Wilkinson         12 Howard Owen           21 
+Ian Tootell                20 Fred Greenwood        21 
+Shirley Smith              13 Paul Hitchen          21 
+               Aggregate:  66           Aggregate:  76 
+                  Points:  13              Points:  17 
 
 

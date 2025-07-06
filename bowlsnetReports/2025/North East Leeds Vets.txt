@@ -1,4 +1,4 @@
-=== North East Leeds Vets 2025 (as of Sun 29th Jun)
+=== North East Leeds Vets 2025 (as of Sun 6th Jul)
 === League Match Cards
 
        Division 1               Thu 10th Apr        
@@ -15,7 +15,7 @@ David Pike 'A'         21 Ian Thornhill          19
 
        Division 1               Thu 10th Apr        
      Meanwood Park A            Chapel Street       
-Jeff Blackburn         20 Dennis Clarke          21 
+Jeff Blackburn 'A'     20 Dennis Clarke          21 
 Ian Howard 'A'         21 Ray Dev                 6 
 Tina Howard            15 John Lucas             21 
 David Milnes 'A'       21 John Mais               9 
@@ -185,7 +185,7 @@ Dennis Birch           21 Paul Simms              7
       Rothwell BC A            Meanwood Park A      
 Phil Wilsher 'A'       21 David Milnes 'A'        8 
 David Kaye             21 Karen Portman 'A'      10 
-Alan Box 'A'           21 Jeff Blackburn         11 
+Alan Box 'A'           21 Jeff Blackburn 'A'     11 
 John Whiteley 'A'      21 Peter Whipp            12 
 June Johnson           21 Paul Burke             14 
 Gary Haley 'A'         21 Tina Howard            19 
@@ -394,7 +394,7 @@ Peter Sandles           9 Rory Bligh             21
 Sylvia Petty           21 Tina Howard             5 
 Tony Watson            21 Karen Portman 'A'      13 
 John Patrick           21 Ian Macfarlane          5 
-Mike Cox               21 Jeff Blackburn         15 
+Mike Cox               21 Jeff Blackburn 'A'     15 
            Aggregate: 151            Aggregate: 110 
 
        Division 1               Thu 24th Apr        
@@ -565,7 +565,7 @@ Phil Wilsher 'A'       21 Patricia Blackburn      3
 Paul Hatch             17 Tina Howard            21 
 Geoff Newbould         21 Rory Bligh             13 
 David Kaye             21 David Milnes 'A'       15 
-John Whiteley 'A'      20 Jeff Blackburn         21 
+John Whiteley 'A'      20 Jeff Blackburn 'A'     21 
             Handicap:  +4             Handicap:  +2 
            Aggregate: 153            Aggregate: 135 
 
@@ -765,7 +765,7 @@ Geoff Newbould         21 Terry Cook             12
 
        Division 1                Thu 8th May        
      Meanwood Park A           Manston Park A       
-Jeff Blackburn         21 Steve Olivant           9 
+Jeff Blackburn 'A'     21 Steve Olivant           9 
 Karen Portman 'A'      21 Elizabeth Quigley       7 
 Peter Whipp            14 Jim Jordan 'A'         21 
 David Milnes 'A'       21 John Townsend 'A'      16 
@@ -1487,7 +1487,7 @@ John Binns 'A'         21 Ernest Johnson          7
 
        Division 1                Thu 5th Jun        
       Garforth CC A            Meanwood Park A      
-Nigel Ware 'A'         14 Jeff Blackburn         21 
+Nigel Ware 'A'         14 Jeff Blackburn 'A'     21 
 Sandra Pollard          8 David Milnes 'A'       21 
 Trevor Curtis          19 Rory Bligh             21 
 Neil Mehta             21 Neil Porter            18 
@@ -1647,7 +1647,7 @@ Karen Portman 'A'      21 Monica Adams            8
 Rory Bligh             17 Bob Emmerson           21 
 Ian Howard 'A'         21 Dave Brooke 'A'        12 
 Paul Burke             10 Dave Tinker            21 
-Jeff Blackburn         21 Joe Adams               5 
+Jeff Blackburn 'A'     21 Joe Adams               5 
 Peter Whipp            13 Tim Newton 'A'         21 
 David Milnes 'A'       21 Tony Auty 'A'          15 
 Tina Howard            14 Derek McCormack 'A'    21 
@@ -1854,7 +1854,7 @@ Graham Hodder          21 David Milnes 'A'       20
 Stan Elwell            21 Neil Porter            12 
 Paul Hardy 'A'         21 Karen Portman 'A'      13 
 Philip Hatch           20 Paul Burke             21 
-Phil Hill              21 Jeff Blackburn         13 
+Phil Hill              21 Jeff Blackburn 'A'     13 
            Aggregate: 167            Aggregate: 120 
 
        Division 1               Thu 19th Jun        
@@ -2000,5 +2000,185 @@ Nigel Richardson       20 Tony Bond              21
 Mark Scruton           21 Mick Hebden            15 
 John Turpin            21 James Lancaster         3 
            Aggregate: 149            Aggregate: 109 
+
+       Division 1                Thu 3rd Jul        
+      Garforth CC A                Adel A           
+Ian Thornhill          21 Lesley Martin 'A'      17 
+Alison Roberts 'A'     21 Philip Sykes            6 
+Christine Sutcliffe    21 Peter Forshaw          13 
+Nigel Ware 'A'         15 Howard Rew             21 
+John Robson 'A'        21 Alan Byers              7 
+Philip Brook           21 Bruce Tremlett         11 
+Trevor Curtis          21 John Binns 'A'         13 
+Neil Mehta             21 David Pike 'A'         15 
+           Aggregate: 162            Aggregate: 103 
+
+       Division 1                Thu 3rd Jul        
+      Chapel Street            Meanwood Park A      
+David Smith            21 Paul Burke             10 
+Steve Hartley          19 Ian Howard 'A'         21 
+Dennis Clarke          21 Rory Bligh             16 
+Paul Lawson            21 Karen Portman 'A'      12 
+Ray Dev                14 Douglas Blair          21 
+John Mais              21 Peter Whipp            15 
+Mick Cooper             7 Neil Porter            21 
+John Lucas             21 Jeff Blackburn 'A'     10 
+           Aggregate: 145            Aggregate: 126 
+
+       Division 1                Thu 3rd Jul        
+       Whitkirk A                 Holt Park         
+Phil Hill              21 John Patrick            4 
+Graham Hodder          21 Tony Watson             5 
+Mike Carroll 'A'       21 Sylvia Petty           12 
+Simon Cahill           21 David Lyons             2 
+Graham Scholes         21 Ernest Johnson         11 
+Stan Elwell            21 Peter Byford            7 
+Paul Hardy 'A'         21 Mike Cox                8 
+Philip Hatch           21 Colin Chadwick         13 
+           Aggregate: 168            Aggregate:  62 
+
+       Division 1                Thu 3rd Jul        
+      Rothwell BC A            Manston Park A       
+John Whiteley 'A'      21 David Smith             7 
+Paul Hatch             20 Jonathan Moriarty 'A'  21 
+Steve Rudge            21 John Townsend 'A'      12 
+Geoff Newbould         21 Anthony Marsden         7 
+June Johnson           16 Brenda Pennock         21 
+Phil Wilsher 'A'       21 Steve Olivant           1 
+Gordon Hird            21 Alan Taylor 'A'         8 
+Peter Linley           21 John Pennock           15 
+           Aggregate: 162            Aggregate:  92 
+
+       Division 1                Thu 3rd Jul        
+   South Leeds Cons A          Moor Allerton A      
+Dave Tinker            21 Geoff West 'A'          7 
+Brenda Moscrop         21 Mike Gould              8 
+Tony Auty 'A'          18 Keith Harbage 'A'      21 
+Bob Emmerson           14 Ian Franklin           21 
+Dave Brooke 'A'        21 George Ramsden         11 
+Joe Adams              21 Martin Kaitcer         14 
+Tim Newton 'A'         21 Paul Shafar 'A'         9 
+Derek McCormack 'A'    18 John Alper 'A'         21 
+           Aggregate: 155            Aggregate: 112 
+
+       Division 2                Thu 3rd Jul        
+     Meanwood Park B            Rothwell BC B       
+Lynda Heath            21 David Bentley          17 
+Paul Dishman           14 John Turpin            21 
+Jenny Holiday          21 John Ainsley           16 
+Ian Macfarlane         21 Jimmy Hughes           18 
+John Hindle            15 Lyn Owen               21 
+Julie Keightley        21 Trevor Hawkin          11 
+Graham Hey             21 Nigel Richardson       16 
+John King              21 Mark Scruton           11 
+           Aggregate: 155            Aggregate: 131 
+
+       Division 2                Thu 3rd Jul        
+         Colton                 Holbeck Moor        
+Ian Longfellow         21 Hilary Campbell        20 
+Ray Dixon              21 John Harvey            12 
+Paul Phillipson        14 Steve Brown            21 
+Roy Wheatley           17 Carl Mahon             21 
+Dave Clarkson          21 George Ellener          5 
+Brian Pagett            8 Brian Thompson         21 
+Tony Ward              21 Jeff Warburton         12 
+Mike Noble              7 Micheal Stott          21 
+           Aggregate: 130            Aggregate: 133 
+
+       Division 2                Thu 3rd Jul        
+       Fearnville                Whitkirk B         
+Karen Lewis            21 Mick Hebden             4 
+Gillian Cohen          21 John Hardwick          19 
+Stuart Poulter         21 Jenny Mullins          20 
+Jayne Dickinson        21 Tony Bond              11 
+Mary Black             14 William Newstead       21 
+Paul Foster            17 James Lancaster        21 
+Douglas Fraser         11 Jim Smith              21 
+Steve Proberts         21 Martin Costello        18 
+           Aggregate: 147            Aggregate: 135 
+
+       Division 2                Thu 3rd Jul        
+       Swillington              Garforth Rec        
+Paul Hazelgrave        21 Dennis Johnson          7 
+Alan Wood              21 Bev Dixon               3 
+Clive Newton           21 Ray Brown              13 
+David Godley           21 Keith Todd             19 
+Chris Firth            21 Bill Robinson          18 
+Lee Stewart            21 Mavis Bradbrook         3 
+Lynn Mattison          21 Barbara Kyle           10 
+Martin Edge            21 Carole Kitchen          6 
+           Aggregate: 168            Aggregate:  79 
+
+       Division 2                Thu 3rd Jul        
+       Grove Road              Chapel Allerton      
+Christine Murdoch      15 Chris Jones            21 
+Carol Biscombe         21 Susan Thomas            9 
+John Carr              21 Trevor Beeton          19 
+Peter Sully            20 Dave Blackwell         21 
+John West              21 Mandy Wilson           20 
+Martin Murdoch         21 Alex McSheehy          16 
+Peter Allanson         16 Colin Wilson           21 
+Tony Boyes             21 Royce Jackson          16 
+           Aggregate: 156            Aggregate: 143 
+
+       Division 3                Thu 3rd Jul        
+     Crossgates Rec            Potternewton Pk      
+James Taylor           16 Phillip Schofield      21 
+Elsie Baxter            8 Ian Macmillan          21 
+Ivy Asquith             4 Lesley Holloran        21 
+Steve Tyas             21 Dennis Cole            17 
+Maria Durkan           19 David Curland          21 
+John Durkan            21 Stephen Bird           14 
+Alan Dixon             21 Bob Williams           20 
+Terry Rock             17 Alan Smith             21 
+           Aggregate: 127            Aggregate: 156 
+
+       Division 3                Thu 3rd Jul        
+     Moor Allerton B            Garforth CC B       
+Gary Enkin             21 David Mincher           5 
+Richard Mansell        21 Craig White             8 
+Anne M Miller          12 Steve Brough           21 
+Linda Greenland        21 Les Rowell              4 
+Peter Williams         21 Roy Norcliffe           6 
+David Miller           21 Trevor Kell             9 
+Ian Lee                21 Chris Prentice         19 
+Rodney Cundle          21 Margaret Rowell        20 
+           Aggregate: 159            Aggregate:  92 
+
+       Division 3                Thu 3rd Jul        
+       North Leeds                Whinmoor          
+Colin Jaggs            21 Peter Woodhead         14 
+Michael Smith          21 Leigh Ditch            13 
+Paul Mitchell          21 Nigel Rawlings         12 
+Harold Todd            18 Brendan O'Leary        21 
+Mark Cooper            12 Derek Harding          21 
+David Jones            21 David Norton           17 
+Trevor Haynes          21 Kevin Ditch             7 
+Mark Somers            15 Tony Lumb              21 
+           Aggregate: 150            Aggregate: 126 
+
+       Division 3                Thu 3rd Jul        
+         Adel B              South Leeds Cons B     
+Barry Driscoll         21 Paddy Toher            13 
+Gordon Robinson        21 Malcolm Collinson      12 
+Graham Clough           6 Barbara Wherrett       21 
+Phil Hayward           18 Janet Stockdale        21 
+Pran Bhattacharyya     21 Jacky Cross             4 
+Sheena Parker           8 Neville Salmon         21 
+Sue Pagdin             16 Alan Goodall           21 
+Trevor Sargison        21 Trevor Precious        11 
+           Aggregate: 132            Aggregate: 124 
+
+       Division 3                Thu 3rd Jul        
+     Manston Park B              Woodlesford        
+Helen Simms             8 David Mosby            21 
+Edward Gerngross        6 Roger Boyes            21 
+John Ramsbottom        21 Maggie Boyes           14 
+Michael Monaghan       16 Tony Harriman          21 
+Elizabeth Quigley      12 Dennis Birch           21 
+Ruth Anderson-Beck     21 Mike Etchells           8 
+Mary German            21 Sharon Harriman        14 
+Paul Simms             21 Liz Mace               20 
+           Aggregate: 126            Aggregate: 140 
 
 

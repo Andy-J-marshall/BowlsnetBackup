@@ -1,4 +1,4 @@
-=== North Kirklees (Vets) 2025 (as of Sun 29th Jun)
+=== North Kirklees (Vets) 2025 (as of Sun 6th Jul)
 === League Match Cards
 
        Division 1                 Tue 15th Apr           
@@ -584,7 +584,7 @@ Elaine Murphy          4 David Lloyd                  21
 Linda Lill            21 Magaret Lloyd                16 
 Lesley Osborne        11 Eric Franks                  21 
 Donald Marshall       19 Janet Firth                  21 
-*A.N.Other*           12 Martin Bailey                21 
+John Blacktin         12 Martin Bailey                21 
 Stuart Burton         21 Pat Parkinson                12 
 Ken Lill              20 Frank Turnbull               21 
           Aggregate: 129                  Aggregate: 152 
@@ -800,7 +800,7 @@ Alan Parkin           21 Linda Lill                   20
 Chris Scott           21 Ruth Day                     10 
 Albert Bentley        21 Colin Exley                  11 
 Michael Sugden        13 Ken Lill                     21 
-Frank Richardson      21 *A.N.Other*                  14 
+Frank Richardson      21 John Blacktin                14 
 Calvin Whitehead      14 Stuart Burton                21 
 Michael Rhodes        21 Donald Marshall              10 
           Aggregate: 153                  Aggregate: 123 
@@ -1842,5 +1842,197 @@ Steven Newton         19 David Griffiths              21
 John Shaw             10 Janet Griffith               21 
 Graham Pearce         21 Anne Mitchell                18 
           Aggregate: 128                  Aggregate: 137 
+
+       Division 1                  Tue 1st Jul           
+   Hanging Heaton - A          Scatcherd Park - A        
+Kath Robinson         21 Billy Ward                   16 
+Derek Robinson        21 Geoffrey Firth               15 
+Pam Lindley           21 Stephen Briggs               14 
+David Armitage        21 Joe Adams                     9 
+Malcolm Preston       21 Derek McCormack               8 
+Derek North           21 Terry Dillon                 16 
+Stephen Wainwright    21 Graham Goodall               16 
+Tony Render           21 Tony Auty                    14 
+          Aggregate: 168                  Aggregate: 108 
+
+       Division 1                  Tue 1st Jul           
+    Mirfield Parish                Ossett - A            
+Malcolm Battye        13 David Clarke                 21 
+Stephen Sugden        21 Andrew Callaghan             19 
+Paul Phillips         11 Neil Holmes                  21 
+Sam McFarland         21 Philip Long                   9 
+Terry Richards         2 Gary Foulkes                 21 
+Ray Downes            19 Laurie Bairstow              21 
+David Laycock         11 Bryan Collier                21 
+Michael McKellor      21 Peter Lamb                   10 
+          Aggregate: 119                  Aggregate: 143 
+
+       Division 1                  Tue 1st Jul           
+   Spen Victoria - B            Mirfield Old Bank        
+Steven Holmes         21 Dave Sharp                   11 
+Michael Maguire       19 Bryan Ibbetson               21 
+Micky Morris          12 Paul Hartley                 21 
+Phil Rayner           18 Duncan Terry                 21 
+Jonathon Smith        10 Walter Morgan                21 
+Tim Miller            21 Trevor Morgan                19 
+Derek Goor            21 David Bentley                12 
+Paul Warwick           5 Brian Scarth                 21 
+          Aggregate: 127                  Aggregate: 147 
+
+       Division 1                  Tue 1st Jul           
+       Ossett - B            Cleckheaton Sports - A      
+John Wigglesworth     21 John Barraclough              7 
+Derek Heaton          21 Chris Bray                    9 
+Mick Scott            18 Stephen Archer               21 
+Elsie Jowett          21 David Griffiths              12 
+Alison Sykes           9 Norman Swift                 21 
+Tom McAlister         15 Bryan Jenkins                21 
+Stephen Blacklock     21 *No Player*                   0 
+John Oldroyd           8 John Dyson                   21 
+          Aggregate: 134                  Aggregate: 112 
+
+       Division 1                  Tue 1st Jul           
+   Spen Victoria - A            Lower Hopton - A         
+Kevin Wood            21 Graham Knutton               18 
+Terry Varney          16 Clive Hirst                  21 
+Billington Ann        15 John Leach                   21 
+David Rayner          21 Mick Addy                    14 
+David Billington       9 Alan Overend                 21 
+Malcolm Fowler        21 Sally Turner                 17 
+Paul Blackburn        21 David Whitehead              17 
+Pete Ellis            21 Paul Ryan                     7 
+          Aggregate: 145                  Aggregate: 136 
+
+       Division 2                  Tue 1st Jul           
+  Earlsheaton Park - A            Denby Grange           
+Donald Goodall        21 Julie Makepeace              14 
+Jenny Pitchforth      21 Andrea Daniels                3 
+Nadine Martin         21 Phil Hirst                   17 
+David Boynes          21 Graham Blythe                17 
+David Banks           21 Linda Scott                  19 
+Margaret Higgins      21 Bryan Thomas                  8 
+Harry Goodall         21 Rose Dewhirst                19 
+Keith Pinchbeck       21 Ian Davis                     9 
+          Aggregate: 168                  Aggregate: 106 
+
+       Division 2                  Tue 1st Jul           
+   Mirfield Vets - A             Royds Park - B          
+Bill Lovett           21 Colin Exley                  18 
+Brian Falkingham      10 David Morrell                21 
+Steve Taylor          21 Elaine Murphy                 6 
+Colin Watson          21 Ken Lill                     12 
+Joan Sangster         21 Bruce Illingworth            17 
+Michael Wood          21 Ruth Day                     14 
+Keith Townend         20 Lesley Osborne               21 
+Brian Taylor          21 Linda Lill                   15 
+          Aggregate: 156                  Aggregate: 124 
+
+       Division 2                  Tue 1st Jul           
+    Grange Park - A             Spen Victoria - C        
+David Ian Wilson      21 Steve Kemp                   11 
+Carol Boyer           18 Dave Hutton                  21 
+Gillian Ettles        21 Roger Green                  14 
+Denise Ingham         18 Alan Evans                   21 
+Stephen Boyer         21 Michael Binks                17 
+Freda White           21 Jeff Parkinson               12 
+Alistair Ettles       21 Trevor Austin                 7 
+Kevin Oldfield        21 Richard Ward                 11 
+          Aggregate: 162                  Aggregate: 114 
+
+       Division 2                  Tue 1st Jul           
+     Royds Park - A                Ossett - C            
+Brian Elliot          21 Alan Nash                     9 
+Susan Bentley         21 Jean Fozard                  13 
+Philip Robinson       11 Nora Collier                 21 
+David Fox             21 Derek Flint                  18 
+Mark Seed             21 Linda Theaker                 6 
+Steve Busz            21 David Hirst                   4 
+Robert Sutcliffe      19 Glyn Beresford               21 
+David Broadhead       21 John Kellett                 11 
+          Aggregate: 156                  Aggregate: 103 
+
+       Division 2                  Tue 1st Jul           
+     Firth Park - A            Cleckheaton Moorend       
+Mark Prideaux         21 Eric Franks                  12 
+Philip Rhodes         21 Pat Parkinson                 4 
+Frank Richardson      17 Frank Turnbull               21 
+Alan Parkin           12 Yvonne Northrop              21 
+Michael Sugden         8 David Lloyd                  21 
+Ian Fitton            18 Janet Firth                  21 
+Albert Bentley        21 Magaret Lloyd                13 
+Michael Rhodes        21 Ian Northrop                 11 
+          Aggregate: 139                  Aggregate: 124 
+
+       Division 3                  Tue 1st Jul           
+       Ossett - D               Spen Victoria - D        
+John D Ellis          21 John Shackleton              13 
+Keith Batley          21 Tony Tolson                  16 
+Eileen Beresford      20 Derek Warriner               21 
+David Clarkson        20 Rod Allinson                 21 
+Charles Ellis         11 Michael Potter               21 
+Colin Hirst           11 Mike Ingham                  21 
+Stuart Hartley        21 Ken Spencer                  18 
+Mick Stewart          21 Brian Smith                  17 
+          Aggregate: 146                  Aggregate: 148 
+
+       Division 3                  Tue 1st Jul           
+ Cleckheaton Sports - B       Staincliffe Park - A       
+Jane Bradley          21 David Robinson               12 
+David Marshall        21 Carol Lawton                 10 
+Kath Icke             21 Wilf Teale                   18 
+Geoff Thornton        20 Carol Sykes                  21 
+Anne Watkinson        21 Gerald Stubley               18 
+Carol Turner          11 Jim Stokes                   21 
+Alan Potter           21 Tony Cockcroft               20 
+Chris Watson           5 Gerald Bromley               21 
+          Aggregate: 141                  Aggregate: 141 
+
+       Division 3                  Tue 1st Jul           
+  Birkenshaw Park - A          Hanging Heaton - B        
+Steven Smith          21 Claire Price                  9 
+Bill Dyas             13 Mark Jones                   21 
+Alan Holmes           21 Andrew Wood                  20 
+Richard Wilson        15 John R. Brooks               21 
+Margaret Dyas          7 Colin Wilson                 21 
+Ken Moran              9 Peter Byrne                  21 
+Jack Holdsworth       21 Tony Howland                 10 
+Kenneth Glendinning    7 David Whitaker               21 
+          Aggregate: 114                  Aggregate: 144 
+
+       Division 3                  Tue 1st Jul           
+        Ardsley                 Mirfield Vets - B        
+Denis Hill            21 Kevin Crowe                  15 
+Hazel Sanderson       15 Ian Evans                    21 
+Len Lillford           7 Graham Wilson                21 
+Gerry Swift           16 Andrew Asquith               21 
+David Bentley         15 Susan Kennerdale             21 
+Brian Wetherill       21 Kearon Brown                 14 
+Tony Hartley          21 Malcolm Blackburn             8 
+Jim Leach             21 Julieanna Hartley            10 
+          Aggregate: 137                  Aggregate: 131 
+
+       Division 4                  Tue 1st Jul           
+       Slazengers                Firth Park - B          
+Russell Studd          4 Jeffrey Hardcastle           21 
+Julie Dexter          21 John Shaw                     5 
+Micheal Barratt       13 Peter Wharton                21 
+Irene Brown           12 Kath Pollard                 21 
+Peter Brown           12 Brian Watson                 21 
+John Jackson          21 Steven Newton                10 
+Angela Pursglove      21 Graham Pearce                12 
+Alan Shillito         21 Peter Tams                   10 
+          Aggregate: 125                  Aggregate: 121 
+
+       Division 4                  Tue 1st Jul           
+       Overthorpe             Earlsheaton Park - B       
+Tony Greenlees        21 Donald Warters                9 
+Geraldine Dickinson   21 Sonia Proctor                 8 
+Heather Jewitt        21 Peter Naylor                 15 
+Alan Bell             21 Marjorie Dyson               11 
+Paul Nutting          19 Ann Dufton                   21 
+Tony Dickinson        21 Patrick Carey                10 
+Steve Bell            21 Marjorie Artley              14 
+Leslie Bell           21 Steve Dufton                  2 
+          Aggregate: 166                  Aggregate:  90 
 
 

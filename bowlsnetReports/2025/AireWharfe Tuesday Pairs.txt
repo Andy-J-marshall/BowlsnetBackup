@@ -1,4 +1,4 @@
-=== AireDale & Wharfedale (Tues. Pairs) 2025 (as of Sun 29th Jun)
+=== AireDale & Wharfedale (Tues. Pairs) 2025 (as of Sun 6th Jul)
 === League Match Cards
 
        Division 1                Tue 8th Apr        
@@ -28,6 +28,20 @@ Pam Nellist               Hedley Chapman
            Aggregate:  56            Aggregate:  80 
                Games:   1                Games:   3 
               Points:   7               Points:  17 
+
+       Division 1                Tue 8th Apr        
+       Oxenhope A               Cross Roads A       
+Sue Cook               21 Neil Madden            10 
+Trevor Douglas            Marcus Grundy             
+Lorraine Douglas        6 Karl Lockwood          21 
+Derek Pollard             Mark Simpson              
+Mary Hemsley           21 Steve Hird             20 
+Stephen Lloyd             Stephen Peers             
+Debbie Hosty           21 Phil Robinson           6 
+Steve Collier             Thomas Hargreaves         
+           Aggregate:  69            Aggregate:  57 
+               Games:   3                Games:   1 
+              Points:  15               Points:   9 
 
        Division 2                Tue 8th Apr        
        Guiseley A                  Baildon          
@@ -198,6 +212,20 @@ Patrick Campbell          Barbara Hayhurst
               Points:  18               Points:   6 
 
        Division 2               Tue 15th Apr        
+         Idle B                  Guiseley A         
+Linda Brandon          13 Mo Jarvis              21 
+Jacqueline Spencer        Peter Storey              
+Ann Muggeridge         21 Christine Boyd         13 
+Colin Richardson          Jack Boyd                 
+Judith Turner          21 John French             7 
+Trevor Turner             Eric Brocklelhurst        
+Pauline Collins        21 Paul Gaines             9 
+John Rawnsley             Chris Hepworth            
+           Aggregate:  76            Aggregate:  50 
+               Games:   3                Games:   1 
+              Points:  17               Points:   7 
+
+       Division 2               Tue 15th Apr        
       Myrtle Park A        Burley in Wharfedale B   
 Michael Upton          21 Pete Thornton          11 
 Barbara Brook             Anthony Postlethwaite     
@@ -238,6 +266,20 @@ Steve Town                Lynsey Grigson
            Aggregate:  71            Aggregate:  59 
                Games:   2                Games:   2 
               Points:  14               Points:  10 
+
+       Division 3               Tue 15th Apr        
+       Guiseley B                 Tarnfield         
+Norman Lickley          4 Bryan Armit            21 
+Gary Stead                Dorcas Kirk               
+Earl Delaney           21 Nicola Swithenbank     13 
+Roger Garnett             David Kirk                
+Jean Perry              8 Nigel Parker           21 
+Lynette Hall              Denis Fowles              
+Anne Brown             11 Daniel Twist           21 
+Julie Stead               Nigel Twist               
+           Aggregate:  44            Aggregate:  76 
+               Games:   1                Games:   3 
+              Points:   6               Points:  18 
 
        Division 3               Tue 15th Apr        
        Oxenhope B                Eccleshill         
@@ -330,9 +372,9 @@ Mo Jarvis                 Mark Sample
 Jack Boyd              20 Reid Haddow            21 
 Christine Boyd            Patrick Campbell          
 John French            20 Shirley Nicholson      21 
-Chris Hepworth            Cath Smalley              
+Chris Hepworth            Belinda Mitchell          
 Paul Gaines            17 Andrew Smalley         21 
-Eric Brocklelhurst        Frank Baker               
+Eric Brocklelhurst        Cath Smalley              
            Aggregate:  78            Aggregate:  68 
                Games:   1                Games:   3 
               Points:  13               Points:  11 
@@ -450,6 +492,20 @@ Patrick Campbell          Philip Clifton
               Points:  10               Points:  14 
 
        Division 2               Tue 29th Apr        
+         Idle B             Bingley Sleningford A   
+Pauline Collins        17 Dennis Tetley          21 
+John Rawnsley             David Whitwham            
+Roger Morgan-Williams  21 Margaret Tetley         9 
+David Priestley           Barbara Hayhurst          
+Ann Muggeridge         12 Phil Kay               21 
+Ken Muggeridge            Tim Garnett               
+Judith Turner          21 Malcolm Pitt            6 
+Trevor Turner             Joyce Wall                
+           Aggregate:  71            Aggregate:  57 
+               Games:   2                Games:   2 
+              Points:  14               Points:  10 
+
+       Division 2               Tue 29th Apr        
       Greenbottom A              Guiseley A         
 Gary Poucher           15 Mo Jarvis              21 
 Ian Smith                 Peter Storey              
@@ -538,7 +594,7 @@ Allan Caine               Thomas Hargreaves
 Keith Bond             21 Sylvia Halliday        14 
 Brian Tempest             Peter Mountain            
 Lek Fletcher           21 Tony Spivey            10 
-Thomas Kilerminster       Wendy Spivey              
+Thomas Kilminster         Wendy Spivey              
 Patricia Allison       21 Scott Ker              11 
 Berni Criddle             Allan Thorpe              
 Amrik Singh            21 Pam Nellist             7 
@@ -715,6 +771,34 @@ Tom Barnes                Edgar Ryley
                Games:   4                Games:   0 
               Points:  20               Points:   4 
 
+       Division 2               Tue 20th May        
+ Burley in Wharfedale B          Guiseley A         
+Marie Drysdale         19 Eric Brocklelhurst     21 
+Alwyn Robertson           Peter Storey              
+Mark Firth             21 Jeremy Jones           15 
+Pete Thornton             Paul Gaines               
+Brian Wardle           21 Christine Boyd          7 
+Susan Knowles             Jack Boyd                 
+Anthony Postlethwaite  21 John French             4 
+Darren Thompson           Chris Hepworth            
+           Aggregate:  82            Aggregate:  47 
+               Games:   3                Games:   1 
+              Points:  18               Points:   6 
+
+       Division 2               Tue 20th May        
+         Idle B                  Yeadon Park        
+David Priestley        21 Adam Sample             8 
+Roger Morgan-Williams     Mark Sample               
+Judith Turner          21 Tim Nicholson          11 
+Trevor Turner             David Keighley            
+Ann Muggeridge         21 Patrick Campbell        7 
+John Rawnsley             Reid Haddow               
+Linda Brandon          21 Cath Smalley           14 
+Jacqueline Spencer        Andrew Smalley            
+           Aggregate:  84            Aggregate:  40 
+               Games:   4                Games:   0 
+              Points:  21               Points:   3 
+
        Division 3               Tue 20th May        
        Guiseley B           Bingley Sleningford B   
 Earl Delaney            8 Richard Breese         21 
@@ -798,6 +882,20 @@ Phil Robinson             Richard Garth
            Aggregate:  78            Aggregate:  68 
                Games:   2                Games:   2 
               Points:  14               Points:  10 
+
+       Division 1               Tue 27th May        
+ Burley in Wharfedale A          Oxenhope A         
+Joe Ullock             21 Trevor Douglas         17 
+Roy Knowles               Richard Hemsley           
+Brian Wheeler          21 Lorraine Douglas       16 
+Steven Fender             Derek Pollard             
+Andrew Shaw            21 Charlie Heaton         11 
+Mark Ullock               Mary Hemsley              
+Chris Wheeler          21 Debbie Hosty           18 
+Robert Wheeler            Steve Collier             
+           Aggregate:  84            Aggregate:  62 
+               Games:   4                Games:   0 
+              Points:  18               Points:   6 
 
        Division 2               Tue 27th May        
          Baildon           Burley in Wharfedale B   
@@ -1120,6 +1218,20 @@ Edgar Ryley               David Whitwham
            Aggregate:  80            Aggregate:  53 
                Games:   3                Games:   1 
               Points:  17               Points:   7 
+
+       Division 2               Tue 10th Jun        
+         Idle B            Burley in Wharfedale B   
+Judith Turner          14 Pete Thornton          21 
+Trevor Turner             John Hardisty             
+Ann Muggeridge         21 Brian Wardle           11 
+Jacqueline Spencer        Nigel Steels              
+David Priestley        18 Mark Firth             21 
+Roger Morgan-Williams     Anthony Postlethwaite     
+Pauline Collins        21 Alwyn Robertson        14 
+John Rawnsley             Dave Galling              
+           Aggregate:  74            Aggregate:  67 
+               Games:   2                Games:   2 
+              Points:  13               Points:  11 
 
        Division 3               Tue 10th Jun        
       Myrtle Park B             Cross Roads B       
@@ -1459,5 +1571,145 @@ Gary Stead                Adele Hart-Wood
            Aggregate:  78            Aggregate:  67 
                Games:   2                Games:   2 
               Points:  14               Points:  10 
+
+       Division 1                Tue 1st Jul        
+      Shipley Club              Cross Roads A       
+Pam Nellist            21 Stephen Peers          20 
+Gary Nellist              Steve Hird                
+Peter Mountain          7 Marcus Grundy          21 
+Allan Thorpe              Thomas Hargreaves         
+Tony Spivey             7 Mark Simpson           21 
+Wendy Spivey              Karl Lockwood             
+Scott Ker              18 Neil Madden            21 
+Sylvia Halliday           Phil Robinson             
+           Aggregate:  53            Aggregate:  83 
+               Games:   1                Games:   3 
+              Points:   6               Points:  18 
+
+       Division 1                Tue 1st Jul        
+         Idle A            Burley in Wharfedale A   
+Dave Duckett           18 Roy Knowles            21 
+Mick Barrett              Joe Ullock                
+Chris Sims              3 Andrew Shaw            21 
+Yvonne Coppin             Mark Ullock               
+Alan Sinfield          21 Robert Wheeler         11 
+Michael Leach             Chris Wheeler             
+Bryn Jones              7 Brian Wheeler          21 
+David Burrows             Steven Fender             
+           Aggregate:  49            Aggregate:  74 
+               Games:   1                Games:   3 
+              Points:   7               Points:  17 
+
+       Division 1                Tue 1st Jul        
+          Salts                Rufford Park A       
+Patricia Allison       14 Angela Bennett         21 
+Berni Criddle             Allan Caine               
+Richard Lonsdale       21 Catharine New          18 
+Chris Womersley           Alexander Waite           
+David Bottomley        15 Ken Lee                21 
+John Greenwood            Glynn Goodyear            
+Lek Fletcher           21 Carolyn Matthewman     13 
+Thomas Kilminster         Colin Matthewman          
+           Aggregate:  71            Aggregate:  73 
+               Games:   2                Games:   2 
+              Points:  11               Points:  13 
+
+       Division 1                Tue 1st Jul        
+       Oxenhope A                  Ilkley           
+Lorraine Douglas       11 Richard Garth          21 
+Derek Pollard             Andy Thornton             
+Sue Cook               21 Bernie Connor           9 
+Trevor Douglas            Clive Swann               
+Charlie Heaton         21 Tony Foster            12 
+Mary Hemsley              Martin Bailey             
+Steve Collier          21 Alison Wailes          15 
+Debbie Hosty              Robert Garth              
+           Aggregate:  74            Aggregate:  57 
+               Games:   3                Games:   1 
+              Points:  16               Points:   8 
+
+       Division 2                Tue 1st Jul        
+  Bingley Sleningford A          Yeadon Park        
+Joyce Wall             15 Mark Sample            21 
+Chris Wardle              Adam Sample               
+Margaret Tetley        15 Tim Nicholson          21 
+Barbara Hayhurst          Shirley Nicholson         
+Dennis Tetley          10 Andrew Smalley         21 
+David Whitwham            Cath Smalley              
+Phil Kay               21 Belinda Mitchell       12 
+Peter Kitching            Patrick Campbell          
+           Aggregate:  61            Aggregate:  75 
+               Games:   1                Games:   3 
+              Points:   9               Points:  15 
+
+       Division 2                Tue 1st Jul        
+       Guiseley A                  Idle B           
+Lynne Ogden            21 David Priestley        19 
+Caroline Corbett          Roger Morgan-Williams     
+Chris Hepworth         21 John Rawnsley          20 
+Eric Brocklelhurst        Ann Muggeridge            
+Paul Gaines            21 Judith Turner          16 
+Jeremy Jones              Trevor Turner             
+Andy Durkin            21 Linda Brandon          10 
+Mike Smith                Pauline Collins           
+           Aggregate:  84            Aggregate:  65 
+               Games:   4                Games:   0 
+              Points:  17               Points:   7 
+
+       Division 2                Tue 1st Jul        
+ Burley in Wharfedale B         Myrtle Park A       
+Alwyn Robertson        20 Michael Upton          21 
+John McCabe               Barbara Brook             
+Pete Thornton          21 Andrew Lancaster        6 
+John Hardisty             Barbara Smith             
+Anthony Postlethwaite  21 Rachael Slater          7 
+Mark Firth                Nick Gilleard             
+Brian Wardle           21 Tom Barnes             19 
+Darren Thompson           Monica Powell             
+           Aggregate:  83            Aggregate:  53 
+               Games:   3                Games:   1 
+              Points:  18               Points:   6 
+
+       Division 3                Tue 1st Jul        
+      Cross Roads B         Bingley Sleningford B   
+Graeme Sheffield       11 Richard Breese         21 
+Harry Thompson            John Hill                 
+Frank Davenport        14 Martin Bentley         21 
+Roger Teather             Michael Head              
+Malcolm Porter         20 John Barrett           21 
+Gordon Clarke             Vivien De La Touche       
+John Larner            17 Bruce Woodburn         21 
+Terry Fawthorpe           Peter Mackinnon           
+           Aggregate:  62            Aggregate:  84 
+               Games:   0                Games:   4 
+              Points:   6               Points:  18 
+
+       Division 3                Tue 1st Jul        
+     Rufford Park B              Northcliffe        
+Sheila Hudson          21 Michael Dennison       12 
+Michelle Hudson           Duncan Campbell           
+Stuart Parker          21 Judith Hitch            7 
+Peter O'Brien             Debbie Sleight            
+Aileen Waite           21 Richard Handford       12 
+John McHale               Anne Idle                 
+Adele Hart-Wood        21 William Griffin        18 
+Lynsey Grigson            Chris Boyes               
+           Aggregate:  84            Aggregate:  49 
+               Games:   4                Games:   0 
+              Points:  19               Points:   5 
+
+       Division 3                Tue 1st Jul        
+        Tarnfield                Guiseley B         
+Denis Fowles           21 Margaret Jones          9 
+Nigel Parker              Margaret Cooper           
+Bryan Armit            21 Dorreen Lawson         10 
+Stanley Southern          Jean Perry                
+Nicola Swithenbank     18 Gary Stead             21 
+Steven Sheppard           Earl Delaney              
+Daniel Twist           21 Anne Brown              8 
+Nigel Twist               Julie Stead               
+           Aggregate:  81            Aggregate:  48 
+               Games:   3                Games:   1 
+              Points:  18               Points:   6 
 
 

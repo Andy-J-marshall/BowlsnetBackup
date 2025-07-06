@@ -1,4 +1,4 @@
-=== Heavy Woollen Evening League 2025 (as of Sun 29th Jun)
+=== Heavy Woollen Evening League 2025 (as of Sun 6th Jul)
 === League Match Cards
 
                               Wed 9th Apr       
@@ -86,7 +86,7 @@ David Hirst          13 John Kennelly        21
    Staincliffe Park       Kirkheaton Cons 'A'   
 Colin Exley          21 Josh Brown           15 
 Joanne Lockwood      19 Sylvia Lane          21 
-Josie Stokes         21 Gerald Holdroyd       4 
+James Stokes         21 Gerald Holdroyd       4 
 Jeanette Leckenby    12 Stewart Walker       21 
 David Halmshaw       21 Lynn Holdroyd        18 
 David Kellett        21 Anita Cuniffe        18 
@@ -339,7 +339,7 @@ Linda Theaker        21 Tony Dickinson       15
 
                              Wed 14th May       
    Staincliffe Park        Ossett C & AC 'B'    
-Josie Stokes         20 John D Ellis         21 
+James Stokes         20 John D Ellis         21 
 David Kellett        18 Nora Collier         21 
 Joanne Lockwood       8 John Shooter         21 
 Ian Exley            13 John Kennelly        21 
@@ -487,7 +487,7 @@ David Clarkson       21 David Tolson         14
    Staincliffe Park          Morton House       
 David Kellett        14 Chris Sweeney        21 
 Jeanette Leckenby    14 Mandy Hyde           21 
-Josie Stokes         17 Millie Hyde          21 
+James Stokes         17 Millie Hyde          21 
 Colin Exley          16 David Hall           21 
 Yvonne Ainley        12 Addy Leach           21 
 Carol Sykes           5 Wayne Kemp           21 
@@ -845,5 +845,70 @@ Chris Webb           21 Richard Sweeney      20
           Handicap: +15           Handicap: +20 
          Aggregate: 136          Aggregate: 168 
    Result Overridden                            
+
+                              Wed 2nd Jul       
+  Kirkheaton Cons 'A'      Staincliffe Park     
+Elizabeth Gilbert    21 Joanne Lockwood      20 
+Anita Cuniffe        21 Andrew Leckenby       7 
+Jacob Jackson        10 James Stokes         21 
+Jamie Shaw           21 Carol Sykes           6 
+Scott Shaw           21 David Halmshaw        8 
+Stewart Walker       21 Yvonne Ainley         7 
+Harriet Chadwick     19 Jeanette Leckenby    21 
+Lynn Flowers         21 Ian Exley            13 
+          Handicap: +15           Handicap: +44 
+         Aggregate: 170          Aggregate: 147 
+
+                              Wed 2nd Jul       
+    Hanging Heaton        Kirkheaton Cons 'B'   
+Philip Crossland     21 Chris Webb           20 
+David McNally        21 Gillian Barker        8 
+Peter Wilson         21 Cath O'Connor         5 
+Lee Crossland        21 Adi O'Connor         18 
+Peter Byrne          21 Carol Earnshaw        6 
+Tony Howland         21 Giles Massey          7 
+Christine Lamb       21 Krystal Hemmingway   11 
+Ian Taylor           21 Richard Earnshaw      5 
+          Handicap: +10           Handicap: +30 
+         Aggregate: 178          Aggregate: 110 
+
+                              Wed 2nd Jul       
+      Grange Moor          Thornhill C & BC     
+Lucy Downs           17 Jennifer Gray        21 
+Chloe Morton         21 Rachael Gamble       19 
+Mel Kirton           20 Ben Gibson           21 
+Richard Morton       21 Derek Robinson       16 
+David Bolger         21 Stefan Sim            8 
+Dale Winterbottom    16 Claire Price         21 
+Martin Longley       21 Joyce Tolson          9 
+Deon Hunter          16 Julie Makepeace      21 
+          Handicap: +21           Handicap: +30 
+         Aggregate: 174          Aggregate: 166 
+
+                              Wed 2nd Jul       
+   Ossett C & AC 'B'       Ossett C & AC 'C'    
+Terry Fletcher       21 Sharon Scholey       10 
+John D Ellis         21 Brian Wood            2 
+Pauline Clarkson     21 Joseph Dossett       17 
+Nora Collier         21 Edward Bullock        6 
+Eric Law             21 Michael Scholey      12 
+Linda Theaker        21 Beverley Bullock      7 
+David Clarkson       21 Paul Johnson         11 
+John Kennelly        20 David Hirst          21 
+          Handicap: +14           Handicap: +66 
+         Aggregate: 181          Aggregate: 152 
+
+                              Wed 2nd Jul       
+   Overthorpe Sports       Ossett C & AC 'A'    
+Sharon Byrnes        18 Elsie Jowett         21 
+Tony Greenlees        7 Graeme Eyre          21 
+Jane Harris          21 Svajunas Kapitan     14 
+Geraldine Dickinson  20 Chris Goodwin        21 
+Rodney Clifford      10 Bryan Collier        21 
+Tony Dickinson        2 Mick Scott           21 
+Richard Sweeney      10 Peter Lamb           21 
+Nathan Jewitt        21 Paul Sweeney         10 
+          Handicap: +10           Handicap: Scr 
+         Aggregate: 119          Aggregate: 150 
 
 

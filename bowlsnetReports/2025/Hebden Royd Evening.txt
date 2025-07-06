@@ -1,4 +1,4 @@
-=== Halifax (Hebden Royd Mon.) 2025 (as of Sun 29th Jun)
+=== Halifax (Hebden Royd Mon.) 2025 (as of Sun 6th Jul)
 === Comp. Match Cards
 
 Division 1, 6 person teams        Mon 12th May       
@@ -552,5 +552,53 @@ Stuart Pilling           19 Mick Milnes           21
                 Points:   2              Points:   6 
              Aggregate:  88           Aggregate:  99 
                  Games:   2               Games:   4 
+
+Division 1, 6 person teams        Mon 30th Jun       
+        Denholme A              Mytholmroyd B.C.     
+Steve Griffiths          21 William Ashley         7 
+Andy Matthews            21 Lorraine Boulton      13 
+Sean Picken              21 Joan Collins          14 
+Robert Lightowler        21 Gary Peel             18 
+David Hewitt             21 Ann Greenwood          3 
+Mick Dunn                14 David Greenwood       21 
+                Points:   7              Points:   1 
+             Aggregate: 119           Aggregate:  76 
+                 Games:   5               Games:   1 
+
+Division 1, 6 person teams        Mon 30th Jun       
+          Sowerby                   Hollins          
+Peter Lomax              14 Chris Abbot           21 
+Heather Parker           21 Godfrey Higginbotham  18 
+Edward Eyres             15 Marak Orlinski        21 
+Renata Eyres             21 Darren Earnshaw       14 
+Pam Wood                 21 Adrian Franklin        4 
+Michael Wood             21 Ian Tootell            7 
+                Points:   6              Points:   2 
+             Aggregate: 113           Aggregate:  85 
+                 Games:   4               Games:   2 
+
+Division 1, 6 person teams        Mon 30th Jun       
+        Cross Road                 Oxenhope A        
+John Copperwaite         21 Mary Hemsley          19 
+Steve Hird               21 Stephen Heaton        14 
+Mick Peel                18 Peter Ousey           21 
+Stephen Peers            21 Charlie Heaton        16 
+Thomas Hargreaves        11 Fred Rothwell         21 
+Marcus Grundy            18 Richard Hemsley       21 
+                Points:   3              Points:   5 
+             Aggregate: 110           Aggregate: 112 
+                 Games:   3               Games:   3 
+
+Division 2, 6 person teams        Mon 30th Jun       
+        Old Town B                 Walsden B         
+Paul Newman               6 Kenny Gale            21 
+John Bewick              21 Syd Smith             13 
+Harry Coleman            21 Meridith Wilkinson    10 
+Neil Twaites             21 Tony Hunking          20 
+John McDermondy          21 Darrel Halstead        8 
+Tom Faulkner             21 Nigel Halsteadi       14 
+                Points:   7              Points:   1 
+             Aggregate: 111           Aggregate:  86 
+                 Games:   5               Games:   1 
 
 

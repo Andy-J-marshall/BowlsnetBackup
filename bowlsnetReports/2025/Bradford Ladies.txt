@@ -1,4 +1,4 @@
-=== Bradford Ladies League 2025 (as of Sun 29th Jun)
+=== Bradford Ladies League 2025 (as of Sun 6th Jul)
 === Comp. Match Cards
 
                               Tue 6th May       
@@ -10,7 +10,6 @@ Christine Kilner     16 Audrey Healy         21
 Carol Chisholm       21 Jackie Waters        15 
 Sue Smith            21 Marjorie Jones       11 
          Aggregate: 121          Aggregate:  94 
-             Games:   5              Games:   1 
 
                               Tue 6th May       
       Brackenhill             Harold Club       
@@ -21,7 +20,6 @@ Gaynor Shutt          7 Barbara Bairstow     21
 Kathy Wilford        14 Pat Jagger           21 
 Elie Campbell        21 Christine Broadbent   4 
          Aggregate:  95          Aggregate: 103 
-             Games:   2              Games:   4 
 
                               Tue 6th May       
          Idle                 Queensbury        
@@ -32,7 +30,6 @@ Margaret Austin      21 Lorraine Birch       15
 Linda Brandon        21 Muriel Keighley       7 
 Val Leach            21 Elizabeth Lee        20 
          Aggregate: 126          Aggregate:  81 
-             Games:   6              Games:   0 
 
                              Tue 13th May       
  Crowghyll (West Park)        Brackenhill       
@@ -43,7 +40,6 @@ Sue Allender         14 Pauline McGregor     21
 Sheila Bairstow      10 Kathy Wilford        21 
 Maureen Adams        11 Judith Heppleston    21 
          Aggregate:  76          Aggregate: 117 
-             Games:   1              Games:   5 
 
                              Tue 13th May       
       Harold Club                Idle           
@@ -54,7 +50,6 @@ Hilary Boldy          7 Jackie Spencer       21
 Marlene Hughes       21 Val Leach             6 
 Christine Broadbent   8 Linda Brandon        21 
          Aggregate:  98          Aggregate:  91 
-             Games:   3              Games:   3 
 
                              Tue 13th May       
       Queensbury                Bowtye          
@@ -65,7 +60,6 @@ Lorraine Birch       19 Sheila Krysik        21
 Muriel Keighley      21 Margaret Wilson      12 
 Barbara Wardman      14 Jackie Swindell      21 
          Aggregate: 106          Aggregate:  93 
-             Games:   3              Games:   3 
 
                              Tue 20th May       
       Queensbury         Crowghyll (West Park)  
@@ -76,7 +70,6 @@ Lorraine Birch       21 Sue Allender          7
 Muriel Keighley      21 Sheila Bairstow      18 
 Margaret Lee         21 Audrey Healy         10 
          Aggregate: 126          Aggregate:  65 
-             Games:   6              Games:   0 
 
                              Tue 20th May       
         Bowtye                Harold Club       
@@ -87,7 +80,6 @@ Carol Chisholm        6 Pat Jagger           21
 Christine Kilner     21 Barbara Bairstow     20 
 Jackie Swindell      21 Joan Spence          12 
          Aggregate: 105          Aggregate:  99 
-             Games:   4              Games:   2 
 
                              Tue 20th May       
          Idle                 Brackenhill       
@@ -98,7 +90,6 @@ Elaine Fenton        10 Pauline McGregor     21
 Pam Barlow           16 Kathy Wilford        21 
 Linda Brandon        19 Gaynor Shutt         21 
          Aggregate: 108          Aggregate:  94 
-             Games:   3              Games:   3 
 
                               Tue 3rd Jun       
       Brackenhill               Bowtye          
@@ -109,7 +100,6 @@ Judith Heppleston     8 Jackie Swindell      21
 Gaynor Shutt         21 Sue Smith            14 
 Madeline Gamble      21 Carol Chisholm        4 
          Aggregate: 100          Aggregate:  93 
-             Games:   3              Games:   3 
 
                               Tue 3rd Jun       
          Idle            Crowghyll (West Park)  
@@ -120,7 +110,6 @@ Margaret Austin      21 *No Player*           0
 Liz Rawnsley         13 Maureen Adams        21 
 Val Leach            18 Audrey Healy         21 
          Aggregate: 115          Aggregate:  68 
-             Games:   4              Games:   2 
 
                               Tue 3rd Jun       
       Harold Club             Queensbury        
@@ -131,7 +120,6 @@ Pat Jagger           21 Sue Kitching         17
 Hilary Boldy         12 Muriel Keighley      21 
 Christine Broadbent   8 Margaret Lee         21 
          Aggregate:  90          Aggregate: 109 
-             Games:   2              Games:   4 
 
                              Tue 10th Jun       
  Crowghyll (West Park)        Harold Club       
@@ -142,7 +130,6 @@ Marjorie Jones       12 Christine Broadbent  21
 Audrey Healy         21 Hilary Boldy          6 
 *A.N.Other*          21 Pat Jagger           12 
          Aggregate:  96          Aggregate:  87 
-             Games:   3              Games:   3 
 
                              Tue 10th Jun       
         Bowtye                   Idle           
@@ -153,7 +140,6 @@ Christine Kilner     21 Jackie Spencer       12
 Sue Smith            11 Elaine Fenton        21 
 Jackie Swindell      21 Val Leach             3 
          Aggregate: 110          Aggregate:  69 
-             Games:   4              Games:   2 
 
                              Tue 10th Jun       
       Queensbury              Brackenhill       
@@ -164,6 +150,36 @@ Muriel Keighley      20 Madeline Gamble      21
 Barbara Wardman      21 Kathy Wilford         9 
 Elizabeth Lee        15 Pauline McGregor     21 
          Aggregate: 109          Aggregate: 114 
-             Games:   1              Games:   5 
+
+                              Tue 1st Jul       
+ Crowghyll (West Park)          Bowtye          
+Sue Allender         15 Violet Rodgers       21 
+Audrey Godber        11 Christine Kilner     21 
+Maureen Adams        21 Sue Smith             0 
+Audrey Healy         21 Carol Chisholm       14 
+Marjorie Jones       17 Sheila Krysik        21 
+Janet Welsh          17 Jackie Swindell      21 
+         Aggregate: 102          Aggregate:  98 
+
+                              Tue 1st Jul       
+      Harold Club             Brackenhill       
+Pat Jagger           21 Pauline McGregor     17 
+Barbara Bairstow     21 Elie Campbell         7 
+Christine Broadbent   8 Madeline Gamble      21 
+Hilary Boldy         16 Gaynor Shutt         21 
+Marlene Hughes       17 Judith Heppleston    21 
+Christine Broadbent  10 Kathy Wilford        21 
+         Aggregate:  88          Aggregate: 108 
+   Result Overridden                            
+
+                              Tue 1st Jul       
+      Queensbury                 Idle           
+Elizabeth Lee        14 Elaine Fenton        21 
+Geraldine Cooke      13 Val Leach            21 
+Felicity Kennedy     13 Jackie Spencer       21 
+Barbara Wardman      14 Margaret Austin      21 
+Sue Kitching         21 Liz Rawnsley         19 
+Lorraine Birch       15 Linda Brandon        21 
+         Aggregate:  90          Aggregate: 124 
 
 

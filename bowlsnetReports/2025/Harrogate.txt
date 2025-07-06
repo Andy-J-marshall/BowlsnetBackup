@@ -1,4 +1,4 @@
-=== Harrogate 2025 (as of Sun 29th Jun)
+=== Harrogate 2025 (as of Sun 6th Jul)
 === League Match Cards
 
         Division 3               Tue 1st Apr        
@@ -3172,6 +3172,316 @@ Robert Ferguson         21 John Conyers          10
 David Brockhill         10 Andrew Lloyd          21 
             Handicap:  +67            Handicap: +60 
            Aggregate:  268           Aggregate: 289 
+    Result Overridden                               
+
+        Division 1               Mon 30th Jun       
+     Bardsey Kestrels         Bilton Centurions     
+Geoff Hall              20 Hazel Parker          21 
+Phil Bouic              19 Clare Howes           21 
+Alan Baldwin            21 Richard Jennison      10 
+Andrew Dodsworth        10 Carol Sunter          21 
+Nick Barker             12 Steve Mudd            21 
+Steve Jones             21 Graham Hesling        19 
+Andrew Lloyd            21 Chris Sunter          12 
+Paul Crossling          21 Steve Webster         18 
+           Aggregate:  145           Aggregate: 143 
+              Points:    6              Points:   4 
+
+        Division 1               Mon 30th Jun       
+       Dacre Eagles            Low Harrogate A      
+Duncan Sloane           21 Cath Patrick          16 
+Colin Robson            21 Mick Steel            13 
+David Brockhill         10 Ian Jarratt           21 
+Eric Brabin             21 Peter Hicks           18 
+Kevin Sheard            21 Marion Frayne         14 
+Anne Brabin             21 Nick Binns            19 
+Robert Ferguson         19 Michael Adams         21 
+Nigel Nicholas          20 David Spilsbury       21 
+           Aggregate:  154           Aggregate: 143 
+              Points:    7              Points:   3 
+
+        Division 1               Mon 30th Jun       
+        Collingham                Black Swan        
+Angela Scorfield        10 Dave Rowson           21 
+Nick Danby              21 Dave Hodgson          20 
+Dennis Hobson           21 Martin Hemingway      17 
+Helen Danby             21 Tom Beecroft          19 
+Alan Scorfield          14 Richard Hebblewhite   21 
+Geoff Jones              7 Roy Flynn             21 
+Ian Jones               21 Alan Whittaker        20 
+John Scruton            14 Tony Derrick          21 
+           Aggregate:  129           Aggregate: 160 
+              Points:    4              Points:   6 
+
+        Division 1               Mon 30th Jun       
+         Starbeck             Wayside Travellers    
+Terry Mitton            11 Stephen Walker        21 
+Richard Armstrong        8 Adam Walker           21 
+Dave Stockdale          13 Brian Walker          21 
+Simon Hoare             17 Mark Reynolds         21 
+Steve Holmes            21 Lee Singleton         12 
+Bernard Ibbotson        15 Chris Rigby           21 
+Tony Hawkes             21 Jason Worsnop         17 
+Paul Souter             16 Stuart Whitehouse     21 
+           Aggregate:  122           Aggregate: 155 
+              Points:    2              Points:   8 
+
+        Division 1               Mon 30th Jun       
+    Wayside Wanderers        Knaresborough Lions    
+Steve Cochrane          21 David Moore           13 
+David Singleton         21 Nicholas Lofthouse    13 
+Peter Darbyshire        21 David Wood            15 
+Chris Wood              21 David Finlayson       17 
+Colin Rigby             10 Denise Allin          21 
+Greg Johnstone          21 Rob Barker            16 
+Martin Knights          13 Paul Passman          21 
+Vic Scaife-Clarke       21 Andrew Ison           19 
+           Aggregate:  149           Aggregate: 135 
+              Points:    8              Points:   2 
+
+        Division 2               Mon 30th Jun       
+     Bilton Spartans              Boston Spa        
+Kevin Wood              21 Richard Widnall        8 
+Joyce Light             21 Janet Taylor          13 
+Sara Elsworth           19 Barry Ibbetson        21 
+Trevor Whincup          20 John Mais             21 
+Janet Mudd              21 Alan Best             18 
+Barry Woodward          21 Dave Robinson         11 
+Dave Aldous              6 David Taylor          21 
+Colin Rudd              21 Philip Harrison       10 
+           Aggregate:  150           Aggregate: 123 
+              Points:    7              Points:   3 
+
+        Division 2               Mon 30th Jun       
+   Knaresborough Tigers        Wayside Rangers      
+Brian Doult             21 Geoff Brown           13 
+Paul Herrington         19 Ruth Nicholson        21 
+Geoff Ricketts          21 Ron Sadler            13 
+Tony Robertshaw         19 Peter McIntyre        21 
+Mike McCabe             18 Hayden Whitehouse     21 
+Brian Clementson        21 Alger Asker           13 
+Dennis Wise             10 Jenny Asker           21 
+Roy Bushell             17 David Small           21 
+           Aggregate:  146           Aggregate: 144 
+              Points:    5              Points:   5 
+
+        Division 2               Mon 30th Jun       
+     Low Harrogate B         Almscliffe Strollers   
+Derek Wilson            20 Sonya Garfit          21 
+Ivan Ravilious          21 Linda Brown           15 
+Graham Patrick          19 Sheila Mayor          21 
+David Moon              17 Margaret Marwood      21 
+Ann Wilson              21 Jean Harrison          4 
+Jim Whitton             15 Tony Brown            21 
+Kevin Clapham           21 Paul Edgar            10 
+Alan Winstanley         21 Pam Richardson        17 
+           Aggregate:  155           Aggregate: 130 
+              Points:    6              Points:   4 
+
+        Division 2               Mon 30th Jun       
+      Black Swan 2nd        Pateley Bridge Brocks   
+Dave Kinder             21 Elizabeth Lambert      5 
+Keith Agars             21 Bryan Lee              9 
+Suzi Mitchell           21 Oliver Chandler       11 
+Stephen Westoby         21 Steve Smith           15 
+Conor McCarthy          21 John Binns            13 
+Jake Coker              21 John Corfield         19 
+Mark Reynard            21 Lee Chandler          11 
+Val Rowson              21 Ken Blakey            16 
+           Aggregate:  168           Aggregate:  99 
+              Points:   10              Points:   0 
+
+        Division 2               Mon 30th Jun       
+   Almscliffe Climbers          Collingham 2nd      
+Alan Broadwell          21 Michael Hatfield       7 
+Stephen Liles           21 Maureen Burleigh      11 
+Margaret Atkinson       21 David Dean             8 
+Gaynor Olding           18 Sarah Jarvis          21 
+Richard Lock             9 Tony Hoar             21 
+Steve Freer              9 Robert Blackburn      21 
+John Atkinson           21 Neil Roberts          18 
+Chris Olding            14 Jonathan Kinroy       21 
+           Aggregate:  134           Aggregate: 128 
+              Points:    6              Points:   4 
+
+        Division 3               Tue 1st Jul        
+     Wayside Ramblers           Bilton Trojans      
+Paul McIntyre           21 Micheal Birch         11 
+Kath Brown              14 Peter Lamb            21 
+Liz Snodgrass           21 Jane White             7 
+Lynn Daly               21 Sally Holland         15 
+Mary Mason              21 Richard Bullough      14 
+Chris Watcham           21 Nick Bahado            7 
+Simon Daly              20 Peter White           21 
+Mick Watson             17 Richard Harper        21 
+           Aggregate:  156           Aggregate: 117 
+              Points:    7              Points:   3 
+
+        Division 3               Tue 1st Jul        
+  Knaresborough Badgers     Pateley Bridge Badgers  
+Richard Williams        21 Tracey Sydney         13 
+Alan Bowman             21 Jason Asquith-Thorpe  17 
+Karen Blaymire          21 Ann Shackleton        14 
+Chris Fell               6 Tim Sydney            21 
+Martin Gough            20 Graham Ogden          21 
+Cindy Cotton            16 John Shackleton       21 
+Phil Berry              21 Steven Killeen         8 
+Eric Taylor             20 John Ward             21 
+           Aggregate:  146           Aggregate: 136 
+              Points:    6              Points:   4 
+
+        Division 3               Tue 1st Jul        
+      Bardsey Osprey           Wetherby Knights     
+James Phillips          12 Lee Prentice          21 
+Peter Forshaw           17 Michael Malawer       21 
+Carol Cocker            21 Alex May               6 
+Ian Carr                13 Linda Thurgood        21 
+Martin Cocker            7 Lesley Holloran       21 
+Raymond Hill            21 Andrew Orton          12 
+Ron Clark               18 Ian Joynson           21 
+John Conyers            15 Andrew Morton         21 
+           Aggregate:  124           Aggregate: 144 
+              Points:    2              Points:   8 
+
+        Division 3               Tue 1st Jul        
+     Low Harrogate C            Dacre Falcons       
+Robin Addis             18 Nick Coutts           21 
+Jo Bonsels              21 Colin Ions             9 
+David Clarke            21 Keith Hardcastle      10 
+Mary Doveston           21 Larry McLemore        20 
+Kate Morris             10 Julia Heaton          21 
+Alan Old                21 Amanda Sloane         16 
+Pauline Parker          21 Keith Bradley          9 
+Bernard Poulter         21 Audrey Hardcastle      7 
+           Aggregate:  154           Aggregate: 113 
+              Points:    8              Points:   2 
+
+        Division 3               Tue 1st Jul        
+   Almscliffe Ramblers           Starbeck 2nd       
+Betty Maiden             0 Sue Green             21 
+Mary Cockerham          11 Debbie Stockdale      21 
+John Harrison           18 Jane Johnston         21 
+Bob Williams            21 John Somerville       16 
+Steve Rae               21 Brian Baldry          20 
+Anita Howard            13 Chris Lynch           21 
+Kevin Clark             21 David Crumley         11 
+Robert Cockerham        21 Steve Hastings        20 
+           Aggregate:  126           Aggregate: 151 
+              Points:    4              Points:   6 
+
+        Division 3               Tue 1st Jul        
+        Bilton WMC              Collingham 3rd      
+Phil Wrightson          21 Paul Nice              5 
+Stephen Clayton         16 Edmund Ledgard        21 
+Alan Gazey              16 Eric Gomerson         21 
+Paul Renton             19 Paul Wilkinson        21 
+Tommy Bland             21 Derek Armitage        12 
+Trevor Baranovski       21 Alan Pickering        13 
+Derrick Fox             21 Tim Storr              6 
+David Berry             21 Christine Lord        16 
+           Aggregate:  156           Aggregate: 115 
+              Points:    7              Points:   3 
+
+        Division 4               Tue 1st Jul        
+     Bilton Athenians            Dacre Kites        
+Joyce Blackburn         13 Thomas Morrison       21 
+Debbie Howells          15 Brian Furniss         21 
+Paul Seaward            21 Glen Haley            17 
+Alan Blackburn          13 Pauline Hook          21 
+Peter Sanderson         21 Teresa Smith          17 
+Stuart Cann             20 Rowland Wilkinson     21 
+Phillip Boreham         21 Jean Rintoul          17 
+Tony Sadler             15 John England          21 
+           Aggregate:  139           Aggregate: 156 
+              Points:    3              Points:   7 
+
+        Division 4               Tue 1st Jul        
+        Dacre Owls               Starbeck 4th       
+Paul Ellison            21 Gerald Widnall        18 
+Richard Senior          17 David Toomey          21 
+Joanne Hayes            21 Mike Rhodes            6 
+Ian Ashworth            15 Ann Rushton           21 
+Tony Renton              5 Robin Drury           21 
+Grace Morrison          19 Wilfred Ron Shaw      21 
+Bryan Dexter            21 Sally Bradley Dixon   14 
+John Lambert            21 Alex Harrison         13 
+           Aggregate:  140           Aggregate: 135 
+              Points:    6              Points:   4 
+
+        Division 4               Tue 1st Jul        
+       Starbeck 3rd            Low Harrogate D      
+Jonathan Pearson        18 Angela Spilsbury      21 
+Ian Malkin              21 Norman Parker         13 
+Debbie Kilvington       14 Charlie Peacock       21 
+Stephen Day             21 Dave Rodger           13 
+Carol Abbott            18 Adele Zagorski        21 
+James Cliff             12 Paul Howell           21 
+Philip Turton           13 Malcolm Davies        21 
+Evan Challis            21 David Hughan          10 
+           Aggregate:  138           Aggregate: 141 
+              Points:    3              Points:   7 
+
+        Division 4               Tue 1st Jul        
+      Black Swan 3rd          Almscliffe Hikers     
+Jim Corr                21 Robert Beaver         19 
+Gary Kinder             21 Sandra Howarth        14 
+Ian Morrell             21 Ruth Dalby            10 
+Angela Hodgson          21 Caroline Cowling       7 
+Barry Turnbull          21 Anne Rae               9 
+Ian Voakes              21 Peter Dalby           10 
+Russell Scahill         21 Malcolm Spence         3 
+Alan Hodgson            21 Orin Joistdahl        11 
+           Aggregate:  168           Aggregate:  83 
+              Points:   10              Points:   0 
+
+        Division 4               Tue 1st Jul        
+   Pateley Bridge Cubs       Knaresborough Foxes    
+Archie Chandler         21 Barry Nobbs           18 
+Sarah Ward              11 Phil Blaymire         21 
+Rita Ringshall          12 Sue Taylor            21 
+Kath Binns               9 Phil Dolan            21 
+Becca White              9 Paul Addle            21 
+Andy White              15 Sue Massey            21 
+Ian Rogers              21 Valerie Thomson        8 
+Corwin Juras            15 David Wilkinson       21 
+           Aggregate:  113           Aggregate: 152 
+              Points:    2              Points:   8 
+
+       Semi-Finals               Wed 2nd Jul        
+                                 On Wetherby        
+   Almscliffe Climbers        Wayside Travellers    
+Chris Olding            21 Brian Walker           9 
+Alan Broadwell          12 David Singleton       21 
+Margaret Atkinson       21 Vic Scaife-Clarke     13 
+Jean Harrison           11 Peter Darbyshire      21 
+Pam Richardson          15 Greg Johnstone        21 
+John Atkinson           10 Adam Walker           21 
+Jim Walker              13 Stephen Walker        21 
+Stephen Liles            7 Jason Worsnop         21 
+Sheila Mayor             3 Lee Singleton         21 
+Margaret Marwood         3 Martin Knights        21 
+Gaynor Olding           14 Chris Rigby           21 
+John Richardson          2 Mark Reynolds         21 
+            Handicap:  +76            Handicap:  +5 
+           Aggregate:  208           Aggregate: 237 
+
+       Semi-Finals               Wed 2nd Jul        
+                                On Collingham       
+    Bilton Centurions          Bardsey Kestrels     
+Peter Lamb              21 Alan Baldwin          11 
+Steve Mudd              16 Andrew Dodsworth      21 
+Richard Jennison        21 Ian Carr              16 
+Barry Woodward          12 Peter Forshaw         21 
+Richard Harper          16 Raymond Hill          21 
+Janet Mudd              10 Nick Barker           21 
+Hazel Parker            13 Steve Jones           21 
+Graham Hesling          21 Martin Cocker          8 
+Steve Webster           19 John Conyers          21 
+Trevor Whincup          21 James Phillips         8 
+Dave Aldous             15 Paul Crossling        21 
+Chris Sunter            21 Andrew Lloyd          20 
+            Handicap:  +47            Handicap: +60 
+           Aggregate:  253           Aggregate: 270 
     Result Overridden                               
 
 

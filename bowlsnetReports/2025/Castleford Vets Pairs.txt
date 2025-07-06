@@ -1,4 +1,4 @@
-=== Castleford Vets (Pairs) 2025 (as of Sun 29th Jun)
+=== Castleford Vets (Pairs) 2025 (as of Sun 6th Jul)
 === Comp. Match Cards
 
                              Tue 25th Mar       
@@ -90,6 +90,17 @@ Lesley Servis           Ken Robinson
             Points:   0             Points:   6 
 
                               Tue 1st Apr       
+      Ferrybridge             Pontefract        
+John Kirby           21 Helen Charlotte       5 
+Tony Jacklin            John Godridge           
+George Bradbury      21 Michael Hill Snr      4 
+Michael Hesp            Tony Hames              
+S Pease              19 Stephen Derry        21 
+Robert McEwan           James Shepherd          
+         Aggregate:  61          Aggregate:  30 
+            Points:   5             Points:   1 
+
+                              Tue 1st Apr       
     Glasshoughton A         Glasshoughton B     
 David Jackson        21 Carol Wheeler         5 
 Kevin Isles             Mick Mallinson          
@@ -143,6 +154,17 @@ Bob Miles             6 Tony Jacklin         21
 John Middleton          John Kirby              
          Aggregate:  31          Aggregate:  58 
             Points:   1             Points:   5 
+
+                              Tue 8th Apr       
+      Pontefract             Featherstone       
+Stephen Derry        21 John Wilkinson       19 
+Tony Hames              Billy Rush              
+John Godridge        21 Gordon Maxwell        6 
+Michael Hill Snr        Glyn Hanson             
+Ralph Davis          20 Wayne Bond           21 
+Albert Wilson           Ken Robinson            
+         Aggregate:  62          Aggregate:  46 
+            Points:   5             Points:   1 
 
                              Tue 15th Apr       
      Garforth Rec             Pontefract        
@@ -331,6 +353,17 @@ Martin Dowling          Tony Wheeler
          Aggregate:  63          Aggregate:  39 
             Points:   6             Points:   0 
 
+                              Tue 6th May       
+    Haw Hill Park A           Pontefract        
+Keith Winfield       16 Helen Charlotte      21 
+Stephen Smith           Michael Hill Snr        
+*A.N.Other*          21 John Godridge        18 
+Nigel Stroud            James Shepherd          
+Alan Holder          21 Ralph Davis          13 
+*A.N.Other*             Stephen Derry           
+         Aggregate:  58          Aggregate:  52 
+            Points:   5             Points:   1 
+
                              Tue 13th May       
     Haw Hill Park B          Garforth Rec       
 Jan McLeod           11 Tony Boyes           21 
@@ -443,14 +476,14 @@ John Mulheir            Archie Richardson
 
                               Tue 3rd Jun       
     Glasshoughton B          Garforth Rec       
-Colin Duxbury        21 Tony Boyes           11 
+Colin Duxbury        11 Tony Boyes           21 
 Alan Rotherforth        Cliff Edwards           
-Steve Harris         21 Joy Slater           19 
+Steve Harris         19 Joy Slater           21 
 Tommy Siddall           Peter Smith             
-Bob Miles            16 Paul Watson          21 
+Bob Miles            21 Paul Watson          16 
 Carol Wheeler           Barbara Kyle            
-         Aggregate:  58          Aggregate:  51 
-            Points:   5             Points:   1 
+         Aggregate:  51          Aggregate:  58 
+            Points:   1             Points:   5 
 
                               Tue 3rd Jun       
     Haw Hill Park A             Fryston         
@@ -605,5 +638,60 @@ Susan Dickens        18 Keith Winfield       21
 Paul Dickens            David Charlston         
          Aggregate:  45          Aggregate:  63 
             Points:   0             Points:   6 
+
+                              Tue 1st Jul       
+        Colton               Garforth Rec       
+Paul Lawson          21 Dennis Johnson        9 
+Tony Ward               Doug Fraser             
+Andrea Ryder         21 Joy Slater           14 
+Martin Dowling          Paul Watson             
+Michael Barker       13 Tony Boyes           21 
+Susan Barker            Cliff Edwards           
+         Aggregate:  55          Aggregate:  44 
+            Points:   5             Points:   1 
+
+                              Tue 1st Jul       
+    Haw Hill Park A             Altofts         
+Malcolm Smith        21 Roger Gidman         15 
+Jackie Smith            S Newman                
+David Charlston      21 J Barnett            10 
+Cynthia Sykes           G Brook                 
+Nigel Stroud         21 D Wright             14 
+Alan Holder             I Robinson              
+         Aggregate:  63          Aggregate:  39 
+            Points:   6             Points:   0 
+
+                              Tue 1st Jul       
+      Pontefract              Ferrybridge       
+Ann Greenhough       20 A Firth              21 
+Tony Hames              Tony Jacklin            
+James Shepherd       21 S Pease               9 
+*A.N.Other*             Michael Hesp            
+Michael Hill Snr     21 Dennis Dobson         7 
+Ralph Davis             George Bradbury         
+         Aggregate:  62          Aggregate:  37 
+            Points:   5             Points:   1 
+
+                              Tue 1st Jul       
+     Featherstone           Haw Hill Park B     
+Wayne Bond           21 Jane Hayward          9 
+Ken Robinson            Lesley Servis           
+Colin Jarvis         21 Bernadette Perrow     4 
+Glyn Hanson             Jacqueline Guy          
+John Wilkinson       21 David Servis         20 
+Billy Rush              Brian Tighe             
+         Aggregate:  63          Aggregate:  33 
+            Points:   6             Points:   0 
+
+                              Tue 1st Jul       
+    Glasshoughton B         Glasshoughton A     
+Bob Miles            21 Susan Dickens        16 
+Alan Rotherforth        Paul Dickens            
+Steve Harris          8 David Jackson        21 
+Pete Walton             Kevin Isles             
+Tony Wheeler         12 Albert Lee           21 
+Dennis Westmoreland     Ray Tenant              
+         Aggregate:  41          Aggregate:  58 
+            Points:   1             Points:   5 
 
 

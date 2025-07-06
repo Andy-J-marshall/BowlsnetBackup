@@ -1,11 +1,11 @@
-=== Castleford (Pairs) 2025 (as of Sun 29th Jun)
+=== Castleford (Pairs) 2025 (as of Sun 6th Jul)
 === Comp. Match Cards
 
                              Thu 10th Apr       
     Glasshoughton A             Kippax          
 Wayne Martin         18 Jade Johnson         21 
 Josh Bennett            Ron Hill                
-Beth Wales           21 Julie Goldups         3 
+Beth Wales           21 Julie Goldup          3 
 John Mulheir            Liam Todd               
 Ray Tennant          13 Nathan Biddles       21 
 Albert Lee              Thomas Stephenson       
@@ -79,7 +79,7 @@ Pasquale Natale      21 Roy Naylor            3
 Brian Hill              Douglas Taylor          
 Jade Johnson         21 Molly Depledge       13 
 Ron Hill                David Taylor            
-Julie Goldups        18 Keith Fowler         21 
+Julie Goldup         18 Keith Fowler         21 
 Thomas Stephenson       Matt Fowler             
 John Broadhead       21 Joanne Lund          12 
 Richard Robson          Jeff Baggaley           
@@ -139,10 +139,10 @@ Denis Hill           21 Richard Robson       14
 Stephen Jones           John Broadhead          
 Brian Tighe          21 Paul Stephenson      17 
 David Servis            Thomas Stephenson       
-Nigel Stroud         21 Julie Goldups         1 
+Nigel Stroud         21 Julie Goldup          1 
 Alan Holder             Ron Hill                
 Stephen Smith        16 Jade Johnson         21 
-Jane Hayward            R Auty                  
+Jane Hayward            Richard Auty            
          Aggregate:  79          Aggregate:  53 
 
                               Thu 1st May       
@@ -195,11 +195,11 @@ Chris Paul              Ben Middleton
 
                               Thu 8th May       
       Queens Park               Kippax          
-Paul Moxon           21 R Auty               16 
+Paul Moxon           21 Richard Auty         16 
 Paul Senior             Liam Todd               
 Karen Day            21 Thomas Stephenson     9 
 Corrine Franks          John Broadhead          
-Sam Waite            12 Julie Goldups        21 
+Sam Waite            12 Julie Goldup         21 
 Archie Waite            Chris Sumner            
 Danny Hope           21 Ray Mattison         19 
 David Senior            *A.N.Other*             
@@ -225,9 +225,21 @@ Jade Johnson         21 Ralph Davies         14
 Ray Mattison            Sarah Hill              
 Philip Hatch         21 Steve Derry          20 
 John Broadhead          Tony Hames              
-Gary Earl            21 Michael Hill Snr      2 
+Garry Earl           21 Michael Hill Snr      2 
 Liam Todd               Julie Stansfield        
          Aggregate:  84          Aggregate:  56 
+
+                             Thu 15th May       
+     Featherstone               Kippax          
+Val Trickey          10 Liam Todd            21 
+Gordon Alex Maxwell     David Simpson           
+Darren Maxwell       21 John Broadhead        5 
+Ryan Tankard-Little     Ray Mattison            
+John Parkinson       21 Jade Johnson         10 
+Neil Rush               Richard Auty            
+Billy Rush           19 Brian Hill           21 
+Colin Jarvis            Richard Robson          
+         Aggregate:  71          Aggregate:  57 
 
                              Thu 15th May       
     Glasshoughton B         Glasshoughton A     
@@ -315,13 +327,13 @@ Terry Ratcliffe         Brian Tighe
 
                              Thu 29th May       
         Kippax                Ferrybridge       
-A Simpson            21 John Kirby           17 
+David Simpson        21 John Kirby           17 
 Jade Johnson            Tony Jacklin            
 Richard Robson        8 Michael Hesp         21 
 John Broadhead          Dennis Dobson           
-Julie Goldups        10 Robert Firth         21 
+Julie Goldup         10 Robert Firth         21 
 Pasquale Natale         Robert McEwan           
-R Auty               21 Arthur Firth         16 
+Richard Auty         21 Arthur Firth         16 
 Ray Mattison            Robin Ayres             
          Aggregate:  60          Aggregate:  75 
 
@@ -423,11 +435,11 @@ Keith Render            Craig Broome
 
                              Thu 12th Jun       
         Kippax               Pontefract A       
-R Auty                7 Maureen Chambers     21 
+Richard Auty          7 Maureen Chambers     21 
 Jade Johnson            Howard Boulton          
 Liam Todd             6 Ian Scarfe           21 
 Ray Mattison            Stan Moxon              
-Julie Goldups         5 Gary Tingle          21 
+Julie Goldup          5 Gary Tingle          21 
 Richard Robson          Stuart Thompson         
 Graham Hodder         9 Tony Chambers        21 
 Chris Sumner            Alan Box (s)            
@@ -460,13 +472,13 @@ Alan Box (s)            Kevin Isles
                              Thu 12th Jun       
         Fryston                 Kippax          
 Barry May            21 Ray Mattison         13 
-Steve Ellerker          Margaret Dickenson      
+Steve Ellerker          Marlene Dickenson       
 Wendy Johnson        21 John Broadhead        9 
 Mark Harrap             Rob Dickenson           
-Neil Johnson         21 Julie Goldups        16 
-Mick North              R Auty                  
+Neil Johnson         21 Julie Goldup         16 
+Mick North              Richard Auty            
 Martin Evans         19 Jade Johnson         21 
-Les Denton              A Simpson               
+Les Denton              David Simpson           
          Aggregate:  82          Aggregate:  59 
 
                              Thu 12th Jun       
@@ -483,15 +495,27 @@ Naomi Morritt           Robert Stansfield
 
                              Thu 19th Jun       
     Glasshoughton B             Kippax          
-Bob Miles             4 R Auty               21 
-Malcolm Depledge        Julie Goldups           
+Bob Miles             4 Richard Auty         21 
+Malcolm Depledge        Julie Goldup            
 Colin Duxbury         6 Rob Dickenson        21 
 Kevin Roberts           Richard Robson          
-Kieren Johnson       21 Margaret Dickenson    8 
+Kieren Johnson       21 Marlene Dickenson     8 
 Ben Middleton           John Broadhead          
 Janice Roberts       10 Pasquale Natale      21 
 Ian Smith               Ray Mattison            
          Aggregate:  41          Aggregate:  71 
+
+                             Thu 19th Jun       
+      Ferrybridge               Fryston         
+Robin Ayres          14 Mark Harrap          21 
+Archie Richardson       Wendy Johnson           
+John Kirby           21 Phillip Greenwood    13 
+Dennis Dobson           Neil Johnson            
+Arthur Firth         21 Steve Ellerker        5 
+Michael Hesp            Barry May               
+Martin Lawrence      21 Les Denton           19 
+Tony Jacklin            Mick North              
+         Aggregate:  77          Aggregate:  58 
 
                              Thu 26th Jun       
     Glasshoughton A             Methley         
@@ -543,14 +567,74 @@ Martin Lawrence         Brian Tighe
 
                              Thu 26th Jun       
         Kippax               Valley Ridge       
-Margaret Dickenson   21 Geoffrey Crossland   16 
+Marlene Dickenson    21 Geoffrey Crossland   16 
 Tim Harris              Margaret Crossland      
-R Auty                9 Colin Lowe           21 
+Richard Auty          9 Colin Lowe           21 
 Ray Mattison            Terry Ratcliffe         
 Jade Johnson         14 Craig Broome         21 
 Rob Dickenson           Barry Broome            
-A Simpson            15 Phil Howarth         21 
+David Simpson        15 Phil Howarth         21 
 John Broadhead          Dennis Johnson          
          Aggregate:  59          Aggregate:  79 
+
+                              Thu 3rd Jul       
+        Kippax              Glasshoughton A     
+Liam Todd            21 Wayne Martin         16 
+Jon Ballance            Josh Bennett            
+Julie Goldup         10 Janet Mulheir        21 
+Norman Howarth          Harry Chapple           
+Ray Mattison          7 Ray Tennant          21 
+Marlene Dickenson       Albert Lee              
+Richard Auty         21 Beth Wales           12 
+Jade Johnson            John Mulheir            
+         Aggregate:  59          Aggregate:  70 
+
+                              Thu 3rd Jul       
+    Glasshoughton B          Pontefract A       
+Steve Harris          8 Stuart Thompson      21 
+Malcolm Depledge        Julie Tams              
+Tony Wheeler         16 Ricky Watson         21 
+Ian Smith               Gary Tingle             
+Mick Mallinson        2 Tony Chambers        21 
+Dennis Westmoreland     Maureen Chambers        
+Bob Miles             8 John Wyard           21 
+Paul Dickens            Stan Moxon              
+         Aggregate:  34          Aggregate:  84 
+
+                              Thu 3rd Jul       
+     Pontefract B               Methley         
+Ralph Davies         21 Jeff Baggaley         8 
+Alan Godridge           Roy Naylor              
+Sarah Hill           14 Molly Depledge       21 
+Ann Greenough           Keith Render            
+Michael Hill Jnr     21 Chris Paul           13 
+Julie Stansfield        Rob Wake                
+Michael Hill Snr     21 David Taylor          5 
+Tony Hames              Paul Brownley           
+         Aggregate:  77          Aggregate:  47 
+
+                              Thu 3rd Jul       
+      Queens Park            Hawhill Park       
+Karl Barker          21 Jane Hayward         14 
+Paul Senior             Stephen Jones           
+Archie Waite         21 David Servis          9 
+Sam Waite               Brian Tighe             
+Nicky Barker         21 Denis Hill           16 
+Danny Hope              Stephen Smith           
+David Senior         20 Alan Holder          21 
+Harrison Barker         Keith Winfield          
+         Aggregate:  83          Aggregate:  60 
+
+                              Thu 3rd Jul       
+     Featherstone            Valley Ridge       
+John Moss            21 Craig Broome         15 
+John Parkinson          Barry Broome            
+Tony Marsh           21 Dennis Johnson       18 
+Neil Rush               Trevor Booth            
+Billy Rush           21 Colin Lowe           18 
+Ryan Tankard-Little     Roy Barton              
+Glynn Hanson         21 Marie Potter          5 
+Colin Jarvis            Terry Ratcliffe         
+         Aggregate:  84          Aggregate:  56 
 
 
