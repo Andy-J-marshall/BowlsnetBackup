@@ -1,4 +1,4 @@
-=== Halifax (Hebden Royd Fri.) 2025 (as of Sun 6th Jul)
+=== Halifax (Hebden Royd Fri.) 2025 (as of Sun 13th Jul)
 === League Match Cards
 
            League                   Fri 25th Apr       
@@ -117,6 +117,14 @@ John Bewick                17 Steve Greenwood       21
                   Points:  19              Points:  24 
                Aggregate:  92           Aggregate: 108 
                    Games:   2               Games:   4 
+
+           League                   Fri 2nd May        
+         Division 2                                    
+        Cross Roads B                Old Town B        
+                  Points:  27              Points:  10 
+               Aggregate:   0           Aggregate:   0 
+                   Games:   0               Games:   0 
+        Manual Result                                  
 
     Friday Morning Fours            Fri 2nd May        
 Friday Morning Fours Group 1       On Hill Crest       
@@ -1027,7 +1035,7 @@ Ian Tootell                15 Peter Clement         21
            League                   Fri 4th Jul        
          Division 1                                    
         Hill Crest A                  Oxenhope         
-Stephen Balmforth          21 *A.N.Other*           14 
+Stephen Balmforth          21 Trevor Bairstow       14 
 Nicola Simpson             21 Roger Whitaker        15 
 Craig Thomasson            21 David Milnes           9 
 Paul Oldfield              21 Mary Hemsley          10 
@@ -1128,5 +1136,100 @@ Ian Tootell                20 Fred Greenwood        21
 Shirley Smith              13 Paul Hitchen          21 
                Aggregate:  66           Aggregate:  76 
                   Points:  13              Points:  17 
+
+           League                   Fri 11th Jul       
+         Division 1                                    
+        Cross Roads A                  Savile          
+Daniel Hargreaves          13 Yvonne Sanderson      21 
+Thomas Hargreaves           9 David Whitehouse      21 
+Kath Gower                 18 David Nichol          21 
+Sally Grundy               21 Paul Pitchforth       13 
+Ashley Elliot-Murphy       21 Sam Redfearne          9 
+Malcolm Porter             21 Claire Morrison        6 
+                  Points:  21              Points:  19 
+               Aggregate: 103           Aggregate:  91 
+                   Games:   3               Games:   3 
+
+           League                   Fri 11th Jul       
+         Division 1                                    
+          Oxenhope                Luddendenfoot B      
+David Milnes               21 Chris Mitchell        17 
+Roger Whitaker             10 Kevin Mitchell        21 
+Trevor Bairstow            21 Daniel Stafford       17 
+John Slight                21 Phil Thornber         15 
+Andrew Hollywood            6 Dave Stafford         21 
+Nigel Tyne-Miller           7 Chris Watkins         21 
+                  Points:  19              Points:  24 
+               Aggregate:  86           Aggregate: 112 
+                   Games:   3               Games:   3 
+
+           League                   Fri 11th Jul       
+         Division 2                                    
+           Sowerby                   Old Town A        
+Stephen Baitscheff          6 Ian Coleman           21 
+Alan Riddles               11 John McDermondy       21 
+Julia Palmer                7 Tom Faulkner          21 
+Jean Sutton                10 John Bewick           21 
+Denise Anderton            21 Peter Cockroft        17 
+Ken Johnson                21 Harry Coleman         18 
+                  Points:  16              Points:  26 
+               Aggregate:  76           Aggregate: 119 
+                   Games:   2               Games:   4 
+
+           League                   Fri 11th Jul       
+         Division 2                                    
+         Old Town B                 Cullingworth       
+Rodger Walsh               21 Joseph Cookson        15 
+John Tolley                21 Teresa Davy           18 
+Tom Sapey                  19 Mike Barbour          21 
+Stewert Andrews            19 Geoff Battye          21 
+Karl Theobald              21 Mark Smith            18 
+Dave Ruse                  21 Martin Bentley        13 
+                  Points:  26              Points:  21 
+               Aggregate: 122           Aggregate: 106 
+                   Games:   4               Games:   2 
+
+           League                   Fri 11th Jul       
+         Division 2                                    
+        Hill Crest B                Heptonstall        
+Colin Wright               12 Matthew Flannagan     21 
+Ella Clisset               18 Jack Rogers           21 
+Carol Harris               21 Drew Marsh            17 
+Ed Tinker                  21 Luke Sessions         16 
+Craig Charlwood            21 David Dunn             8 
+Alan Wooliscroft           21 Alan Thorpe            3 
+                  Points:  25              Points:  17 
+               Aggregate: 114           Aggregate:  86 
+                   Games:   4               Games:   2 
+
+    Friday Morning Fours            Fri 11th Jul       
+Friday Morning Fours Group 1        On Oxenhope        
+         Oxenhope 4s               Hill Crest 4s       
+Fred Rothwell              21 John Jackson          16 
+John Slight                11 Bob Woodhead          21 
+David Milnes               19 Ernie Rickman         21 
+Mary Hemsley               21 Frank Clissitt        15 
+               Aggregate:  72           Aggregate:  73 
+                  Points:  15              Points:  16 
+
+    Friday Morning Fours            Fri 11th Jul       
+Friday Morning Fours Group 1        On Oxenhope        
+        Walsden 4s A               Bradshaw 4s A       
+Keith Rudman               21 Gary Kinvig           14 
+Andrew Foster              21 Keith Noble           17 
+Paul Senior                21 Kyle Jones            10 
+Geoff Crabtree             21 Linsey Metcalfe        9 
+               Aggregate:  84           Aggregate:  50 
+                  Points:  20              Points:   8 
+
+    Friday Morning Fours            Fri 11th Jul       
+Friday Morning Fours Group 2         On Walsden        
+        Walsden 4s B               Bradshaw 4s B       
+Ian Tootell                21 Mervyn Bamford         1 
+Darrell Halstead           21 John Furlong           4 
+Tony Hunking               21 Joe Scanlan           11 
+Syd Smith                  20 Eric Crowther         21 
+               Aggregate:  83           Aggregate:  37 
+                  Points:  19              Points:   7 
 
 

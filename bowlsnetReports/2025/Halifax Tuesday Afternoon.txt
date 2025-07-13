@@ -1,4 +1,4 @@
-=== Halifax (Tues.Afternoon) 2025 (as of Sun 6th Jul)
+=== Halifax (Tues.Afternoon) 2025 (as of Sun 13th Jul)
 === Comp. Match Cards
 
       Division 2              Tue 8th Apr       
@@ -1668,5 +1668,77 @@ Steve Shaw           10 M Russell            21
          Aggregate:  99          Aggregate:  93 
              Games:   3              Games:   3 
             Points:   5             Points:   3 
+
+      Division 1              Mon 7th Jul       
+      West End A             Hill Crest A       
+Steven Holroyd       11 David Barnes         21 
+Brian Needham         9 Lyndon Harris        21 
+Martin Murphy        21 R Woodhead            8 
+Ivan Taylor          21 Derek Hall           15 
+Alan Duke             8 Frank Clissett       21 
+John Rowley          18 Annice Copley        21 
+         Aggregate:  88          Aggregate: 107 
+             Games:   2              Games:   4 
+            Points:   2             Points:   6 
+
+      Division 2              Tue 8th Jul       
+      Kingston A           Luddenden Foot A     
+Pasqual Cestrone     21 Gerald Rowley        13 
+Philip Stone         21 Philip Swain          7 
+Terry Horsfall       21 John Shann            7 
+John Stewart         21 Ray Cope              7 
+Alan Whittle         15 David Stafford       21 
+Martyn Simms         21 Ray Wolsey           10 
+         Aggregate: 120          Aggregate:  65 
+             Games:   5              Games:   1 
+            Points:   7             Points:   1 
+
+      Division 2              Tue 8th Jul       
+    Sowerby T & BC          Bailiff Bridge      
+Alastair Baigent     18 Malcolm Park         21 
+Keith Hartley        18 Kevin Page           21 
+Martyn Summerscales  19 David Franz          21 
+Edward Eyres         13 Colin White          21 
+Don Hayward           8 Chris Stout          21 
+Peter Lomax          21 Bob Foalks            5 
+         Aggregate:  97          Aggregate: 110 
+             Games:   1              Games:   5 
+            Points:   1             Points:   7 
+
+      Division 2              Tue 8th Jul       
+      Allan Park              Ripponden B       
+June Gaukroger       21 Sue Greenwood        12 
+Paul Rimmer          21 Paul Hitchen          4 
+Jane Helliwell       18 Lorna Briggs         21 
+Martin Grace         21 Graham Smith          7 
+Gary O Leary         19 Peter Briggs         21 
+Chris Johnstone      21 Steve Mackrell        8 
+         Aggregate: 121          Aggregate:  73 
+             Games:   4              Games:   2 
+            Points:   6             Points:   2 
+
+      Division 2              Tue 8th Jul       
+      Hove Edge B            Northowram A       
+Ray Armstrong        21 Robert Clayton       18 
+Chris Wood           14 D Robinson           21 
+Jimmy Procter        11 Keith Walker         21 
+Patrick O'Connor     21 B Shutt              20 
+Peter Martin         21 Dennis Clayton       17 
+Kevin Longbottom     15 John Beaumont        21 
+         Aggregate: 103          Aggregate: 118 
+             Games:   3              Games:   3 
+            Points:   3             Points:   5 
+
+      Division 2              Tue 8th Jul       
+     Hill Crest B           Bradshaw Park A     
+Pamela Woodhead      11 Keith Noble          21 
+Paul Oldfield        21 John Fish            18 
+Tim Brumby           21 Graham Sellars       14 
+J Jackson            21 Russell Lockley       7 
+Alan Wooliscroft      8 Tony Young           21 
+Colin Wright         10 S Barker             21 
+         Aggregate:  92          Aggregate: 102 
+             Games:   3              Games:   3 
+            Points:   3             Points:   5 
 
 

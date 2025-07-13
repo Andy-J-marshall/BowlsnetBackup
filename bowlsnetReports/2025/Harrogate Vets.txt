@@ -1,4 +1,4 @@
-=== Harrogate Veterans 2025 (as of Sun 6th Jul)
+=== Harrogate Veterans 2025 (as of Sun 13th Jul)
 === League Match Cards
 
        Division 1              Fri 11th Apr       
@@ -2847,5 +2847,174 @@ Jean Rintoul           21 William Armistead    11
 Keith Bradley          21 David Sapherson      12 
            Aggregate: 130          Aggregate: 123 
               Points:   7             Points:   3 
+
+       Division 1              Fri 11th Jul       
+       Starbeck A                 Dacre A         
+Sue Green              21 Colin Ions           11 
+Robin Drury             7 Anne Brabin          21 
+Philip Turton           6 Audrey Hardcastle    21 
+Evan Challis           21 Kevin Sheard         14 
+Bernard Ibbotson       16 David Brockhill      21 
+Richard Armstrong      13 Eric Brabin          21 
+Terry Mitton           21 Nigel Nicholas       10 
+Tony Hawkes            21 Nick Coutts           9 
+           Aggregate: 126          Aggregate: 128 
+              Points:   4             Points:   6 
+
+       Division 2              Fri 11th Jul       
+       Boston Spa               Bilton WMC        
+Lew Wainwright         21 Derrick Fox          11 
+Graham Starkey         10 Gary Carter          21 
+Leo Wynzar             10 Peter Sanderson      21 
+John Mais              21 Ray Marshall         16 
+Steve Richardson       21 Brian McLoughlin     10 
+William Shaw           21 Paul Renton          15 
+Chris Lock             20 Alan Gazey           21 
+Dave Robinson          16 Trevor Baranovski    21 
+           Aggregate: 140          Aggregate: 136 
+              Points:   6             Points:   4 
+
+       Division 2              Fri 11th Jul       
+      Collingham B           *Low Harrogate C     
+Neil Roberts           21 Den Morris           18 
+Tim Storr              21 Nigel Swainson        6 
+Alan Pickering         21 Alan Old             13 
+Ron Clark              21 David Hughan         19 
+David Skinner          10 Jo Bonsels           21 
+Paul Nice              13 Ann Wilson           21 
+Jonathan Kinroy        21 Robin Addis           9 
+Paul Wilkinson         21 Kate Morris          19 
+           Aggregate: 149          Aggregate: 126 
+              Points:   8             Points:   2 
+
+       Division 2              Fri 11th Jul       
+         Dacre B             Pateley Bridge A     
+Helen Proudlove        21 Elizabeth Lambert    10 
+Julia Heaton           20 Mal Smith            21 
+Keith Hardcastle       21 June Johnson         13 
+Pauline Hook           21 Bryan Lee             6 
+Brian Furniss          19 John Corfield        21 
+Duncan Sloane          21 Ken Blakey           18 
+John Proudlove         17 Jackie Smith         21 
+Stewart Goosey         19 John Binns           21 
+           Aggregate: 159          Aggregate: 131 
+              Points:   6             Points:   4 
+
+       Division 2              Fri 11th Jul       
+        Tarnfield             Bilton Dragon B     
+John Illingworth       15 Colin Rudd           21 
+Bob Williams (a)       21 Paul Seaward         10 
+Denis Fowles           16 Richard Mudd         21 
+David Greenwood        21 Michael Birch         8 
+Billy Hartley          21 Richard Bullough     12 
+George McLaren         21 Sally Holland         5 
+Graham Tansley         21 Phillip Boreham      11 
+Barry Larkins          21 Dave Aldous          12 
+           Aggregate: 157          Aggregate: 100 
+              Points:   8             Points:   2 
+
+       Division 2              Fri 11th Jul       
+        Wayside B             Low Harrogate B     
+Ron Sadler             21 Graham Patrick       12 
+Mike Watson            21 Derek Wilson         10 
+Joan Forbes            21 Marion Frayne        17 
+Chris Watcham          21 David Moon           19 
+Geoff Brown            21 Kevin Clapham        15 
+Jenny Asker            21 Jim Whitton           9 
+Sandy Forbes           21 David Clarke         17 
+Peter McIntyre         15 Alan Winstanley      21 
+           Aggregate: 162          Aggregate: 120 
+              Points:   9             Points:   1 
+
+       Division 3              Fri 11th Jul       
+      Black Swan B            Knaresborough B     
+Stephen Procter        21 Allan Bowman         15 
+Gary Kinder            17 Karen Blaymire       21 
+Jim Corr               21 Stan Abbott          12 
+Angela Hodgson         15 Richard Williams     21 
+Dave Kinder            21 Tony Pedel           17 
+Alan Hodgson           21 William Armistead    17 
+Edward Hedgecock       14 Dennis Wise          21 
+Barry Turnbull         21 Andrew Ison          18 
+           Aggregate: 151          Aggregate: 142 
+              Points:   7             Points:   3 
+
+       Division 3              Fri 11th Jul       
+        Wetherby                *Wayside C        
+Mike Carr               1 Simon Daly           21 
+George Haywood         13 Tom Wood             21 
+Ian Joynson            21 Alger Asker           7 
+Sheila Hanson          14 Susie Whistler       21 
+Iain Scott             21 Kevin Johnson        10 
+Micheal Malawer        21 Rex Whistler          4 
+Lesley Holloran        21 Brian Snodgrass       5 
+Linda Thurgood         14 Kath Brown           21 
+           Aggregate: 126          Aggregate: 110 
+              Points:   6             Points:   4 
+
+       Division 3              Fri 11th Jul       
+      Almscliffe B           *Knaresborough C     
+Carol Walker           21 Lynn Curl            18 
+Richard Lock           21 Alan Hill            19 
+Mary Cockerham         21 Maggie Dolan         11 
+Jim Walker             21 Matt Curl            15 
+Robert Cockerham       21 David Wilkinson       4 
+Linda Brown            19 Phil Dolan           21 
+Stephen Liles          21 Elaine Blandford     20 
+Tony Brown             21 Gary Blandford       11 
+           Aggregate: 166          Aggregate: 119 
+              Points:   9             Points:   1 
+
+       Division 3              Fri 11th Jul       
+         Bardsey              Bilton Dragon C     
+Paul Matthews          11 Peter Lamb           21 
+Walter Lewis           21 Joyce Light           6 
+Peter Mason            21 Brian Hawkes         19 
+Rita Beadle            21 Joyce Blackburn      15 
+Ian Carr               21 Peter Kershaw        10 
+David Lewis            21 Nisbet Russell        7 
+Hazel Kelly            21 Mary Smith            5 
+James Phillips         21 *A.N.Other*           0 
+           Aggregate: 158          Aggregate:  83 
+              Points:   9             Points:   1 
+
+       Division 4              Fri 11th Jul       
+     Knaresborough D            Starbeck B        
+Val Fennell            21 Brian Baldry         18 
+Stephen Tyreman        21 Ken Firth            19 
+Phil Blaymire          21 Gerald Widnall       11 
+George Gibson          21 Don Smith            12 
+Alf Osburn             21 James Cliff          10 
+Andy Minty             10 Dave Stockdale       21 
+Bill Harrison          21 David Crumley         4 
+Andrew Lee             14 Carol Abbott         21 
+           Aggregate: 150          Aggregate: 116 
+              Points:   8             Points:   2 
+
+       Division 4              Fri 11th Jul       
+    Pateley Bridge B           Collingham C       
+Ian Rodgers            11 John Mokes           21 
+Sarah Ward             21 Graham Perry          4 
+Ann Shackleton         21 Denise Farmer         4 
+John Ward              21 Jane Nicholson       10 
+Tracey Sydney          21 Alma Hatfield        19 
+Graham Ogden           21 Eric Gomerson        10 
+John Shackleton        21 David Mills          13 
+Tim Sydney             21 Anthony Burton       11 
+           Aggregate: 158          Aggregate:  92 
+              Points:   9             Points:   1 
+
+       Division 4              Fri 11th Jul       
+    *Low Harrogate D            Starbeck C        
+John Wardle            21 Malcolm Wood         12 
+David Davies           10 David Toomey         21 
+Alan Hansford          21 Mike Rhodes           5 
+Glenys Old             21 Sally Bradley Dixon  13 
+Adele Zagorski         21 Adrian Dawson        12 
+Charlie Peacock        21 Peter Finch          16 
+Greg O'Mahony          21 John Williams         4 
+*No Player*             0 *No Player*           0 
+           Aggregate: 136          Aggregate:  83 
+              Points:   8             Points:   1 
 
 

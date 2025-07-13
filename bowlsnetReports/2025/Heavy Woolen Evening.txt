@@ -1,4 +1,4 @@
-=== Heavy Woollen Evening League 2025 (as of Sun 6th Jul)
+=== Heavy Woollen Evening League 2025 (as of Sun 13th Jul)
 === League Match Cards
 
                               Wed 9th Apr       
@@ -857,7 +857,8 @@ Stewart Walker       21 Yvonne Ainley         7
 Harriet Chadwick     19 Jeanette Leckenby    21 
 Lynn Flowers         21 Ian Exley            13 
           Handicap: +15           Handicap: +44 
-         Aggregate: 170          Aggregate: 147 
+         Aggregate: 168          Aggregate: 147 
+   Result Overridden                            
 
                               Wed 2nd Jul       
     Hanging Heaton        Kirkheaton Cons 'B'   
@@ -870,7 +871,8 @@ Tony Howland         21 Giles Massey          7
 Christine Lamb       21 Krystal Hemmingway   11 
 Ian Taylor           21 Richard Earnshaw      5 
           Handicap: +10           Handicap: +30 
-         Aggregate: 178          Aggregate: 110 
+         Aggregate: 168          Aggregate: 110 
+   Result Overridden                            
 
                               Wed 2nd Jul       
       Grange Moor          Thornhill C & BC     
@@ -883,7 +885,8 @@ Dale Winterbottom    16 Claire Price         21
 Martin Longley       21 Joyce Tolson          9 
 Deon Hunter          16 Julie Makepeace      21 
           Handicap: +21           Handicap: +30 
-         Aggregate: 174          Aggregate: 166 
+         Aggregate: 168          Aggregate: 166 
+   Result Overridden                            
 
                               Wed 2nd Jul       
    Ossett C & AC 'B'       Ossett C & AC 'C'    
@@ -896,7 +899,8 @@ Linda Theaker        21 Beverley Bullock      7
 David Clarkson       21 Paul Johnson         11 
 John Kennelly        20 David Hirst          21 
           Handicap: +14           Handicap: +66 
-         Aggregate: 181          Aggregate: 152 
+         Aggregate: 168          Aggregate: 152 
+   Result Overridden                            
 
                               Wed 2nd Jul       
    Overthorpe Sports       Ossett C & AC 'A'    
@@ -910,5 +914,72 @@ Richard Sweeney      10 Peter Lamb           21
 Nathan Jewitt        21 Paul Sweeney         10 
           Handicap: +10           Handicap: Scr 
          Aggregate: 119          Aggregate: 150 
+
+                              Mon 7th Jul       
+   Ossett C & AC 'C'       Overthorpe Sports    
+David Clarkson        8 Tony Dickinson       21 
+Pauline Clarkson     21 Wayne Loney          15 
+Paul Johnson         21 Jane Harris          19 
+Sharon Scholey       12 Sharon Byrnes        21 
+David Hirst          21 Richard Sweeney      11 
+Brian Wood            3 Geraldine Dickinson  21 
+Connor Dunford       21 Jonny Smith          13 
+Michael Scholey      12 Rodney Clifford      21 
+          Handicap: +33           Handicap: +20 
+         Aggregate: 152          Aggregate: 162 
+
+                              Wed 9th Jul       
+     Morton House         Kirkheaton Cons 'B'   
+Lewis Butterfield    21 Cath O'Connor         4 
+Mandy Hyde           21 Gillian Barker        2 
+David Payne          21 Krystal Hemmingway   15 
+David Hall           21 Giles Massey          6 
+Douglas Bulmer       21 Carol Earnshaw       18 
+Wayne Kemp           21 Chris Webb            3 
+Angie Whitworth      21 Paula Kershaw        12 
+James Payne          21 Adi O'Connor          5 
+          Handicap: Scr           Handicap: +30 
+         Aggregate: 168          Aggregate:  95 
+
+                              Wed 9th Jul       
+   Ossett C & AC 'A'        Hanging Heaton      
+Paul Sweeney         21 Philip Crossland      8 
+Peter Lamb           21 Lee Crossland        14 
+Mick Scott           21 Peter Wilson         11 
+Graeme Eyre          21 Peter Byrne          12 
+Bryan Collier        21 Mick Underhill       13 
+Chris Goodwin        21 Ian Taylor           14 
+Svajunas Kapitan     17 Peter Richardson     21 
+Ben Sweeney          21 Tony Howland          4 
+          Handicap: Scr           Handicap: +20 
+         Aggregate: 164          Aggregate: 117 
+
+                              Wed 9th Jul       
+   Staincliffe Park           Grange Moor       
+Joanne Lockwood      21 Martin Longley       10 
+Andrew Leckenby      21 Mel Kirton            8 
+James Stokes         21 Dale Winterbottom    15 
+David Kellett        21 Rod Burgin           13 
+David Halmshaw       21 David Bolger         12 
+Yvonne Ainley        21 Margaret Longley     11 
+Carol Sykes           7 Deon Hunter          21 
+Ian Exley            17 Michael Booth        21 
+          Handicap: +22           Handicap: +42 
+         Aggregate: 168          Aggregate: 153 
+   Result Overridden                            
+
+                              Wed 9th Jul       
+   Thornhill C & BC        Ossett C & AC 'B'    
+Ben Gibson           18 John Shooter         21 
+David Tolson         17 John Kennelly        21 
+Derek Robinson       21 Eric Law              4 
+Phil Gamble          15 Nora Collier         21 
+Rachael Gamble        9 Linda Theaker        21 
+Joyce Tolson         15 Kath Shooter         21 
+Claire Price          9 John D Ellis         21 
+Jennifer Gray        13 Terry Fletcher       21 
+          Handicap: +15           Handicap: +28 
+         Aggregate: 132          Aggregate: 168 
+   Result Overridden                            
 
 
