@@ -1,4 +1,4 @@
-=== Huddersfield Ladies Afternoon Bowling League 2025 (as of Sun 13th Jul)
+=== Huddersfield Ladies Afternoon Bowling League 2025 (as of Sun 20th Jul)
 === Comp. Match Cards
 
         Section 1                 Wed 16th Apr        
@@ -53,7 +53,7 @@ Hazel Kelly                Bridie Buckley
      Primrose Hill B            Denby Dale BC A       
 Kerry Fox                6 Helen Sansom            21 
 Mavis Wrigley           19 Karen Taylor            21 
-Angekla Dhaliwal        11 Adrienne Harmon         21 
+Angela Dhaliwal         11 Adrienne Harmon         21 
 Janet Thorpe            19 Diana Swaine            21 
 Ann Price               21 Sue Wain                19 
 Janet Wilkinson            Pat Wright                 
@@ -303,7 +303,7 @@ Pat Wright                 Glenis Firth
 
         Section 2                 Wed 23rd Apr        
     Linthwaite Hall B           Primrose Hill B       
-Jane Armitage           21 Angekla Dhaliwal        19 
+Jane Armitage           21 Angela Dhaliwal         19 
 J Lovatt                15 Janet Thorpe            21 
 Shirley Dillingham      21 Mavis Wrigley           20 
 I Crowther              21 Liz Beaumont             7 
@@ -509,7 +509,7 @@ Claire Lucid               P Booth
      Primrose Hill B               Hemplow BC         
 Audrey Hunter           10 A Taylor                21 
 Janet Thorpe            20 Judith Butters          21 
-Angekla Dhaliwal        18 K Crowther              21 
+Angela Dhaliwal         18 K Crowther              21 
 Mavis Wrigley           21 D Sykes                 13 
 Ann Price               21 C Howard                13 
 Janet Wilkinson            J Roper                    
@@ -723,7 +723,7 @@ Kate Garside               Janet Dyson
 
         Section 2                 Wed 7th May         
         Marsh Lib               Primrose Hill B       
-S Livingstone           12 Angekla Dhaliwal        21 
+S Livingstone           12 Angela Dhaliwal         21 
 D Neil                  21 Janet Thorpe             6 
 J Robson                21 Mavis Wrigley           14 
 W Smith                 21 Kerry Fox               20 
@@ -940,7 +940,7 @@ Alison Brennan             Lynn Carter
         Section 2                 Wed 14th May        
      Primrose Hill B             Lindley BC 'A'       
 Audrey Hunter           10 Jean Gee                21 
-Angekla Dhaliwal        21 June Taylor             18 
+Angela Dhaliwal         21 June Taylor             18 
 Janet Thorpe            21 Janet Allen             14 
 Kerry Fox               18 Lorna Briggs            21 
 Janet Wilkinson         21 Judith Hall             17 
@@ -1169,7 +1169,7 @@ Angela Allan               D Neve
      Kirkheaton CBC B           Primrose Hill B       
 E Hirst                 14 Kerry Fox               21 
 S Carroll               13 Janet Thorpe            21 
-Eliabeth Kilner          6 Angekla Dhaliwal        21 
+Eliabeth Kilner          6 Angela Dhaliwal         21 
 Sonia Sanderson         21 Janet Wilkinson         13 
 S Ray                   21 Pauline Moseley         17 
 L McNeal                   Jean Hilton                
@@ -1371,7 +1371,7 @@ Janet Roberts              B Sparrow
 
         Section 2                 Wed 28th May        
      Primrose Hill B             Almondbury BCA       
-Angekla Dhaliwal        21 Shelagh Illingworth     15 
+Angela Dhaliwal         21 Shelagh Illingworth     15 
 Janet Wilkinson         21 A Rollins               11 
 Janet Thorpe            21 Sue Lees                 2 
 Kerry Fox               16 Theresa Harrison        21 
@@ -1829,7 +1829,7 @@ Pamela Coyle               I Moses
        Longwood BC              Primrose Hill B       
 M Parr                  21 Audrey Hunter           12 
 Jenny Marshall          21 Janet Wilkinson         17 
-J Gledhill              15 Angekla Dhaliwal        21 
+J Gledhill              15 Angela Dhaliwal         21 
 D Elmor Haigh           13 Janet Thorpe            21 
 M France                16 Pauline Moseley         21 
 Pamela Atkins              Ann Price                  
@@ -2019,7 +2019,7 @@ Barbara Johnstone          Caroline Dempsey
 
         Section 2                 Wed 25th Jun        
      Denby Dale BC A            Primrose Hill B       
-Diana Swaine            21 Angekla Dhaliwal        14 
+Diana Swaine            21 Angela Dhaliwal         14 
 Helen Sansom            18 Janet Thorpe            21 
 Adrienne Harmon         19 Janet Wilkinson         21 
 Ann Moseley             21 Audrey Hunter           16 
@@ -2273,7 +2273,7 @@ L McNeal                   Jenny Maddrell
      Primrose Hill B           Linthwaite Hall B      
 Janet Thorpe            21 Shirley Dillingham      19 
 Janet Wilkinson         21 D Gartside              13 
-Angekla Dhaliwal        21 J Lovatt                18 
+Angela Dhaliwal         21 J Lovatt                18 
 Audrey Hunter           14 I Crowther              21 
 Ann Price               21 K Earnshaw              17 
 Janet Wilkinson            Christine Charlesworth     
@@ -2478,10 +2478,10 @@ A Sykes                    Leanne McGowan
 Judith Butters          20 Janet Wilkinson         21 
 L Sykes                 21 Janet Thorpe            18 
 J Roper                 21 Audrey Hunter            3 
-A Taylor                21 Angekla Dhaliwal        12 
+A Taylor                21 Angela Dhaliwal         12 
 D Sykes                 21 Pauline Moseley          5 
 C Howard                   Jean Hilton                
-E Kewley                 8 *A.N.Other*             21 
+E Kewley                 8 Janet Wilkinson         21 
 Carol Wilby                Ann Price                  
             Aggregate: 112             Aggregate:  80 
 
@@ -2640,5 +2640,197 @@ Jean Walton                Julie Scott
 Kath Lowe               21 Jenny Jimenez           20 
 Christine Hewitt           Ursula Noel                
             Aggregate:  95             Aggregate: 106 
+
+        Section 1                 Wed 16th Jul        
+      Broad Oak BC A              Golcar Lib A        
+Toni Agnew              21 Wendy Crowther           9 
+Ann Hinchliffe          21 J Bennett               17 
+Tracey Singleton        19 Jessica Sykes           21 
+Catherine Hoyle         21 S Hammond               11 
+Pauline Wilde           21 B Sparrow               12 
+Diane Firth                A Sykes                    
+Lyn Bowes               21 C Scaife                12 
+Christine Dawson           P Beeby                    
+            Aggregate: 124             Aggregate:  82 
+
+        Section 1                 Wed 16th Jul        
+       New Mill WMC             Marsh United BC       
+Linda Gledhill          21 Julie Mallinson         10 
+Linda Drury             21 Sally Howard             7 
+Lily Hesling            13 Pat Taylor              21 
+Julie Best              13 Sue Bentley             21 
+K Longley               13 Sue Harper              21 
+L Szlachcic                Bridie Buckley             
+E Bell                  21 Julie Mallinson         15 
+Karen Beaumont             Lynn Carter                
+            Aggregate: 102             Aggregate:  95 
+
+        Section 1                 Wed 16th Jul        
+      Almondbury Lib            Milnsbridge BC A      
+Yvonne Heaume           21 Gwyneth Hall            19 
+Heather Dyson           21 Janet Henry             20 
+Amanda Donaldson         4 Barbara Peacock         21 
+Bridget Walsh            9 Julie Sykes             21 
+Leanne McGowan          21 Sue Smith               13 
+Stacey Donaldson           Suzanne Lunn               
+Hazel Kelly             21 Vera Foster              7 
+Caroline Dempsey           Diane Clifford             
+            Aggregate:  97             Aggregate: 101 
+
+        Section 2                 Wed 16th Jul        
+     Primrose Hill B               Marsh Lib          
+Janet Wilkinson         15 D Neil                  21 
+Audrey Hunter           17 C Balmforth             21 
+Angela Dhaliwal         18 Nancy Priestley         21 
+Janet Thorpe            21 S Livingstone           16 
+Pauline Moseley         21 W Smith                 15 
+Jean Hilton                A Booth                    
+Ann Price               21 D Neil                  19 
+Janet Wilkinson            Margaret Wilson            
+            Aggregate: 113             Aggregate: 113 
+
+        Section 2                 Wed 16th Jul        
+      Lindley BC 'A'           Linthwaite Hall B      
+Jean Gee                21 Jane Armitage           18 
+Jayne Moore             18 Shirley Dillingham      21 
+Sharron Broadley        21 I Crowther              19 
+Glynis Philbin          21 J Lovatt                14 
+Kath Leathwood           9 S Lockwood              21 
+Judith Hall                Christine Charlesworth     
+June Taylor             21 S Mellor                20 
+Jean Gee                   Christine Smith            
+            Aggregate: 111             Aggregate: 113 
+
+        Section 2                 Wed 16th Jul        
+      Almondbury BCA            Denby Dale BC A       
+Theresa Harrison        21 Ann Moseley             15 
+D Neve                  21 Adrienne Harmon         11 
+*A.N.Other*              8 Jenny Maddrell          21 
+Shelagh Illingworth     21 Diana Swaine             7 
+A Butterfield           19 Pat Wright              21 
+Lynn Greenwood             Sue Wain                   
+Sheila Cooke            21 Lynda Goodwin           20 
+Jean Halliwell             Jenny Maddrell             
+            Aggregate: 111             Aggregate:  95 
+
+        Section 2                 Wed 16th Jul        
+     Kirkheaton CBC B             Longwood BC         
+E Hirst                 21 Jenny Marshall          19 
+Sonia Sanderson         21 S Winterburn            11 
+Eliabeth Kilner         21 M Parr                  18 
+S Carroll               21 Julie Russell           20 
+S Field                 17 D Elmor Haigh           21 
+Pamela Coyle               J Gledhill                 
+S Ray                   21 M France                 5 
+L McNeal                   Pamela Atkins              
+            Aggregate: 122             Aggregate:  94 
+
+        Section 3                 Wed 16th Jul        
+   Thongsbridge BC 'A'            Holmfirth BC        
+Jean Barlow             21 Barbara Littlewood      16 
+Wilma Mitchell          21 Gill Farnsworth         18 
+Karen Downey            21 Jean Taylor             16 
+Sue Hallas              15 Karen Cowell            21 
+Jennifer Smith          21 Felicity Tombelson      12 
+Sue Pitt                   Carol Allsopp              
+Jane Heraty             21 Pamela Keogh            20 
+Jill Kaye                  Deborah Williams           
+            Aggregate: 120             Aggregate: 103 
+
+        Section 3                 Wed 16th Jul        
+    Linthwaite Hall A            Broad Oak BC B       
+Julie Wood              21 Christine Smith          9 
+Jayne Cowgill           21 Alison Withington       12 
+J Singleton             16 Deborah Tolson          21 
+Karen Rausse            21 Barbara Lockwood        10 
+Val Harris              21 Brenda Normanton        14 
+Petrie Fleming             Joan Kaye                  
+Alison Booth            21 Hazel Mullarkey         15 
+Carol Taylor               Diane Smith                
+            Aggregate: 121             Aggregate:  81 
+
+        Section 3                 Wed 16th Jul        
+       Golcar Lib B              Hudds RUFC BC        
+Susan Robinson          19 Jackie Turnpenney       21 
+Susan Ainley            11 A Stephenson            21 
+J Brook                  8 J Birch                 21 
+M Whitwam               21 Gillian Morris           9 
+Barbara Binns           21 K Schofield             19 
+L Chadwick                 Kathryn Parler             
+Susan Furey             21 Jackie Turnpenney        3 
+E Chapman                  Beverley Sayles            
+            Aggregate: 101             Aggregate:  94 
+
+        Section 4                 Wed 16th Jul        
+     Denby Dale BC B              Lindley Lib         
+Joy Stainthorpe         21 Iris Perkins             4 
+Val Hawkes               1 Diane Proctor           21 
+Sue Wilson              21 Dawn Fawcett            13 
+Janet Depledge          15 Sue Thomas              21 
+Sue Connolly            21 Rita Doran               8 
+Ann Hanson                 Carol Skuse                
+Nancy Pearson           21 Cherrill Priestley       9 
+Joy Stainthorpe            Pat Rowley                 
+            Aggregate: 100             Aggregate:  76 
+
+        Section 4                 Wed 16th Jul        
+        Marsh Oaks                 Meltham BC         
+Pauline Wilson          21 Julie McDonald          10 
+Soo Shields             13 Jackie Berry            21 
+Elaine Holdsworth       17 Jacky Carratt           21 
+Irene Haigh             21 Anne Booth              10 
+Doreen Marshall         18 Geraldine Deal          21 
+Morag Myers                Mandy Taylor               
+Christine Henderson     21 Lynda Baxter             8 
+Ruth Beaumond              Lisa Hague                 
+            Aggregate: 111             Aggregate:  91 
+
+        Section 4                 Wed 16th Jul        
+      Linthwaite CBC             Paddock Con B        
+Celia Gardner           10 Karen Gibson            21 
+Helen Berry             21 Allison Forrest          8 
+Pauline Healey           9 Angela Horner           21 
+Joan Boyes              21 Jackie McManus          14 
+D Durrans               21 Angela Fowler           18 
+Stephnie Sykes             Louise Forrest             
+Carole Warren           19 Linda Hirst             21 
+Trish Schofield            Evelyn Pix                 
+            Aggregate: 101             Aggregate: 103 
+
+        Section 5                 Wed 16th Jul        
+     Milnsbridge BC B             Shepley BC A        
+B Francis               15 Pam McMath              21 
+Jan Brook                8 H Raper                 21 
+S Dewhirst               9 Anne Brant              21 
+M Brennan               18 Christine Hewitt        21 
+A Stern                 17 Brenda Wood             21 
+B Croughan                 Jean Machen                
+M Phillips               8 Jean Walton             21 
+S Jones                    B Butterfield              
+            Aggregate:  75             Aggregate: 126 
+
+        Section 5                 Wed 16th Jul        
+      Netherton Con            Ravensknowle Park      
+J McParland             21 Maureen Clarke          12 
+Jane Taylor             21 Hilary Easingwood        7 
+Bronwyn Kaye            21 Christine Sanderson     11 
+Ros Beardsell            0 Jean Cain               21 
+Christine Heeley        21 Amanda Webb             12 
+Gillian Chalmers           Jodi Webb                  
+Jackie Bray             21 Angela Shaw             13 
+Christine Harrison         Judith Norris              
+            Aggregate: 105             Aggregate:  76 
+
+        Section 5                 Wed 16th Jul        
+      Paddock Con A             Primrose Hill A       
+Diane Felton            21 Liz Kendal               4 
+Allison Hardy           21 Joanne Poole            13 
+Carol Collier           20 Sue Harrison            21 
+Pat Beever              21 Jill Greenwood          13 
+Jenny Jimenez           21 Glenys Beardsell         8 
+Brenda Wood                Di Stewart                 
+Ursula Noel             21 Pat Bradley             15 
+Maxine Fox                 Angela Cross               
+            Aggregate: 125             Aggregate:  74 
 
 

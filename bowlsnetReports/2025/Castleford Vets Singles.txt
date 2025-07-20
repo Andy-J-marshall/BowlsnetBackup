@@ -1,4 +1,4 @@
-=== Castleford Vets (Singles) 2025 (as of Sun 13th Jul)
+=== Castleford Vets (Singles) 2025 (as of Sun 20th Jul)
 === League Match Cards
 
      Premier Section              Mon 7th Apr         
@@ -10,6 +10,16 @@ Jon Lucas               21 Peter Whipp              6
 Gary Dickinson          21 Karen Portman (s)        7 
 Graham Beck             21 Ian Howard (s)          15 
             Aggregate: 126             Aggregate:  68 
+
+     Premier Section              Mon 7th Apr         
+     Allerton Bywater              Cas Town A         
+Edward Parker           21 Alwyn Beedel (s)        17 
+John Robshaw            21 David White             15 
+Philip Sykes            21 Alan Braithwaite        10 
+James Jordan            21 Mark Hopwood (s)        11 
+Paul Baddeley           21 Alan Glenn              17 
+Brian Smallwood         21 Alan Walstow            10 
+            Aggregate: 126             Aggregate:  80 
 
      Premier Section              Mon 7th Apr         
        Pontefract A              Garforth CC A        
@@ -80,6 +90,16 @@ Christine Sutcliffe     10 David Smith             21
 Alison Roberts          17 Paul Williamson (s)     21 
 Neil Mehta              21 Anthony Beavers         17 
             Aggregate: 107             Aggregate: 113 
+
+       Section 'A'                Mon 7th Apr         
+        Townville                    Kippax           
+Stephen Adams           21 John Broadhead           5 
+Keith Jones             17 Rodney Chew             21 
+Edward Farrah            5 Gary Earl               21 
+Andrew Adams            21 Richard Robson          12 
+Douglas Ellis           17 Graham Walker           21 
+Carol Illingworth       15 Alan Broadhurst         21 
+            Aggregate:  96             Aggregate: 101 
 
        Section 'B'                Mon 7th Apr         
       Manston Park A             Swillington B        
@@ -200,6 +220,16 @@ Tina Howard             21 Howard Boulton          20
 Steve Portman           14 Tony Chambers           21 
 Karen Portman (s)       21 Maureen Chambers (s)    17 
             Aggregate: 104             Aggregate: 107 
+
+     Premier Section              Mon 14th Apr        
+      Garforth CC A             Allerton Bywater      
+Philip Carlile (s)      13 Philip Sykes            21 
+Nigel Ware               7 Paul Baddeley           21 
+Roger Birdsall          21 Brian Smallwood         11 
+Stephen Miller          16 John Robshaw            21 
+Ian Thornhill           21 James Jordan            19 
+Michael Firth           21 Edward Parker           12 
+            Aggregate:  99             Aggregate: 105 
 
      Premier Section              Mon 14th Apr        
         Cas Town A               Rothwell BC A        
@@ -822,6 +852,16 @@ Stuart Thompson         21 Lee Stewart              8
             Aggregate: 119             Aggregate:  67 
 
      Premier Section              Mon 12th May        
+        Cas Town A               Savile Park A        
+Mark Hopwood (s)        21 David Beck               9 
+Alan Glenn              21 Peter Whipp             15 
+Sue Haigh               19 Tina Howard             21 
+Alan Walstow            10 Karen Portman (s)       21 
+Alan Braithwaite         9 Steve Portman           21 
+Alwyn Beedel (s)        16 Ian Howard (s)          21 
+            Aggregate:  96             Aggregate: 108 
+
+     Premier Section              Mon 12th May        
       Garforth CC A              Ferrybridge A        
 John Robson (s)         21 George Bradbury         16 
 Michael Firth           17 Arthur Firth            21 
@@ -830,6 +870,16 @@ Philip Carlile (s)      19 David Milnes (s)        21
 Roger Birdsall          21 Gary Haley (s)          10 
 Les Hudson              21 Dennis Dobson (s)       12 
             Aggregate: 120             Aggregate:  84 
+
+     Premier Section              Mon 12th May        
+     Allerton Bywater            Rothwell BC B        
+Brian Smallwood         14 John Ainsley            21 
+John Robshaw            21 John Turpin             11 
+Edward Parker           21 Mark Scruton             9 
+Michael Revell          21 Peter Linley            20 
+Paul Baddeley           21 David Bentley            8 
+James Jordan            21 Lyn Owen                10 
+            Aggregate: 119             Aggregate:  79 
 
        Section 'A'                Mon 12th May        
       Valley Ridge A            Magnet Sports B       
@@ -1021,6 +1071,16 @@ Peter Linley            21 Phillip Wilsher (s)     10
 Robert Leighton          6 Bob Dalby               21 
             Aggregate:  71             Aggregate: 109 
 
+     Premier Section              Mon 19th May        
+      Savile Park A              Garforth CC A        
+Ian Lewis (s)           21 Nigel Turner            18 
+Tina Howard             21 Nigel Ware              16 
+Dave Steel              14 Roger Birdsall          21 
+Jack Sharp              21 Michael Firth           18 
+Karen Portman (s)       21 Philip Carlile (s)      16 
+Ian Howard (s)          21 John Robson (s)          9 
+            Aggregate: 119             Aggregate:  98 
+
        Section 'A'                Mon 19th May        
      Glasshoughton A             Featherstone A       
 Kevin Isles             21 John Wilkinson          19 
@@ -1190,6 +1250,16 @@ David White             21 Alan France (s)         18
 Sue Haigh               21 Eddie Fox               18 
 Alan Glenn              12 Martin Shepherd (s)     21 
             Aggregate: 113             Aggregate: 104 
+
+     Premier Section              Mon 2nd Jun         
+      Garforth CC A              Rothwell BC B        
+Michael Firth           21 Mark Scruton            12 
+John Robson (s)         21 John Ainsley             6 
+Nigel Turner            21 Robert Leighton         13 
+Philip Carlile (s)      21 Peter Linley            14 
+Ian Doughty             21 Roger Cockerham          8 
+Roger Birdsall          18 John Turpin             21 
+            Aggregate: 123             Aggregate:  74 
 
      Premier Section              Mon 2nd Jun         
       Rothwell BC A              Swillington A        
@@ -1572,16 +1642,6 @@ John Robson (s)         21 Martin Shepherd (s)     10
             Aggregate: 126             Aggregate:  58 
 
      Premier Section              Mon 16th Jun        
-        Cas Town A               Savile Park A        
-Mark Hopwood (s)        21 David Beck               9 
-Alan Glenn              21 Peter Whipp             15 
-Sue Haigh               19 Tina Howard             21 
-Alan Walstow            10 Karen Portman (s)       21 
-Alan Braithwaite         9 Steve Portman           21 
-Alwyn Beedel (s)        16 Ian Howard (s)          21 
-            Aggregate:  96             Aggregate: 108 
-
-     Premier Section              Mon 16th Jun        
       Ferrybridge A              Rothwell BC B        
 Robert McEwan           21 Mark Scruton            13 
 Brian Clarke            15 Peter Linley            21 
@@ -1600,16 +1660,6 @@ David Kaye              21 Graham Beck             10
 Graham Hodder           21 Mark Whittaker          13 
 Paul Hatch (s)           7 David Bedford           21 
             Aggregate: 110             Aggregate:  81 
-
-     Premier Section              Mon 16th Jun        
-      Savile Park A              Garforth CC A        
-Ian Lewis (s)           21 Nigel Turner            18 
-Tina Howard             21 Nigel Ware              16 
-Dave Steel              14 Roger Birdsall          21 
-Jack Sharp              21 Michael Firth           18 
-Karen Portman (s)       21 Philip Carlile (s)      16 
-Ian Howard (s)          21 John Robson (s)          9 
-            Aggregate: 119             Aggregate:  98 
 
        Section 'A'                Mon 16th Jun        
      Magnet Sports B            Glasshoughton A       
@@ -1781,16 +1831,6 @@ Gary Dickinson          21 Tony Chambers           12
 David Bedford           21 Howard Boulton          18 
             Aggregate: 120             Aggregate:  77 
 
-       Section 'A'                Fri 20th Jun        
-        Townville                    Kippax           
-Stephen Adams           21 John Broadhead           5 
-Keith Jones             17 Rodney Chew             21 
-Edward Farrah            5 Gary Earl               21 
-Andrew Adams            21 Richard Robson          12 
-Douglas Ellis           17 Graham Walker           21 
-Carol Illingworth       15 Alan Broadhurst         21 
-            Aggregate:  96             Aggregate: 101 
-
        Round of 16                Fri 20th Jun        
       Garforth CC A              Valley Ridge A       
             Aggregate:   0             Aggregate:   0 
@@ -1931,16 +1971,6 @@ Brian Coney             21 Tony Wheeler             7
 John Peacock            15 Janice Roberts          21 
 Derek Johnson           21 Dennis Westmoreland     16 
             Aggregate: 117             Aggregate:  90 
-
-     Premier Section              Mon 23rd Jun        
-      Garforth CC A              Rothwell BC B        
-Michael Firth           21 Mark Scruton            12 
-John Robson (s)         21 John Ainsley             6 
-Nigel Turner            21 Robert Leighton         13 
-Philip Carlile (s)      21 Peter Linley            14 
-Ian Doughty             21 Roger Cockerham          8 
-Roger Birdsall          18 John Turpin             21 
-            Aggregate: 123             Aggregate:  74 
 
      Premier Section              Mon 23rd Jun        
      Magnet Sports A            Allerton Bywater      
@@ -2203,16 +2233,6 @@ James Jordan            21 David Kaye              20
             Aggregate:  97             Aggregate: 107 
 
        Section 'A'                Mon 30th Jun        
-        Sherburn A               Garforth CC B        
-David Smith             21 Christine Sutcliffe     11 
-Ruth Nicholson (s)      21 Trevor Curtis           12 
-Albert Mouser            8 Craig White             21 
-Peter Kendall (s)       21 Alison Roberts          13 
-Christine Towell        21 John Hampshire           3 
-Paul Williamson (s)     21 Stephen Miller          14 
-            Aggregate: 113             Aggregate:  74 
-
-       Section 'A'                Mon 30th Jun        
       Valley Ridge A                Colton A          
 Harry Woodhall          21 Robert Horner           14 
 Trevor Booth            21 Gary Mahoney             6 
@@ -2221,6 +2241,16 @@ Barry Broome            13 Stuart Birch            21
 Peter Smith             21 Raymond Dixon           13 
 Dennis Johnson          10 Tony Ward (s)           21 
             Aggregate: 103             Aggregate:  96 
+
+       Section 'A'                Mon 30th Jun        
+          Kippax                   Sherburn A         
+Rodney Chew             21 Peter Kendall (s)       15 
+Ray Mattinson           21 Christine Towell        10 
+Alan Broadhurst         21 Jim Humphreys            4 
+John Broadhead          21 Paul Williamson (s)      5 
+Graham Walker            7 Albert Mouser           21 
+Phil Hatch              21 Geoff Saunders           9 
+            Aggregate: 112             Aggregate:  64 
 
        Section 'A'                Mon 30th Jun        
      Glasshoughton A             Garforth Rec A       
@@ -2413,6 +2443,16 @@ Lyn Owen                10 Chris Firth             21
             Aggregate:  72             Aggregate: 117 
 
        Section 'A'                Mon 7th Jul         
+     Magnet Sports B             Featherstone A       
+Rosemary Baxter         18 John Wilkinson          21 
+David Skinner           21 Billy Rush              14 
+Sue Simpson             18 Ken Robinson            21 
+R Preene                19 Wayne Bond              21 
+Trevor Hardy             4 Glyn Hanson             21 
+Morse Shah              21 Colin Jarvis             5 
+            Aggregate: 101             Aggregate: 103 
+
+       Section 'A'                Mon 7th Jul         
       Valley Ridge A             Garforth Rec A       
 Dennis Johnson           8 Ray Brown (s)           21 
 Harry Woodhall          21 Carole Kitchen           9 
@@ -2431,6 +2471,26 @@ Janet Mulheir           21 Keith Winfield          18
 Paul Dickens            21 Malcolm Smith           11 
 Wayne Martin            11 Alan Knowles (s)        21 
             Aggregate: 106             Aggregate:  95 
+
+       Section 'A'                Mon 7th Jul         
+        Sherburn A               Garforth CC B        
+David Smith             21 Christine Sutcliffe     11 
+Ruth Nicholson (s)      21 Trevor Curtis           12 
+Albert Mouser            8 Craig White             21 
+Peter Kendall (s)       21 Alison Roberts          13 
+Christine Towell        21 John Hampshire           3 
+Paul Williamson (s)     21 Stephen Miller          14 
+            Aggregate: 113             Aggregate:  74 
+
+       Section 'A'                Mon 7th Jul         
+          Kippax                   Townville          
+Alan Broadhurst         21 Douglas Ellis            2 
+Gary Earl               21 Kay Jones               14 
+Graham Walker           21 Stephen Adams           10 
+Rodney Chew             21 Laurie Heaton            9 
+John Broadhead          21 Carol Illingworth        3 
+Phil Hatch              21 Edward Farrah            9 
+            Aggregate: 126             Aggregate:  47 
 
        Section 'B'                Mon 7th Jul         
       Swillington B              Manston Park A       
@@ -2561,5 +2621,317 @@ Karen Portman (s)       14 Gary Haley (s)          21
 Peter Whipp             12 Dennis Dobson (s)       21 
 Steve Portman           21 George Bradbury         19 
             Aggregate:  96             Aggregate: 122 
+
+     Premier Section              Mon 14th Jul        
+       Pontefract A              Savile Park A        
+Stanley Moxon           21 David Beck              14 
+Alan Box (s)            18 Brian Coney             21 
+Tony Chambers           15 Ian Howard (s)          21 
+Stuart Thompson         21 Tina Howard             13 
+Maureen Chambers (s)    21 Steve Portman           15 
+Peter Thomson           21 Ian Lewis (s)           13 
+            Aggregate: 117             Aggregate:  97 
+
+     Premier Section              Mon 14th Jul        
+      Rothwell BC A                Cas Town A         
+Phillip Wilsher (s)     21 Alan Braithwaite        19 
+Paul Hatch (s)          11 Sue Haigh               21 
+David Kaye              21 David White              9 
+Graham Hodder           16 Alwyn Beedel (s)        21 
+Bob Dalby               17 Mark Hopwood (s)        21 
+Geoffery Newbould       21 Alan Glenn               8 
+            Aggregate: 107             Aggregate:  99 
+
+     Premier Section              Mon 14th Jul        
+     Allerton Bywater            Garforth CC A        
+Michael Revell          12 Roger Birdsall          21 
+Philip Sykes            21 Ian Doughty             17 
+Paul Baddeley           21 Neil Mehta               6 
+Brian Smallwood         21 Ian Thornhill           18 
+Edward Parker           20 Michael Firth           21 
+James Jordan            21 Philip Carlile (s)       8 
+            Aggregate: 116             Aggregate:  91 
+
+     Premier Section              Mon 14th Jul        
+     Magnet Sports A             Ferrybridge A        
+Tony Matthews           21 John Kirby              20 
+Graham Beck             21 George Bradbury          8 
+Liz White               15 Gary Haley (s)          21 
+Sue Green               21 Dennis Dobson (s)       12 
+Gary Dickinson          21 Robert McEwan           20 
+David Bedford           21 David Milnes (s)         4 
+            Aggregate: 120             Aggregate:  85 
+
+     Premier Section              Mon 14th Jul        
+      Smirthwaite A              Rothwell BC B        
+Roy Limb                21 David Bentley           12 
+Michael Nowakowski (s)  21 John Ainsley            10 
+Alan France (s)         20 John Turpin             21 
+Roy Dunwell             21 Lyn Owen                15 
+Eddie Fox               21 Mark Scruton            19 
+Martin Shepherd (s)     21 Robert Leighton          1 
+            Aggregate: 125             Aggregate:  78 
+
+       Section 'A'                Mon 14th Jul        
+      Featherstone A                 Kippax           
+John Wilkinson          20 Alan Broadhurst         21 
+Tony Marsh              21 Graham Walker            9 
+Ken Robinson            11 Rodney Chew             21 
+Glyn Hanson             21 John Broadhead           5 
+Wayne Bond              21 Gary Earl                5 
+Colin Jarvis            21 Ray Mattinson           13 
+            Aggregate: 115             Aggregate:  74 
+
+       Section 'A'                Mon 14th Jul        
+         Colton A               Magnet Sports B       
+Robert Horner           21 Sue Simpson             11 
+Michael Noble (s)       21 Barry Shooter           13 
+Gary Mahoney            21 Rosemary Baxter         20 
+Tony Ward (s)           19 David Skinner           21 
+Raymond Dixon           21 Carl Preene             20 
+Paul Lawson (s)         21 Morse Shah              12 
+            Aggregate: 124             Aggregate:  97 
+
+       Section 'A'                Mon 14th Jul        
+      Garforth CC B             Glasshoughton A       
+Roy Norcliffe           19 Kevin Isles             21 
+John Hampshire          13 Trevor Dyson (s)        21 
+Trevor Curtis           21 Dave Jackson (s)        20 
+Trevor Kell             21 Janet Mulheir           10 
+Alison Roberts          21 John Mulheir            18 
+Christine Sutcliffe     15 Paul Dickens            21 
+            Aggregate: 110             Aggregate: 111 
+
+       Section 'A'                Mon 14th Jul        
+        Townville                Valley Ridge A       
+Andrew Adams            21 Hugh Carr                5 
+Keith Jones             21 Harry Woodhall          11 
+Douglas Ellis           21 Dennis Johnson          12 
+Laurie Heaton           20 Trevor Booth            21 
+Carol Illingworth       21 Cliff Edwards (s)       19 
+Edward Farrah           13 Peter Smith             21 
+            Aggregate: 117             Aggregate:  89 
+
+       Section 'A'                Mon 14th Jul        
+      Hawhill Park A               Sherburn A         
+Alan Holder             21 Paul Williamson (s)      5 
+Malcolm Smith           21 Peter Kendall (s)       15 
+Adrian Guy              14 Christine Towell        21 
+Keith Winfield           8 Geoff Saunders          21 
+David Charlston (s)      8 Ruth Nicholson (s)      21 
+Jackie Smith (s)        21 Albert Mouser            4 
+            Aggregate:  93             Aggregate:  87 
+
+       Section 'B'                Mon 14th Jul        
+      Manston Park A             Smirthwaite B        
+Johnathan Moriarty (s)  21 David Watson            13 
+Ruth Beck               21 Alison Smith             9 
+Brenda Pennock          21 Michael Wood             5 
+Steve Tyas              21 Ken Peel                14 
+Dave Smith              12 Craig Measham           21 
+John Pennock            14 Brian Daniel            21 
+            Aggregate: 110             Aggregate:  83 
+
+       Section 'B'                Mon 14th Jul        
+     Glasshoughton C                Methley           
+Malcolm Depledge        21 Trevor Davis             9 
+Harry Chapple (s)       21 Maggie Boyes            10 
+Kevin Farrar            13 Roger Boyes             21 
+*A.N.Other*             15 Molly Depledge          21 
+Ray Tennant             19 Keith Render            21 
+Albert Lee              10 Jeff Baggaley           21 
+            Aggregate:  99             Aggregate: 103 
+
+       Section 'B'                Mon 14th Jul        
+       Woodlesford               Swillington B        
+Liz Mace                21 Rod Milner               6 
+Jim Keenan              21 Diane Jones              2 
+Stuart Marsh            21 Jimmy Ruecroft          11 
+Neil Wilkinson          14 Steve Clough            21 
+Tony Harriman           21 Brian Appleyard         13 
+David Mosby             21 Steven Thorp            17 
+            Aggregate: 119             Aggregate:  70 
+
+       Section 'B'                Mon 14th Jul        
+      Savile Park B               Pontefract B        
+Sylvia Bickerdike       21 Ann Greenhough           6 
+Derek Johnson           21 Tony Hames              14 
+Graham Bickerdike       13 James Shepherd          21 
+John Peacock            21 Michael Hill Snr        13 
+Susan Carpenter          6 Alan Godridge           21 
+Jack Evans              11 Stephen Derry           21 
+            Aggregate:  93             Aggregate:  96 
+
+       Section 'B'                Mon 14th Jul        
+      Ferrybridge B                 Colton B          
+Robin Ayres             20 Monica Buckroyd         21 
+Tony Jacklin            21 Ian Longfellow          14 
+Paul Whitehead          18 Anthony Fawcett         21 
+John Child              16 Paul Phillipson         21 
+Michael Hesp            11 Dave Clarkson           21 
+Dennis Parkin           21 Peter Griffin           13 
+            Aggregate: 107             Aggregate: 111 
+
+       Section 'C'                Mon 14th Jul        
+      Manston Park B               Cas Town B         
+Michael Monaghan        20 David Newsome           21 
+Joan Maddra              8 Stan Firth              21 
+Stephen Jackson         21 Elsie Baxter            14 
+Graham Dunkley          13 John Munday             21 
+Eileen Foster           10 Glynn Bentley           21 
+Mary German             14 Trevor Hawkin           21 
+            Aggregate:  86             Aggregate: 119 
+
+       Section 'C'                Mon 14th Jul        
+     Glasshoughton B             Hawhill Park B       
+Gordon Waddington       20 Cynthia Sykes           21 
+Janice Roberts          21 Denis Rayner            20 
+Dennis Westmoreland     21 Jane Hayward            14 
+Pete Walton              5 Brian Tighe             21 
+Tony Wheeler            21 Lesley Servis            7 
+Kevin Roberts           16 Stephen Smith           21 
+            Aggregate: 104             Aggregate: 104 
+
+       Section 'C'                Mon 14th Jul        
+      Valley Ridge B             Featherstone B       
+Colin Lowe              21 Val Trickey              7 
+Dawn Smith               9 Delphine Baxter         21 
+Maria Potter            14 John Moss               21 
+Sue Saunders            20 Malcolm Wright          21 
+Barry Chew              21 P Murgatroyd            16 
+Bryan Harvey            21 Mary Sharpe             15 
+            Aggregate: 106             Aggregate: 101 
+
+       Section 'C'                Mon 14th Jul        
+      Hawhill Park C             Garforth Rec B       
+David Bastow            21 John Tanner              4 
+Shirley Makin            8 Barrie Stevenson        21 
+Jan McLeod              16 Damian Dickinson        21 
+Gary Ward               21 Kim Dickinson           15 
+Carol Foulds            21 Mary Wilkinson          11 
+Jacqueline Guy           5 Keith Todd              21 
+            Aggregate:  92             Aggregate:  93 
+
+       Section 'C'                Mon 14th Jul        
+        Sherburn B                  Aberford          
+Lynne Buchanan          21 Trevor Hardaker         18 
+Gordon McGlone          21 Paul Farrer              5 
+Noreen Makin            21 John Ramsbottom          6 
+Shirley Ryan            21 Terry Collier            8 
+Gareth Lloyd            21 John Bailey              9 
+Helen Crawshaw           5 Mark Moorhouse          21 
+            Aggregate: 110             Aggregate:  67 
+
+       Section 'C'                Mon 14th Jul        
+     Rothwell Park B            Rothwell Park A       
+David Wilson            15 Charles Brown (s)       21 
+Lydia Parker             8 Malcolm Cameron (s)     21 
+Barbara Smith           15 Alicia Hislop           21 
+Pauline Wilson          21 Ron Scott               12 
+Michael Mason           21 Roy Tebbutt (s)         13 
+Martin Atkinson         21 Cliff Furness           18 
+            Aggregate: 101             Aggregate: 106 
+
+     Premier Section              Tue 15th Jul        
+     Magnet Sports A               Cas Town A         
+Peter Greenwood         21 Alan Braithwaite         4 
+Sue Green               21 Sue Haigh               13 
+Graham Beck             21 David White              6 
+Gary Dickinson          21 Mark Hopwood (s)        15 
+David Bedford           21 Alan Glenn               5 
+Jon Lucas               21 Alwyn Beedel (s)        20 
+            Aggregate: 126             Aggregate:  63 
+
+        Qtr-Finals                Fri 18th Jul        
+                            On Sherburn Sports Club   
+      Garforth CC A             Magnet Sports A       
+Roger Birdsall           7 Graham Beck             21 
+Nigel Turner            21 Tony Matthews            7 
+Michael Firth           21 Peter Greenwood         17 
+Ian Thornhill           21 Liz White               13 
+Philip Carlile (s)      13 Gary Dickinson          21 
+Ian Doughty             14 David Bedford           21 
+             Handicap: +10              Handicap: Scr 
+            Aggregate: 107             Aggregate: 100 
+
+        Qtr-Finals                Fri 18th Jul        
+                                   On Fryston         
+     Magnet Sports B             Smirthwaite A        
+Rosemary Baxter         21 Roy Limb                 7 
+Barry Shooter            5 Graham Knowles          21 
+Sue Simpson              2 Roy Dunwell             21 
+Eileen Emmett           21 Martin Shepherd (s)     15 
+Morse Shah               9 Eddie Fox               21 
+Carl Preene             17 Alan France (s)         21 
+             Handicap: +12              Handicap: Scr 
+            Aggregate:  87             Aggregate: 106 
+
+        Qtr-Finals                Fri 18th Jul        
+                                  On Cas Town         
+      Garforth Rec A             Rothwell BC A        
+Mary Black              10 Phillip Wilsher (s)     21 
+Bill Robinson           21 June Johnson            15 
+Joy Slater (s)          16 David Kaye              21 
+Doug Fraser             16 Geoffery Newbould       21 
+Ray Brown (s)           21 Paul Hatch (s)           7 
+Tony Boyes (s)          21 Graham Hodder           19 
+             Handicap: +12              Handicap: Scr 
+            Aggregate: 117             Aggregate: 104 
+
+        Qtr-Finals                Fri 18th Jul        
+                                On Pontefract BC      
+      Featherstone A            Glasshoughton A       
+Billy Rush              10 Harry Chapple (s)       21 
+Ken Robinson            17 Paul Dickens            21 
+Tony Marsh              21 Mick Mallinson (s)      13 
+John Wilkinson          21 Jane Boucher            11 
+Wayne Bond              21 Albert Lee               5 
+Colin Jarvis            21 Wayne Martin            13 
+            Aggregate: 111             Aggregate:  84 
+
+        Qtr-Finals                Fri 18th Jul        
+                                   On Kippax          
+      Manston Park A               Sherburn B         
+Dave Smith              21 Helen Crawshaw           5 
+Ruth Beck               13 Gareth Lloyd            21 
+Brenda Pennock          21 Shirley Ryan             7 
+John Pennock            21 Veronica Jenkin          4 
+Steve Tyas              21 Simon Umpleby           10 
+Anthony Marsden (s)     21 Gordon McGlone          17 
+             Handicap: Scr              Handicap: +12 
+            Aggregate: 118             Aggregate:  76 
+
+        Qtr-Finals                Fri 18th Jul        
+                             On Swillington Welfare   
+     Rothwell Park A             Garforth Rec B       
+Charles Brown (s)       21 Mary Wilkinson          17 
+Alicia Hislop           11 Keith Todd              21 
+Malcolm Cameron (s)     20 Damian Dickinson        21 
+Roy Tebbutt (s)         21 Colin Medd               2 
+Ron Scott               19 Teresa Newton           21 
+Cliff Furness            7 Barrie Stevenson        21 
+            Aggregate:  99             Aggregate: 103 
+
+        Qtr-Finals                Fri 18th Jul        
+                                   On Methley         
+       Woodlesford                  Fryston           
+David Mosby             21 Barry May               12 
+Sharon Harriman          9 Steven Harrison         21 
+Stuart Marsh            21 Steve Ellerker           9 
+Neil Wilkinson           5 Martyn Evans            21 
+Liz Mace                17 Paul Senior             21 
+Tony Harriman           21 Mick North               4 
+            Aggregate:  94             Aggregate:  88 
+
+        Qtr-Finals                Fri 18th Jul        
+                                   On Hawhill         
+         Methley                 Savile Park B        
+Jeff Baggaley           21 Sylvia Bickerdike       17 
+Keith Render            12 Graham Bickerdike       21 
+Maggie Boyes            13 Derek Johnson           21 
+Molly Depledge          14 Mavis Kendall           21 
+Trevor Davis            21 John Peacock            18 
+Roger Boyes             21 Brian Coney             17 
+            Aggregate: 102             Aggregate: 115 
 
 

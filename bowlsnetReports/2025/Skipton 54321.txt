@@ -1,4 +1,4 @@
-=== Skipton (54321) 2025 (as of Sun 13th Jul)
+=== Skipton (54321) 2025 (as of Sun 20th Jul)
 === Comp. Match Cards
 
 Skipton Building Society Div 1        Tue 15th Apr       
@@ -3150,5 +3150,61 @@ Graham Golding               17 Steve Hind            21
                      Games:   1               Games:   7 
                  Aggregate: 101           Aggregate: 161 
                     Points:  18              Points:  38 
+
+Skipton Building Society Div 2        Tue 15th Jul       
+          Gargrave A                   Keighley A        
+Cath Rushton                 21 Barry McGuinness      17 
+Paul Drinkall                21 Thomas Hargreaves      3 
+Chris Smales                 21 Jeff Bradley          13 
+Bryan Lord                   21 Joshua McHale         11 
+Ian Poulter                  21 Nigel Hall             8 
+Harry McEneaney              18 Trevor Hargreaves     21 
+Rob McLernon                 17 Peter Wormald         21 
+Richard Lord                 21 John Toothill          5 
+                     Games:   6               Games:   2 
+                 Aggregate: 161           Aggregate:  99 
+                    Points:  37              Points:  19 
+
+Skipton Building Society Div 3        Tue 15th Jul       
+          Whinfield C                 Silsden PF B       
+Ann Heyworth                 12 Liz Paley             21 
+Greg Mortimer                12 Colin Edwards         21 
+Rosemary Bootland            21 Paul Spencer          19 
+Carol Hayhurst               13 Sandra Fairburn       21 
+John Taylor                  21 Bill Lee              11 
+Tim Jones                    21 Edward Fort           16 
+Helen Taylor                 15 Pam Clark             21 
+Pip Chadwick                 21 Steven Wright         14 
+                     Games:   4               Games:   4 
+                 Aggregate: 136           Aggregate: 144 
+                    Points:  29              Points:  31 
+
+Skipton Building Society Div 3        Thu 17th Jul       
+         Sutton Park B                 Keighley B        
+Carole Williams              16 David Brooke          21 
+Terry Birch                  21 Sara McHale           13 
+Roger Hopkins                20 Brian Jones           21 
+Ron Walton                    5 Alistair Dickinson    21 
+Ken Williams                 21 Michael Baker          7 
+Dennis Wynne-Jones           21 Ian Acrid              6 
+David Radcliffe              21 Kath Pascall          10 
+David Jefferson              20 Sarfraz Qureshi       21 
+                     Games:   4               Games:   4 
+                 Aggregate: 145           Aggregate: 120 
+                    Points:  33              Points:  26 
+
+Skipton Building Society Div 2        Sun 20th Jul       
+          Gargrave B                   Gargrave A        
+Julian Phillip               21 Craig Lambert         12 
+Andrew Cleminson             21 Ian Poulter           19 
+Giles Winterton              21 Rob McLernon          17 
+Robin Sands                   5 Matty Simpson         21 
+Jan Corbridge                15 Richard Lord          21 
+Hugh Mardall                 16 Harry McEneaney       21 
+Bryan Lord                    8 Chris Smales          21 
+Mick Cox                     15 Paul Drinkall         21 
+                     Games:   3               Games:   5 
+                 Aggregate: 122           Aggregate: 153 
+                    Points:  26              Points:  34 
 
 

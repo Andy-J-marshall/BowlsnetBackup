@@ -1,4 +1,4 @@
-=== Wakefield Veterans CGBA 2025 (as of Sun 13th Jul)
+=== Wakefield Veterans CGBA 2025 (as of Sun 20th Jul)
 === League Match Cards
 
       Division 1             Mon 14th Apr       
@@ -93,7 +93,7 @@ Karen Haist          21 Glenn Parkinson      14
 John Morris          21 Roy Luty             15 
 Stephen Haist        21 Graham Pickles       13 
 Kevin Goodhall       21 Paul Gilpin          20 
-P Giblin             18 Tony Hartley         21 
+Paul Giblin          18 Tony Hartley         21 
 Cliff Scargill       21 Jimmy Leach          17 
          Aggregate: 165          Aggregate: 132 
 
@@ -449,7 +449,7 @@ Peter Varley         21 Steve Carman          9
        Stanley A               Altofts B        
 Michael Wilson       14 Dave Cunniff         21 
 Steve Leaworthy      21 Nigel Oakley         10 
-P Giblin             21 Cyril Youngs          5 
+Paul Giblin          21 Cyril Youngs          5 
 Cliff Scargill       21 John Barnett         10 
 John Morris          21 Ian Robinson          8 
 Linda Goodhall       21 Geoff Mulvey         15 
@@ -634,7 +634,7 @@ Peter Dixon          14 Cliff Scargill       21
 Pauline Dixon         7 Steve Leaworthy      21 
 John Ryan            21 Andrew Lord          20 
 Pam Bingley          17 John Morris          21 
-Dave Dwyer            6 P Giblin             21 
+Dave Dwyer            6 Paul Giblin          21 
          Aggregate: 121          Aggregate: 166 
 
       Division 2              Mon 5th May       
@@ -801,7 +801,7 @@ Kevin Goodhall        9 David Wright         21
 Andrew Lord          21 Peter Davis          11 
 John Morris           5 Mick Booth           21 
 Michael Wilson        9 Howard Rose          21 
-P Giblin             21 Don Hall             12 
+Paul Giblin          21 Don Hall             12 
 Steve Leaworthy      21 Peter Varley         15 
          Aggregate: 127          Aggregate: 137 
 
@@ -981,7 +981,7 @@ Karen Haist          21 Rowland Scholey      16
 Kevin Goodhall       21 Mick Lund            19 
 Linda Goodhall       21 Howard Riley         17 
 Steve Leaworthy      21 David Smith          17 
-P Giblin             21 Derek Hartley         6 
+Paul Giblin          21 Derek Hartley         6 
 Andrew Lord          21 Eric France          15 
          Aggregate: 160          Aggregate: 124 
 
@@ -1348,7 +1348,7 @@ Stephen Haist        14 Mark Lingard         21
 Kevin Goodhall       21 Keith Clayton        14 
 Cliff Scargill       18 Geoffrey Skenfield   21 
 Andrew Lord          21 Alan Smith            6 
-P Giblin             21 Neil Anderson         9 
+Paul Giblin          21 Neil Anderson         9 
          Aggregate: 158          Aggregate:  96 
 
       Qtr-Finals              Mon 9th Jun       
@@ -1474,7 +1474,7 @@ Don Hall             21 Allan Poyser          8
       Division 2             Mon 16th Jun       
        Stanley A             Wrenthorpe B       
 John Morris          21 Eric Hargreaves       8 
-P Giblin             21 Pat Whitworth         5 
+Paul Giblin          21 Pat Whitworth         5 
 Michael Wilson       21 Jack Norton           8 
 Andrew Lord          21 M Smith               4 
 Kevin Goodhall       21 Hugh Wilson          16 
@@ -1659,7 +1659,7 @@ B Young              21 Kevin Goodhall       20
 T Codner             21 Holger Cole           6 
 M Greenwood          12 John Morris          21 
 Richard Shackleton   13 Steve Leaworthy      21 
-Jenifer Dooler        6 P Giblin             21 
+Jenifer Dooler        6 Paul Giblin          21 
 Patrick Corcoran     14 Andrew Lord          21 
          Aggregate: 129          Aggregate: 136 
 
@@ -1840,7 +1840,7 @@ Jimmy Leach          15 Kevin Goodhall       21
 Keith Mountain       21 Cliff Scargill       11 
 Paul Gilpin          21 John Morris          17 
 Glenn Parkinson      17 Steve Leaworthy      21 
-Andrew Morley        21 P Giblin             19 
+Andrew Morley        21 Paul Giblin          19 
          Aggregate: 158          Aggregate: 142 
 
       Division 2             Mon 30th Jun       
@@ -2020,7 +2020,7 @@ Karen Haist          21 Neil Anderson        20
 Stephen Haist        21 John Tweedle          9 
 Kevin Goodhall       21 Geoffrey Skenfield   13 
 Steve Leaworthy      21 Alan Smith           15 
-P Giblin             21 David Harvey          1 
+Paul Giblin          21 David Harvey          1 
          Aggregate: 168          Aggregate:  86 
 
       Division 2              Mon 7th Jul       
@@ -2106,5 +2106,70 @@ John Wallis          19 Susan Holling        21
 Eon Collinson        21 Wayne Holling        14 
 Clive Sabey          18 Linda Leather        21 
          Aggregate: 116          Aggregate: 161 
+
+      Semi-Finals            Mon 14th Jul       
+                            On West Bretton     
+    Ossett C & AC A           Alverthorpe       
+Tom McAllister       13 David Cowsill        21 
+Laurie Woodlock      21 Phil Schofield        6 
+Peter Lamb           21 Eddie Wilkinson      20 
+Lawrence Bairstow    17 John Smart           21 
+Phillip Long         10 Mick Cooney          21 
+John Wigglesworth    12 Nigel McDermott      21 
+Stephen Briggs       21 David Clarke         18 
+Gary Foulkes         20 Jeff Normanton       21 
+         Aggregate: 135          Aggregate: 149 
+
+      Semi-Finals            Mon 14th Jul       
+                                On BJD          
+     Wrenthorpe A              Altofts A        
+David Gordon         21 Steve Newman          9 
+Dave White           21 M Bradley            18 
+Eileen Wardman       21 Derek McAdam         14 
+John Scholey         12 T Murphy             21 
+Phil Berry           18 Paul Hartshorne      21 
+Jenny Berry          21 Kevin Box             9 
+Brian Marden         18 Gordon Hird          21 
+Paul Curtis           5 Colin Bradley        21 
+         Aggregate: 137          Aggregate: 134 
+
+      Semi-Finals            Mon 14th Jul       
+                            On Grange Park      
+        Darton               Wrenthorpe B       
+Ken Thompson          9 Joan Bailey          21 
+Keith Smith          21 John Nunn            18 
+Stuart Holling       21 Les Bailey           15 
+Mick Lunn             8 Jack Norton          21 
+Jan Haigh            21 Eric Law             14 
+Gary Round           19 Dot White            21 
+John Ryan            13 Dennis Mercer        21 
+Anne Round           21 Eric Hargreaves       9 
+         Aggregate: 133          Aggregate: 140 
+
+      Semi-Finals            Mon 14th Jul       
+                         On Wakefield Thornes   
+       Stanley A              Outwood WMC       
+Paul Giblin          21 Tony Hunter           6 
+Steve Leaworthy      21 David Wright         13 
+Kevin Goodhall       18 Howard Rose          21 
+Cliff Scargill       21 Richard Ramsden      14 
+Karen Haist          21 Don Hall             19 
+John Morris          21 Mick Booth           14 
+Stephen Haist        21 David Nichol         20 
+Andrew Lord          20 Peter Varley         21 
+         Aggregate: 164          Aggregate: 128 
+
+      Semi-Finals            Mon 14th Jul       
+                               On Darton        
+    Wakefield BC B             Stanley B        
+Dorothy Smith        21 Holger Cole           9 
+Margaret Carter      21 Eric Szpyrka         19 
+Sandra Ness          21 Barrie Plant         13 
+Donald Ward          17 Gordon Ellis         21 
+David Carter         15 Keith Lawrance       21 
+Michael Murphy       21 Geoffrey Temple      17 
+Mike Dudbridge        8 Cheryl Cole          21 
+Ronnie Greenwood     21 Susan Plant          12 
+         Aggregate: 145          Aggregate: 133 
 
 

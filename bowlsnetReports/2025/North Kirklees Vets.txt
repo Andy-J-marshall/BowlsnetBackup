@@ -1,4 +1,4 @@
-=== North Kirklees (Vets) 2025 (as of Sun 13th Jul)
+=== North Kirklees (Vets) 2025 (as of Sun 20th Jul)
 === League Match Cards
 
        Division 1                 Tue 15th Apr           
@@ -2250,5 +2250,89 @@ Leslie Mitchell       21 Sharon Clayton                6
 Clive Hirst           21 David Mcleish Letham          4 
 Paul Ryan             21 Gary Newsome                 14 
           Aggregate: 164                  Aggregate: 101 
+
+       Division 4                 Tue 15th Jul           
+       Overthorpe                Firth Park - B          
+Tony Greenlees        13 Graham Pearce                21 
+Tony Dickinson        14 Philip Rhodes                21 
+Heather Jewitt        21 Janet Spencer                 5 
+Paul Nutting          21 Jeffrey Hardcastle           19 
+Alan Bell             21 Kevin Brook                  17 
+Rod Clifford          21 Peter Tams                   13 
+Steve Bell            18 Steven Newton                21 
+Leslie Bell           21 John Shaw                     7 
+          Aggregate: 150                  Aggregate: 124 
+
+      Semi-Finals                 Tue 15th Jul           
+                                  On Overthorpe          
+   Spen Victoria - A               Ossett - A            
+Mark Worrall          21 Laurie Bairstow               6 
+Micky Morris          10 David Clarke                 21 
+Billington Ann        21 Bryan Collier                12 
+David Rayner          12 Neil Holmes                  21 
+Paul Blackburn        21 Gary Foulkes                 14 
+          Aggregate:  85                  Aggregate:  74 
+
+      Semi-Finals                 Tue 15th Jul           
+                                On Crownest Park         
+   Spen Victoria - C             Royds Park - A          
+Jeff Parkinson         5 David Fox                    21 
+Michael Potter         9 Steve Busz                   21 
+Alan Evans            10 John Greenhalgh              21 
+Richard Ward          11 Christine Gowan              21 
+Roger Green           16 Derek Brown                  21 
+          Aggregate:  51                  Aggregate: 105 
+
+      Semi-Finals                 Tue 15th Jul           
+                                  On Slazengers          
+     Firth Park - A                Ossett - C            
+Mark Prideaux         21 Glyn Beresford               10 
+Ian Fitton            21 David Hirst                  14 
+Alan Parkin           21 John Oldroyd                  7 
+Albert Bentley        21 John Kellett                 20 
+Michael Rhodes        21 John Wigglesworth            14 
+          Aggregate: 105                  Aggregate:  65 
+
+      Semi-Finals                 Tue 15th Jul           
+                            On Earlsheaton Park - Top    
+        Soothill               Hanging Heaton - B        
+Karen Ainley          21 Colin Whiteley               13 
+Ian Taylor            21 Derek Robinson               15 
+Pauline Mullarkey     21 Claire Price                 15 
+Nigel Ainley          21 John R. Brooks               16 
+Stephen Hall          21 Tony Howland                 14 
+          Aggregate: 105                  Aggregate:  73 
+
+      Semi-Finals                 Tue 15th Jul           
+                                 On Thornhill BC         
+  Staincliffe Park - A               Ardsley             
+Josie Stokes          11 Denis Hill                   21 
+Joan Stubley           7 David Bentley                21 
+Carol Lawton          12 Ian Sanderson                21 
+Carol Sykes           14 Terry Townend                21 
+Tony Cockcroft        21 Jim Leach                     5 
+          Aggregate:  65                  Aggregate:  89 
+
+      Semi-Finals                 Tue 15th Jul           
+                                  On Royds Park          
+  Birkenshaw Park - B            Grange Park - B         
+Audrey Firth           9 David Crest                  21 
+Colin Dyson           19 Ron Walker                   21 
+Jean Mortimer          9 Diane Gomersall              21 
+Rusty Hatherley       19 Jane Illsley                 21 
+Sharon Clayton         2 Michael Gomersall            21 
+          Aggregate:  58                  Aggregate: 105 
+
+       Division 1                 Fri 18th Jul           
+   Scatcherd Park - A           Mirfield Old Bank        
+Geoffrey Firth        19 Brian Scarth                 21 
+Tony Auty              8 Harold Hick                  21 
+Stephen Briggs        21 Colin Fisher                  9 
+Kevin Taylor          17 Paul Hartley                 21 
+Joe Adams             21 Trevor Morgan                20 
+Graham Goodall        17 Walter Morgan                21 
+Jeff Holt             21 Bryan Ibbetson                5 
+Derek McCormack       21 Charlie Sykes                12 
+          Aggregate: 145                  Aggregate: 130 
 
 

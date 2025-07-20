@@ -1,4 +1,4 @@
-=== Skipton (Merit) 2025 (as of Sun 13th Jul)
+=== Skipton (Merit) 2025 (as of Sun 20th Jul)
 === League Match Cards
 
    Clarkson Cup Prelim            Tue 8th Apr        
@@ -3439,10 +3439,10 @@ David Craig             21 Philip Dunderdale       9
 David Chatterton        21 Helen Taylor           17 
 Steve Hounslow          21 Derek Squires          11 
 David Graham            15 Pip Chadwick           21 
-Mick Gee                21 Ian McDade              0 
+Mick Gee                21 Ian McDade              2 
 Keith Buchanan          11 Liam Gatenby           21 
                Games:    6               Games:    2 
-           Aggregate:  152           Aggregate:   98 
+           Aggregate:  152           Aggregate:  100 
               Points:    8              Points:    2 
 
 Walker Foster Merit Div 4        Thu 10th Jul        
@@ -3486,5 +3486,131 @@ Billy Westfall          21 Joe Ginty               6
                Games:    7               Games:    1 
            Aggregate:  153           Aggregate:  105 
               Points:    9              Points:    1 
+
+Walker Foster Merit Div 3        Wed 16th Jul        
+        Cononley B                Keighley B         
+Glen Ridehalgh          21 Sara McHale            15 
+David Brown             21 David Brooke            6 
+Jon Brown               21 Sarfraz Qureshi         5 
+Debbie Sargent          21 Alistair Dickinson     13 
+Tony Musolf             21 Anthony Roberts         6 
+Robert Ellis            17 Joshua McHale          21 
+Phillip Boocock         21 Kath Pascall            4 
+Tony Finn               21 Wayne Brown            20 
+               Games:    7               Games:    1 
+           Aggregate:  164           Aggregate:   90 
+              Points:    9              Points:    1 
+
+Walker Foster Merit Div 4        Wed 16th Jul        
+        Gargrave C                 Craven C          
+Alan Gilfoyle           14 Doug Scriven           21 
+Carole Tunstall         21 David Watson           13 
+Steve Tomlinson         21 Catherine Leigh        11 
+David Garnett           21 Stuart Cracknell        6 
+Mark Tunstall           21 Philip Rowley          12 
+Marilyn Heaton          21 Andrew Noller          11 
+Ian Robinson            21 Harry Spriggs           9 
+Chris O'Sullivan        18 Richard Pratt          21 
+               Games:    6               Games:    2 
+           Aggregate:  158           Aggregate:  104 
+              Points:    8              Points:    2 
+
+Walker Foster Merit Div 4        Wed 16th Jul        
+       Whinfield C               Sutton Park C       
+Kyp Hayhurst            13 Roy Attwood            21 
+Ann Heyworth            19 Carole Williams        21 
+Freda Lester            21 Valerie Golding        15 
+Pat Crewe               21 Steve O'Brien           9 
+Carol Hayhurst          21 Trevor Howard           7 
+Lee Procter             19 Callum Cadwallader     21 
+Helen Taylor            21 Ken Williams            9 
+Philip Chadwick         21 Graham Summers          6 
+               Games:    5               Games:    3 
+           Aggregate:  156           Aggregate:  109 
+              Points:    7              Points:    3 
+
+Walker Foster Merit Div 4        Wed 16th Jul        
+       Crosshills C                Steeton B         
+Bob Wellwood            21 Janet Green            19 
+Richard Lewis           18 Martin Rishton         21 
+Robert Savage           21 Jack Carter-Rawnsley   13 
+Peter Ashmore           18 Robert Thorpe          21 
+Michael Winnery         21 Billy Westfall         14 
+Carol Wellwood          11 Dianne Broadbent       21 
+Graham Daniel           12 John Blacka            21 
+Trevor Johnson          21 Marilyn Thorpe         10 
+               Games:    4               Games:    4 
+           Aggregate:  143           Aggregate:  140 
+              Points:    6              Points:    4 
+
+Walker Foster Merit Div 2        Thu 17th Jul        
+       Devonshire B            Alkincoates PW B      
+Jonathan Barrett        14 Dominic Doyle          21 
+Pat Drake               21 Ken Bolton             16 
+Gordon Pickles          21 John Southworth        15 
+Graham Mitchell         10 Mick McNicol           21 
+Andy Cook               20 Pat Avrill             21 
+Paul Naylor             13 Joan Riley             21 
+Steve Senior            15 Stan Reynolds          21 
+Peter Haworth           21 Wayne Ellison          16 
+               Games:    3               Games:    5 
+           Aggregate:  135           Aggregate:  152 
+              Points:    3              Points:    7 
+
+       Semi-Finals               Thu 17th Jul        
+                                   On Craven         
+        Keighley A              Trawden Forest       
+Trevor Hargreaves       21 David Craig            18 
+Joshua McHale           20 Nigel Green            21 
+Peter Wormald           21 Noreen Graham          18 
+Wayne Brown             12 Steve Hounslow         21 
+Nigel Hall              21 Ryan Atkins            12 
+George Hutson           14 David Graham           21 
+Jeff Bradley            21 David Chatterton        7 
+Paul McHale             14 Geoff Monkhouse        21 
+            Handicap:  +60            Handicap:  +70 
+           Aggregate:  204           Aggregate:  209 
+
+       Semi-Finals               Thu 17th Jul        
+                                   On Rolls          
+      Colne Legion A             Devonshire A        
+Dean Emmott              8 Peter Clark            21 
+Alan Handford           11 Nigel Breadley         21 
+Mike Bysouth            21 Nick Squires           13 
+Terry Lane              21 Les Foster             13 
+Kieron Handford         21 Daniel Moore           20 
+David Hitchcox          10 Ian Hargreaves         21 
+Ian Gardiner            21 Steve Birch            17 
+David H Hough           12 Stephen Lofthouse      21 
+            Handicap:  +55            Handicap:   +4 
+           Aggregate:  180           Aggregate:  151 
+
+       Clarkson Cup              Thu 17th Jul        
+                               On Broughton Road     
+     Alkincoates PW A               Rolls A          
+Dean Brown              21 Kenneth Simmons         6 
+John Whitaker           21 Graham Gallacher       18 
+Daryl Wright            21 Neil Whitaker           9 
+Josh Mordue             21 Joe Reger               6 
+Glyn Shuttleworth       21 Jenny Whitaker         17 
+Claire Russell          21 David Curran            5 
+Sarah Edmondson         21 Andy Duckworth         15 
+Aaron Harrison          21 Alec Hutchinson        17 
+            Handicap:  Scr            Handicap:  +52 
+           Aggregate:  168           Aggregate:  145 
+
+       Clarkson Cup              Thu 17th Jul        
+                                 On Silsden PF       
+       Crosshills A               Cononley A         
+Robbie Ellis            21 Robert Ellis            7 
+Keiran Bannister        21 Wayne Lee              14 
+Philip Dowgill          21 Alister Keighley       15 
+Ryan Tiler              21 Sharon Gadd            15 
+Ben Titorenko           21 Mick Gadd              15 
+Danny Barker            21 Ian Dewhirst           16 
+David Scott             13 Tony Finn              21 
+Jamie Cunningham        10 David Brown            21 
+            Handicap:   -4            Handicap:   +7 
+           Aggregate:  145           Aggregate:  131 
 
 

@@ -1,4 +1,4 @@
-=== Halifax (Hebden Royd Mon.) 2025 (as of Sun 13th Jul)
+=== Halifax (Hebden Royd Mon.) 2025 (as of Sun 20th Jul)
 === Comp. Match Cards
 
 Division 1, 6 person teams        Mon 12th May       
@@ -695,6 +695,90 @@ John McDermondy          12 Chris Watkins         21
 Tom Faulkner             14 Kevin Mitchell        21 
                 Points:   1              Points:   7 
              Aggregate:  77           Aggregate: 120 
+                 Games:   1               Games:   5 
+
+Division 1, 6 person teams        Mon 14th Jul       
+        Oxenhope A                 Old Town A        
+Steve Collier            21 Sue Martin            12 
+Peter Ousey              21 Tony Cooper           13 
+Trevor Douglas           21 *No Player*            0 
+Mary Hemsley             21 Jenny Cooper          11 
+Richard Hemsley          20 Dave Ruse             21 
+Fred Rothwell            21 Alan Martin            4 
+                Points:   7              Points:   1 
+             Aggregate: 125           Aggregate:  61 
+                 Games:   5               Games:   1 
+
+Division 1, 6 person teams        Mon 14th Jul       
+        Cross Road                  Sowerby          
+Steve Hird               21 Michael Wood          13 
+Peter Thompson           10 Pam Wood              21 
+Mick Peel                21 Edward Eyres           9 
+John Copperwaite         19 Heather Parker        21 
+Thomas Hargreaves        21 Glenda Hartley        10 
+Stephen Peers            21 Renata Eyres           7 
+                Points:   6              Points:   2 
+             Aggregate: 113           Aggregate:  81 
+                 Games:   4               Games:   2 
+
+Division 1, 6 person teams        Mon 14th Jul       
+        Denholme A                  Hollins          
+Andy Matthews            21 Darren Earnshaw       16 
+Robert Lightowler        21 Marak Orlinski        16 
+Steve Griffiths          21 Godfrey Higginbotham   6 
+Sean Picken              21 Andrew Ross           12 
+Mick Dunn                21 Steve Rollings        20 
+David Hewitt             21 Chris Abbot            5 
+                Points:   8              Points:   0 
+             Aggregate: 126           Aggregate:  75 
+                 Games:   6               Games:   0 
+
+Division 1, 6 person teams        Mon 14th Jul       
+          Savile                Mytholmroyd B.C.     
+David Whitehouse         21 Ann Greenwood         10 
+Harry Ashworth           21 Joan Collins          11 
+John Hartley             19 Gary Peel             21 
+Andresa McWhirter         9 David Greenwood       21 
+Steve Morris             21 Lorraine Boulton      10 
+Stephen D Robinson       21 William Ashley        13 
+                Points:   6              Points:   2 
+             Aggregate: 112           Aggregate:  86 
+                 Games:   4               Games:   2 
+
+Division 2, 6 person teams        Mon 14th Jul       
+        Old Town B                 Denholme B        
+Paul Newman              21 Alan Lawlor           10 
+Harry Coleman            21 Skylar Jackson        15 
+Tom Faulkner             21 Elaine Griffiths      18 
+Neil Twaites             21 Keith Ronaldson        9 
+John McDermondy          20 Ken Jackson           21 
+John Bewick              13 Pauline Lightowler    21 
+                Points:   6              Points:   2 
+             Aggregate: 117           Aggregate:  94 
+                 Games:   4               Games:   2 
+
+Division 2, 6 person teams        Mon 14th Jul       
+       Luddendenfoot               Hill Crest        
+Thomas Bridges           13 Tim Brumby            21 
+J Barry Farrar           11 John Fisher           21 
+Chris Mitchell           21 Ed Tinker              4 
+Kathryn Mitchell         21 Craig Charlwood        9 
+Kevin Mitchell           21 Phil Thornber         16 
+Chris Watkins            21 Stuart Pilling        15 
+                Points:   6              Points:   2 
+             Aggregate: 108           Aggregate:  86 
+                 Games:   4               Games:   2 
+
+Division 2, 6 person teams        Mon 14th Jul       
+         Walsden B                 Walsden A         
+Syd Smith                11 Cameron Hanson        21 
+Meridith Wilkinson        5 Daniel Howley         21 
+Tony Hunking             14 Lewis Butcher         21 
+Darrel Halstead          21 Michael Butcher       18 
+Nigel Halsteadi          20 Dave McFarland        21 
+Kenny Gale                6 Paul Senior           21 
+                Points:   1              Points:   7 
+             Aggregate:  77           Aggregate: 123 
                  Games:   1               Games:   5 
 
 
