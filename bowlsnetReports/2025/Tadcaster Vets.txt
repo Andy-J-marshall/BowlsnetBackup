@@ -1,4 +1,4 @@
-=== Tadcaster Area Veterans' Bowls 2025 (as of Sun 20th Jul)
+=== Tadcaster Area Veterans' Bowls 2025 (as of Sun 27th Jul)
 === Comp. Match Cards
 
      Division One             Wed 9th Apr       
@@ -228,7 +228,7 @@ Margaret Brockhill   13 Lesley Holloran      21
 Philip Thirkill      21 George Haywood        9 
 Jill Shaw            21 Margaret Carr         1 
 Eileen Darnton        8 Judy Stow            21 
-Mary Doreston        21 Mike Carr            15 
+Mary Doveston        21 Mike Carr            15 
 Janet Gomersal       15 Linda Thurgood       21 
 Allan Hughes          9 Jennifer Wright      21 
 Richard Farrar       14 Michael Malawer      21 
@@ -332,7 +332,7 @@ Mary Wilkinson       21 Philip Thirkill      15
 John Dixon           10 David Toomey         21 
 Christine Levett     21 Janet Gomersal       20 
 Bev Dixon            21 Jill Shaw             1 
-Elaine Medd          14 Mary Doreston        21 
+Elaine Medd          14 Mary Doveston        21 
 Barrie Stevenson     21 Ken Firth            16 
 Andrew Best          13 Jane Johnston        21 
 John Tanner          10 Robin Addis          21 
@@ -461,7 +461,7 @@ Hazel Kelly          13 Elaine Medd          21
 Margaret Brockhill   16 Shirley Ryan         21 
 Janet Gomersal       21 Marnel Romans        20 
 Jane Johnston        21 Joan Kilburn         19 
-Mary Doreston        16 Carol Illingworth    21 
+Mary Doveston        16 Carol Illingworth    21 
 Allan Hughes         17 Margaret Dickens     21 
 Ken Firth            10 Lynn Doyle           21 
 Robin Addis          16 Keith Smith          21 
@@ -554,7 +554,7 @@ Alma Hatfield        21 Philip Thirkill       8
 Gillian Mobbs        20 Jane Johnston        21 
 Paul Wilkinson       21 Janet Gomersal       15 
 Michael Jennings     21 Allan Hughes         15 
-Tim Storr            14 Mary Doreston        21 
+Tim Storr            14 Mary Doveston        21 
 Mike Parker          14 David Toomey         21 
 Michael Hatfield     21 Robin Addis          12 
             Points:   6             Points:   4 
@@ -928,7 +928,7 @@ John Ramsbottom      21 Margaret Dickens     12
        Tadcaster                Scholes         
 Margaret Brockhill   21 Helen Cox            13 
 Jane Johnston         5 Jayne Dickinson      21 
-Mary Doreston        21 Janet Spencer         2 
+Mary Doveston        21 Janet Spencer         2 
 Philip Thirkill       3 John Pennock         21 
 Allan Hughes         21 Joan Rusby            5 
 Ken Firth            10 David White          21 
@@ -1048,7 +1048,7 @@ David Croft          21 Jill Shaw             8
 Anthony Marsden      21 Ken Firth            15 
 Trevor Watson        21 Janet Gomersal       10 
 Terry Maclean        16 Allan Hughes         21 
-Michael Higgins      21 Mary Doreston         6 
+Michael Higgins      21 Mary Doveston         6 
 Stuart Cockerham     21 Robin Addis          19 
 Ken Maxim            10 David Toomey         21 
             Points:   7             Points:   3 
@@ -1178,7 +1178,7 @@ Peter Mason          21 Jane Johnston        19
 James Phillips       21 Janet Gomersal        7 
 Alan Baldwin         21 Ken Firth            10 
 Rita Beadle          13 Allan Hughes         21 
-David Lewis           8 Mary Doreston        21 
+David Lewis           8 Mary Doveston        21 
 Walter Lewis         20 David Toomey         21 
 Martin Woolley       20 Robin Addis          21 
             Points:   6             Points:   4 
@@ -1229,7 +1229,7 @@ Jane Johnston        21 Ian Lindsay           9
 Janet Gomersal       19 Trevor Howard        21 
 Jill Shaw            21 Dave Robinson        16 
 Allan Hughes         14 Janet Taylor         21 
-Mary Doreston        14 Gordon Heron         21 
+Mary Doveston        14 Gordon Heron         21 
 David Toomey         21 William Shaw         16 
 Robin Addis           8 David Taylor         21 
 Peter Godfrey        21 Kevin Knowles        10 
@@ -1373,7 +1373,7 @@ Peter Godfrey        21 Steve Alderson        4
 Jane Johnston        21 John Bailey           9 
 Janet Gomersal       21 John Ramsbottom      10 
 Allan Hughes         21 Paul Farrar          10 
-Mary Doreston        21 Sue Dunwell           9 
+Mary Doveston        21 Sue Dunwell           9 
 David Toomey         21 Graham Bradley       13 
 Philip Thirkill      21 Gordon Davison       11 
             Points:   9             Points:   1 
@@ -1501,7 +1501,7 @@ Barrie Stevenson     21 David White           6
 Mike Carr            21 Allan Hughes         17 
 George Haywood       18 Janet Gomersal       21 
 Carole Lyons         12 Ian Hamilton         21 
-Jennifer Wright      12 Mary Doreston        21 
+Jennifer Wright      12 Mary Doveston        21 
 Alex May             21 David Toomey         16 
 Linda Thurgood        9 Robin Addis          21 
 Lesley Holloran      17 Jane Johnston        21 
@@ -1617,7 +1617,7 @@ Joan Rusby           11 Michael Hatfield     21
        Tadcaster            Garforth Rec B      
 Ian Hamilton         14 John Dixon           21 
 Janet Gomersal       21 Colin Medd           15 
-Mary Doreston        21 Teresa Newton        12 
+Mary Doveston        21 Teresa Newton        12 
 Jane Johnston        21 Elaine Medd          17 
 David Toomey         21 Mike Osborne         16 
 Allan Hughes         21 Bev Dixon            20 
@@ -1750,10 +1750,127 @@ Joan Kilburn         21 Eileen Darnton       11
 Marnel Romans        21 Janet Gomersal       12 
 Gareth Lloyd         21 Ian Hamilton         11 
 Simon Umpleby        21 John Munday          16 
-Carol Illingworth    10 Mary Doreston        21 
+Carol Illingworth    10 Mary Doveston        21 
 Margaret Dickens     19 Freda Naylor         21 
 Shirley Ryan         21 David Toomey          7 
             Points:   8             Points:   2 
          Aggregate: 155          Aggregate: 114 
+
+     Division Two            Mon 21st Jul       
+       Barwick B                Bardsey         
+Terry Maclean        14 Hazel Kelly          21 
+Michael Higgins      11 Walter Lewis         21 
+Julie Higgins         4 Alan Baldwin         21 
+Eugene Gibbons       11 Martin Woolley       21 
+Trevor Watson        21 David Lewis          17 
+David Croft          15 James Phillips       21 
+Anthony Marsden      21 Rita Beadle          17 
+Derek Harding        21 Paul Matthews        15 
+            Points:   3             Points:   7 
+         Aggregate: 118          Aggregate: 154 
+
+     Division One            Wed 23rd Jul       
+    Garforth Rec A             Magnets B        
+Bob Felton           18 Carolyn Fidler       21 
+Cliff Edwards        21 John Parnaby         18 
+Mavis Bradbrook      14 Rosemary Baxter      21 
+Joy Slater           21 Barry Shooter         9 
+Barbara Kyle         15 Barrie Wilson        21 
+Ray Brown            21 Sue Simpson           1 
+Mary Black           21 Eileen Emmett        14 
+Doug Fraser          21 Morse Shah           17 
+            Points:   7             Points:   3 
+         Aggregate: 152          Aggregate: 122 
+
+     Division One            Wed 23rd Jul       
+      Sherburn A               Barwick A        
+Paul Williamson      21 Jennifer Dodgson     14 
+Albert Mouser        16 Jane Boyd            21 
+Margaret Saunders    21 Jeff Binns           18 
+Geoff Saunders       21 Jack Finister        14 
+Gary Haley           21 Keith Dodgson         5 
+Ruth Nicholson       20 Chris Boyd           21 
+Helen Crawshaw       10 Pam Binns            21 
+David Milnes         21 Derek Dobson          7 
+            Points:   7             Points:   3 
+         Aggregate: 151          Aggregate: 121 
+
+     Division One            Wed 23rd Jul       
+     Garforth CC A            Aberford A        
+Ian Thornhill        14 David Walker         21 
+Les Hudson           21 Paul Brownridge       4 
+Philip Brook         21 Dennis Hancock       18 
+David Mincher         7 Sue Hancock          21 
+Neil Robinson        21 Jan Collinson        19 
+Niel Mehta           21 Bev Wharton          18 
+Philip Carlile       17 Mick Fletcher        21 
+Craig White           3 Ian Vickers          21 
+            Points:   4             Points:   6 
+         Aggregate: 125          Aggregate: 143 
+
+     Division Two            Wed 23rd Jul       
+     Boston Spa A              Wetherby         
+Gordon Heron         21 Judy Stow             7 
+Janine Jackson       21 Carole Lyons         11 
+Ian Lindsay          21 Ian Joynson          14 
+Dave Robinson        21 George Haywood       15 
+David Taylor         21 Jennifer Wright      14 
+Steve Richardson     21 Sheila Hanson        18 
+William Shaw         21 Linda Thurgood       14 
+Kevin Knowles        21 Alex May             20 
+            Points:  10             Points:   0 
+         Aggregate: 168          Aggregate: 113 
+
+     Division Two            Wed 23rd Jul       
+       Barwick B             Boston Spa B       
+Julie Higgins         9 Irene Wainwright     21 
+Anthony Marsden      21 Pamela Field          7 
+David Croft          21 Charlotte Howarth    11 
+Derek Harding        20 Margaret Gardner     21 
+Stuart Cockerham     21 Sheila Mortimer       6 
+Michael Higgins      21 Brian Catton         13 
+Trevor Watson        21 Lewis Wainwright     18 
+Terry Maclean        21 Trevor Howard         9 
+            Points:   8             Points:   2 
+         Aggregate: 155          Aggregate: 106 
+
+     Division Two            Wed 23rd Jul       
+       Tadcaster             Collingham B       
+Allan Hughes          5 Maureen Burleigh     21 
+Ian Hamilton         15 Neil Roberts         21 
+Louise Lendhill      21 Paul Wilkinson       10 
+Philip Thirkill      16 Michael Jennings     21 
+Janet Gomersal       21 Tim Storr            13 
+Mary Doveston        11 Mike Parker          21 
+Robin Addis          12 Jonathan Kinroy      21 
+Peter Godfrey        21 Tony Hoar            16 
+            Points:   3             Points:   7 
+         Aggregate: 122          Aggregate: 144 
+
+     Division Two            Wed 23rd Jul       
+      Aberford B            Garforth Rec B      
+Sue Dunwell          21 Mary Wilkinson       10 
+Graham Bradley       13 John Dixon           21 
+Terry Beaumont       17 Elaine Medd          21 
+Paul Farrar           3 Bev Dixon            21 
+John Bailey          10 Christine Levett     21 
+Steve Alderson       16 Teresa Newton        21 
+David Howson         21 Andrew Best          13 
+John Ramsbottom       2 Barrie Stevenson     21 
+            Points:   2             Points:   8 
+         Aggregate: 103          Aggregate: 149 
+
+     Division Two            Wed 23rd Jul       
+        Scholes               Sherburn B        
+Patricia Leonard     21 Margaret Dickens      8 
+Gillian Cohen        21 Carol Illingworth    18 
+Joan Rusby           21 Veronica Jenkin      12 
+Patricia Dickinson    7 Simon Umpleby        21 
+Stephen Leonard      21 Joan Kilburn         18 
+Phillip Elliott      17 Marnel Romans        21 
+Jayne Dickinson      21 Gareth Lloyd         14 
+John Pennock         21 *No Player*           0 
+            Points:   8             Points:   2 
+         Aggregate: 150          Aggregate: 112 
 
 

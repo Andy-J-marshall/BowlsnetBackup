@@ -1,4 +1,4 @@
-=== Halifax (Hebden Royd Fri.) 2025 (as of Sun 20th Jul)
+=== Halifax (Hebden Royd Fri.) 2025 (as of Sun 27th Jul)
 === League Match Cards
 
            League                   Fri 25th Apr       
@@ -1320,5 +1320,31 @@ John Furlong                6 Howard Owen           21
 Chris Major                15 Fred Greenwood        21 
                Aggregate:  49           Aggregate:  84 
                   Points:   9              Points:  20 
+
+           League                   Fri 25th Jul       
+         Division 1                                    
+       Luddendenfoot B            Luddendenfoot A      
+Mark Horner                14 Becky Woodhead        21 
+Daniel Stafford            18 Kay Lund              21 
+Phil Thornber              10 Chris Mitchell        21 
+Chris Watkins              14 Barry Farrar          21 
+Gill Horner                16 Natalie Swain         21 
+Gillian Thornber           21 Tamina Oates          11 
+                  Points:  17              Points:  27 
+               Aggregate:  93           Aggregate: 116 
+                   Games:   1               Games:   5 
+
+           League                   Fri 25th Jul       
+         Division 2                                    
+         Old Town B                Cross Roads B       
+Stewert Andrews            21 Paul Robinson         13 
+Simon Phillips             18 Paul Claughan         21 
+Dave Ruse                  21 John Larner           14 
+Tom Sapey                  21 Malcolm Porter        15 
+Rodger Walsh               21 Simon Woodvine        16 
+John Tolley                11 Erin Claughan         21 
+                  Points:  25              Points:  20 
+               Aggregate: 113           Aggregate: 100 
+                   Games:   4               Games:   2 
 
 

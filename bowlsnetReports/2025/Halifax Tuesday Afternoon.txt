@@ -1,4 +1,4 @@
-=== Halifax (Tues.Afternoon) 2025 (as of Sun 20th Jul)
+=== Halifax (Tues.Afternoon) 2025 (as of Sun 27th Jul)
 === Comp. Match Cards
 
       Division 2              Tue 8th Apr       
@@ -1908,5 +1908,173 @@ John Fish            21 John Beaumont        17
          Aggregate: 117          Aggregate: 108 
              Games:   3              Games:   3 
             Points:   5             Points:   3 
+
+      Division 1             Tue 22nd Jul       
+      West End A              Hove Edge A       
+Martin Murphy        21 Tony James           12 
+Ivan Taylor          21 Graham Jackson       16 
+Brian Needham        16 Steve Rathmell       21 
+David Musgrove        8 Taff Owen            21 
+Ian Crossland        21 Nigel Firth          20 
+John Rowley          10 Joe Philips          21 
+         Aggregate:  97          Aggregate: 111 
+             Games:   3              Games:   3 
+            Points:   3             Points:   5 
+
+      Division 1             Tue 22nd Jul       
+      Ripponden A            Hill Crest A       
+Philip Holroyd       15 David Barnes         21 
+Brian Winrow         21 Frank Clissett       19 
+Howard Owen          21 Lyndon Harris        17 
+Nick Oddy            21 Annice Copley        14 
+Michael Robertshaw   21 Maria Lodge          13 
+Keith Hardy          21 R Woodhead            3 
+         Aggregate: 120          Aggregate:  87 
+             Games:   5              Games:   1 
+            Points:   7             Points:   1 
+
+      Division 1             Tue 22nd Jul       
+    Akroydon Vic A           Halifax B.C.       
+Philip Keast         19 Stephen Wandiak      21 
+P Lowry               7 Ray Clegg            21 
+Steve Livsey         20 Ian Tweedale         21 
+Terry Keast          17 Paul Patrick         21 
+D Avery               3 David Culpan         21 
+Chris Meade          21 Gary Burke           20 
+         Aggregate:  87          Aggregate: 125 
+             Games:   1              Games:   5 
+            Points:   1             Points:   7 
+
+      Division 1             Tue 22nd Jul       
+       Old Town               Greetland A       
+G Hughes             11 Barry Sugden         21 
+Andy Greenwood       15 David Farrar         21 
+M Skwarek            21 Clifford Birkhead     4 
+Steve Griffiths      21 Colin Pidgeon         9 
+John Bewick          13 Graham Crompton      21 
+Fred Rothwell        17 Chris Crawshaw       21 
+         Aggregate:  98          Aggregate:  97 
+             Games:   2              Games:   4 
+            Points:   4             Points:   4 
+
+      Division 1             Tue 22nd Jul       
+     Hipperholme A         Laurel Crescent A    
+David Peel           17 Ken Sharkey          21 
+Stephen Rookes       17 Bernard Keen         21 
+Roger Bernard        15 Brian Hildred        21 
+Glyn Hopper          19 Bob Coates           21 
+Robin Sugden         21 P Jackson            18 
+Tom Roper            19 Terry Jackson        21 
+         Aggregate: 108          Aggregate: 123 
+             Games:   1              Games:   5 
+            Points:   1             Points:   7 
+
+      Division 2             Tue 22nd Jul       
+     Hill Crest B           Bailiff Bridge      
+Tim Brumby           21 David Franz          12 
+Ella Clissitt         6 Colin White          21 
+J Jackson            21 Malcolm Park          9 
+Paul Oldfield        13 Kevin Page           21 
+Pamela Woodhead      21 Chris Stout          16 
+Colin Wright         20 Vincent Kerr         21 
+         Aggregate: 102          Aggregate: 100 
+             Games:   3              Games:   3 
+            Points:   5             Points:   3 
+
+      Division 2             Tue 22nd Jul       
+      Hove Edge B             Ripponden B       
+Ray Armstrong        17 Steve Mackrell       21 
+Peter Martin         17 Graham Smith         21 
+Patrick O'Connor     21 Sue Greenwood        15 
+Jimmy Procter        12 Paul Hitchen         21 
+Stewart Greenwood    21 Andy Webster         14 
+Kevin Longbottom     21 Fred Greenwood       11 
+         Aggregate: 109          Aggregate: 103 
+             Games:   3              Games:   3 
+            Points:   5             Points:   3 
+
+      Division 2             Tue 22nd Jul       
+   Luddenden Foot A          Northowram A       
+Ray Wolsey           21 Dennis Clayton       17 
+John Shann           21 Robert Clayton       13 
+Mark Horner          21 D Robinson           20 
+Gill Horner           6 B Shutt              21 
+David McMahon        18 D Moore              21 
+David Stafford        5 John Beaumont        21 
+         Aggregate:  92          Aggregate: 113 
+             Games:   3              Games:   3 
+            Points:   3             Points:   5 
+
+      Division 2             Tue 22nd Jul       
+    Sowerby T & BC          Bradshaw Park A     
+Alastair Baigent      9 Tony Young           21 
+Edward Eyres          8 T Mosey              21 
+Philip Eastwood      21 C Hall               14 
+Brian Pickles        21 Russell Lockley      16 
+Martyn Summerscales  18 Keith Noble          21 
+Keith Hartley        12 John Fish            21 
+         Aggregate:  89          Aggregate: 114 
+             Games:   2              Games:   4 
+            Points:   2             Points:   6 
+
+      Division 2             Tue 22nd Jul       
+      Allan Park             Elland WMC A       
+Martin Grace         21 P Hand               12 
+Linda Lees           21 Geoffrey Place        6 
+Paul Rimmer          21 Peter Clement        16 
+Gary O Leary         21 P Wright             13 
+June Gaukroger       20 G Boothroyd          21 
+Chris Johnstone      21 John Jackson          9 
+         Aggregate: 125          Aggregate:  77 
+             Games:   5              Games:   1 
+            Points:   7             Points:   1 
+
+      Division 3             Tue 22nd Jul       
+    Crow Wood Park          Akroydon Vic B      
+Alex Myers           15 S Alderson           21 
+Ian Mellor           21 Robert Harrison      16 
+John Dinsdale         7 John Lawless         21 
+Barbara Lumb         10 Russell Jowett       21 
+P Foster             21 Jansson Ashford      11 
+Edward Marshall      21 M Russell            13 
+         Aggregate:  95          Aggregate: 103 
+             Games:   3              Games:   3 
+            Points:   3             Points:   5 
+
+      Division 3             Tue 22nd Jul       
+       Holmfield          Clayton Vic Park A    
+Anne Markwell        21 Lee Greenwood        10 
+Steve Bamforth       21 Ian Findlay          20 
+Allan Wilson         20 Malcolm Riggs        21 
+Edward Moss          21 Bob Armitage         19 
+Martin O'Hara        21 Kenny McCafferty      5 
+Stephen Hardy        15 Kevin Flanagan       21 
+         Aggregate: 119          Aggregate:  96 
+             Games:   4              Games:   2 
+            Points:   6             Points:   2 
+
+      Division 3             Tue 22nd Jul       
+   Laurel Crescent B         Hipperholme B      
+Daryl Edwards        15 Geoff Court          21 
+Derek Smith          12 Ian Medlin           21 
+Steven Hodgson       20 J Donovan            21 
+Joe Gibbons          21 Rob Sandie           12 
+Adrian Dinsmore       5 Neil Davidson        21 
+Gary Thompson        21 Michael Webster       9 
+         Aggregate:  94          Aggregate: 105 
+             Games:   2              Games:   4 
+            Points:   2             Points:   6 
+
+      Division 3             Tue 22nd Jul       
+     Northowram B             Hove Edge C       
+Peter Thornton       13 Ron Wasp             21 
+Peter Lee            11 Bob Spriggs          21 
+Peter Cretney        16 Philip Brearley      21 
+Keith Walker         20 Paul Wilkinson       21 
+Roy Donaldson        10 Steven Airey         21 
+S Sykes              11 Steve Shaw           21 
+         Aggregate:  81          Aggregate: 126 
+             Games:   0              Games:   6 
+            Points:   0             Points:   8 
 
 

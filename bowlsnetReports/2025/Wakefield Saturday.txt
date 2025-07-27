@@ -1,4 +1,4 @@
-=== Wakefield Saturday Bowling League 2025 (as of Sun 20th Jul)
+=== Wakefield Saturday Bowling League 2025 (as of Sun 27th Jul)
 === League Match Cards
 
        Division 1                Sat 5th Apr        
@@ -142,7 +142,7 @@ Doug Lawson            21 James Senior            3
 Lynn Lawson            12 Darren Burton          21 
 Sarah Dixon            21 Ruth Day               18 
 David Dixon            21 Rachel Gowan            6 
-Robert Curzon          21 *No Player*             0 
+Rob Curzon             21 *No Player*             0 
            Aggregate: 155            Aggregate:  84 
 
        Division 3                Sat 5th Apr        
@@ -1281,7 +1281,7 @@ Lynn Lawson            21 John Walker            15
 Sarah Dixon            21 Robert Holmes          17 
 David Dixon            21 Brian Oselton          13 
 Doug Lawson            17 Steve Findlay          21 
-Robert Curzon          14 Gerry Taylor           21 
+Rob Curzon             14 Gerry Taylor           21 
 Robyn Walters          21 Roy Stables            16 
            Aggregate: 157            Aggregate: 115 
 
@@ -1850,7 +1850,7 @@ Kevin Goodhall         21 Lynn Lawson            15
 Andrew Lord            21 Andrew Evison          17 
 Linda Goodhall         21 David Dixon             5 
 Karen Haist            21 Doug Lawson            20 
-Steve Leaworthy        20 Robert Curzon          21 
+Steve Leaworthy        20 Rob Curzon             21 
 Stephen Haist          15 John Packer            21 
            Aggregate: 148            Aggregate: 129 
 
@@ -2571,7 +2571,7 @@ Jane Illsey            12 Andrew Evison          21
 Doreen Ashton           9 Roger Steel            21 
 Pauline Wilson         17 David Dixon            21 
 David Wilson           21 Doug Lawson            20 
-Ron Walker             20 Robert Curzon          21 
+Ron Walker             20 Rob Curzon             21 
 Derick Hartley          3 Robyn Walters          21 
 Ian Worthington        21 John Packer            13 
             Handicap:  +8             Handicap: +16 
@@ -2960,11 +2960,131 @@ Trevor Dey             21 Karen Ainley           10
 Kevin Oldfield         21 Roger Steel             1 
 Jane Illsey            12 Andrea Banham          21 
 Pauline Wilson          8 Andrew Evison          21 
-Derick Hartley         14 Robert Curzon          21 
+Derick Hartley         14 Rob Curzon             21 
 David Wilson           20 Doug Lawson            21 
 Lynne Cunningham        6 David Dixon            21 
 Ron Walker              8 Robyn Walters          21 
 Ian Worthington        21 John Packer            20 
            Aggregate: 110            Aggregate: 147 
+
+       Division 4               Fri 25th Jul        
+     THORNHILL C&BC              ARDSLEY 'A'        
+Brian Skinner          18 Pat Lee                21 
+Joyce Parker           14 Marilyn Robinson       21 
+Anne Graham            21 Glenn Parkinson        20 
+Julie Makepeace        21 Janet Jeffreys          9 
+Robert Collomosse      21 Carol Middleton         2 
+Derek Robinson         21 Derek Walker            6 
+Lynn Hutchinson         8 Andrew Morley          21 
+Phil Gamble            21 Paul Gilpin            16 
+           Aggregate: 145            Aggregate: 116 
+
+       Division 2               Sat 26th Jul        
+ NOSTELL MINERS WELFARE        ALVERTHORPE WMC      
+Kirk Picken            21 Phillip Schofield      15 
+Les Conway             21 Anita Dack             12 
+Tony Whitlam           21 John Wood              10 
+Dave Edwards           21 Mick Dack               9 
+Andrew Chadwick        21 Jeff Normanton          9 
+Darren Crummack        21 Richard Ramsden         8 
+Paul Simmonds          21 David Wright            4 
+Steve Simmonds         21 Neil Parkin             4 
+           Aggregate: 168            Aggregate:  71 
+
+       Division 3               Sat 26th Jul        
+     OSSETT C&AC 'C'           ROYDS PARK 'B'       
+Linda Theaker          21 Christine Gowan        15 
+Stephen Blacklock      21 Chris Bentley          13 
+Alan Nash              19 Rachel Gowan           21 
+Rena Hirstle           10 Stuart Burton          21 
+Nora Collier           21 Ruth Day               13 
+Connor Dunford         21 Lesley Osborne         15 
+Dianne Pitchford       17 Chris Kennedy          21 
+Stewart Widdrington    21 James Senior           11 
+           Aggregate: 151            Aggregate: 130 
+
+      Wakefield Cup             Sat 26th Jul        
+                          On SKELMANTHORPE CENTRAL  
+     OSSETT C&AC 'A'           SLAZENGERS 'A'       
+Oscar Scott-Parker     21 Micheal Redican        11 
+Peter Lamb             21 Angela Pursglove       13 
+Harley Tattersley      21 Stephen Davis          14 
+Joshua Dunford         21 Glynis Philbin         15 
+Stuart Daniel          21 Roger Lunn             16 
+Sam Beresford          21 Dean Berry             17 
+Mick Scott             21 Andy Hoult             17 
+Nigel Miller           15 Gary Larner            21 
+            Handicap:  +8             Handicap: +24 
+           Aggregate: 170            Aggregate: 148 
+
+      Wakefield Cup             Sat 26th Jul        
+                               On GRANGE PARK       
+    SMIRTHWAITE PARK            DENBY GRANGE        
+Alan Knowles           21 Scott Fisher           17 
+Roy Dunwell             7 David Fisher           21 
+Matthew Smith           7 Danny Walker           21 
+Neil Clayton           21 Michael Knowles        16 
+Martin Shepherd        21 Luke Gant              15 
+Graham Knowles         21 Chris Shires           11 
+Gary Powis             17 Neil Broadhead         21 
+Graham Kirkaldy        21 David Walker           10 
+            Handicap: +24             Handicap: +24 
+           Aggregate: 160            Aggregate: 156 
+
+      Wakefield Cup             Sat 26th Jul        
+                            On WAKEFIELD THORNES    
+     OSSETT C&AC 'B'          BARNSLEY CENTRAL      
+Tina Eyre              21 Mick Pointer           19 
+Graeme Eyre            21 John Shepherd          15 
+Svajunas Kapitan       21 Nathan Best             4 
+Derek Heaton           19 Stefan Pendlebury      21 
+Keith Hirstle          21 Alex Moreland          15 
+Linda Pearson          21 Dean Ledgeway          19 
+Alison Sykes           13 Patrick Murphy         21 
+Bryan Collier          21 Martyn Mills           15 
+            Handicap: +32             Handicap: +16 
+           Aggregate: 190            Aggregate: 145 
+
+      Wakefield Cup             Sat 26th Jul        
+                             On ALVERTHORPE WMC     
+      MORTON HOUSE            LOWER HOPTON 'A'      
+Angela Whitworth       16 Ross Ingham            21 
+Michael Sweeney        21 Wayne Hirst            10 
+Chris Sweeney          21 Martin Laycock         20 
+Adrian Leach           21 Simon Anderson         16 
+Millie Hyde            21 Gary Mountain          13 
+Mandy Hyde             10 Clive Hirst            21 
+Darren Ripley          21 Aiden Fox              16 
+John Leach             21 Ian Newby               3 
+            Handicap:  +8             Handicap: +16 
+           Aggregate: 160            Aggregate: 136 
+
+    Wakefield Shield            Sat 26th Jul        
+                          On NOSTELL MINERS WELFAR  
+         SANDAL                  EARLSHEATON        
+Andrea Banham          21 Daniel Logan           10 
+Roger Steel            21 Davd Banks             12 
+Andrew Evison          21 Malcolm Battye         13 
+David Dixon            21 Lee Crossland          12 
+Doug Lawson            11 Keith Pinchbeck        21 
+Rob Curzon             21 Vera Battye            15 
+Lynn Lawson            21 Jenny Pitchforth       13 
+John Packer            20 David McNally          21 
+            Handicap: +16             Handicap: +24 
+           Aggregate: 173            Aggregate: 141 
+
+    Wakefield Shield            Sat 26th Jul        
+                           On WAKEFIELD BOWLS CLUB  
+     HORBURY BRIDGE            HORBURY WMC 'B'      
+Geoff Close            18 Paul Shilito           21 
+Andrew Hughes          21 Kath Andrews           15 
+Melvyn Whittaker       16 David Wensley          21 
+Maureen Bradshaw       13 Christopher Lynch      21 
+Karen Gee              10 Christopher Wilkinson  21 
+David Whitaker         14 Martin Barlow          21 
+Robert Taylor          21 David Ingham           19 
+Malcolm Child          19 Philip Dunnill         21 
+            Handicap: +32             Handicap: +24 
+           Aggregate: 164            Aggregate: 184 
 
 
