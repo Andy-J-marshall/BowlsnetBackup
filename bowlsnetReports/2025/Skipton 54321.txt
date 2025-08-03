@@ -1,4 +1,4 @@
-=== Skipton (54321) 2025 (as of Sun 27th Jul)
+=== Skipton (54321) 2025 (as of Sun 3rd Aug)
 === Comp. Match Cards
 
 Skipton Building Society Div 1        Tue 15th Apr       
@@ -148,7 +148,7 @@ Ros Storey                   10 Pip Chadwick          21
 Barbara Simpson               2 Idris Wade            21 
 Jonathan Brown               16 Ian McDade            21 
 Malcolm Watson               12 Cath Hey              21 
-Tony Musolf                  21 Philip Dunderdale     11 
+Tony Musolf                  21 Phil Dunderdale       11 
 Rob Ellis                    21 Derek Squires         13 
 Glen Ridehalgh               21 Liam Gatenby          20 
                      Games:   4               Games:   4 
@@ -424,7 +424,7 @@ Gordon Staniforth             6 William Bestwick      21
 Skipton Building Society Div 3        Tue 22nd Apr       
           Whinfield B                  Keighley B        
 Idris Wade                   21 Kevin Linklater        4 
-Philip Dunderdale            21 David Brooke           4 
+Phil Dunderdale              21 David Brooke           4 
 Gail Matthews                21 Sara McHale            8 
 Liam Gatenby                 21 Kath Pascall          10 
 Margaret Slater              21 Sarfraz Qureshi       12 
@@ -444,7 +444,7 @@ Sue Gaines                   21 *A.N.Other*            6
 Philip Ward                  15 Tony Musolf           21 
 Dave Idle                    21 Ros Storey            10 
 Caroline Rhodes               2 Glen Ridehalgh        21 
-Michael Rhodes               21 Grahame Sharp         14 
+Michael Rhodes               21 Graham Sharp          14 
                      Games:   3               Games:   5 
                  Aggregate: 111           Aggregate: 135 
                     Points:  22              Points:  31 
@@ -681,7 +681,7 @@ Malcolm Watson               20 Ken Edgar             21
 Jonathan Brown               21 Paul Jacques           4 
 June Whitaker                21 Gordon Staniforth     18 
 *A.N.Other*                  14 Chris Oakley          21 
-Grahame Sharp                21 Janice Dibb           18 
+Graham Sharp                 21 Janice Dibb           18 
 Rob Ellis                    21 Peter Bendall          4 
                      Games:   4               Games:   4 
                  Aggregate: 139           Aggregate: 128 
@@ -721,7 +721,7 @@ Geoff Sutcliffe              21 Cath Hey              13
 Muriel Baker                 20 Margaret Slater       21 
 Sue Gaines                   10 Liam Gatenby          21 
 Caroline Rhodes               8 Pip Chadwick          21 
-Barbara Rowen                 7 Philip Dunderdale     21 
+Barbara Rowen                 7 Phil Dunderdale       21 
 Liz Bland                    10 Idris Wade            21 
 Stuart Hall                  21 Helen Taylor          18 
 Michael Rhodes               21 Ian McDade            14 
@@ -974,7 +974,7 @@ Pam Clark                    17 Phillip Boocock       21
 Ian Best                     21 June Whitaker          7 
 Steven Wright                21 David Fridlington     17 
 Robin Hebden                 12 Rob Ellis             21 
-Brenda Moorhouse             13 Grahame Sharp         21 
+Brenda Moorhouse             13 Graham Sharp          21 
 Edward Fort                  21 Ros Storey            16 
 Sandra Fairburn              21 Glen Ridehalgh        14 
                      Games:   5               Games:   3 
@@ -997,7 +997,7 @@ Bob Wellwood                 12 Paul Webster          21
 
 Skipton Building Society Div 3        Wed 7th May        
           Whinfield C                 Whinfield B        
-Ann Heyworth                  6 Philip Dunderdale     21 
+Ann Heyworth                  6 Phil Dunderdale       21 
 John Taylor                  19 Margaret Slater       21 
 Tim Jones                    21 Derek Squires         17 
 Gail Matthews                21 Liam Gatenby          11 
@@ -1125,7 +1125,7 @@ Skipton Building Society Div 1        Tue 13th May
          Sutton Park A                Whinfield A        
 Jason Jennings               21 Chris Ettenfield       9 
 Anthony Emmott               19 Phil Chadwick         21 
-Craig Smith                  21 Philip Dunderdale     17 
+Craig Smith                  21 Phil Dunderdale       17 
 Shaun Birch                   9 Kevin Burnett         21 
 Tony Walton                  21 Cliff Taylor          18 
 Sue Finnie                   17 Gary Hodge            21 
@@ -1214,7 +1214,7 @@ David Fridlington            21 Freda Lester          13
 Rob Ellis                    21 Anna Stead             6 
 Glen Ridehalgh               21 Melvin Seward         19 
 Phillip Boocock              21 Michael Claxton        7 
-Grahame Sharp                21 Helen Taylor           8 
+Graham Sharp                 21 Helen Taylor           8 
                      Games:   7               Games:   1 
                  Aggregate: 165           Aggregate:  96 
                     Points:  39              Points:  16 
@@ -1390,7 +1390,7 @@ Alec Hutchinson              21 Anthony Emmott        12
 Skipton Building Society Div 1        Tue 27th May       
           Whinfield A                 Silsden PF A       
 Brian Perry                  14 Des Kearney           21 
-Philip Dunderdale             7 David Fairless        21 
+Phil Dunderdale               7 David Fairless        21 
 Phil Chadwick                21 John Callanan          7 
 Cliff Taylor                 21 Colin Edwards         14 
 Derek Squires                10 Chris Wilson          21 
@@ -1531,7 +1531,7 @@ Skipton Building Society Div 3        Wed 28th May
            Craven C                    Cononley B        
 Elliott Moore                14 Phillip Boocock       21 
 Joshua Titorenko             21 Malcolm Watson         4 
-Philip Rowley                14 Grahame Sharp         21 
+Philip Rowley                14 Graham Sharp          21 
 Stuart Cracknell             21 June Whitaker         15 
 Doug Scriven                 21 David Fridlington      9 
 Darren Shaw                  15 Jonathan Brown        21 
@@ -1588,7 +1588,7 @@ Skipton Building Society Div 1        Tue 3rd Jun
 Mick Balko                   10 Kevin Burnett         21 
 Amiee Clamp                  19 Cliff Taylor          21 
 Stan Reynolds                21 Derek Squires         14 
-Mick McNicol                 21 Philip Dunderdale     11 
+Mick McNicol                 21 Phil Dunderdale       11 
 Michael Shannon              21 Richard Baker         14 
 Claire Russell               21 Phil Chadwick         19 
 Daryl Wright                 21 Gary Bailey           12 
@@ -1746,7 +1746,7 @@ Tony Musolf                  21 Roger Hopkins          5
 Glen Ridehalgh               21 Eric Brook            20 
 Ros Storey                    8 Ken Williams          21 
 Jonathan Brown               21 David Jefferson       16 
-Grahame Sharp                21 Dennis Wynne-Jones     5 
+Graham Sharp                 21 Dennis Wynne-Jones     5 
                      Games:   4               Games:   4 
                  Aggregate: 124           Aggregate: 130 
                     Points:  26              Points:  30 
@@ -1893,7 +1893,7 @@ Michael Dunn                 21 Tim Bucke              9
 
 Skipton Building Society Div 1        Tue 10th Jun       
           Whinfield A                   Rolls A          
-Philip Dunderdale            13 John Crotty           21 
+Phil Dunderdale              13 John Crotty           21 
 Gary Bailey                  21 David Turner          14 
 Phil Chadwick                11 Steven Hounslow       21 
 Richard Baker                21 Jenny Whitaker        13 
@@ -2011,7 +2011,7 @@ Bev Guffick                  21 Phillip Boocock        3
 Kath Whitaker                21 David Fridlington      9 
 Vince Wright                 16 Malcolm Watson        21 
 Alex Watson                  17 Rob Ellis             21 
-Peter O'Neill                21 Grahame Sharp         18 
+Peter O'Neill                21 Graham Sharp          18 
 Tony Fairclough              21 Tony Musolf           12 
                      Games:   6               Games:   2 
                  Aggregate: 159           Aggregate: 108 
@@ -2118,7 +2118,7 @@ Adrian Hayhurst              21 Andrew Welch          16
 Skipton Building Society Div 1        Tue 17th Jun       
         Broughton Road                Whinfield A        
 Colin Hodgson                19 Phil Chadwick         21 
-Tracey Harrison              21 Philip Dunderdale     17 
+Tracey Harrison              21 Phil Dunderdale       17 
 Brian Gore                   21 Cliff Taylor          19 
 David Precious               21 Brian Perry           14 
 Stuart Wrigley               17 Gary Hodge            21 
@@ -2398,7 +2398,7 @@ Tony Finn                    21 Andrew Breare         11
 Skipton Building Society Div 1        Tue 24th Jun       
          Devonshire A                 Whinfield A        
 Richard Perry                21 Phil Chadwick         13 
-Peter Haworth                21 Philip Dunderdale     12 
+Peter Haworth                21 Phil Dunderdale       12 
 Graham Mitchell               5 Cliff Taylor          21 
 Nick Squires                 21 Liam Gatenby           8 
 Paul Naylor                   8 Kevin Burnett         21 
@@ -2530,7 +2530,7 @@ Helen Taylor                 21 David Fridlington     11
 Cath Hey                     20 Amanda Driver         21 
 John Taylor                  14 Glen Ridehalgh        21 
 Gordon Pickles               21 Jonathan Brown        20 
-Pip Chadwick                  6 Grahame Sharp         21 
+Pip Chadwick                  6 Graham Sharp          21 
                      Games:   3               Games:   5 
                  Aggregate: 137           Aggregate: 142 
                     Points:  28              Points:  33 
@@ -2693,7 +2693,7 @@ Skipton Building Society Div 1        Tue 1st Jul
           Whinfield A                  Cononley A        
 Kevin Burnett                15 Rob Scarr             21 
 Phil Chadwick                21 Alister Keighley      18 
-Philip Dunderdale            21 Matt Carter           15 
+Phil Dunderdale              21 Matt Carter           15 
 Liam Gatenby                 12 Wayne Lee             21 
 Gary Hodge                   19 Tony Finn             21 
 Cliff Taylor                 13 Ian Dewhirst          21 
@@ -2823,7 +2823,7 @@ Jeff Driver                  19 Sue Gaines            21
 Ros Storey                   13 Dave Idle             21 
 Phillip Boocock              21 Michael Rhodes        11 
 Amanda Driver                 6 Philip Ward           21 
-Grahame Sharp                21 Liz Bland              7 
+Graham Sharp                 21 Liz Bland              7 
 Rob Ellis                    21 Stuart Hall            1 
                      Games:   5               Games:   3 
                  Aggregate: 143           Aggregate: 100 
@@ -2916,7 +2916,7 @@ Wayne Lee                    16 Daryl Wright          21
 Skipton Building Society Div 1        Tue 8th Jul        
            Craven A                   Whinfield A        
 Paul Kaye                    21 Gordon Pickles        14 
-Mick Demain                  21 Philip Dunderdale      3 
+Mick Demain                  21 Phil Dunderdale        3 
 David Jubb                   21 Phil Chadwick         13 
 Mick Bastow                  21 Kevin Burnett         18 
 Viv Abell                    21 Richard Baker         13 
@@ -3034,7 +3034,7 @@ Jean Staniforth              21 Tony Musolf            7
 Janice Dibb                  21 June Whitaker         10 
 Paul Jacques                 12 Phillip Boocock       21 
 Helen Gatenby                21 Glen Ridehalgh        12 
-Gordon Staniforth            14 Grahame Sharp         21 
+Gordon Staniforth            14 Graham Sharp          21 
                      Games:   6               Games:   2 
                  Aggregate: 152           Aggregate: 107 
                     Points:  35              Points:  21 
@@ -3239,7 +3239,7 @@ Skipton Building Society Div 1        Tue 22nd Jul
         Colne Legion A                Whinfield A        
 Jean Holden                  21 Liam Gatenby          16 
 Mike Bysouth                 21 Cliff Taylor          12 
-David Hitchcox               19 Philip Dunderdale     21 
+David Hitchcox               19 Phil Dunderdale       21 
 Kenneth Bracewell            21 Phil Chadwick         14 
 Dean Emmott                  21 Kevin Burnett         11 
 Ian Gardiner                 21 Richard Baker         18 
@@ -3293,7 +3293,7 @@ Warren Burnett Jnr           21 Giles Winterton       10
 
 Skipton Building Society Div 2        Tue 22nd Jul       
          Crosshills A                Colne Legion B      
-Jammie Cunningham            21 Stuart Hurlstone       6 
+Jamie Cunningham             21 Stuart Hurlstone       6 
 Russell Newton               21 John Barry            11 
 Terry Greenwood              16 John Omerod           21 
 Colin Morris                 18 Geoffrey Ellis        21 
@@ -3458,5 +3458,271 @@ Steven Naylor                21 Stuart Mitchell       10
                      Games:   3               Games:   5 
                  Aggregate: 121           Aggregate: 147 
                     Points:  23              Points:  34 
+
+Skipton Building Society Div 1        Tue 29th Jul       
+          Cononley A                  Silsden PF A       
+Jim Calvert                  21 Des Kearney           15 
+Matt Carter                  21 Chris Wilson          16 
+Ian Dewhirst                 21 John Callanan          6 
+David Brown                  21 Steve Griffiths       18 
+Alister Keighley             21 Colin Edwards         18 
+Wayne Lee                    21 Derek Metcalfe         5 
+Graham Sharp                  5 Andrew Welch          21 
+Tony Finn                    15 David Fairless        21 
+                     Games:   6               Games:   2 
+                 Aggregate: 146           Aggregate: 120 
+                    Points:  35              Points:  24 
+
+Skipton Building Society Div 1        Tue 29th Jul       
+           Craven A                  Colne Legion A      
+Mick Demain                  21 David H Hough         18 
+Warren Burnett Jnr           19 Dean Emmott           21 
+Mick Bastow                  21 Ian Gardiner          11 
+David Jubb                   21 Jean Holden           20 
+Sean Kirby                   21 Robert Holden         18 
+Jim Akrigg                   21 Mike Bysouth           8 
+Andrew Breare                21 David Hitchcox        15 
+Wayne Smithies               21 Kenneth Bracewell     16 
+                     Games:   7               Games:   1 
+                 Aggregate: 166           Aggregate: 127 
+                    Points:  39              Points:  24 
+
+Skipton Building Society Div 1        Tue 29th Jul       
+         Devonshire A               Alkincoates PWA      
+Nick Squires                 21 Dean Brown            12 
+Pat Drake                    14 Mick Balko            21 
+Steve Birch                  21 Barry Cowell          13 
+Graham Mitchell              21 Michael Shannon       17 
+Peter Haworth                21 Stan Reynolds         14 
+Craig Carpenter              21 John Southworth       15 
+Ian Hargreaves               21 Claire Russell        19 
+Stephen Lofthouse            21 Mick McNicol           8 
+                     Games:   7               Games:   1 
+                 Aggregate: 161           Aggregate: 119 
+                    Points:  38              Points:  21 
+
+Skipton Building Society Div 1        Tue 29th Jul       
+            Rolls A                  Broughton Road      
+John Crotty                  17 David Precious        21 
+Andy Duckworth                6 Tim Bucke             21 
+Steven Hounslow              21 Colin Hodgson         14 
+Paul Sharples                21 Brian Gore            13 
+Brent Taylforth              18 Darrell Gore          21 
+David Turner                 21 Sam Cotterill          7 
+Jenny Whitaker               21 Mick Guilfoyle        13 
+Neil Whitaker                18 Tracey Harrison       21 
+                     Games:   4               Games:   4 
+                 Aggregate: 143           Aggregate: 131 
+                    Points:  31              Points:  27 
+
+Skipton Building Society Div 1        Tue 29th Jul       
+          Whinfield A                Sutton Park A       
+Kevin Burnett                21 Kevin Mackie          15 
+Gary Bailey                  21 William Bestwick      14 
+Gordon Pickles               21 Kevin Denham          18 
+Richard Baker                16 Alan Barber           21 
+Cliff Taylor                 11 Craig Smith           21 
+Phil Dunderdale              21 Tony Walton            9 
+Liam Gatenby                 21 Anthony Emmott        10 
+Phil Chadwick                21 Shaun Birch           11 
+                     Games:   6               Games:   2 
+                 Aggregate: 153           Aggregate: 119 
+                    Points:  36              Points:  23 
+
+Skipton Building Society Div 2        Tue 29th Jul       
+        Colne Legion B                 Gargrave A        
+Stuart Hurlstone             20 Chris Smales          21 
+John Barry                    4 Paul Drinkall         21 
+Hannah Greenwood              4 Ian Poulter           21 
+Sarah Omerod                 21 Rob McLernon          13 
+John Omerod                  21 Richard Lord          16 
+Geoffrey Ellis               21 Mick Cox              13 
+Stuart Smith                 21 Bryan Lord             6 
+Barry Russell                21 Craig Lambert         18 
+                     Games:   5               Games:   3 
+                 Aggregate: 133           Aggregate: 129 
+                    Points:  30              Points:  26 
+
+Skipton Building Society Div 2        Tue 29th Jul       
+           Foulridge                     Settle          
+Tom Bennett                  17 James Cokell          21 
+Jim Whitaker                 21 Brett Hopper          15 
+Peter Ingham                 21 Maurice Biott         13 
+Richard Lord                 14 David Leeming         21 
+Anne Meachem                 13 Chris Lett            21 
+David Meachem                21 Roger Woolley          9 
+Mark Faulkner                18 Mick Duke             21 
+Martin Shaw                  14 David Gordon          21 
+                     Games:   3               Games:   5 
+                 Aggregate: 139           Aggregate: 142 
+                    Points:  27              Points:  32 
+
+Skipton Building Society Div 2        Tue 29th Jul       
+          Gargrave B                    Rolls B          
+Jan Corbridge                21 David Lancaster       14 
+Andy Sylvester               21 Les Prenton           11 
+Julian Phillip               21 Ian Mason              7 
+Robin Sands                  13 Maurice Oldfield      21 
+Giles Winterton              11 Graham Gallacher      21 
+Hugh Mardall                 21 Kenneth Simmons       17 
+Andrew Cleminson             15 Colin Maud            21 
+Carole Tunstall              16 Brian Livesey         21 
+                     Games:   4               Games:   4 
+                 Aggregate: 139           Aggregate: 133 
+                    Points:  31              Points:  28 
+
+Skipton Building Society Div 2        Tue 29th Jul       
+          Keighley A                    Craven B         
+George Hutson                16 Warren Burnett        21 
+Jeff Bradley                 21 Peter Shaw            19 
+Trevor Hargreaves            21 Melvyn Titorenko      11 
+Nigel Hall                    9 Leanne Akrigg         21 
+Peter Wormald                21 K Moore                8 
+Paul McHale                  21 Darren Shaw            8 
+Joshua McHale                18 Harry Spriggs         21 
+John Toothill                21 Richard Pratt         15 
+                     Games:   5               Games:   3 
+                 Aggregate: 148           Aggregate: 124 
+                    Points:  33              Points:  25 
+
+Skipton Building Society Div 2        Tue 29th Jul       
+           Steeton A                  Crosshills A       
+Ian Hodgson                  21 Michael Gallager      14 
+Alden Phillips               21 Terry Greenwood        6 
+Linda Hudson                 21 Colin Morris          12 
+Derek Ormondroyd             21 Carol Wellwood        14 
+Wendy Ward                   21 Sandra Eastell        15 
+Mark Westfall                12 Derek Chapman         21 
+Kevin McGee                   9 Peter Dowgill         21 
+Paul Woodwiss                 8 Robert Savage         21 
+                     Games:   5               Games:   3 
+                 Aggregate: 134           Aggregate: 124 
+                    Points:  30              Points:  25 
+
+Skipton Building Society Div 3        Tue 29th Jul       
+          Addingham A                  Keighley B        
+Michael Henson               21 Sarfraz Qureshi       13 
+Jessica Isherwood            15 Ian Acrid             21 
+Jean Staniforth              20 Brian Jones           21 
+Paul Jacques                 21 David Brooke          11 
+Chris Oakley                 16 Alistair Dickinson    21 
+Peter Bendall                21 Anthony Roberts        9 
+Paul Sincock                 11 Kath Pascall          21 
+Gordon Staniforth            18 Kevin Linklater       21 
+                     Games:   3               Games:   5 
+                 Aggregate: 143           Aggregate: 138 
+                    Points:  31              Points:  30 
+
+Skipton Building Society Div 3        Tue 29th Jul       
+         Sutton Park B                Whinfield B        
+Terry Birch                  21 Ann Heyworth          10 
+Ken Williams                  5 Margaret Slater       21 
+Dennis Wynne-Jones           21 John Taylor            8 
+Carole Williams              13 Pip Chadwick          21 
+Alan Minney                  20 Derek Squires         21 
+David Radcliffe              18 Cath Hey              21 
+David Jefferson               2 Helen Taylor          21 
+Graham Summers               14 Brian Perry           21 
+                     Games:   2               Games:   6 
+                 Aggregate: 114           Aggregate: 144 
+                    Points:  22              Points:  34 
+
+Skipton Building Society Div 3        Tue 29th Jul       
+         Silsden PF B                 Lund Park B        
+Pam Clark                    21 Geoff Sutcliffe       13 
+Steven Wright                21 Barbara Rowen          7 
+Edward Fort                  21 Vince Wright          20 
+Brenda Moorhouse             21 Sue Gaines             1 
+Sandra Fairburn              16 Stuart Hall           21 
+Liz Paley                    21 Dave Idle             19 
+Robin Hebden                 21 Caroline Rhodes       15 
+Paul Spencer                 12 Liz Bland             21 
+                     Games:   6               Games:   2 
+                 Aggregate: 154           Aggregate: 117 
+                    Points:  36              Points:  23 
+
+Skipton Building Society Div 4        Tue 29th Jul       
+         Crosshills B                  Steeton B         
+Peter Ashmore                18 David Gledhill        21 
+Mike Binns                   21 Dianne Broadbent       9 
+Stuart Mitchell              21 Billy Westfall        11 
+Mike Taylor                  14 Ian Shepherd          21 
+Maureen Riddiough            12 Jack Carter-Rawnsley  21 
+Graham Daniel                18 Martin Hudson         21 
+Howard Marshall              16 James Broadbent       21 
+Phillip Hudson               21 Gary Broadbent         5 
+                     Games:   3               Games:   5 
+                 Aggregate: 141           Aggregate: 130 
+                    Points:  29              Points:  29 
+
+Skipton Building Society Div 3        Wed 30th Jul       
+          Whinfield C                  Cononley B        
+Ann Heyworth                 12 Phillip Boocock       21 
+Freda Lester                 16 Ros Storey            21 
+Carol Hayhurst               20 Amanda Driver         21 
+Kyp Hayhurst                 21 David Fridlington      6 
+John Taylor                  21 Tony Musolf           13 
+Greg Mortimer                18 Graham Sharp          21 
+Helen Taylor                 13 June Whitaker         21 
+Pip Chadwick                 21 Glen Ridehalgh         7 
+                     Games:   3               Games:   5 
+                 Aggregate: 142           Aggregate: 131 
+                    Points:  30              Points:  29 
+
+Skipton Building Society Div 3        Wed 30th Jul       
+           Craven C                   Lund Park A        
+Elliott Moore                14 Tommy Johnson         21 
+David Watson                  5 Stuart Miller         21 
+Doug Scriven                  7 Kath Whitaker         21 
+Philip Rowley                21 Henry Ryder           15 
+Stuart Cracknell             10 Bev Guffick           21 
+Darren Shaw                  21 Darren Rees            9 
+Adam Bulmer                  16 Alex Watson           21 
+Richard Pratt                21 Peter O'Neill         14 
+                     Games:   3               Games:   5 
+                 Aggregate: 115           Aggregate: 143 
+                    Points:  24              Points:  32 
+
+Skipton Building Society Div 4        Wed 30th Jul       
+           Steeton C                  Addingham B        
+Billy Westfall               21 Valerie Molloy        16 
+Doug Smith                   13 Ann Barton            21 
+Diane Sugden                  7 Chris Oakley          21 
+Cheryl Golding                9 John Ford             21 
+Janet Rooke                  12 Paul Sincock          21 
+Martin Hudson                13 Peter Bendall         21 
+Graham Golding               13 John Cobb             21 
+Mark Westfall                20 Martin Brunger        21 
+                     Games:   1               Games:   7 
+                 Aggregate: 108           Aggregate: 163 
+                    Points:  19              Points:  39 
+
+Skipton Building Society Div 4        Wed 30th Jul       
+          Gargrave C                  Devonshire B       
+Kevin Fish                   21 Lee Procter           10 
+Mark Tunstall                14 Maria Naylor          21 
+Lucy Godson                  21 John Drake            11 
+Marilyn Heaton               19 Stuart Bentley        21 
+Simon Cookson                21 Peter Richmond        17 
+Stuart Carr                  21 Pat Drake             13 
+Lee Baxter                   21 Graham Mitchell       14 
+Sally Clark                  14 Steven Naylor         21 
+                     Games:   5               Games:   3 
+                 Aggregate: 152           Aggregate: 128 
+                    Points:  33              Points:  26 
+
+Skipton Building Society Div 4        Wed 30th Jul       
+            Rolls C                     Haworth          
+*A.N.Other*                  21 Brian Haigh           11 
+William Honeyman             17 Andy Corns            21 
+Gary Chew                    10 Ken Dyson             21 
+John Dawson                  20 Geoff Blowes          21 
+David Bowker                 21 David Lane            11 
+Robert Reid                  21 Richard Lowe          14 
+Ian Stead                    20 Peter Jolly           21 
+Geoff Pickles                21 Steve Hind            10 
+                     Games:   4               Games:   4 
+                 Aggregate: 151           Aggregate: 130 
+                    Points:  34              Points:  28 
 
 

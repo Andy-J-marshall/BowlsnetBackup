@@ -1,4 +1,4 @@
-=== Huddersfield Bowling League 2025 (as of Sun 27th Jul)
+=== Huddersfield Bowling League 2025 (as of Sun 3rd Aug)
 === Comp. Match Cards
 
     Subscription Cup              Sat 12th Apr          
@@ -6421,5 +6421,71 @@ Kim Scadden           21 Galvin Evans                14
           Aggregate: 138                 Aggregate: 141 
               Games:   3                     Games:   5 
              Points:   3                    Points:   9 
+
+      Drayton Cup                 Sat 2nd Aug           
+                                On Springwood BC        
+      Outlane BC A           Thongsbridge C & BC A      
+Rob Sowerby           16 G Alsop                     21 
+David Frost           21 John R Hewison              16 
+Andrew Tanner         10 B Moroney                   21 
+Wayne Hudson          21 R Smith                     14 
+Andrew Vance          21 Peter Jackson               17 
+Chris Jepson          21 Roger Beaumont               8 
+Malcolm Dibb          21 J Midgley                   17 
+Richard Hartley       21 Bryan Carter                11 
+Paul Haythornthwaite  21 John Dmoszynski             10 
+Baz Hawksworth        21 R Armitage                   4 
+          Aggregate: 194                 Aggregate: 139 
+              Games:   8                     Games:   2 
+             Points:  12                    Points:   2 
+
+     Littlewood Cup               Sat 2nd Aug           
+                             On Slaithwaite C & BC      
+      Marsh Utd BC              Milnsbridge BC A        
+D James               17 A Peacock                   21 
+G Chadwick             6 Steven Baldwin              21 
+C Simmons             13 Carl Hirst                  21 
+T Sykes               21 R Hallas                    15 
+J D Taylor            13 Mark Hirst                  21 
+D J Simmons           21 Adam Mosley                 16 
+D Hamilton            21 Scott Thornton              15 
+J Booker              17 M Peacock                   21 
+M Street              14 Mark Rushworth              21 
+B Hinchliffe           9 Luke Peacock                21 
+          Aggregate: 152                 Aggregate: 193 
+              Games:   3                     Games:   7 
+             Points:   3                    Points:  11 
+
+       Binns Cup                  Sat 2nd Aug           
+                              On Crosland Moor BC       
+     Brockholes BC            Cleckheaton Sports B      
+Brian Gibson           9 *A.N.Other*                 21 
+Callum Fox            10 Michael Binns               21 
+Dave Barr             15 John Dyson                  21 
+Kim Scadden           10 John Barraclough            21 
+Chris Booth           21 Gary Blackburn              20 
+Nick Swift            13 Greg Hutchinson             21 
+David Bowker           2 *A.N.Other*                 21 
+Mike Wood             21 Chris Piercy                 8 
+          Aggregate: 101                 Aggregate: 154 
+              Games:   2                     Games:   6 
+             Points:   2                    Points:  10 
+
+     Littlewood Cup               Sun 3rd Aug           
+                                 On Hemplow BC          
+    Milnsbridge BC A             Broad Oak BC A         
+R Hallas              20 Schofield Tony              21 
+A Peacock             21 Shaun Irving                16 
+D Peacock             12 Chris McSweeney             21 
+M Peacock             18 Benjamin Irving             21 
+Scott Thornton        21 Jim Baxter                  11 
+Carl Hirst            18 Mark Heap                   21 
+Steven Baldwin        18 Steven Irving               21 
+George Henry          13 Brendan Gilbert             21 
+Luke Peacock          21 Connor Beaumont             13 
+Mark Hirst            21 Andrew Crowther             10 
+          Aggregate: 183                 Aggregate: 176 
+              Games:   4                     Games:   6 
+             Points:   6                    Points:   8 
 
 

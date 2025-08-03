@@ -1,4 +1,4 @@
-=== Brighouse (Mon. Vets) 2025 (as of Sun 27th Jul)
+=== Brighouse (Mon. Vets) 2025 (as of Sun 3rd Aug)
 === Comp. Match Cards
 
      Premier Division               Mon 7th Apr         
@@ -113,11 +113,11 @@ Malcolm Dibb             21 Mark Bolton              13
 
       First Division                Mon 7th Apr         
        Cowcliffe 'B'          Cleckheaton Sports 'B'    
-Edwin Siswck             21 Greg Hutchinson           9 
-Graham Dyson             21 John Dyson               14 
+Edwin Siswck             21 Chris Blakeley            9 
+Graham Dyson             21 Dave Griffiths           14 
 Michael Utting            9 Norman Swift             21 
 Graham Radcliffe         21 John Hawksworth          14 
-Michael Brierley          9 John Barraclough         21 
+Michael Brierley          9 Chris Watson             21 
 Malcolm Stead            21 Gary Blackburn            9 
              Aggregate: 102              Aggregate:  88 
                 Points:  26                 Points:  18 
@@ -404,7 +404,7 @@ Roy Chapman              20 Andy Denton              21
 Roger Stopford           14 Clive Foord              21 
 David Wood               21 Steve Peers               8 
 Donald Booth             21 Kevin Burrage            20 
-Ken Flemming             21 John Beverley             6 
+Ken Flemming             21 Paula Graham              6 
              Aggregate: 118              Aggregate:  87 
                 Points:  30                 Points:  20 
 
@@ -842,7 +842,7 @@ Kenneth Ellis            10 Steve Swallow            21
 David Barnes             21 David Rayner              8 
 Geoff Jaskolski          21 Kevin Wood               16 
 Lynden Harris            16 Mark Worrall             21 
-Frank Clissitt           17 Smith Phillip            21 
+Frank Clissitt           17 Phillip Smith            21 
 Mark Barnett             15 Peter Ellis              21 
 Francis Kennedy           6 Malcolm Fowler           21 
              Aggregate:  96              Aggregate: 108 
@@ -883,7 +883,7 @@ Peter Hopkinson          14 Derek Smith              21
 
       First Division               Mon 21st Apr         
         Outlane 'A'                 Wibsey 'A'          
-Peter Haythornthwaite     9 Michael Oliver           21 
+Peter Haythornthwaite     9 Peter Oliver             21 
 Martin Skuse             21 Martin Grace              3 
 Malcolm Dibb             14 Alison Stocks            21 
 Steven Lowther           21 Peter Crowther           14 
@@ -1173,7 +1173,7 @@ Roy Lee                  21 Peter Cretney             9
 David Saville            21 Sylvia Allott             6 
 Christine Delaney         3 Keith Walker             21 
 Ray Leadbetter           21 Peter Thornton            7 
-Peter Oliver              8 Peter Lee                21 
+Michael Oliver            8 Peter Lee                21 
 Dennis Flaherty          20 Richard Sugden           21 
              Aggregate:  94              Aggregate:  85 
                 Points:  23                 Points:  21 
@@ -1643,7 +1643,7 @@ Philip Binns              8 Tony Butterfield         21
      Premier Division              Mon 12th May         
        Cowcliffe 'A'             Spen Victoria 'A'      
 Graham Sigsworth         21 Peter Ellis              12 
-Malcolm Stead            17 Smith Phillip            21 
+Malcolm Stead            17 Phillip Smith            21 
 David Pollard            21 Malcolm Fowler            9 
 John Burnett             21 Paul Blackburn           18 
 Derek Hewitt             21 Mark Worrall             16 
@@ -2041,7 +2041,7 @@ Chris Blakeley           12 Maria Lodge              21
 Mark Worrall             21 Philip Binns              9 
 Paul Blackburn           21 Vivian Smith             19 
 Peter Ellis              21 Melvyn Dunne              9 
-Smith Phillip            21 Ray Gledhill             19 
+Phillip Smith            21 Ray Gledhill             19 
 Peter Senior             17 Clive Harte              21 
 Malcolm Fowler           21 John Sharp               10 
              Aggregate: 122              Aggregate:  87 
@@ -4374,7 +4374,7 @@ Mark Worrall             21 Dave Culpan              15
 Paul Blackburn           16 Nick Oddy                21 
 Peter Ellis              21 Mick Walker              18 
 Kevin Wood               16 Paul Holden              21 
-Smith Phillip            21 Nigel Mitchell            7 
+Phillip Smith            21 Nigel Mitchell            7 
 Peter Senior             18 Philip Holroyd           21 
              Aggregate: 113              Aggregate: 103 
                 Points:  27                 Points:  25 
@@ -4491,14 +4491,14 @@ Adrian Frain             21 Malcolm Park             11
 
       Second Division              Mon 14th Jul         
         Halifax 'B'                 Kingston BC         
-Andrea McHenry           19 John Stewart             21 
+Andrea McHenry           21 John Stewart             19 
 Phillip Hallowell        10 Ian Smith                21 
 Derek Finch              21 Christine Midgley         6 
 Glyn Owen                21 Alan Whittel             10 
 Ninnian Donnelly         21 Stuart Sykes             18 
-Steven Webster           20 Terry Horsfall           21 
-             Aggregate: 112              Aggregate:  97 
-                Points:  28                 Points:  24 
+Steven Webster           19 Terry Horsfall           21 
+             Aggregate: 113              Aggregate:  95 
+                Points:  30                 Points:  22 
 
       Second Division              Mon 14th Jul         
       Asa Briggs 'B'              Hipperholme 'B'       
@@ -4801,7 +4801,7 @@ Mick Walker              21 Ray Gledhill             15
   Cleckheaton Sports 'A'         Spen Victoria 'A'      
 Paul Gill                18 Malcolm Fowler           21 
 Michael Rhodes           21 Paul Blackburn            9 
-Paul Fincher             20 Smith Phillip            21 
+Paul Fincher             20 Phillip Smith            21 
 Chris Blakeley           21 Peter Senior             18 
 Andy Balmforth           13 Mark Worrall             21 
 John Ineson              21 Peter Ellis              18 
@@ -5126,5 +5126,401 @@ Ray Atkinson             21 Allan Wilson             13
 Bob Armitage             16 Martin O'Hara            21 
              Aggregate: 108              Aggregate:  97 
                 Points:  26                 Points:  23 
+
+     Premier Division              Mon 28th Jul         
+      Elland WMC 'A'           Brighouse Sports 'A'     
+Clive Harte              19 Ronnie Wormald           21 
+Melvyn Dunne             21 Richard Hobson           13 
+Vivian Smith             21 Peter Owen               14 
+Ray Gledhill             21 John Bloomer             16 
+Ian Archibald            21 Gordon Bradford          17 
+John Sharp               11 Stuart Fletcher          21 
+             Aggregate: 114              Aggregate: 102 
+                Points:  30                 Points:  22 
+
+     Premier Division              Mon 28th Jul         
+       Rastrick 'A'                Ripponden 'A'        
+David Wood               21 Philip Holroyd           10 
+Donald Booth             21 Nigel Mitchell           13 
+Ken Flemming             21 Mick Walker              17 
+Les Mitchell             14 Nick Oddy                21 
+Peter Hardcastle         13 Paul Holden              21 
+Roger Stopford           20 Dave Culpan              21 
+             Aggregate: 110              Aggregate: 103 
+                Points:  26                 Points:  25 
+
+     Premier Division              Mon 28th Jul         
+      Asa Briggs 'A'          Cleckheaton Sports 'A'    
+Andy Denton              18 Andy Walker              21 
+John Beverley            17 Paul Gill                21 
+Arthur Schofield         21 John Ineson               8 
+Steve Peers              21 John Wilson              14 
+Malcolm Iles             21 Andy Balmforth           18 
+Paula Graham             21 Chris Blakeley           17 
+             Aggregate: 119              Aggregate:  99 
+                Points:  30                 Points:  21 
+
+     Premier Division              Mon 28th Jul         
+      Hipperholme 'A'             Lindley BC 'A'        
+Chris Cox                20 Tony Allen               21 
+Steve Swallow            21 Glynis Philbin           10 
+Nigel Broadbent          20 Susan Scott              21 
+Adie Megson              21 Kenneth Ellis            15 
+Richard Severn           16 Barry Tinker             21 
+Nick Crowther            21 Steve Haigh              13 
+             Aggregate: 119              Aggregate: 101 
+                Points:  29                 Points:  25 
+
+     Premier Division              Mon 28th Jul         
+     Spen Victoria 'A'             Hillcrest 'A'        
+Mark Worrall             21 Pamela Woodhead           3 
+Peter Ellis              21 Maria Lodge              19 
+Peter Senior             21 Robert Woodhead          20 
+Paul Blackburn           21 Frank Clissitt           19 
+Phillip Smith            21 Ernie Rickman            16 
+Malcolm Fowler           21 Lynden Harris            16 
+             Aggregate: 126              Aggregate:  93 
+                Points:  36                 Points:  18 
+
+     Premier Division              Mon 28th Jul         
+ Huddersfield Rec Club 'A'         Cowcliffe 'A'        
+Tony Butterfield         21 John Burnett             17 
+Eddie Haigh              21 Richard Crossland        13 
+Graham Howe              13 David Pollard            21 
+Gary Senior              12 Michael Higgins          21 
+Tim Poulter              15 Graham Sigsworth         21 
+Malcolm Gilbert          21 Derek Hewitt             17 
+             Aggregate: 103              Aggregate: 110 
+                Points:  25                 Points:  26 
+
+      First Division               Mon 28th Jul         
+       Ripponden 'B'              Laurel Crescent       
+Dougie Hamilton          21 Bernard Keen             13 
+George Simpson           20 Peter Stead              21 
+Fred Rothwell            18 Graham Jones             21 
+Graham Smith             17 Peter Jackson            21 
+Nick Blackburn           12 Brian Hildred            21 
+Gary Plane               11 Terry Jackson            21 
+             Aggregate:  99              Aggregate: 118 
+                Points:  20                 Points:  32 
+
+      First Division               Mon 28th Jul         
+       Greenroyd 'A'               Hove Edge 'A'        
+Chris Plant              12 Stephen Rothwell         21 
+Derek Smith              17 Robert L Senior          21 
+C Johnstone              10 Peter Hopkinson          21 
+Jim Eaton                21 Trevor Gasson            18 
+Michael Berry            21 Anthony James            12 
+Terry Holden             21 Chris Illingworth        18 
+             Aggregate: 102              Aggregate: 111 
+                Points:  25                 Points:  26 
+
+      First Division               Mon 28th Jul         
+        Wibsey 'A'                  Outlane 'A'         
+Peter Crowther           21 David Frost              20 
+John Stevenson           21 Steven Lowther           11 
+Jane Helliwell           16 Martin Skuse             21 
+Martin Grace             20 Richard Hartley          21 
+Tas Hussain              21 Peter Haythornthwaite    17 
+John Stocks              21 Chris Jepson              3 
+             Aggregate: 120              Aggregate:  93 
+                Points:  31                 Points:  21 
+
+      First Division               Mon 28th Jul         
+     Pellon Social 'A'           Spen Victoria 'B'      
+David Agnew              12 Terry Varney             21 
+Adrian Holmnes           15 Michael Maguire          21 
+Mark Bolton               5 David Rayner             21 
+David Boden              14 Phil Raynor              21 
+Michael Holmes           21 Derek Goor                7 
+Robert Walker            19 David Billington         21 
+             Aggregate:  86              Aggregate: 112 
+                Points:  18                 Points:  31 
+
+      First Division               Mon 28th Jul         
+       Cowcliffe 'B'                Halifax 'A'         
+Malcolm Stead            21 Steve Wandiak             8 
+Michael Utting           21 David Russell             8 
+Gary Shaw                21 Bill Clelland             8 
+Edwin Siswck             18 Colin Wormald            21 
+Alan Brown               21 Andrea McHenry           12 
+David Ashworth           18 Peter Greenwood          21 
+             Aggregate: 120              Aggregate:  78 
+                Points:  30                 Points:  17 
+
+      First Division               Mon 28th Jul         
+  Cleckheaton Sports 'B'     Huddersfield RUFC BC 'A'   
+Dave Griffiths           21 Nigel Roebuck             3 
+John Hawksworth          21 Joanna Birch             16 
+Norman Swift             21 Barbara Mark             13 
+Greg Hutchinson          21 Mark Birch               15 
+Gary Blackburn           13 Dereck Tasker            21 
+John Dyson               18 Gillian Morris           21 
+             Aggregate: 115              Aggregate:  89 
+                Points:  29                 Points:  20 
+
+      Second Division              Mon 28th Jul         
+       Hove Edge 'B'              Northowram 'A'        
+Joseph Phillips          21 John Beaumont            15 
+Peter Martin             21 Dennis Clayton            8 
+Steven Bloomer           21 Keith Walker              4 
+Michael Cowley           18 David Robinson           21 
+Malcolm Thorpe           17 Robert Clayton           21 
+Judy Cockroft            21 David Moore              13 
+             Aggregate: 119              Aggregate:  82 
+                Points:  30                 Points:  18 
+
+      Second Division              Mon 28th Jul         
+      Springwood 'A'               Rastrick 'B'         
+Brian Hamilton           19 Keith Richards           21 
+Colin Hampshaw           16 Ian Swallow              21 
+Jeff Mellor              15 Howard Dungworth         21 
+Jenny Marshall           21 Graham Hall               7 
+David Cooper              9 Jim Warne                21 
+Adrian Frain              8 Derek Hanner             21 
+             Aggregate:  88              Aggregate: 112 
+                Points:  18                 Points:  31 
+
+      Second Division              Mon 28th Jul         
+      Lindley BC 'B'              Hipperholme 'B'       
+David Thorp              21 Roger Bernard            19 
+Irene Haigh              21 Stephen Rookes           16 
+Karen Stott              21 Robin Sugden             19 
+Phillip Walker           21 Glyn Hopper              13 
+Alister Henderson        15 David Peel               21 
+Geoff Stott              21 Tom Roper                 4 
+             Aggregate: 120              Aggregate:  92 
+                Points:  33                 Points:  19 
+
+      Second Division              Mon 28th Jul         
+        Halifax 'B'               Asa Briggs 'B'        
+Derek Finch              21 Alan Standing            11 
+Phillip Hallowell        21 Steve Fleming            11 
+Ninnian Donnelly         16 Kath Sansom              21 
+Glyn Owen                21 Debra Pearson            19 
+Terence O'Brien          14 Mick Sansom              21 
+Michael Hutchinson       21 Bob Hiley                18 
+             Aggregate: 114              Aggregate: 101 
+                Points:  29                 Points:  23 
+
+      Second Division              Mon 28th Jul         
+        Kingston BC                Rastrick 'C'         
+Ian Smith                21 Robert Laycock           15 
+Stuart Sykes             21 Michael Carter           14 
+Alan Whittel             21 John Bishop              16 
+Christine Midgley        21 John Wood                11 
+Terry Horsfall           12 Christopher Jenkinson    21 
+John Worsnop             21 Geoffrey Normanton       14 
+             Aggregate: 117              Aggregate:  91 
+                Points:  32                 Points:  18 
+
+      Second Division              Mon 28th Jul         
+        Harold Club             Bailiff Bridge 'A'      
+Stuart Harrison          21 Kevin Page               18 
+Steven Ward              21 Andy Stoutt              13 
+Glen Molyneux            21 David Franz              20 
+Dave Roberts             21 Malcolm Park             19 
+Ken Tindall              12 Jim Wheeler              21 
+Vinny Cleary             11 Richard Kerr             21 
+             Aggregate: 107              Aggregate: 112 
+                Points:  28                 Points:  25 
+
+      Third Division               Mon 28th Jul         
+        Halifax 'C'               Lindley BC 'C'        
+Stephen Smith            19 Janet Allen              21 
+Carol Onions             21 Alan Henderson           16 
+Steve Archer             16 Mike Redfearn            21 
+John West                21 David Leathwood           3 
+David Onions             21 Alan Dutton              10 
+Steven Webster           21 Jill Driver              18 
+             Aggregate: 119              Aggregate:  89 
+                Points:  31                 Points:  20 
+
+      Third Division               Mon 28th Jul         
+       Queensbury BC               Elland C & BC        
+Irene Bulman             21 Peter Walker             10 
+Brian Raistrick          21 Denise Crossley          20 
+Peter Howell             18 Steve Kenworthy          21 
+David Clough             14 Ray Berrett              21 
+Barbara Wardman          11 David Greenwood          21 
+Dennis Robinson          21 Anita Naylor              2 
+             Aggregate: 106              Aggregate:  95 
+                Points:  25                 Points:  24 
+
+      Third Division               Mon 28th Jul         
+   Brighouse Sports 'B'           Elland WMC 'B'        
+Nigel Briggs             21 Pat Hand                  9 
+David Marsh              21 Peter Clement            12 
+Eric Charlesworth        15 John Armitage            21 
+Steven Bedford           20 Geoffrey Place           21 
+Anne Horsley              8 Nick Lowe                21 
+David Wood               18 Gerry Stancliffe         21 
+             Aggregate: 103              Aggregate: 105 
+                Points:  23                 Points:  27 
+
+      Third Division               Mon 28th Jul         
+   Akroydon Victoria 'A'    Huddersfield Rec Club 'B''  
+Philip Keast             21 Robert Haigh              5 
+Paul Lowry               10 Derek Crawley            21 
+Mark McGorlick           21 Dave Watson               6 
+Chris Wilmott            21 Kevin McClusky           13 
+David Hunter             21 Micheal Pointon          13 
+Chris Meade              21 Margaret Pointon         12 
+             Aggregate: 115              Aggregate:  70 
+                Points:  32                 Points:  14 
+
+      Third Division               Mon 28th Jul         
+          Siddal                   Hove Edge 'D'        
+Allen Cowburn            21 Stewart Greenwood         9 
+Peter Willoughby         21 Russell Heywood          15 
+Brian Groves             21 Bob Spriggs              18 
+Paul McDonald            21 Alan Etheridge            9 
+Martin Greenwood         21 Peter Barstow            12 
+Micheal Greenwood        21 Kevin Longbottom         19 
+             Aggregate: 126              Aggregate:  82 
+                Points:  36                 Points:  14 
+
+      Third Division               Mon 28th Jul         
+     Spen Victoria 'C'             Greetland 'A'        
+Jonathan Smith           21 Chris Green              16 
+Jeff Parkinson           21 David Farrar             10 
+Steven Holmes            21 Geoff Clegg              14 
+Liz Ellis                21 Michael Boylan           15 
+Trevor Austin            21 Graham Crompton          11 
+Dave Hutton              21 Colin Pidgeon            10 
+             Aggregate: 126              Aggregate:  76 
+                Points:  36                 Points:  14 
+
+      Fourth Division              Mon 28th Jul         
+       Springhall BC               Greenroyd 'B'        
+Peter Gregory            11 Ken Todd                 21 
+Peter Grant              21 George Rowland           20 
+Mick Milnes              21 Ken Campbell             17 
+Pat Grant                15 Stephen Baldwin          21 
+Stephen Johnson          13 Peter Jackson            21 
+Michael Brocklehurst     21 Barry Broadbent          14 
+             Aggregate: 102              Aggregate: 114 
+                Points:  25                 Points:  27 
+
+      Fourth Division              Mon 28th Jul         
+       Cowcliffe 'C'           Akroydon Victoria 'B'    
+Paul Bickerdike          21 Dougy Hather             18 
+Pat Utting               21 Stuart Alderson          13 
+Danny O'Bradovic         14 David Hardy              21 
+Hewie Clark              21 Mel Russell              11 
+Stuart Stanley           21 Steve Crabtree            3 
+Lyn Rynham               21 Bob Harrison             17 
+             Aggregate: 119              Aggregate:  83 
+                Points:  32                 Points:  16 
+
+      Fourth Division              Mon 28th Jul         
+       Hillcrest 'B'              Springwood 'B'        
+Ella Clissitt             9 Graham Summers           21 
+Tim Copley               21 Ian Colleton             10 
+Derek Hall               21 Chris Windle             18 
+Margaret Holt            17 Dave Morgan              21 
+Paul Oldfield            21 Mick Wilby                9 
+John Jackson             21 Richard Lambert          15 
+             Aggregate: 110              Aggregate:  94 
+                Points:  28                 Points:  21 
+
+      Fourth Division              Mon 28th Jul         
+        Outlane 'B'                 Wibsey 'C'          
+Bryan Mitchell            7 Paul Broome              21 
+Ben Hammond              15 Barry Turner             21 
+Dave McLean              19 John May                 21 
+Alan Hobson              21 Kevin Ackroyd            20 
+Peter Kershaw            21 Steve Thornton            5 
+George Williams          13 John Walsh               21 
+             Aggregate:  96              Aggregate: 109 
+                Points:  22                 Points:  29 
+
+      Fourth Division              Mon 28th Jul         
+       Hove Edge 'C'             Pellon Social 'B'      
+Steven Airey             21 Peter Steele             18 
+Diane Brearley           21 Martin Alders            13 
+Phillip Brearley         19 Peter Greenwood          21 
+Chris Rhodes             21 Peter Marlow             14 
+Alan Sykes               12 Andrew Roy               21 
+John Bentley             12 John Clark               21 
+             Aggregate: 106              Aggregate: 108 
+                Points:  26                 Points:  25 
+
+      Fourth Division              Mon 28th Jul         
+ Huddersfield RUFC BC 'B'      Brighouse Sports 'C'     
+Ray Brooks               21 Les Sampson              14 
+Kate Schofield           21 Ron Cooper               20 
+Frank Westerby           15 Brian Thurlow            21 
+Peter Schofield           8 Terry Ricketts           21 
+Peter Hepworth           17 Paul Rimmer              21 
+Alan Dean                16 Philip Hawtin            21 
+             Aggregate:  98              Aggregate: 118 
+                Points:  22                 Points:  30 
+
+      Fifth Division               Mon 28th Jul         
+      Hipperholme 'C'        Huddersfield Rec Club 'C'  
+Geoff Court              21 David Warren             12 
+Ian Medlin               21 John Stevenson           10 
+Keith Crossfield         17 David Rudd               21 
+Tony Keighley             0 Jeremy Chomeczko         21 
+Robert Sandie            21 Michael Hollingdrake     18 
+Neil Davidson             9 John Sunter              21 
+             Aggregate:  89              Aggregate: 103 
+                Points:  22                 Points:  25 
+
+      Fifth Division               Mon 28th Jul         
+      Lindley BC 'D'                Halifax 'D'         
+Gerry Beamond            21 Stewart Wright           20 
+Paul Broadhead           21 Terry Kettle              9 
+Terry Wheat              21 Helen Smith              14 
+Brian Craven             19 Janis Wright             21 
+Stuart Thornton          13 David Mitton             21 
+Alan Taylor               7 Christopher Lindsey      21 
+             Aggregate: 102              Aggregate: 106 
+                Points:  25                 Points:  25 
+
+      Fifth Division               Mon 28th Jul         
+       Greetland 'B'             Spen Victoria 'D'      
+Peter Moran              21 Ken Spencer              16 
+Christine Beaumont       21 Alan Cardwell            12 
+Philip Moran             21 Derek Warriner           11 
+Denise Page              21 Harry Stirk              12 
+Lynn Greenwood           17 Brian Smith              21 
+Paul Iredale             21 Michael Ingham           20 
+             Aggregate: 122              Aggregate:  92 
+                Points:  33                 Points:  19 
+
+      Fifth Division               Mon 28th Jul         
+   Brighouse Sports 'D'              Holmfield          
+Hazel Garside            21 Maurice Thorpe           10 
+Martin Shakespeare        4 Malcom Rothery           21 
+Sheila Wrigley            4 Martin O'Hara            21 
+Christine Webster        17 Tony Barrett             21 
+David Wrigley            21 Allan Wilson              8 
+Richard Bentley          11 Edward Moss              21 
+             Aggregate:  78              Aggregate: 102 
+                Points:  17                 Points:  27 
+
+      Fifth Division               Mon 28th Jul         
+      Northowram 'B'                Wibsey 'B'          
+Ann Oates                21 Ray Leadbetter           12 
+Judith Thornton          10 Roy Lee                  21 
+Alison Lister            21 David Saville            17 
+Steven Sykes             21 Kath Bartle              18 
+Sylvia Allott            21 Sid Hartford             14 
+Peter Lee                21 Dennis Flaherty          19 
+             Aggregate: 115              Aggregate: 101 
+                Points:  32                 Points:  20 
+
+      Fifth Division               Mon 28th Jul         
+    Bailiff Bridge 'B'                Clayton           
+Terry Firth              16 Ian Findlay              21 
+Ed Davison               21 Peter Barker             20 
+Graham Whitworth         21 Malcolm Riggs            15 
+John Wardle              17 Ray Atkinson             21 
+Lynn Wardle               3 Bob Armitage             21 
+Graham Holmes            21 Kevin Flanagan           18 
+             Aggregate:  99              Aggregate: 116 
+                Points:  24                 Points:  28 
 
 

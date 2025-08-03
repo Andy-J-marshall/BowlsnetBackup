@@ -1,4 +1,4 @@
-=== Bradford (Wed. Pairs) 2025 (as of Sun 27th Jul)
+=== Bradford (Wed. Pairs) 2025 (as of Sun 3rd Aug)
 === Comp. Match Cards
 
                             Wed 9th Apr       
@@ -74,7 +74,7 @@ James Burnett          John Appleyard
                             Wed 16th Apr      
    Brighouse Sports         Cullingworth      
 David Wood          21 John Pullen         12 
-James Wood             *A.N.Other*            
+James Wood             John Philipson         
 Terry Ricketts       7 Linda Crawford      21 
 Derek Hepworth         Martin Bentley         
 Steven Bedford      21 John Summerfield     9 
@@ -108,7 +108,7 @@ Jim Welsh              Sean Schofield
 Derek Simpson       18 Mathew Pearson      21 
 Dennis Brown           James Klenk            
 Pam Robinson         7 Paula Graham        21 
-*A.N.Other*            Debra Pearson          
+Janet Welsh            Debra Pearson          
         Aggregate:  50         Aggregate:  84 
             Games:   0             Games:   4 
            Points:   5            Points:  19 
@@ -134,9 +134,9 @@ John Appleyard         Martin Bentley
 Diane Barraclough   11 John Pullen         21 
 Martin Barraclough     Linda Crawford         
 Neil Duxbury        21 Rosemary Spencer    13 
-Tracy Duxbury          *A.N.Other*            
-Christine Jarvis    21 *A.N.Other*          4 
-Michael Jarvis         *A.N.Other*            
+Tracy Duxbury          Robin Jackson          
+Christine Jarvis    21 Michael Grogan       4 
+Michael Jarvis         Linda Maloney          
         Aggregate:  62         Aggregate:  59 
             Games:   2             Games:   2 
            Points:  13            Points:  11 
@@ -896,5 +896,75 @@ Derek Simpson          James Miller
         Aggregate:  41         Aggregate:  84 
             Games:   0             Games:   4 
            Points:   3            Points:  21 
+
+                            Wed 30th Jul      
+    Bailiff Bridge        Brighouse Sports    
+Daren Munt          13 Les Sampson         21 
+Andrea Beetham         Steven Bedford         
+John Woodruff       21 Janice Naylor       13 
+Ian Addy               Ann Horsley            
+Christine Stout     21 Terry Ricketts      13 
+Andrew Beetham         Derek Hepworth         
+Martin Broadbent    21 David Wood          20 
+Jenny Moffat           James Wood             
+        Aggregate:  76         Aggregate:  67 
+            Games:   3             Games:   1 
+           Points:  15            Points:   9 
+
+                            Wed 30th Jul      
+    West Bradford          New Greengates     
+Kevin Buckley       21 Keith Goodall       12 
+Mark Woolner           James Dennison         
+John Shoesmith      21 Chris Burnett       14 
+Gerry Peel             Allan Smith            
+Jason Greenwood     21 Alan Broscombe      14 
+Stuart Graham          Robert Denby           
+Colin Isles          5 Chris J Burnett     21 
+Paul Wood              James Burnett          
+        Aggregate:  68         Aggregate:  61 
+            Games:   3             Games:   1 
+           Points:  14            Points:  10 
+
+                            Wed 30th Jul      
+     Burley Park            Cullingworth      
+Cheryl Smith        21 Martin Bentley      14 
+John Gilroy            Geoff Battye           
+Harry Smith         21 Linda Crawford       4 
+Jordan Edmondson       John Pullen            
+James Miller        21 Robin Jackson        4 
+Steve Pickersgill      Rosemary Spencer       
+Barry Palmer        12 Gillian Holt        21 
+Tommy Parr             Sheila Nurse           
+        Aggregate:  75         Aggregate:  43 
+            Games:   3             Games:   1 
+           Points:  18            Points:   6 
+
+                            Wed 30th Jul      
+    Crowghyll Park            Clayton         
+Audrey Healy        21 Sean Toehill        19 
+Phil Robinson          Ray Atkinson           
+Janet Welsh         21 Simon Russell       12 
+Jim Welsh              Steve Edgley           
+Flo Johnston        21 Pauline McGregor     8 
+Pam Robinson           Gaynor Shutt           
+Rae Heddle           9 Kevin Flanagan      21 
+Derek Simpson          Peter Barker           
+        Aggregate:  72         Aggregate:  60 
+            Games:   3             Games:   1 
+           Points:  15            Points:   9 
+
+                            Thu 31st Jul      
+   Brighouse Sports           Clayton         
+Janice Naylor       21 Bob Armitage        10 
+Ann Horsley            Steve Edgley           
+Derek Hepworth      21 Pauline McGregor    20 
+Terry Ricketts         Gaynor Shutt           
+David Wood          19 Sean Toehill        21 
+James Wood             Ray Atkinson           
+Les Sampson         21 Bev Shutt           19 
+Steven Bedford         Malcolm Riggs          
+        Aggregate:  82         Aggregate:  70 
+            Games:   3             Games:   1 
+           Points:  15            Points:   9 
 
 

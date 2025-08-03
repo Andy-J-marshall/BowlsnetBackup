@@ -1,4 +1,4 @@
-=== Halifax (Hebden Royd Fri.) 2025 (as of Sun 27th Jul)
+=== Halifax (Hebden Royd Fri.) 2025
 === League Match Cards
 
            League                   Fri 25th Apr       
@@ -1346,5 +1346,70 @@ John Tolley                11 Erin Claughan         21
                   Points:  25              Points:  20 
                Aggregate: 113           Aggregate: 100 
                    Games:   4               Games:   2 
+
+           League                   Fri 1st Aug        
+         Division 1                                    
+        Cross Roads A             Luddendenfoot B      
+Daniel Hargreaves          11 Chris Watkins         21 
+Sally Grundy               15 Gillian Thornber      21 
+Ashley Elliot-Murphy       19 Daniel Stafford       21 
+Gorden Clarke               8 Phil Thornber         21 
+Leah Emery                 21 Gill Horner           10 
+Thomas Hargreaves          21 Mark Horner           19 
+                  Points:  19              Points:  25 
+               Aggregate:  95           Aggregate: 113 
+                   Games:   2               Games:   4 
+
+           League                   Fri 1st Aug        
+         Division 1                                    
+       Luddendenfoot A                Oxenhope         
+Kevin Mitchell             21 Roger Whitaker         8 
+Ian Armstrong              21 Trevor Bairstow       19 
+Tom Bridges                21 David Milnes           3 
+Natalie Swain              21 Andrew Hollywood       4 
+Barry Farrar               21 Mary Hemsley          16 
+Chris Mitchell             21 Liam Bairstow         10 
+                  Points:  30              Points:   9 
+               Aggregate: 126           Aggregate:  60 
+                   Games:   6               Games:   0 
+
+           League                   Fri 1st Aug        
+         Division 2                                    
+         Old Town B                   Sowerby          
+Dave Ruse                  21 David Fairhurst       12 
+John Tolley                10 Julia Palmer          21 
+Aimee Smith                10 Stephen Baitscheff    21 
+Rodger Walsh               21 Denise Anderton       17 
+Stewert Andrews            21 Joanne Fairhurst      19 
+Tom Sapey                   9 Alan Riddles          21 
+                  Points:  20              Points:  23 
+               Aggregate:  92           Aggregate: 111 
+                   Games:   3               Games:   3 
+
+           League                   Fri 1st Aug        
+         Division 2                                    
+        Hill Crest B                 Old Town A        
+Ed Tinker                  20 John McDermondy       21 
+Craig Charlwood            21 Ian Coleman           17 
+Carol Harris               21 Tom Faulkner          12 
+Craig Thomasson            21 Harry Coleman          2 
+Daniel Gladock             21 John Bewick            2 
+Michael Holdsworth         21 Peter Cockroft        10 
+                  Points:  29              Points:  12 
+               Aggregate: 125           Aggregate:  64 
+                   Games:   5               Games:   1 
+
+           League                   Fri 1st Aug        
+         Division 2                                    
+        Cullingworth               Cross Roads B       
+Linda Crawford             21 John Larner           10 
+Mark Smith                 11 Paul Claughan         21 
+Mike Barbour               21 Paul Robinson         18 
+Teresa Davy                21 Malcolm Porter        16 
+Robert Cooke               15 Simon Woodvine        21 
+Joseph Cookson             12 Terry Fawthorp        21 
+                  Points:  22              Points:  23 
+               Aggregate: 101           Aggregate: 107 
+                   Games:   3               Games:   3 
 
 

@@ -1,4 +1,4 @@
-=== Halifax (Hebden Royd Mon.) 2025 (as of Sun 27th Jul)
+=== Halifax (Hebden Royd Mon.) 2025 (as of Sun 3rd Aug)
 === Comp. Match Cards
 
 Division 1, 6 person teams        Mon 12th May       
@@ -875,6 +875,54 @@ Lewis Butcher            21 Ed Tinker             17
 Dave McFarland           21 Tim Brumby            20 
                 Points:   8              Points:   0 
              Aggregate: 126           Aggregate:  69 
+                 Games:   6               Games:   0 
+
+Division 1, 6 person teams        Mon 28th Jul       
+          Savile                   Oxenhope A        
+Harry Ashworth           21 Richard Hemsley       12 
+Peter Smith              21 Trevor Douglas         9 
+David Whitehouse          5 Peter Ousey           21 
+Andresa McWhirter        10 Steve Collier         21 
+Steve Morris             21 Fred Rothwell         10 
+Stephen D Robinson       21 M Hemsley              6 
+                Points:   6              Points:   2 
+             Aggregate:  99           Aggregate:  79 
+                 Games:   4               Games:   2 
+
+Division 1, 6 person teams        Mon 28th Jul       
+        Cross Road                 Old Town A        
+Steve Hird               10 Tony Cooper           21 
+Peter Thompson           21 Sue Martin             6 
+Marcus Grundy            21 Tim Ham               19 
+Thomas Hargreaves        13 Mick Skwarek          21 
+Stephen Peers            13 Derek Williamson      21 
+John Copperwaite         21 Dave Ruse             12 
+                Points:   3              Points:   5 
+             Aggregate:  99           Aggregate: 100 
+                 Games:   3               Games:   3 
+
+Division 2, 6 person teams        Mon 28th Jul       
+        Oxenhope B                 Walsden B         
+Trevor Bairstow          21 Meridith Wilkinson     3 
+Rob Harvie               13 Trevor Bailey         21 
+John Slight              11 Gaynor Leaff          21 
+Brian Bairstow            9 Tony Hunking          21 
+Andrew Hollywood         21 Pauline Halstead       8 
+Liam Bairstow            21 Darrel Halstead       12 
+                Points:   5              Points:   3 
+             Aggregate:  96           Aggregate:  86 
+                 Games:   3               Games:   3 
+
+Division 2, 6 person teams        Mon 28th Jul       
+         Walsden A               Luddendenfoot       
+Cameron Hanson           21 Ian Armstrong         12 
+Daniel Howley            21 Chris Mitchell         9 
+Michael Butcher          21 Mark Horner            4 
+Paul Senior              21 J Barry Farrar         6 
+Lewis Butcher            21 Thomas Bridges        14 
+Dave McFarland           21 Kevin Mitchell        10 
+                Points:   8              Points:   0 
+             Aggregate: 126           Aggregate:  55 
                  Games:   6               Games:   0 
 
 
