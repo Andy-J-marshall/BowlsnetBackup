@@ -1,4 +1,4 @@
-=== Yorkshire County Vets Inter-District League 2025 (as of Sun 3rd Aug)
+=== Yorkshire County Vets Inter-District League 2025 (as of Sun 10th Aug)
 === Comp. Match Cards
 
                           Fri 2nd May      
@@ -68,7 +68,7 @@ David Leeming     15 Paul Holden        21
 
                           Fri 2nd May      
      Leeds Home        Huddersfield Away   
-Mark Whitaker     21 Roger Stopford     15 
+Mark Whittaker    21 Roger Stopford     15 
 Mario Biancardo   13 Tim Poulter        21 
 David Smith       13 David Pollard      21 
 Paul Bowes        21 Edwin Haigh         9 
@@ -178,7 +178,7 @@ Joe Adams         21 George Hall        14
 Mario Biancardo   21 Steve Pease        11 
 Martin Fulton     21 Peter Whipp         8 
 Adam Hawkins      21 David Beck         14 
-Mark Whitaker     21 Jack Sharp         13 
+Mark Whittaker    21 Jack Sharp         13 
 Jon Lucas         21 Edward Parker       9 
       Aggregate: 168        Aggregate:  97 
          Points:  27           Points:   1 
@@ -243,7 +243,7 @@ Joe Adams         14 Mally Fowler       21
 Bob Whitfield      6 Trevor Benn        21 
 Martin Fulton     21 Kevin Wood          5 
 David Smith       19 John Stevenson     21 
-Mark Whitaker     21 Peter Oliver       15 
+Mark Whittaker    21 Peter Oliver       15 
 Jon Lucas         21 David Jowett       16 
       Aggregate: 129        Aggregate: 141 
          Points:  11           Points:  17 
@@ -279,7 +279,7 @@ David Poole       21 Garry Senior       19
 Andy Carter       21 Ian Scott          11 
 Stephen Haigh     21 Richard Briggs     15 
 John Bloomer      11 Stewart Watson     21 
-Mick Chapman      17 David Rankin       21 
+Mick Chapman      17 Kevin Rankin       21 
 Robert Dickinson  21 Glyn Goodyear      10 
 Ray Whitwam       21 Allan Caine        14 
 Graham Sigsworth  21 Colin Matthewman    1 
@@ -328,7 +328,7 @@ Michael Rhodes    15 Nigel Cranston     21
 
                          Fri 13th Jun      
      Leeds Home        West Riding Away    
-Mark Whitaker     17 Tony Green         21 
+Mark Whittaker    17 Tony Green         21 
 Paul Bowes        21 Graham Blenkinsop  18 
 Bob Whitfield     21 Graham Hirst       13 
 Mario Biancardo   21 Les Mitchell       18 
@@ -537,7 +537,7 @@ Gordon Bradford   17 Nigel Cranston     21
                          Fri 25th Jul      
      Leeds Home          Halifax Away      
 Mario Biancardo   21 David Warburton    11 
-Mark Whitaker     21 Andrew Balmforth    7 
+Mark Whittaker    21 Andrew Balmforth    7 
 Paul Bowes        21 Ian Smith          13 
 Paul Hatch         9 Paul Holden        21 
 Chris Firth       21 Robert Morgan      12 
@@ -624,5 +624,109 @@ Nigel Wormald     18 Malcolm Shaw       21
 Nick Dewhirst     21 Gerry Taylor       19 
       Aggregate: 136        Aggregate: 159 
          Points:   9           Points:  19 
+
+                          Fri 8th Aug      
+  Castleford Home      Huddersfield Away   
+Alan Box          18 Roger Stopford     21 
+Graham Hodder     21 Tim Poulter        15 
+Glyn Hanson       21 Dave Sykes          8 
+Michael Firth     21 David Pollard      18 
+Ricky Watson      21 Tony Butterfield   15 
+Tony Chambers     21 Malcolm Gilbert     9 
+Alwyn Beedle      13 Adrian Cooper      21 
+Stuart Thompson   21 Edwin Haigh        11 
+      Aggregate: 157        Aggregate: 118 
+         Points:  21           Points:   7 
+
+                          Fri 8th Aug      
+ Huddersfield Home      Castleford Away    
+Robert Dickinson  21 Peter Whipp        17 
+Peter Hopkinson   21 Graham Bickerdike   6 
+Tony Cross        19 Wayne Bond         21 
+Mick Chapman      18 *A.N.Other*        21 
+Robert Spencer    21 David Steel         8 
+Ray Whitwam       21 Gary Haley         15 
+Graham Sigsworth  21 John Wilkinson     14 
+Andrew Wike       21 Alan Glenn         19 
+      Aggregate: 163        Aggregate: 121 
+         Points:  22           Points:   6 
+
+                          Fri 8th Aug      
+     Leeds Home       Aire & Wharfe Away   
+Paul Bowes        21 Kevin Rankin       13 
+John Whiteley     21 Stewart Watson     12 
+Mario Biancardo   13 Richard Briggs     21 
+Mark Whittaker    21 Phil Clayton       11 
+Phillip Wilshire  21 Glyn Goodyear      10 
+Ian Vickers       16 Derek Pickering    21 
+Chris Firth       21 Andrew Thornton    16 
+Jon Lucas          6 Chris Hight        21 
+      Aggregate: 140        Aggregate: 125 
+         Points:  17           Points:  11 
+
+                          Fri 8th Aug      
+ Aire & Wharfe Home       Leeds Away       
+Brian Wheeler     21 Steve Longly       10 
+Terry Almond      16 Paul Hatch         21 
+Ken Garbett       21 Roger Birdsall     17 
+Andrew Durkin      8 Steven Hartley     21 
+Allan Caine       13 Ian Howard         21 
+David Poole       21 Nigel Cranston     10 
+Steve Calvert     21 Howard Broadbent    8 
+John Benson       21 Joe Adams          14 
+      Aggregate: 142        Aggregate: 122 
+         Points:  18           Points:  10 
+
+                          Fri 8th Aug      
+   Bradford Home         Skipton Away      
+Clive Foord       21 David Kirkbright   18 
+Paul Gill         21 Phil Chadwick      18 
+Glen Pratt        21 David Leeming      17 
+Rod Bastow        18 Alan Barber        21 
+Nick Dewhirst     14 Peter Hepworth     21 
+Andrew Walker     19 Dennis Henderson   21 
+Ken Wilson        17 Steve Bowes        21 
+Derek Relton      16 Steve Griffiths    21 
+      Aggregate: 147        Aggregate: 158 
+         Points:  11           Points:  17 
+
+                          Fri 8th Aug      
+    Skipton Home         Bradford Away     
+David Fairless    21 Mick Bastow        11 
+Kevin Burnett     13 David Jowett       21 
+Paul Drinkall     14 Kevin Wood         21 
+Peter Haworth     16 Steve Cooper       21 
+Chris Wilson      21 Ian Johnson        20 
+Mick Gadd         19 John Stevenson     21 
+Brent Taylforth   21 Peter Oliver        5 
+David Brown       16 Trevor Benn        21 
+      Aggregate: 141        Aggregate: 141 
+         Points:  13           Points:  15 
+
+                          Fri 8th Aug      
+  West Riding Home      Wakefield Away     
+Paul Fincher      21 Dave Horan         18 
+Paul Blackburn    16 Adrian Smart       21 
+Keith Barlow      12 Gordon Hird        21 
+Michael Robinson  21 Steve Goddard      15 
+John Ineson       21 Steve Davis         9 
+David Billington  21 Gerry Taylor       15 
+Malcolm Preston   21 Malcolm Shaw       17 
+John Leach        21 Colin Lloyd        12 
+      Aggregate: 154        Aggregate: 128 
+         Points:  20           Points:   8 
+
+                          Fri 8th Aug      
+   Wakefield Home      West Riding Away    
+John Packer       21 Tony Green         10 
+Gary Foulkes      18 Graham Hirst       21 
+Peter Lamb        21 Les Mitchell        8 
+Roger Lunn        14 Graham Blenkinsop  21 
+Allan Poyser      19 John Blackburn     21 
+Mick Scott         8 Mark Worrall       21 
+Michael Redican    4 Phillip Smith      21 
+Phil Schofield    12 Ian Briggs         21 
+      Aggregate: 117        Aggregate: 144 
+         Points:   8           Points:  20 
 
 

@@ -1,4 +1,4 @@
-=== Halifax (Tues.Afternoon) 2025 (as of Sun 3rd Aug)
+=== Halifax (Tues.Afternoon) 2025 (as of Sun 10th Aug)
 === Comp. Match Cards
 
       Division 2              Tue 8th Apr       
@@ -2242,6 +2242,174 @@ David Ramsden         4 Bob Armitage         21
 Richard Kerr         21 Kevin Flanagan       11 
 John Winstanley      21 Ray Atkinson         16 
          Aggregate: 101          Aggregate: 105 
+             Games:   3              Games:   3 
+            Points:   3             Points:   5 
+
+      Division 1              Tue 5th Aug       
+     Hipperholme A            Hove Edge A       
+David Peel           21 Graham Jackson       19 
+Stephen Rookes       18 Mick Cowley          21 
+Robin Sugden         21 Steve Rathmell       10 
+Glyn Hopper          17 Taff Owen            21 
+Roger Bernard        17 Nigel Firth          21 
+Tom Roper            15 Tony James           21 
+         Aggregate: 109          Aggregate: 113 
+             Games:   2              Games:   4 
+            Points:   2             Points:   6 
+
+      Division 1              Tue 5th Aug       
+      Ripponden A             West End A        
+Michael Robertshaw   21 David Musgrove        6 
+Brian Winrow         21 Brian Needham        13 
+Keith Hardy          21 Stephen Duke         14 
+Nick Oddy            21 John Rowley          20 
+Howard Owen           3 Ivan Taylor          21 
+Philip Holroyd       20 Martin Murphy        21 
+         Aggregate: 107          Aggregate:  95 
+             Games:   4              Games:   2 
+            Points:   6             Points:   2 
+
+      Division 1              Tue 5th Aug       
+     Hill Crest A            Halifax B.C.       
+David Barnes         21 Paul Patrick         10 
+Lyndon Harris        21 Ian Tweedale         13 
+R Woodhead           21 David Russell        14 
+Maria Lodge          21 Ray Clegg            17 
+Frank Clissett       21 Stephen Wandiak      20 
+Annice Copley        13 David Culpan         21 
+         Aggregate: 118          Aggregate:  95 
+             Games:   5              Games:   1 
+            Points:   7             Points:   1 
+
+      Division 1              Tue 5th Aug       
+    Akroydon Vic A            Greetland A       
+Terry Keast          21 Graham Crompton      12 
+Steve Livsey         21 Fred Wilson          11 
+D Avery              21 Clifford Birkhead    11 
+Chris Meade          21 Lynne Greenwood      14 
+P Lowry              16 Colin Pidgeon        21 
+Philip Keast          8 Chris Crawshaw       21 
+         Aggregate: 108          Aggregate:  90 
+             Games:   4              Games:   2 
+            Points:   6             Points:   2 
+
+      Division 1              Tue 5th Aug       
+       Old Town            Laurel Crescent A    
+G Hughes             18 Terry Jackson        21 
+Andy Greenwood       12 P Jackson            21 
+M Skwarek            21 Bernard Keen         13 
+Steve Griffiths      21 Joe Gibbons          17 
+Fred Rothwell        21 Graham Jones         16 
+Derek Williamson     21 Peter Stead          16 
+         Aggregate: 114          Aggregate: 104 
+             Games:   4              Games:   2 
+            Points:   6             Points:   2 
+
+      Division 2              Tue 5th Aug       
+      Kingston A             Hill Crest B       
+John Worsnop          6 Derek Hall           21 
+Pasqual Cestrone     21 Pamela Woodhead      12 
+Terry Horsfall       21 J Jackson            16 
+Martyn Simms         21 Ella Clissitt         3 
+Alan Whittle         10 Margaret Holt        21 
+Ian Smith            21 Paul Oldfield        14 
+         Aggregate: 100          Aggregate:  87 
+             Games:   4              Games:   2 
+            Points:   6             Points:   2 
+
+      Division 2              Tue 5th Aug       
+    Bailiff Bridge            Ripponden B       
+Jenny Moffat         21 Fred Greenwood       17 
+Kevin Page           19 Steve Mackrell       21 
+Malcolm Park         18 Graham Smith         21 
+Chris Stout          16 Peter Briggs         21 
+Colin White           6 Lorna Briggs         21 
+David Franz          21 Julian Carr          14 
+         Aggregate: 101          Aggregate: 115 
+             Games:   2              Games:   4 
+            Points:   2             Points:   6 
+
+      Division 2              Tue 5th Aug       
+    Sowerby T & BC           Northowram A       
+Peter Lomax          21 D Moore               5 
+Alastair Baigent      8 Dennis Clayton       21 
+Don Hayward          21 Robert Clayton       11 
+Philip Schofield     16 D Robinson           21 
+Philip Eastwood      13 John Beaumont        21 
+Edward Eyres         19 Keith Walker         21 
+         Aggregate:  98          Aggregate: 100 
+             Games:   2              Games:   4 
+            Points:   2             Points:   6 
+
+      Division 2              Tue 5th Aug       
+   Luddenden Foot A         Bradshaw Park A     
+Ray Wolsey           17 Russell Lockley      21 
+Mark Horner           9 T Mosey              21 
+Gill Horner          12 Keith Noble          21 
+John Shann           10 John Fish            21 
+David Stafford       13 S Barker             21 
+Ray Cope             21 Graham Sellars       13 
+         Aggregate:  82          Aggregate: 118 
+             Games:   1              Games:   5 
+            Points:   1             Points:   7 
+
+      Division 2              Tue 5th Aug       
+      Hove Edge B            Elland WMC A       
+Patrick O'Connor     21 Malcolm Murray       17 
+Jimmy Procter         7 G Boothroyd          21 
+Peter Martin         21 Peter Clement        12 
+Chris Wood           19 Geoffrey Place       21 
+Stewart Greenwood    21 Frank Turner         18 
+Kevin Longbottom      4 P Wright             21 
+         Aggregate:  93          Aggregate: 110 
+             Games:   3              Games:   3 
+            Points:   3             Points:   5 
+
+      Division 3              Tue 5th Aug       
+     Northowram B           Akroydon Vic B      
+Peter Lee            20 Robert Harrison      21 
+Judith Thornton       8 S Stansfield         21 
+S Sykes              18 S Alderson           21 
+Peter Cretney        21 M Russell            14 
+Roy Donaldson        19 Russell Jowett       21 
+Peter Thornton       11 David Hardy          21 
+         Aggregate:  97          Aggregate: 119 
+             Games:   1              Games:   5 
+            Points:   1             Points:   7 
+
+      Division 3              Tue 5th Aug       
+       Holmfield             Hipperholme B      
+Allan Wilson         21 Geoff Court          13 
+Stephen Hardy        21 Chris Peever         16 
+John Ellison         21 Dave Berry           15 
+Martin O'Hara        21 Ian Medlin            9 
+Steve Bamforth        7 Richard Lee          21 
+Geoff Beaumont       21 Rob Sandie           19 
+         Aggregate: 112          Aggregate:  93 
+             Games:   5              Games:   1 
+            Points:   7             Points:   1 
+
+      Division 3              Tue 5th Aug       
+   Laurel Crescent B          Hove Edge C       
+Daryl Edwards        17 Bob Spriggs          21 
+Derek Smith           5 Philip Brearley      21 
+Margaret Thompson     2 Chris Rhodes         21 
+Gary Thompson        21 Paul Wilkinson       17 
+Adrian Dinsmore      17 Alan Sykes           21 
+Steven Hodgson        6 Steve Shaw           21 
+         Aggregate:  68          Aggregate: 122 
+             Games:   1              Games:   5 
+            Points:   1             Points:   7 
+
+      Division 3              Tue 5th Aug       
+    Crow Wood Park              Wyke A          
+Linda Owen           18 Colin Fallows        21 
+P Foster             21 Keith Stephenson     13 
+Brian Lawrence       21 John Winstanley      10 
+Shaun Farrell        21 Michael Walton       16 
+Alex Myers            6 Ken Bairstow         21 
+Edward Marshall       9 Richard Kerr         21 
+         Aggregate:  96          Aggregate: 102 
              Games:   3              Games:   3 
             Points:   3             Points:   5 
 
