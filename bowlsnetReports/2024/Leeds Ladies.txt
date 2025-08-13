@@ -1,6 +1,5 @@
 === Leeds & District Ladies Bowling League 2024
-=== League Calendar
-=== Complete List
+=== Comp. Match Cards
 
       Division 1              Thu 9th May       
      Shipley Club           Western Flatts      
@@ -1009,4 +1008,5 @@ Diane Hales          20 Maureen Jarvis       21
 Rachel Barnard       16 Christine Boyd       21 
 Daphne Scott         21 Jean Perry           14 
          Aggregate: 135          Aggregate: 134 
+
 
