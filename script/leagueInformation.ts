@@ -249,7 +249,7 @@ export const leagues = [
   },
   {
     day: "Spen Vets",
-    url: "/SpenVets",
+    url: "/NKirklees-SpenVets",
   },
   {
     day: "Skipton 54321",
