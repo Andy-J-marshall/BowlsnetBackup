@@ -1,4 +1,4 @@
-=== Yorkshire County Vets Inter-District League 2025 (as of Sun 10th Aug)
+=== Yorkshire County Vets Inter-District League 2025 (as of Sun 17th Aug)
 === Comp. Match Cards
 
                           Fri 2nd May      
@@ -161,7 +161,7 @@ Steve Calvert     21 Peter Hepworth      9
   Castleford Home         Leeds Away       
 Alan Braithwaite   7 Roger Birdsall     21 
 Ken Griffiths     10 Steve Longly       21 
-*A.N.Other*       21 David Alan Kaye    17 
+Keith Jones       21 David Alan Kaye    17 
 Glyn Hanson       21 Steven Hartley     18 
 Tony Chambers     21 Paul Hatch         18 
 Michael Firth      2 Ian Howard         21 
@@ -306,7 +306,7 @@ Graham Hodder     16 Ian Smith          21
 Glyn Hanson       13 Douglas Hamilton   21 
 Martin Evans       6 Robert Morgan      21 
 Tony Chambers     21 David Wright       18 
-*A.N.Other*       16 Nigel Mitchell     21 
+Keith Jones       16 Nigel Mitchell     21 
 Michael Firth     21 Steve Kenworthy    11 
 Alan Box          17 Paul Holden        21 
 Stuart Thompson   21 David Warburton    18 
@@ -395,7 +395,7 @@ Gordon Bradford    8 Trevor Benn        21
   Castleford Home     Aire & Wharfe Away   
 Glyn Hanson       16 Kevin Rankin       21 
 Ian Lewis          8 Stewart Watson     21 
-*A.N.Other*       13 Kenneth Lee        21 
+Keith Jones       13 Kenneth Lee        21 
 Graham Hodder     19 Ian Scott          21 
 Tony Chambers     21 Glyn Goodyear      14 
 Michael Firth     21 Andrew Thornton    10 
@@ -643,7 +643,7 @@ Stuart Thompson   21 Edwin Haigh        11
 Robert Dickinson  21 Peter Whipp        17 
 Peter Hopkinson   21 Graham Bickerdike   6 
 Tony Cross        19 Wayne Bond         21 
-Mick Chapman      18 *A.N.Other*        21 
+Mick Chapman      18 Keith Jones        21 
 Robert Spencer    21 David Steel         8 
 Ray Whitwam       21 Gary Haley         15 
 Graham Sigsworth  21 John Wilkinson     14 

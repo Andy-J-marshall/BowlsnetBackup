@@ -1,4 +1,4 @@
-=== Harrogate 2025 (as of Sun 10th Aug)
+=== Harrogate 2025 (as of Sun 17th Aug)
 === League Match Cards
 
         Division 3               Tue 1st Apr        
@@ -268,7 +268,7 @@ Bryan Lee               21 Keith Agars           17
 Lee Chandler            21 Jim Corr              12 
 Ken Blakey              21 Jake Coker            10 
 Carole Harpham          21 Suzi Mitchell         12 
-Steve Smith             21 *A.N.Other*            2 
+Steve Smith             21 Jasmine Rowson         2 
 Oliver Chandler         21 Stephen Westoby       10 
 John Binns              19 Val Rowson            21 
            Aggregate:  166           Aggregate:  98 
@@ -5036,5 +5036,304 @@ Phil Dolan               8 John England          21
 Maggie Dolan            21 Stephen Brown         17 
 Alan Hill               18 Thomas Morrison       21 
            Aggregate:  125           Aggregate: 137 
+
+        Division 1               Mon 11th Aug       
+    Bilton Centurions             Black Swan        
+Graham Hesling          12 Martin Hemingway      21 
+Kevin Wood              19 Peter Hepworth        21 
+Carol Sunter            21 Chaz Charleton        13 
+John Archer             21 Tom Beecroft          18 
+Chris England           21 Dave Rowson            8 
+Richard Chester         21 Alan Whittaker        12 
+Chris Sunter            21 Roy Flynn             14 
+Steve Webster           15 Tony Derrick          21 
+           Aggregate:  151           Aggregate: 128 
+              Points:    7              Points:   3 
+
+        Division 1               Mon 11th Aug       
+    Wayside Wanderers          Bardsey Kestrels     
+David Singleton         21 Nick Barker            6 
+Steve Cochrane          21 Peter Forshaw         16 
+Barrie Sugden           21 Raymond Hill           6 
+Chris Wood              21 Carol Cocker          12 
+Greg Johnstone          21 Paul Crossling        10 
+Jenny Asker             21 Andrew Dodsworth      19 
+David Small             21 Andrew Lloyd          19 
+Geoff Brown             10 Steve Jones           21 
+           Aggregate:  157           Aggregate: 109 
+              Points:    9              Points:   1 
+
+        Division 1               Mon 11th Aug       
+   Knaresborough Lions            Collingham        
+Rob Barker              21 Helen Danby           15 
+Mark Herrington         21 Geoff Jones           14 
+Kevan Ibbotson          11 Alan Scorfield        21 
+Paul Passman            21 Angela Scorfield       4 
+Phil Berry              21 Tim Wilson            12 
+Andrew Ison             15 Ian Jones             21 
+Nicholas Lofthouse      21 Nick Danby             9 
+David Finlayson         21 Dennis Hobson         15 
+           Aggregate:  152           Aggregate: 111 
+              Points:    8              Points:   2 
+
+        Division 1               Mon 11th Aug       
+       Dacre Eagles                Starbeck         
+Kevin Sheard            21 Graham Lynch           9 
+Anne Brabin             21 Dave Stockdale        10 
+Eric Brabin             21 Richard Armstrong     10 
+Will Tulley             21 Terry Mitton          17 
+Nigel Nicholas          14 Steve Holmes          21 
+Colin Robson            21 Bernard Ibbotson      15 
+Robert Ferguson         21 Simon Hoare            7 
+Duncan Sloane            8 Tony Hawkes           21 
+           Aggregate:  148           Aggregate: 110 
+              Points:    8              Points:   2 
+
+        Division 1               Mon 11th Aug       
+     Low Harrogate A          Wayside Travellers    
+Michael Adams           21 Vic Scaife-Clarke     18 
+Nick Binns               5 Brian Walker          21 
+Marion Frayne           11 Mark Reynolds         21 
+Peter Hicks              5 Adam Walker           21 
+Ian Jarratt             17 Stephen Walker        21 
+Cath Patrick             8 Peter Darbyshire      21 
+David Spilsbury         21 Martin Knights        12 
+Derek Wilson            12 Chris Rigby           21 
+           Aggregate:  100           Aggregate: 156 
+              Points:    2              Points:   8 
+
+        Division 2               Mon 11th Aug       
+   Almscliffe Climbers         Bilton Spartans      
+Steve Freer             10 Richard Jennison      21 
+Chris Olding            21 Richard Mudd          20 
+Steve Speak             21 Colin Rudd            14 
+John Atkinson           21 Dave Aldous           13 
+Jim Walker              21 Peter Kershaw          7 
+Alan Broadwell          21 Barry Woodward         8 
+Gaynor Olding           21 Hazel Parker           8 
+Margaret Atkinson       21 Alan Blackburn        15 
+           Aggregate:  157           Aggregate: 106 
+              Points:    9              Points:   1 
+
+        Division 2               Mon 11th Aug       
+      Black Swan 2nd           Low Harrogate B      
+Keith Agars             21 David Moon             7 
+Richard Hebblewhite     21 Nigel Swainson         2 
+Dave Kinder             18 Bernard Poulter       21 
+Conor McCarthy          21 Graham Patrick        19 
+Suzi Mitchell           21 Ann Wilson            19 
+Mark Reynard            21 Alan Winstanley        6 
+Val Rowson              21 Alan Old              13 
+Barry Turnbull          20 Ivan Ravilious        21 
+           Aggregate:  164           Aggregate: 108 
+              Points:    8              Points:   2 
+
+        Division 2               Mon 11th Aug       
+  Pateley Bridge Brocks      Almscliffe Strollers   
+Neil Pixton             21 Stephen Liles         16 
+Steve Smith             21 Linda Brown            4 
+Oliver Chandler         21 Sonya Garfit          12 
+Carole Harpham          17 John Richardson       21 
+Ken Blakey              21 Sheila Mayor          17 
+John Corfield           21 Jean Harrison         12 
+John Binns              18 Tony Brown            21 
+Lee Chandler            21 Pam Richardson        12 
+           Aggregate:  161           Aggregate: 115 
+              Points:    8              Points:   2 
+
+        Division 2               Mon 11th Aug       
+      Collingham 2nd         Knaresborough Tigers   
+David Dean              20 Brian Doult           21 
+Robert Blackburn        20 Paul Herrington       21 
+Gillian Mobbs           21 Paul Gatenby          10 
+Sarah Jarvis            16 Geoff Ricketts        21 
+Tony Hoar               21 Paul Wood             11 
+Maureen Burleigh         6 David Moore           21 
+Neil Roberts            21 Brian Clementson      10 
+Michael Hatfield        21 David Wood            10 
+           Aggregate:  146           Aggregate: 125 
+              Points:    6              Points:   4 
+
+        Division 2               Mon 11th Aug       
+        Boston Spa             Wayside Rangers      
+Richard Widnall         21 Ron Sadler            19 
+Leo Wynzar              18 Gillian Marczak       21 
+Alan Best               13 Peter McIntyre        21 
+Janet Taylor            21 Susie Whistler        20 
+Philip Harrison         21 Ruth Nicholson        12 
+John Potter             21 Alger Asker           10 
+John Mais               17 Rich Gundich          21 
+David Taylor            15 Mick Watson           21 
+           Aggregate:  147           Aggregate: 145 
+              Points:    6              Points:   4 
+
+        Division 3               Mon 11th Aug       
+       Starbeck 2nd             Collingham 3rd      
+David Brecken           21 Christine Lord         8 
+Sue Green               21 Eric Gomerson          5 
+Brian Baldry            21 Alan Pickering        15 
+Chris Lynch             21 Michael Jennings      16 
+Jane Johnston           21 James McArthur        20 
+Debbie Stockdale        21 Andrew Moore          18 
+David Crumley           19 Paul Nice             21 
+Philip Turton           21 Amanda Jennings       19 
+           Aggregate:  166           Aggregate: 122 
+              Points:    9              Points:   1 
+
+        Division 3               Tue 12th Aug       
+      Bilton Trojans        Pateley Bridge Badgers  
+Peter Lamb              21 Elizabeth Lambert      6 
+Joyce Light             21 Tracey Sydney          7 
+Jane White              14 Ann Shackleton        21 
+Micheal Birch           21 Steven Killeen        19 
+Sally Holland           17 Graham Ogden          21 
+Nick Bahado             21 John Shackleton       16 
+Richard Bullough        21 Tim Sydney            14 
+Peter White             21 Jason Asquith-Thorpe  16 
+           Aggregate:  157           Aggregate: 120 
+              Points:    8              Points:   2 
+
+        Division 3               Tue 12th Aug       
+      Bardsey Osprey         Almscliffe Ramblers    
+Mary Phillips           14 Richard Saynor        21 
+Derek Stone             21 Kevin Clark           12 
+Phil Bouic              21 Caroline Barker       16 
+Ron Clark               18 Mary Cockerham        21 
+Martin Cocker           19 Bob Williams          21 
+Ian Carr                21 Steve Rae             15 
+James Phillips          21 Richard Lock          20 
+John Conyers            21 Robert Cockerham      10 
+           Aggregate:  156           Aggregate: 136 
+              Points:    7              Points:   3 
+
+        Division 3               Tue 12th Aug       
+     Wetherby Knights           Dacre Falcons       
+Alex May                 6 Larry McLemore        21 
+Iain. Scott             21 Keith Hardcastle      14 
+Andy Storr              21 Amanda Sloane         12 
+Lee Prentice            21 Stewart Goosey        12 
+Lesley Holloran         21 Colin Ions            12 
+Andrew Morton           11 Nick Coutts           21 
+Michael Malawer         21 Deborah Parker        14 
+George Haywood           1 Audrey Hardcastle     21 
+           Aggregate:  123           Aggregate: 127 
+              Points:    5              Points:   5 
+
+        Division 3               Tue 12th Aug       
+     Low Harrogate C        Knaresborough Badgers   
+Angela Spilsbury        21 Karen Blaymire        19 
+Brian Rayner            21 Alan Bowman           11 
+Mary Doveston           13 Eric Taylor           21 
+David Hughan            12 Tony Robertshaw       21 
+Kate Morris             21 Richard Williams      10 
+Jo Bonsels              21 Cindy Cotton          10 
+Robin Addis             15 Chris Fell            21 
+David Clarke            21 Martin Gough          13 
+           Aggregate:  145           Aggregate: 126 
+              Points:    7              Points:   3 
+
+        Division 3               Tue 12th Aug       
+     Wayside Ramblers             Bilton WMC        
+Lynn Daly               13 Phil Wrightson        21 
+Liz Snodgrass           21 Stephen Clayton       18 
+Brian Snodgrass         12 Alan Gazey            21 
+Mary Mason              14 Paul Renton           21 
+Shaun Ellenthorpe       21 Tommy Bland           17 
+Simon Daly              18 Derrick Fox           21 
+Kath Brown              21 Trevor Baranovski      2 
+Kevin Johnson            4 David Berry           21 
+           Aggregate:  124           Aggregate: 142 
+              Points:    3              Points:   7 
+
+        Division 4               Tue 12th Aug       
+   Knaresborough Foxes         Bilton Athenians     
+Valerie Thomson          6 Peter Sanderson       21 
+Phil Dolan              21 David Daly            15 
+Barry Nobbs             21 James McPhee          17 
+Sue Massey              14 Phillip Boreham       21 
+Alan Hill               19 Debbie Howells        21 
+Maggie Dolan             8 Paul Seaward          21 
+Lynn Curl               21 Stuart Cann           17 
+Phil Blaymire           21 Brian Hawkes          15 
+           Aggregate:  131           Aggregate: 148 
+              Points:    4              Points:   6 
+
+        Division 4               Tue 12th Aug       
+    Almscliffe Hikers            Dacre Kites        
+Malcolm Spence          21 Brian Furniss         14 
+Ruth Dalby              14 Jean Rintoul          21 
+Robert Beaver            3 Glen Haley            21 
+Betty Maiden            21 Pauline Hook          18 
+Tony Havercroft         17 John England          21 
+Caroline Cowling         8 Thomas Morrison       21 
+Anne Rae                17 Stephen Brown         21 
+Peter Dalby              6 Helen Proudlove       21 
+           Aggregate:  107           Aggregate: 158 
+              Points:    2              Points:   8 
+
+        Division 4               Tue 12th Aug       
+        Dacre Owls               Starbeck 3rd       
+Margaret Moorhouse      13 Gerald Widnall        21 
+Grace Morrison          10 Jonathan Pearson      21 
+Tony Renton             10 Debbie Kilvington     21 
+Paul Ellison             4 Carol Abbott          21 
+Bryan Dexter            12 Evan Challis          21 
+Joan Wilkinson          13 Robin Drury           21 
+Stephen Tucker          21 Stephen Day           17 
+John Lambert            21 James Cliff           20 
+           Aggregate:  104           Aggregate: 163 
+              Points:    2              Points:   8 
+
+        Division 4               Tue 12th Aug       
+       Starbeck 4th            Low Harrogate D      
+Mike Rhodes             21 Glenys Old            16 
+David Toomey            19 Den Morris            21 
+Ken Firth               20 Tracy Beaumont        21 
+Penny Bell              20 Bill Schlegel         21 
+Sally Bradley Dixon     12 Adele Zagorski        21 
+Wilfred Ron Shaw         6 Peter Rawcliffe       21 
+Ann Rushton             18 Charlie Peacock       21 
+Sandra Tranmer           5 Malcolm Davies        21 
+           Aggregate:  121           Aggregate: 163 
+              Points:    1              Points:   9 
+
+        Division 4               Tue 12th Aug       
+   Pateley Bridge Cubs          Black Swan 3rd      
+Kath Binns              21 Steve Procter          3 
+Rebecca Chandler        21 Craig Umpleby         11 
+Angela Leggett           8 Russell Scahill       21 
+Ian Rogers               8 Alan Hodgson          21 
+Mabel Parker            13 Angela Hodgson        21 
+Rita Ringshall          10 Paul Gibb             21 
+Andy White               9 Gary Kinder           21 
+George Collinson        21 Ian Voakes            15 
+           Aggregate:  111           Aggregate: 134 
+              Points:    3              Points:   7 
+
+        Division 4               Wed 13th Aug       
+   Pateley Bridge Cubs        Almscliffe Hikers     
+Kath Binns              17 Richard Wilkinson     21 
+Rebecca Chandler        21 Caroline Cowling      17 
+Rita Ringshall          21 Peter Dalby           10 
+Andy White              21 Richard Lock          17 
+Mabel Parker            21 Betty Maiden          20 
+Becca White             15 Tony Havercroft       21 
+Ian Rogers               7 Anne Rae              21 
+George Collinson        21 Robert Beaver          8 
+           Aggregate:  144           Aggregate: 135 
+              Points:    7              Points:   3 
+
+     Grange Park Cup             Wed 13th Aug       
+                                  On Wayside        
+      Black Swan 2nd         Almscliffe Climbers    
+Conor McCarthy          13 Alan Broadwell        21 
+Dave Kinder             21 Pam Richardson        13 
+Suzi Mitchell           21 Stephen Liles         20 
+Richard Hebblewhite     21 Margaret Atkinson     13 
+Keith Agars             11 Jim Walker            21 
+Barry Turnbull          19 Gaynor Olding         21 
+Mark Reynard            21 John Atkinson          7 
+Val Rowson              16 Chris Olding          21 
+           Aggregate:  143           Aggregate: 137 
 
 
