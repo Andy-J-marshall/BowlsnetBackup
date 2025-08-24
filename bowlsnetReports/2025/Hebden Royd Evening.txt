@@ -1,4 +1,4 @@
-=== Halifax (Hebden Royd Mon.) 2025 (as of Sun 17th Aug)
+=== Halifax (Hebden Royd Mon.) 2025 (as of Sun 24th Aug)
 === Comp. Match Cards
 
 Division 1, 6 person teams        Mon 12th May       
@@ -41,7 +41,7 @@ Division 1, 6 person teams        Mon 12th May
           Sowerby                  Oxenhope A        
 Peter Lomax              12 Steve Collier         21 
 Glenda Hartley           19 Peter Ousey           21 
-Michael Wood             21 M Hemsley             20 
+Michael Wood             21 Mary Hemsley          20 
 Heather Parker           13 Richard Hemsley       21 
 Edward Eyres              9 Trevor Douglas        21 
 Pam Wood                 21 Fred Rothwell         16 
@@ -51,7 +51,7 @@ Pam Wood                 21 Fred Rothwell         16
 
 Division 2, 6 person teams        Mon 12th May       
         Old Town B                 Oxenhope B        
-Paul Newman               7 Mary Hemsley          21 
+Paul Newman               7 M Hemsley             21 
 John Bewick              21 Lorraine Douglas      18 
 Peter Cockroft           12 Trevor Bairstow       21 
 Tom Faulkner             21 David Milnes          18 
@@ -379,7 +379,7 @@ Tim Ham                  13 Steve Collier         21
 Derek Williamson         15 Fred Rothwell         21 
 Mick Skwarek             10 Peter Ousey           21 
 Dave Ruse                10 Trevor Douglas        21 
-Sue Martin               14 M Hemsley             21 
+Sue Martin               14 Mary Hemsley          21 
 Tony Cooper              21 Charlie Heaton         7 
                 Points:   1              Points:   7 
              Aggregate:  83           Aggregate: 112 
@@ -884,7 +884,7 @@ Peter Smith              21 Trevor Douglas         9
 David Whitehouse          5 Peter Ousey           21 
 Andresa McWhirter        10 Steve Collier         21 
 Steve Morris             21 Fred Rothwell         10 
-Stephen D Robinson       21 M Hemsley              6 
+Stephen D Robinson       21 Mary Hemsley           6 
                 Points:   6              Points:   2 
              Aggregate:  99           Aggregate:  79 
                  Games:   4               Games:   2 
@@ -1115,6 +1115,102 @@ Brian Bairstow            3 Craig Charlwood       21
 Trevor Bairstow          19 Tim Brumby            21 
                 Points:   2              Points:   6 
              Aggregate:  84           Aggregate: 115 
+                 Games:   2               Games:   4 
+
+Division 1, 6 person teams        Mon 18th Aug       
+          Sowerby                    Savile          
+Helen Harrison           21 Harry Ashworth        13 
+Heather Parker           16 John Hartley          21 
+Edward Eyres              6 David Whitehouse      21 
+Renata Eyres             20 Peter Smith           21 
+Michael Wood             21 Andresa McWhirter     15 
+Pam Wood                 21 Stephen D Robinson    12 
+                Points:   5              Points:   3 
+             Aggregate: 105           Aggregate: 103 
+                 Games:   3               Games:   3 
+
+Division 1, 6 person teams        Mon 18th Aug       
+          Hollins                  Old Town A        
+Chris Abbot              21 Mick Skwarek          20 
+Adrian Franklin          21 Dave Ruse              6 
+Andrew Ross               8 Derek Williamson      21 
+Steve Rollings           15 Tim Ham               21 
+Godfrey Higginbotham     21 Tony Cooper           20 
+Ian Tootell               7 Sue Martin            21 
+                Points:   3              Points:   5 
+             Aggregate:  93           Aggregate: 109 
+                 Games:   3               Games:   3 
+
+Division 1, 6 person teams        Mon 18th Aug       
+        Denholme A                 Cross Road        
+Andy Matthews            21 Marcus Grundy         10 
+David Hewitt             21 Daniel Hargreaves      9 
+Steve Griffiths          21 Thomas Hargreaves     15 
+Robert Lightowler        21 Steve Hird            20 
+Mick Dunn                21 Stephen Peers          5 
+Sean Picken              21 John Copperwaite      15 
+                Points:   8              Points:   0 
+             Aggregate: 126           Aggregate:  74 
+                 Games:   6               Games:   0 
+
+Division 1, 6 person teams        Mon 18th Aug       
+     Mytholmroyd B.C.              Oxenhope A        
+Gary Peel                14 Fred Rothwell         21 
+David Warburton          21 Mary Hemsley          20 
+Lorraine Boulton         14 Trevor Douglas        21 
+Barbara Warburton        21 Richard Hemsley       16 
+Joan Collins             21 Peter Ousey            8 
+William Ashley           18 Steve Collier         21 
+                Points:   5              Points:   3 
+             Aggregate: 109           Aggregate: 107 
+                 Games:   3               Games:   3 
+
+Division 2, 6 person teams        Mon 18th Aug       
+        Hill Crest                 Old Town B        
+Graham Habbershaw        21 Peter Cockroft         6 
+Ed Tinker                21 John McDermondy       14 
+Phil Thornber            21 Harry Coleman          9 
+Craig Charlwood          19 Neil Twaites          21 
+Stuart Pilling           15 Ian Coleman           21 
+John Fisher              21 Tom Faulkner          17 
+                Points:   6              Points:   2 
+             Aggregate: 118           Aggregate:  88 
+                 Games:   4               Games:   2 
+
+Division 2, 6 person teams        Mon 18th Aug       
+         Walsden A                 Denholme B        
+Paul Senior              21 Alan Lawlor            5 
+Daniel Howley            21 Tom Tyne-Miller        5 
+Michael Butcher          21 Elaine Griffiths       9 
+Lewis Butcher            21 Keith Ronaldson        1 
+Mark Howley              21 Ken Jackson            6 
+Dave McFarland           21 Nigel Tyne-Miller     13 
+                Points:   8              Points:   0 
+             Aggregate: 126           Aggregate:  39 
+                 Games:   6               Games:   0 
+
+Division 2, 6 person teams        Mon 18th Aug       
+        Heptonstall                Walsden B         
+Drew Marsh               21 Syd Smith             18 
+Andy Greenwood           21 Tony Hunking          15 
+Matt Klotzbach           21 Nigel Halsteadi       20 
+Matthew Flanaghan        21 Trevor Bailey         15 
+Peter Huyton             21 Meridith Wilkinson    12 
+Steve Greenwood          21 Darrel Halstead       14 
+                Points:   8              Points:   0 
+             Aggregate: 126           Aggregate:  94 
+                 Games:   6               Games:   0 
+
+Division 2, 6 person teams        Mon 18th Aug       
+        Oxenhope B               Luddendenfoot       
+Trevor Bairstow          10 J Barry Farrar        21 
+John Slight               3 Ray Wolsey            21 
+David Milnes             21 Gill Horner            3 
+Brian Bairstow           13 Kathryn Mitchell      21 
+Andrew Hollywood         10 Kevin Mitchell        21 
+Liam Bairstow            21 Mark Horner           20 
+                Points:   2              Points:   6 
+             Aggregate:  78           Aggregate: 107 
                  Games:   2               Games:   4 
 
 

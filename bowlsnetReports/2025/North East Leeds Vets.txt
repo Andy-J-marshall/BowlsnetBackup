@@ -1,4 +1,4 @@
-=== North East Leeds Vets 2025 (as of Sun 17th Aug)
+=== North East Leeds Vets 2025 (as of Sun 24th Aug)
 === League Match Cards
 
        Division 1               Thu 10th Apr        
@@ -3094,5 +3094,17 @@ Mark Somers            21 Anne M Miller           8
 David Jones             9 Alan Finkle            21 
 Michael Smith          21 David Miller           10 
            Aggregate: 142            Aggregate: 108 
+
+       Division 3               Thu 21st Aug        
+     Potternewton Pk         South Leeds Cons B     
+Stephen Bird           19 Janet Stockdale        21 
+Frank Powell           21 Mal Stockdale          13 
+Phillip Schofield      21 Trevor Precious        17 
+Dennis Cole            21 Jacky Cross            19 
+David Curland          21 Barbara Wherrett       17 
+Ian Macmillan          21 Neville Salmon         17 
+Bob Williams           12 Brenda Moscrop         21 
+Alan Smith             21 Alan Goodall           14 
+           Aggregate: 157            Aggregate: 139 
 
 

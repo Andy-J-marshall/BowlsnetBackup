@@ -1,4 +1,4 @@
-=== Castleford (Pairs) 2025 (as of Sun 17th Aug)
+=== Castleford (Pairs) 2025 (as of Sun 24th Aug)
 === Comp. Match Cards
 
                              Thu 10th Apr       
@@ -294,15 +294,15 @@ Colin Jarvis            Richard Robson
 
                              Thu 15th May       
     Glasshoughton B         Glasshoughton A     
-Wayne Martin         21 Colin Duxbury        11 
-Josh Bennett            Paul Dickens            
-Kevin Isles          21 Malcolm Depledge     14 
-Dave Jackson            Kevin Roberts           
-Beth Wales           21 Mick Mallinson       14 
-John Mulheir            Kevin Farrar            
-Albert Lee           18 Ian Smith            21 
-Ray Tennant             Tom Middleton           
-         Aggregate:  81          Aggregate:  60 
+Colin Duxbury        11 Wayne Martin         21 
+Paul Dickens            Josh Bennett            
+Malcolm Depledge     14 Kevin Isles          21 
+Kevin Roberts           Dave Jackson            
+Mick Mallinson       14 Beth Wales           21 
+Kevin Farrar            John Mulheir            
+Ian Smith            21 Albert Lee           18 
+Tom Middleton           Ray Tennant             
+         Aggregate:  60          Aggregate:  81 
 
                              Thu 15th May       
      Pontefract A             Queens Park       
@@ -464,6 +464,18 @@ Helen Leebetter         Tony Hames
 Jane Hayward          2 Ann Greenough        21 
 Lesley Servis           Alan Godridge           
          Aggregate:  46          Aggregate:  76 
+
+                             Thu 29th May       
+     Pontefract A               Kippax          
+Tony Chambers        20 Richard Auty         21 
+John Wyard              Ray Mattison            
+Maureen Chambers     18 John Broadhead       21 
+Stan Moxon              Rob Dickenson           
+Stuart Thompson      21 Pasquale Natale      10 
+Julie Tams              Marlene Dickenson       
+Ricky Watson         21 Norman Howarth        9 
+Alan Box (s)            Jon Ballance            
+         Aggregate:  80          Aggregate:  61 
 
                               Thu 5th Jun       
      Pontefract B               Fryston         
@@ -1148,5 +1160,53 @@ Stephen Jones           Dennis Johnson
 Alan Holder          14 Craig Broome         21 
 Jane Hayward            Barry Broome            
          Aggregate:  55          Aggregate:  84 
+
+                             Thu 21st Aug       
+     Featherstone             Ferrybridge       
+Glynn Hanson         21 Steve Pease          12 
+Colin Jarvis            Martin Lawrence         
+Callum Maxwell       21 Michael Hesp         14 
+Aron Little             Robin Ayres             
+John Moss            21 John Child           13 
+John Parkinson          Archie Richardson       
+Darren Maxwell       21 John Kirby           15 
+Val Trickey             Robert Firth            
+         Aggregate:  84          Aggregate:  54 
+
+                             Thu 21st Aug       
+        Methley                 Fryston         
+Pam Jukes            21 *No Player*           0 
+Keith Fowler            ----------              
+Chris Paul           21 Steve Ellerker       12 
+Douglas Taylor          Mick North              
+Carol Foulds         21 Les Denton           20 
+Jan McLeod              Margaret Cale           
+Anne Hastings         8 Martin Evans         21 
+Joanne Lund             Steven Harrison         
+         Aggregate:  71          Aggregate:  53 
+
+                             Thu 21st Aug       
+    Glasshoughton A          Valley Ridge       
+Janet Mulheir        16 Phil Howarth         21 
+Tracey Wales            Dennis Johnson          
+Kevin Isles          21 Craig Broome         17 
+Dave Jackson            Barry Broome            
+Albert Lee           12 Trevor Booth         21 
+Ray Tennant             Naomi Morritt           
+Wayne Martin         18 Marie Potter         21 
+Josh Bennett            Terry Ratcliffe         
+         Aggregate:  67          Aggregate:  80 
+
+                             Thu 21st Aug       
+     Pontefract B            Hawhill Park       
+Steve Derry          17 Stephen Jones        21 
+Tony Hames              Stephen Smith           
+Michael Hill Jnr     21 Denis Hill           17 
+Julie Stansfield        Keith Winfield          
+Michael Hill Snr     21 Jane Hayward          4 
+Robert Stansfield       Alan Holder             
+Ralph Davies         21 David Servis          2 
+Ann Greenough           Brian Tighe             
+         Aggregate:  80          Aggregate:  44 
 
 

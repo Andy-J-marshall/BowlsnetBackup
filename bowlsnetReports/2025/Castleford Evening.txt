@@ -1,4 +1,4 @@
-=== Castleford (Evening) 2025 (as of Sun 17th Aug)
+=== Castleford (Evening) 2025 (as of Sun 24th Aug)
 === League Match Cards
 
         Division 1                  Wed 2nd Apr         
@@ -56,8 +56,15 @@ Josh Thomas              21 Mark Newsome             11
 
         Division 2                 Wed 16th Apr         
           Fryston                 Featherstone B        
-             Aggregate: 152              Aggregate: 141 
-       Manual Result                                    
+Les Denton               20 John Moss                21 
+Barry May                21 John Parkinson           10 
+Wendy Johnson            21 Val Trickey              15 
+Mark Harrap              21 Tony Marsh                6 
+Neil Johnson             21 Delphine Baxter           8 
+Steven Harrison          21 Ken Robinson             20 
+C Cale                   21 Liz Murgatroyd            2 
+Mick North               21 Paul Murgatroyd           6 
+             Aggregate: 167              Aggregate:  88 
 
         Division 2                 Wed 16th Apr         
       Hawhill Park B               Savile Park B        
@@ -2044,5 +2051,155 @@ Mark Harrap              21 Dave Boucher              4
 Philip Greenwwod         21 Tommy Siddall            15 
 Steven Harrison          21 Albert Lee               17 
              Aggregate: 165              Aggregate:  96 
+
+           Final                   Mon 18th Aug         
+       Pontefract A              Castleford Town A      
+              Handicap: Scr               Handicap: +10 
+             Aggregate: 132              Aggregate: 153 
+       Manual Result                                    
+
+        Division 1                 Tue 19th Aug         
+       Pontefract B                Pontefract A         
+Helen Charlotte          16 Daniel Revell (s)        21 
+Amy Charlotte            17 Maureen Chambers         21 
+Alan Godridge            12 Stuart Thompson (s)      21 
+Michael Hill Snr         21 Ricky Watson             13 
+Sarah Hill               10 Tony Chambers (s)        21 
+Robert Stansfield        12 John Durham              21 
+Julie Stansfield         15 Michael Hill Jnr (s)     21 
+Tony Hames                8 David Thomas             21 
+             Aggregate: 111              Aggregate: 160 
+
+        Division 1                 Tue 19th Aug         
+     Castleford Town A           Castleford Town B      
+Robert Lloyd (s)         21 Terry Ratcliffe          14 
+Calum Fennell            21 Alan Glenn               13 
+Mark Brain               21 Mark Newsome             18 
+Robert McGuire           21 David Newsome            13 
+Steve Williams           21 Trevor Hawkin            14 
+Daryl Woofinden          21 Alan Walstow             15 
+Nicola Portman           21 Glyn Bentley             18 
+Liam Cruise-Taylor       20 Richard Johnson          21 
+             Aggregate: 167              Aggregate: 126 
+
+        Division 1                 Wed 20th Aug         
+     Castleford Town A             Savile Park A        
+Steve Williams           21 Ian Lewis                 5 
+Steve Winterburn         15 Steve Portman            21 
+Mark Brain               21 Alfie Hutchinson          7 
+Robert McGuire           21 Carolyn Duckett          16 
+Nicola Portman           17 David Steel              21 
+Liam Cruise-Taylor       12 Karen Portman            21 
+Calum Fennell            21 Andrew Coney             11 
+Martin Thornton (s)      21 Peter Whipp              15 
+             Aggregate: 149              Aggregate: 117 
+
+        Division 1                 Wed 20th Aug         
+      Featherstone A              Hawhill Park A        
+Aron Little              21 Gary Ward                18 
+Colin Jarvis (s)         21 Denis Hill                4 
+Zac Bond                 21 Darren Cartwright (s)     9 
+John Wilkinson (s)       21 Paul Hartshorne          11 
+Darren Maxwell           21 Stephen Jones            17 
+Ryan Tankard-Little      21 Keith Winfield           12 
+Billy Rush               10 Alan Knowles (s)         21 
+Glyn Hanson (s)          21 David Servis              5 
+             Aggregate: 157              Aggregate:  97 
+
+        Division 1                 Wed 20th Aug         
+       Pontefract A                Pontefract B         
+Michael Hill Jnr (s)     21 Ann Greenough             4 
+Maureen Chambers         21 Steve Derry              20 
+Tony Chambers (s)        21 Julie Stansfield          4 
+Daniel Revell (s)        21 Robert Stansfield        11 
+Stuart Thompson (s)      21 Ralph Davies              4 
+John Durham              21 Michael Hill Snr         11 
+Howard Boulton           21 Helen Charlotte          13 
+Ricky Watson             19 Alan Godridge            21 
+             Aggregate: 166              Aggregate:  88 
+
+        Division 1                 Wed 20th Aug         
+       Ferrybridge A             Castleford Town B      
+Robert McEwan            20 David Newsome            21 
+George Bradbury          17 Mark Newsome             21 
+Robert Firth             21 Terry Ratcliffe           8 
+Steve Pease              21 Trevor Hawkin            17 
+Brian Clarke             21 Alan Walstow              7 
+Gary Haley               21 Richard Johnson          13 
+John Kirby               16 Mark Hopwood             21 
+Dennis Dobson            13 Glyn Bentley             21 
+             Aggregate: 150              Aggregate: 129 
+
+        Division 1                 Wed 20th Aug         
+     Allerton Bywater             Glasshoughton A       
+John Robshaw             11 Wayne Martin (s)         21 
+Philip Sykes             16 Paul Dickens (s)         21 
+Paul Baddeley            21 Josh Bennett (s)          7 
+Bill Smallwood           16 Kevin Isles              21 
+Mathew Sawyer            21 Susan Dickens            19 
+Michael Wood             21 Beth Wales (s)           17 
+Michael Revell           21 Harry Chapple            20 
+Edward Parker            21 Janet Mulheir             8 
+             Aggregate: 148              Aggregate: 134 
+
+        Division 2                 Wed 20th Aug         
+         Townville                    Fryston           
+Steven Adams             21 Les Denton               15 
+Tony Wright              21 Steve Ellerker            7 
+Keith Jones              21 Mick North               12 
+Edward Farrah            11 Margaret Cale            21 
+Andrew Adams             12 Steven Harrison          21 
+Steve Butcher            15 Mark Harrap              21 
+Geoffrey Painter         21 C Cale                   18 
+Dougie Ellis             21 *No Player*               0 
+             Aggregate: 143              Aggregate: 115 
+
+        Division 2                 Wed 20th Aug         
+      Glasshoughton B              Ferrybridge B        
+Ben Middleton            21 Paul Whitehead           10 
+Adrian Firth              4 Diane Bradbury           21 
+Jane Boucher             21 Robin Ayres              19 
+Dave Cook                14 John Child               21 
+Mick Mallinson           21 Tony Jacklin              7 
+Bob Somerville           21 Mark Farmer               2 
+Dave Boucher             21 Archie Richardson        19 
+Albert Lee               16 Neil Richardson          21 
+             Aggregate: 139              Aggregate: 120 
+
+        Division 2                 Wed 20th Aug         
+          Methley                   Queens Park         
+David Taylor             21 Dean Wassell              2 
+Keith Render             21 Nicky Barker             14 
+Matt Fowler              21 David Senior             20 
+Joanne Lund               5 Sam Waite                21 
+Chris Paul               18 Laurie Heaton            21 
+David Beecham            19 Karl Barker              21 
+Paul Brownley            21 Paul Senior              16 
+Molly Depledge           17 Danny Hope               21 
+             Aggregate: 143              Aggregate: 136 
+
+        Division 2                 Wed 20th Aug         
+      Hawhill Park B                Smirthwaite         
+Carol Foulds              4 George Hall              21 
+Lesley Servis            15 Roy Limb                 21 
+Bernadette Perrow        15 Eddie Fox                21 
+Jane Hayward             11 Alan France              21 
+John Ralph                8 Brian Daniel             21 
+Jan McLeod               19 Lisa Evans               21 
+Stephen Smith            16 Michael Wood             21 
+Brian Tighe              12 David Watson             21 
+             Aggregate: 100              Aggregate: 168 
+
+        Division 2                 Wed 20th Aug         
+       Savile Park B              Featherstone B        
+Peter Kendall            21 Liz Murgatroyd            8 
+Sylvia Bickerdike        21 John Moss                11 
+Susan Carpenter          21 Malcolm Wright           12 
+Jill Worrall             21 John Parkinson           20 
+Derek Johnson            14 Tony Marsh               21 
+Graham Bickerdike        21 Delphine Baxter           7 
+John Peacock             21 Val Trickey              11 
+Gordon Ward              21 Paul Murgatroyd           4 
+             Aggregate: 161              Aggregate:  94 
 
 

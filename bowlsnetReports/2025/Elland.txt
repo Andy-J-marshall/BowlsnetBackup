@@ -1,4 +1,4 @@
-=== Halifax (Elland) 2025 (as of Sun 17th Aug)
+=== Halifax (Elland) 2025 (as of Sun 24th Aug)
 === Comp. Match Cards
 
          Division 1                  Mon 28th Apr         
@@ -6944,5 +6944,453 @@ David Lloyd               21 Daniel Gladok             12
                  Points:  48                  Points:  17 
               Aggregate: 168               Aggregate: 100 
                   Games:   8                   Games:   0 
+
+         Division 1                  Mon 18th Aug         
+     Cowcliffe Sports A           Brighouse Sports A      
+Sophie Brown              21 Graham Robert             15 
+Danny Radcliffe           21 John Bloomer               8 
+Lynda Drury               21 Stuart Fletcher           15 
+Chloe Hirst               21 Peter Owen                16 
+Jim Chadwick               1 Robert Hopper             21 
+Dennis Hufton              3 Dale Dyson                21 
+Harry Chadwick            20 Jamie Horsley             21 
+Fern Beaumont             17 Richard Hobson            21 
+                 Points:  31                  Points:  34 
+              Aggregate: 125               Aggregate: 138 
+                  Games:   4                   Games:   4 
+
+         Division 1                  Mon 18th Aug         
+        Elland WM A                  Greetland A          
+Simon Anderson            21 George Simpson            13 
+Andrea Buckley            14 Ken Fleming               21 
+Clive Harte               21 Barry Sugden              13 
+Fin Hickey                21 Nick Oddy                 14 
+Graham Hickey             21 Andrew Balmforth          19 
+Robert Hitchen            21 Peter Lea                 11 
+Paul Ingleby              13 Gordon Bradford           21 
+Gary Smith                21 Michael Shaw              11 
+                 Points:  40                  Points:  26 
+              Aggregate: 153               Aggregate: 123 
+                  Games:   6                   Games:   2 
+
+         Division 1                  Mon 18th Aug         
+       Lower Hopton A            Cleckheaton Sports A     
+Ryan Clark                21 Bradley Throup             5 
+Ross Ingham               21 John Ineson               12 
+Wayne Hirst               21 Andy Robinson             15 
+Paul Arthurs              21 Richard Toulson            3 
+Tom Hirst                 21 Tony Throup               19 
+Jacob Hatfield-Goodall    21 Garry Walker              16 
+Harry Brook               21 Jason Townend             19 
+Richard Crowther          17 Tim Hall                  21 
+                 Points:  45                  Points:  23 
+              Aggregate: 164               Aggregate: 110 
+                  Games:   7                   Games:   1 
+
+         Division 1                  Mon 18th Aug         
+         Kingston A                 Luddenden Foot        
+Ben Fisher                21 Natalie Swain             11 
+Ian Smith                 21 Julie Marsden             14 
+Charlie White             21 John Halliday             18 
+Robert Cestrone           21 Becky Woodhead             3 
+James Akesson             13 Aiden Fox                 21 
+Louis Barker              20 Ben Halliday              21 
+Jason Barker              21 Chris Mitchell            13 
+Andy Hoult                17 Gareth Swain              21 
+                 Points:  39                  Points:  27 
+              Aggregate: 155               Aggregate: 122 
+                  Games:   5                   Games:   3 
+
+         Division 1                  Mon 18th Aug         
+     Brighouse Sports B               Asa Briggs          
+Peter McGowan              8 Paul Gill                 21 
+Ian Moxon                 14 Stuart King               21 
+Simon Cresswell           15 Jack Summers              21 
+Helen Simpson             18 Jason Watters             21 
+Neal Hopper               21 Jordan Brown              19 
+Nigel Briggs              21 Joe Bray                  14 
+Jason Horsley             21 Myles Summers             12 
+Anthony Naylor            21 Andy Denton               12 
+                 Points:  33                  Points:  34 
+              Aggregate: 139               Aggregate: 141 
+                  Games:   4                   Games:   4 
+
+         Division 2                  Mon 18th Aug         
+         Lindley A                      Wyke A            
+Graham Sigsworth          21 Robert Wilkinson          10 
+Lewis Turton              21 Nigel Wormald              8 
+Stephen Haigh             21 Shaun Godfrey             19 
+Peter Fuller              21 Trevor Benn                8 
+Richard Turton            21 Matthew Hicks             11 
+Kenneth Ellis              8 Neil Tordoff              21 
+Ben Jowett                21 Vince Cleary              12 
+Finley Turton             21 Andy Bairstow             11 
+                 Points:  43                  Points:  20 
+              Aggregate: 155               Aggregate: 100 
+                  Games:   7                   Games:   1 
+
+         Division 2                  Mon 18th Aug         
+       Hipperholme A                Moldgreen Cons        
+Les Holmes                21 Richard Quarmby           19 
+Adrian Megson             21 David Haigh                6 
+Steve Swallow             17 Garry Senior              21 
+Ian Ryding                21 Trevor Atkinson            9 
+Paul Wilczynski           18 Andrew Wike               21 
+Luke Wilczynski           21 Wayne Jenkinson           14 
+David Ryding              21 Stephen Hall               5 
+Nigel Parker              21 Aidan Crawley             14 
+                 Points:  42                  Points:  23 
+              Aggregate: 161               Aggregate: 109 
+                  Games:   6                   Games:   2 
+
+         Division 2                  Mon 18th Aug         
+      Stainland Park A               Hove Edge A          
+Daniel Barron             21 Julie Best                 8 
+Mark Barron               21 Jean Winchcombe           15 
+Keith Hatzer              21 Linda Gledhill            14 
+Frank Higgins             21 Debora Sturman             9 
+Scott Hynes               21 Lynne Saxby               16 
+Richard Lunn              21 Christine Barker          15 
+Tom Robertshaw            21 Suzi Ladbrooke            19 
+Simon Robinson            15 Nigel Firth               21 
+                 Points:  45                  Points:  23 
+              Aggregate: 162               Aggregate: 117 
+                  Games:   7                   Games:   1 
+
+         Division 2                  Mon 18th Aug         
+        Greenroyd A                   Rastrick A          
+John Ingham               21 David Wood                15 
+Vaughan Murgatroyd        10 Christopher Jenkinson     21 
+Mick Walker               21 Michael Wood              19 
+Brian Reynolds            18 Joanne Marsden            21 
+Stephen Baldwin           16 Karen Gant                21 
+Stephen Fearnley          21 Joshua Smith              14 
+Paul Birkhead             21 Tony Sutcliffe            16 
+Lee Kenny                 11 John Gant                 21 
+                 Points:  34                  Points:  36 
+              Aggregate: 139               Aggregate: 148 
+                  Games:   4                   Games:   4 
+
+         Division 3                  Mon 18th Aug         
+         Outlane A                 Elland CA & BC A       
+Chris Jepson              20 Abby Burke                21 
+Sue Hammond               16 Adam Taylor               21 
+Lynne Brook               21 Vicky Senior               8 
+Wayne Hudson              21 R Berrett                  8 
+Ben Hammond               21 Sam Oldfield               5 
+Richard Hartley           21 Stuart Rodd               14 
+Peter Haythornthwaite     16 David Greenwood           21 
+Barry Hawksworth          21 J Firth                   10 
+                 Points:  40                  Points:  25 
+              Aggregate: 157               Aggregate: 108 
+                  Games:   5                   Games:   3 
+
+         Division 3                  Mon 18th Aug         
+     Sowerby West End A           Cowcliffe Sports B      
+Simon George              20 Malcolm Stead             21 
+Martin Murphy             21 Wayne Garside             18 
+Scott Healey              21 Hugh Grant                18 
+Ryan Healey               21 Derek Hewitt               9 
+Ivan Taylor               21 Abbie Garside             20 
+Adam Schofield            18 Graham Radcliffe          21 
+David Blackburn           21 Lynn Rynham               11 
+David Ainley              10 David Ashworh             21 
+                 Points:  39                  Points:  31 
+              Aggregate: 153               Aggregate: 139 
+                  Games:   5                   Games:   3 
+
+         Division 3                  Mon 18th Aug         
+           Pellon                     Kingston B          
+Andrew Roy                20 Martyn Simms              21 
+Peter Steele              21 Paul Cestrone             14 
+Michael Holmes            19 Christine Midgley         21 
+John Clark                 2 Simon Page                21 
+Graham Jones              20 Pasquale Cestrone         21 
+Robert Walker             16 P Stone                   21 
+David Agnew               10 M Pilkington              21 
+David Gowing              18 Anthony O'Brien           21 
+                 Points:  26                  Points:  44 
+              Aggregate: 126               Aggregate: 161 
+                  Games:   1                   Games:   7 
+
+         Division 3                  Mon 18th Aug         
+        King Cross A                  Hill Crest          
+Julian Boddy              15 Sheryl Robinson           21 
+Alywn Guide               21 Paul Oldfield              5 
+John Ashton               17 Nikki Conway              21 
+Darren Turnbull           21 Frank Clisset             14 
+Howard Owen               10 Robert Woodhead           21 
+Peter Stead               20 Ernie Rickman             21 
+Robert Coates             21 Pamela Woodhead            8 
+Steven Clifford           21 Annice Copley             20 
+                 Points:  36                  Points:  32 
+              Aggregate: 146               Aggregate: 131 
+                  Games:   4                   Games:   4 
+
+         Division 3                  Mon 18th Aug         
+           Wyke B                    Elland WM B          
+Vincent Kerr              11 Paul Gledhill             21 
+Andy Jacobs               21 Phil Binns                19 
+Micheal Lambert           21 John Armitage             19 
+Dominic Hanson            21 David Priestley            9 
+Mark Gummery              20 Jon Woodhouse             21 
+Michael Walton            19 Aaron Bottomly            21 
+Gerry Hird                17 John Gledhill             21 
+Richard Kerr              21 Nick Lowe                 11 
+                 Points:  37                  Points:  35 
+              Aggregate: 151               Aggregate: 142 
+                  Games:   4                   Games:   4 
+
+         Division 4                  Mon 18th Aug         
+     Akroydon Victoria                Lindley B           
+Peter Dawson              21 David Thorp               12 
+Mick Uttley               21 Carl Hirst                 7 
+Paul Lowry                 8 Mike Dawe                 21 
+Corey Fountain            21 Sheila Thorp              18 
+Danny Fountain            21 Alen Henderson             6 
+Chris Meade               20 Susan Neave               21 
+Baz Morgan                21 Alister Henderson         16 
+Terry Keast               17 Susan Scott               21 
+                 Points:  38                  Points:  28 
+              Aggregate: 150               Aggregate: 122 
+                  Games:   5                   Games:   3 
+
+         Division 4                  Mon 18th Aug         
+        Hove Edge B                  Allan Park A         
+Jane Davy                 14 Bernard Megson            21 
+Richard Brown             21 Marcus Rules-Hazard        7 
+Janet Carney              21 Maxine Hickey             20 
+Julian King               21 Martin Grace              20 
+Lisa King                 10 June Gaukroger            21 
+Judy Cockroft             12 John Hickey               21 
+Mick Cowley               17 Colin Beard               21 
+Chris Illingworth          8 Joanne Jowett             21 
+                 Points:  28                  Points:  39 
+              Aggregate: 124               Aggregate: 152 
+                  Games:   3                   Games:   5 
+
+         Division 4                  Mon 18th Aug         
+         Longwood A                 Lower Hopton B        
+Ian Crawford              21 John Haikings             10 
+Allan Crowther            16 Janet Bolt                21 
+Robert Dickinson          19 Ann Mitchell              21 
+Martyn Sykes              21 Janet Griffiths           10 
+Barry Tinker              14 Les Mitchell              21 
+Craig Turner              21 Martin Hepworth            9 
+David Walkden             21 Lynne Arthurs              6 
+Steve Gledhill            21 Daniel Clarke             20 
+                 Points:  39                  Points:  28 
+              Aggregate: 154               Aggregate: 118 
+                  Games:   5                   Games:   3 
+
+         Division 4                  Mon 18th Aug         
+         Halifax B               Cleckheaton Sports B     
+Andrew Gee                21 Chris Bray                10 
+Kath Webster              21 Kath Icke                 12 
+Steven Webster            21 Chris Piercy              15 
+Peter Krenc               21 Elaine Binns              17 
+Stephen Smith             21 Gary Sharp                 9 
+Ian Tweedale              21 Andrew Page                4 
+David Russell             15 John Bradley              21 
+Gary Robinson             19 Stephen Archer            21 
+                 Points:  43                  Points:  23 
+              Aggregate: 160               Aggregate: 109 
+                  Games:   6                   Games:   2 
+
+         Division 5                  Mon 18th Aug         
+        Greetland B                     Dalton            
+Kathleen Fletcher         21 Liz McNeil                20 
+Paul Iredale              21 Susan Field               18 
+Clifford Birkhead         13 Liz Kilner                21 
+Paul Mitchell             21 Phil Battye               18 
+Gary Hinchliffe           21 Lisa Taylor                9 
+Simon Mackrill            20 Sonya Sanderson           21 
+Fred Wilson                9 Elaine Hirst              21 
+Lynne Greenwood           21 David Ray                 13 
+                 Points:  37                  Points:  31 
+              Aggregate: 147               Aggregate: 141 
+                  Games:   5                   Games:   3 
+
+         Division 5                  Mon 18th Aug         
+         Rastrick B                   Marsh Libs          
+Derek Hanner              21 Gracie Hartley-Jowett     15 
+Maureen Gaukroger         21 Annette Wilson            20 
+Anne Heley                21 Nancy Priestley            5 
+Julian Bull               21 James Robson              12 
+Trevor Wells              21 Julie Robson              13 
+Geoff Normanton           11 Dawn Neill                21 
+Mark Whiting              21 Wendy Smith               15 
+Paul Rimmer               21 Megan Beresford           15 
+                 Points:  44                  Points:  24 
+              Aggregate: 158               Aggregate: 116 
+                  Games:   7                   Games:   1 
+
+         Division 5                  Mon 18th Aug         
+         Lindley C                    Longwood B          
+Cole Bartys               21 Stephen Broadhead         14 
+Jayne Moore               21 Jennifer Marshall         16 
+Janet Allen               21 Gerry McLoughlin          13 
+Margaret Coulson          21 Julie Russell             19 
+Mark Rushworth            21 Margaret Parr             17 
+Michael Anderson          21 John Hunsley               6 
+Sharron Broadley          15 Daniel Piecy              21 
+Tony Allen                21 Robert Piercy              6 
+                 Points:  45                  Points:  22 
+              Aggregate: 162               Aggregate: 112 
+                  Games:   7                   Games:   1 
+
+         Division 5                  Mon 18th Aug         
+         Brockholes               Sowerby West End B      
+Steve Kilburn              9 Mark Musgrove             21 
+Callum Fox                21 J Spencer                 17 
+Jose Bradley              21 Alan Duke                 15 
+Vicky Stone               21 Terry Martin              12 
+Karen Beaumont            21 David Musgrove            11 
+Breanne Rogers            21 G Roe                     18 
+Sophie McCaffrey          21 Gareth Webster            14 
+Daniel Bridgewood         18 Simon Gill                21 
+                 Points:  40                  Points:  27 
+              Aggregate: 153               Aggregate: 129 
+                  Games:   6                   Games:   2 
+
+         Division 6                  Mon 18th Aug         
+        Thorpe Green                 Spring Hall          
+Mark Wallis               21 Mick Milnes               17 
+Andrew Livingstone        21 Dawn Leather               9 
+Kathryn Parlar            21 Peter Grant               12 
+Patrick Campbell          16 Paul Greenwood            21 
+Tyler Halmshaw            17 Elspeth Hartley           21 
+Brian Maxwell             21 Neil Mort                 20 
+Julie Livingstone         21 Edward Jones              16 
+Andrew Nicholson          14 Danny Leather             21 
+                 Points:  38                  Points:  31 
+              Aggregate: 152               Aggregate: 137 
+                  Games:   5                   Games:   3 
+
+         Division 6                  Mon 18th Aug         
+     Brighouse Sports C               Outlane B           
+Sarah Horsley             15 Daniel Baldwin            21 
+Eric Charlesworth         21 Andrew Tanner             15 
+Ann Horsley                4 Bev Delmonte              21 
+James Wood                21 Rob Baldwin               12 
+Noah Charlesworth         21 Rob Sowerby               18 
+Orla Horsley              17 Malcolm Dibb              21 
+Gemma Maloney             21 Gail Haythornthwaite      20 
+David Wood                21 Mark Birch                 9 
+                 Points:  36                  Points:  31 
+              Aggregate: 141               Aggregate: 137 
+                  Games:   5                   Games:   3 
+
+         Division 6                  Mon 18th Aug         
+        Hove Edge C                  King Cross B         
+Terry Allington           15 Stuart Alderson           21 
+Jimmy Procter             17 Joe Gibbons               21 
+Karen Warne               14 Geoffrey Cowgill          21 
+Chris Beaumont             7 Amy Barron                21 
+Neil Mount                21 Graham Briggs             18 
+Steve Mycroft             15 Emlyn Craven              21 
+Linda Heyhoe              14 Paul Gray                 21 
+Valerie Mycroft           15 Josh Craven               21 
+                 Points:  23                  Points:  45 
+              Aggregate: 118               Aggregate: 165 
+                  Games:   1                   Games:   7 
+
+         Division 6                  Mon 18th Aug         
+        Allan Park B                  Halifax C           
+Greg Dimelow              20 Martin Taylor             21 
+Chris Johnstone           21 Chris Lindsey              7 
+Olivia Hickey              3 Faye Curran               21 
+Gary O Leary              21 Lynda Canning             18 
+Kieran Waterworth         21 Lynn Wood                 17 
+Katie Grogan              21 Colleen Agnew             11 
+Jane Helliwell            21 Ann Booth                 20 
+Linda Lees                18 Ann Martin                21 
+                 Points:  37                  Points:  31 
+              Aggregate: 146               Aggregate: 136 
+                  Games:   5                   Games:   3 
+
+         Division 6                  Mon 18th Aug         
+       Bailiff Bridge               Hipperholme B         
+Jill Heffernan            21 Steve Rookes              16 
+Alison Singleton          21 Mel Green                 20 
+Caroline Holt             21 Sharon Darnell            14 
+Mary Stoutt               21 Judith Crowther           12 
+Martin Broadbent          21 Kate Palmer                9 
+John Woodruff             21 Richard Smith              6 
+Andy Stoutt               15 J Donavon                 21 
+Helen Butler              21 Bob Sandie                19 
+                 Points:  45                  Points:  23 
+              Aggregate: 162               Aggregate: 117 
+                  Games:   7                   Games:   1 
+
+         Division 7                  Mon 18th Aug         
+         Lindley E                   Greenroyd B          
+Moraq Myers               21 Liz Kenny                 15 
+Jane Blackmore            21 Debra Harasyn             17 
+Stuart Thornton           21 Mark Hepworth             20 
+Christine Henderson       21 Roger Bateman             17 
+Lynne Nutton              21 Janet Jackson             13 
+Brian Craven               7 Ruth Milner               21 
+Jackie Brewerton          11 David Roy                 21 
+Julie Hirst               14 Paul Reynolds             21 
+                 Points:  35                  Points:  33 
+              Aggregate: 137               Aggregate: 145 
+                  Games:   5                   Games:   3 
+
+         Division 7                  Mon 18th Aug         
+    Cleckheaton Sports C            Ripponden Park        
+Janet Inness               9 Andy Webster              21 
+Graham Ward               21 Nicky Sutcliffe           12 
+Lynn Seddon               19 Michaela Houlker          21 
+Greg Hutchinson           21 Tamina Oates              14 
+Rowena Oakey              21 Sue Jobson                19 
+Stuart Johnson            21 Kate Bedford              12 
+Jacqui Bateson            17 Jonas Webster             21 
+Alex Green                21 Cath Hart                  5 
+                 Points:  38                  Points:  29 
+              Aggregate: 150               Aggregate: 125 
+                  Games:   5                   Games:   3 
+
+         Division 7                  Mon 18th Aug         
+         Halifax D                 Stainland Park B       
+Michael Calvert           16 Jessica Sykes             21 
+Janet Silvester           13 John Dinsdale             21 
+Phillip Hallowell         12 Damian Diggles            21 
+Myra Smith                13 Rebecca Fletcher          21 
+Clive Martin               6 Oliver Barstow            21 
+Ron Bax                   17 Julie Sykes               21 
+Matthew Onions            21 Jane Dyson                 9 
+Terry Kettle              19 Nigel Dyson               21 
+                 Points:  23                  Points:  43 
+              Aggregate: 117               Aggregate: 156 
+                  Games:   1                   Games:   7 
+
+         Division 7                  Mon 18th Aug         
+       Crow Wood Park                 Lindley D           
+Peter Foster              18 Jill Driver               21 
+David McAlpine            21 Allan Coggins             20 
+Brian Lawrence            21 Paul Broadhead             3 
+Steve Laycock             21 Robert Fisher              7 
+Andrew Gudzelak           15 June Taylor               21 
+Lynda Owen                21 Anthony Taylor            14 
+Keith Wadsworth           17 Alan Dutton               21 
+Ian Mellor                12 David Leathwood           21 
+                 Points:  35                  Points:  31 
+              Aggregate: 146               Aggregate: 128 
+                  Games:   4                   Games:   4 
+
+         Division 7                  Mon 18th Aug         
+      Elland CA & BC B            Brighouse Sports D      
+Annaliesa Burke-Thompson  21 Lewis Whalley              7 
+Hilary Brady              13 Steven Bedford            21 
+Anita Naylor              13 Melissa Dunkerley         21 
+Matty Holden              21 Jeff Greenwood            11 
+Kryworucska Graham         7 Phillip Hawtin            21 
+Neil Thompson             21 Bailey Roberts            13 
+Izzy Burke                21 Chris Dodd                 9 
+Maddy Rodd                21 Ruby Whalley               9 
+                 Points:  35                  Points:  25 
+              Aggregate: 138               Aggregate: 112 
+                  Games:   5                   Games:   3 
 
 
