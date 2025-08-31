@@ -1,4 +1,4 @@
-=== Crossgates 2025 (as of Sun 24th Aug)
+=== Crossgates 2025 (as of Sun 31st Aug)
 === League Match Cards
 
          League                  Wed 9th Apr        
@@ -3609,5 +3609,60 @@ Claire Wilkinson       21 Chris Prentice         13
 Susie Lawson           21 Steve Bartrop           7 
            Aggregate: 145            Aggregate: 120 
               Points:   8               Points:   2 
+
+         League                 Wed 27th Aug        
+       Division 1                                   
+       Rothwell BC              Crossgates BC       
+Garry Dennison         21 James Wilcox           12 
+John Ainsley           21 Lynne Wilcox           11 
+Lynn Owen               7 Tom Smith              21 
+Mick Goodall           19 Luke Bellamy           21 
+Nigel Richardson       10 Louie Taylor           21 
+Ron Owen               13 Peter Wilcox           21 
+Andrew Limbert         21 Mark Taylor            18 
+Pete Burrows           21 Rachel Wilcox           9 
+           Aggregate: 133            Aggregate: 134 
+              Points:   4               Points:   6 
+
+         League                 Wed 27th Aug        
+       Division 3                                   
+      Garforth CC B             Manston Park        
+Thomas Cranston        21 Stephen Jackson         8 
+Mrs S Pollard          21 Ted Gerngross          16 
+Mrs S Tyson            15 Elizabeth Quigley      21 
+Ann Doughty            21 Mick Monaghan          10 
+Steve Brough           21 Anthony Marsden        11 
+S Tyson                20 David Wall             21 
+Christine Sutcliffe    11 John Wilson            21 
+Chris Prentice         17 Jonathan Moriarty      21 
+           Aggregate: 147            Aggregate: 129 
+              Points:   6               Points:   4 
+
+     Knockout Shield            Wed 27th Aug        
+                                 On Barwick         
+        Magnets A               Roundhay Park       
+Andrew Green           21 Jim Jordan             20 
+Steve Dykes            21 Mandy Wilson            8 
+Andrew Wood            11 Ralph Taylor           21 
+Tony Wood              21 Andy Lloyd             12 
+John Dykes             21 Martin Lally           13 
+Matthew Fiddler        20 Colin Wilson           21 
+Dave Morris            21 P Schofield             9 
+Jon Lucas              21 A Sharratt             20 
+           Aggregate: 157            Aggregate: 124 
+
+     Turpsoft Shield            Wed 27th Aug        
+                               On Swillington       
+         Scholes                Rothwell Park       
+James Frisby           21 Alicia Hiscoe           3 
+Jennifer Elliott       13 Malcolm Cameron        21 
+Jayne Dickinson        21 Ronald Scott           12 
+John Pennock           21 Martin Atkinson         3 
+Karen Lewis            21 Russ Thomas            15 
+Steven Proberts        21 Clifford Furness        8 
+Philip Elliott         21 Charles Brown          13 
+Glenn Dickinson        21 Karl Dutton            15 
+            Handicap: Scr             Handicap: +16 
+           Aggregate: 160            Aggregate: 106 
 
 

@@ -1,4 +1,4 @@
-=== North Kirklees (Vets) 2025 (as of Sun 24th Aug)
+=== North Kirklees (Vets) 2025 (as of Sun 31st Aug)
 === League Match Cards
 
        Division 1                 Tue 15th Apr           
@@ -3347,5 +3347,61 @@ Steven Newton         20 George Hunter                21
 Peter Tams            21 Sharon Clayton               10 
 Janet Spencer          5 Gary Newsome                 21 
           Aggregate: 127                  Aggregate: 134 
+
+       Division 1                 Tue 26th Aug           
+   Mirfield Old Bank             Mirfield Parish         
+Bryan Ibbetson        21 Malcolm Battye               19 
+Paul Hartley          21 Karl Denville                 9 
+David Bentley         21 Sam McFarland                17 
+Duncan Terry          21 Joy Stokes                    2 
+Dave Sharp            21 Michael McKellor             10 
+Trevor Morgan         21 Graham Bell                   2 
+Walter Morgan         17 David Renshaw                21 
+Brian Scarth          21 Paul Phillips                 4 
+          Aggregate: 164                  Aggregate:  84 
+
+       Division 4                 Tue 26th Aug           
+  Birkenshaw Park - B              Slazengers            
+Jack Holdsworth       21 Micheal Barratt               3 
+Jean Mortimer         15 Angela Pursglove             21 
+Colin Dyson           21 John Jackson                 10 
+Rusty Hatherley       21 Russell Studd                 6 
+Peter Mortimer        21 Julie Dexter                  8 
+Gary Newsome          21 Alan Shillito                20 
+George Hunter         15 Terry Walker                 21 
+William Naven         21 Irene Brown                   8 
+          Aggregate: 156                  Aggregate:  97 
+
+       Division 4                 Tue 26th Aug           
+   Scatcherd Park - B              Overthorpe            
+Kevin Chadwick        15 Tony Greenlees               21 
+Roy Mitchell          15 Geraldine Dickinson          21 
+Keith Kincaid         21 Paul Nutting                 15 
+Peter Oldfield         8 Alan Bell                    21 
+Terry Dillon          21 Rod Clifford                 15 
+Roy Kellett           16 Tony Dickinson               21 
+Michael Geary         21 Steve Bell                   10 
+Wendy Leybourne        7 Leslie Bell                  21 
+          Aggregate: 124                  Aggregate: 145 
+
+         Final                    Tue 26th Aug           
+   Spen Victoria - A            Lower Hopton - A         
+          Aggregate: 137                  Aggregate: 143 
+     Manual Result                                       
+
+         Final                    Tue 26th Aug           
+     Royds Park - A              Firth Park - A          
+          Aggregate: 168                  Aggregate: 114 
+     Manual Result                                       
+
+         Final                    Tue 26th Aug           
+        Soothill                     Ardsley             
+          Aggregate: 130                  Aggregate: 164 
+     Manual Result                                       
+
+         Final                    Tue 26th Aug           
+    Grange Park - B             Lower Hopton - B         
+          Aggregate: 154                  Aggregate: 136 
+     Manual Result                                       
 
 

@@ -1,4 +1,4 @@
-=== Halifax (Hebden Royd Mon.) 2025 (as of Sun 24th Aug)
+=== Halifax (Hebden Royd Mon.) 2025 (as of Sun 31st Aug)
 === Comp. Match Cards
 
 Division 1, 6 person teams        Mon 12th May       
@@ -1212,5 +1212,53 @@ Liam Bairstow            21 Mark Horner           20
                 Points:   2              Points:   6 
              Aggregate:  78           Aggregate: 107 
                  Games:   2               Games:   4 
+
+Division 1, 6 person teams        Mon 25th Aug       
+        Cross Road                   Savile          
+Peter Thompson           21 John Hartley           8 
+Steve Hird                9 Steve Trewartha       21 
+John Copperwaite         21 David Whitehouse      19 
+Thomas Hargreaves        13 Andresa McWhirter     21 
+Marcus Grundy            21 Steve Morris          14 
+Stephen Peers            12 Stephen D Robinson    21 
+                Points:   3              Points:   5 
+             Aggregate:  97           Aggregate: 104 
+                 Games:   3               Games:   3 
+
+Division 2, 6 person teams        Mon 25th Aug       
+         Walsden A                 Old Town B        
+Cameron Hanson           21 Paul Newman            1 
+Daniel Howley            21 Neil Twaites          11 
+Michael Butcher          21 Harry Coleman          3 
+Lewis Butcher            21 Tom Faulkner          11 
+Paul Senior              21 John McDermondy        7 
+Dave McFarland           21 Ian Coleman           14 
+                Points:   8              Points:   0 
+             Aggregate: 126           Aggregate:  47 
+                 Games:   6               Games:   0 
+
+Division 2, 6 person teams        Fri 29th Aug       
+        Hill Crest                Heptonstall        
+John Fisher              12 Matthew Flanaghan     21 
+Gilluan Thornber         19 Matt Klotzbach        21 
+Ed Tinker                 6 Andy Greenwood        21 
+Craig Thommason          21 Peter Huyton          15 
+Phil Thornber            21 Drew Marsh            10 
+Tim Brumby               20 Steve Greenwood       21 
+                Points:   2              Points:   6 
+             Aggregate:  99           Aggregate: 109 
+                 Games:   2               Games:   4 
+
+Division 2, 6 person teams        Fri 29th Aug       
+       Luddendenfoot               Denholme B        
+Chris Watkins            21 Alan Lawlor            6 
+Gill Horner              21 Elaine Griffiths      11 
+Kathryn Mitchell         21 Keith Ronaldson       17 
+Ian Armstrong            21 Sandra Pickles         8 
+Mark Horner              11 Ken Jackson           21 
+Chris Mitchell           21 Robert Crowther        1 
+                Points:   7              Points:   1 
+             Aggregate: 116           Aggregate:  64 
+                 Games:   5               Games:   1 
 
 

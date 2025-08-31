@@ -278,7 +278,7 @@ Gary Plane                21 Jim Eaton                12
        Hipperholme A             Clayton Victoria A      
               Aggregate:   0              Aggregate:   0 
                  Points:   8                 Points:   2 
-       Manual Result            No Individual Scores     
+       Manual Result                 Overridden          
 
          Division 1                 Tue 15th Apr         
           Siddal A                    Pellon A           
@@ -492,7 +492,7 @@ Ken Ward                  10 Linda Heyhoe             21
      Clayton Victoria A           Luddenden Foot A       
               Aggregate:   0              Aggregate:   0 
                  Points:   4                 Points:   6 
-       Manual Result            No Individual Scores     
+       Manual Result                 Overridden          
 
          Division 1                 Tue 22nd Apr         
         Ripponden A                   Siddal A           
@@ -1005,7 +1005,7 @@ Gary Plane                13 Ian Armstrong            21
        Hipperholme A                  Siddal A           
               Aggregate:   0              Aggregate:   0 
                  Points:   8                 Points:   2 
-       Manual Result            No Individual Scores     
+       Manual Result                 Overridden          
 
          Division 1                  Tue 6th May         
         Hill Crest A                  Pellon A           
@@ -1271,7 +1271,7 @@ L Harris                  16 Mick Skwarek             21
       Luddenden Foot A              Hipperholme A        
               Aggregate:   0              Aggregate:   0 
                  Points:   7                 Points:   3 
-       Manual Result            No Individual Scores     
+       Manual Result                 Overridden          
 
          Division 2                 Tue 13th May         
       Elland C & B.C.A              Halifax B.C.         

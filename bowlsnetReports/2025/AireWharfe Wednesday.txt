@@ -1,4 +1,4 @@
-=== AireDale & Wharfedale (Wed. Singles) 2025 (as of Sun 24th Aug)
+=== AireDale & Wharfedale (Wed. Singles) 2025 (as of Sun 31st Aug)
 === League Match Cards
 
        Division 1                Wed 2nd Apr        
@@ -328,7 +328,7 @@ Ralph Norton           19 Patricia Allison       21
        Division 2                Wed 9th Apr        
  Burley in Wharfedale A          Yeadon Park        
               Points:  40               Points:  18 
-      Manual Result            No Result Sheet      
+      Manual Result              Overridden         
 
        Division 2                Wed 9th Apr        
      Shipley Club B             Grove Hill A        
@@ -4089,5 +4089,221 @@ Aubrey Coldrey         21 Noreen Jordan          10
 Ian Coulthard 'A'      21 Linda Smith            16 
 Terry Williams         21 Michael Taylor          9 
               Points:  35               Points:  24 
+
+       Division 1               Wed 27th Aug        
+        Oxenhope                  Baildon A         
+Mary Hemsley           21 Richard Briggs 'A'      8 
+Steve Griffiths        16 Keith Haigh            21 
+Debbie Hosty           21 Derek Bridge           17 
+Stephen Lloyd          21 Sue Farrell            18 
+Colin Bilney           21 Christine Ramsden 'A'  16 
+Stephen Peers          12 Geoff Hanson           21 
+Derek Pollard          17 Robert Ramsden         21 
+Richard Hargreaves     21 Jason Bridge 'A'        3 
+              Points:  33               Points:  26 
+
+       Division 1               Wed 27th Aug        
+        Ilkley B                  Ilkley A          
+John Warburton         21 Steve Cooper           20 
+Andrew Hinchcliffe     12 Rod Bastow             21 
+Terry Almond           21 Theo Moyes              5 
+Alan Hughes            21 Cliff Taylor           18 
+Denise Almond          13 Mick Bastow 'A'        21 
+Hedley Chapman         11 David Smith'A'         21 
+Martin Bailey           6 Andrew Thornton 'A'    21 
+Steve Ackroyd          18 Phil Hall              21 
+              Points:  26               Points:  34 
+
+       Division 1               Wed 27th Aug        
+        Rufford A               Myrtle Park A       
+Ken Lee                21 Richard Berry 'A'      17 
+David Kirkbright 'A'   21 Irene Bird             11 
+Andrew Newell          21 Barbara Brook          18 
+David Norris           21 Malcolm Waite           6 
+Debbie Kirkbright      21 Stephen Turner          3 
+Glynn Goodyear          7 Michael Upton 'A'      21 
+Pete Hepworth          21 Miles Berry'A'         10 
+Christopher Sims'A'    18 Darren Armitage        21 
+              Points:  35               Points:  22 
+
+       Division 1               Wed 27th Aug        
+         Salts A                  Rawdon A          
+John Greenwood'A'      21 Stan Parker             6 
+Martin Sherred         21 Bernard Harrison        9 
+Amrik Singh            11 Ian Tindal 'A'         21 
+Lek Fletcher           21 Lindsay Rosendale      15 
+Thomas Kilminster       5 Ken Garbett'A'         21 
+Simon Cowley           16 David Johnson          21 
+David Bottomley 'A'    10 Steve Calvert 'A'      21 
+Chris Womersley 'A'    21 Gordon Longfellow      14 
+              Points:  28               Points:  27 
+
+       Division 1               Wed 27th Aug        
+        Calverley            Skipton Broughton A    
+Pamela Barlow           7 Paul Kaye              21 
+Roy Barlow             11 David Leeming 'A'      21 
+Michael Bennett        21 Cath Rushton           20 
+Roger French           21 David Gordon           13 
+Carol Matthews         12 Kevin Burnett 'A'      21 
+Ian Matthews           21 Phil Chadwick          17 
+Steve Spurr            14 Mick Duke 'A'          21 
+Margaret Wood          17 Dave Jowett            21 
+              Points:  25               Points:  34 
+
+       Division 1               Wed 27th Aug        
+     Skipton Craven            Wharfemeadows A      
+David Jubb             18 Alan Broadwell 'A'     21 
+Joshua Titorenko       20 Mark Silvester         21 
+Gordon Pickles         21 Garrie Bolton          17 
+Edmond Wray            21 Graham Tansley         17 
+Mick Demain            21 Raymond Smith           5 
+Richard Pratt          21 Paul Crawford          10 
+Mel Titerenko          21 Howard Gardiner'A'     18 
+Warren Burnett         21 John Chippindale 'A'   16 
+              Points:  38               Points:  26 
+
+       Division 2               Wed 27th Aug        
+   Skipton Broughton B           Yeadon Park        
+Dennis Mackie          21 Ian Robertson          16 
+Pip Chadwick           21 Patrick Campbell       17 
+Peter Finnie           13 David Poole            21 
+Peter Peacock          19 John Hutton            21 
+Viv Abell              21 Richard Gosnay         11 
+Michael Cox            21 Tim Nicholson          15 
+Sue Finnie             21 Andrew Smalley         14 
+Richard Baker          21 Robert North           14 
+              Points:  36               Points:  25 
+
+       Division 2               Wed 27th Aug        
+ Burley in Wharfedale A         Grove Hill A        
+David Singleton        21 Ruth Marshall           9 
+Robert Crowther        21 David Locke 'A'        20 
+Alan Whitaker 'A'      21 Dianne Farrar           3 
+Greg Johnstone         12 Neil Jameson 'A'       21 
+Steven Cochrane 'A'    18 Tony Farrar            21 
+Alan Goodenough        21 Belinda Mitchell       18 
+Robert Wheeler         17 David Samuel'A'        21 
+Joe Ullock             21 Charles Holden          6 
+              Points:  34               Points:  25 
+
+       Division 2               Wed 27th Aug        
+      Myrtle Park B               Rufford B         
+Denise Kelt            11 Janice Waite           21 
+Cliff Dennis           21 John Arundel           18 
+Carol Royston          21 Lynsey Gregson         13 
+Monica Powell          16 John McHale            21 
+Nick Gilleard          21 Peter O'Brien           9 
+Alan Wood              21 Eileen Beck            15 
+Philip Metcalfe         8 Carolyn Matthewman     21 
+Maureen Wood           21 John Arundel            8 
+              Points:  31               Points:  26 
+
+       Division 2               Wed 27th Aug        
+     Shipley Club A                Salts B          
+Michael Kane           21 Jeffrey Driver          8 
+Sylvia Halliday        21 Patricia Allison       20 
+Cindy Rapinczuk        21 Vanda Greenwood        15 
+Myra Humpleby          21 Lee Matthews           12 
+Peter Mountain 'A'     21 Amanda Driver           3 
+David Dorman           21 Sandra Womersley       15 
+Bernard Criddle        21 Susan Rymer            13 
+Paul Colman 'A'        21 Maureen Adams           3 
+              Points:  40               Points:  15 
+
+       Division 2               Wed 27th Aug        
+      Greenbottom A            Shipley Club B       
+Alan Bishop'A'         21 Michael Criddle         9 
+Mike Whitelaw          21 Alan Thorpe             6 
+Ian Smith              11 Mathew Johnson         21 
+Fiona Haxby'A'         21 Tony Greenwood         13 
+Gwen Smith             21 Garry Nellist          15 
+Dave Whelan 'A'        21 James Welsh             3 
+Karen Whitelaw         21 Alan Outlaw            20 
+Ann Ryley              13 Ian Greenwood          21 
+              Points:  34               Points:  21 
+
+       Division 2               Wed 27th Aug        
+        Baildon B                 Tarnfield         
+Les Ward               21 Graham Howden          12 
+Pam Terry              21 Dennis Fowles          19 
+Sue Adamthwaite        21 Catherine Marshall     20 
+Maureen Kitson         21 Bryan Armit            13 
+Christine Ratcliffe    21 Barry Larkins          19 
+Dorothy Walker         16 Stan Southern          21 
+Celia Throup           21 Nigel Parker           12 
+Ken Terry              15 Daniel Twist           21 
+              Points:  36               Points:  28 
+
+       Division 3               Wed 27th Aug        
+      Grove Hill B         Burley in Wharfedale B   
+John Farquhar          19 Patricia Sedman        21 
+Peter Brearley         20 Alwyn Robertson        21 
+Jean Crawford          21 David Poucher          18 
+Amanda Driffield       21 John McCabe            18 
+Andrew Wilson          21 Maureen Poucher        11 
+Billy Hartley          12 Gary Poucher           21 
+Ray Smith              17 Nigel Steels           21 
+Alan Driffield         19 Brian Wardle           21 
+              Points:  32               Points:  35 
+
+       Division 3               Wed 27th Aug        
+   Horsforth Hall Park          Greenbottom B       
+Granville Stevenson    21 Stuart Davies          18 
+Stuart Tennant         21 Paul Robinson          12 
+Linda Stoyles          18 Trevor Dawson          21 
+Ken Crompton           14 Barbara Harrison       21 
+David Firth            21 Peter Barker           10 
+Keith Farrell          21 Kate Jukes              8 
+David Ascough          21 John Groves             8 
+Nigel Stockdale        21 Anita Kingham           7 
+              Points:  36               Points:  21 
+
+       Division 3               Wed 27th Aug        
+        Rawdon B                  Guiseley          
+Ken Chapman            21 Lynette Hall           11 
+Neil Hargreaves        21 Anne Brown             11 
+Philip Leadbeater      21 Eric Brocklehurst      16 
+Allan Sample           21 Christine Boyd          0 
+Ray Weldrand           21 John Boyd               7 
+Andrew Hargreaves      21 John French            10 
+Philip Jackson         21 Maureen Jarvis         16 
+Graham Hogg            21 Chris Hepworth         13 
+              Points:  40               Points:  15 
+
+       Division 3               Wed 27th Aug        
+       West Royd B                  Idle            
+Martin McGowan         21 Elaine Fenton           9 
+Colin Pontefract        7 Colin Richardson       21 
+Eion Coulthard         21 Ray Hirsh               8 
+Chris Eccleshall        9 Mark Paxton            21 
+Jan McGuiness          18 Val Riley              21 
+Pam Wilson             21 John Mellan            10 
+Gez Collins            21 Darren Holmes           7 
+Joan Coop              21 Steve Horne            10 
+              Points:  31               Points:  22 
+
+       Division 3               Wed 27th Aug        
+       Northcliffe               West Royd A        
+Roger Pollard          20 Terry Williams         21 
+Chris Boyes            21 Aubrey Coldrey         18 
+Denis Collet           21 Colin Whitley 'A'      17 
+Judith Hitch           21 Howard Gothard         12 
+David Idle             21 Anne Gothard            6 
+Ian Chiverton          15 Chris Swales           21 
+Duncan Campbell        21 Richard Tatum 'A'       3 
+Barry Hitch            21 Ian Coulthard 'A'      18 
+              Points:  37               Points:  24 
+
+       Division 3               Wed 27th Aug        
+     Wharfemeadows B            Bingley Glen        
+Dot Dixon              11 Philip Kay             21 
+Noreen Jordan          17 John Kershaw           21 
+Corrine Thuilliez      21 Anthony Leach          10 
+Linda Smith            21 Michael Craft          13 
+David Warburton        21 Margaret Tetley         9 
+Barbara Taylor         21 Julie Craft            11 
+Lynne Harper           21 Chris Wardle           18 
+Malcolm Levi           21 Dennis Tetley          18 
+              Points:  35               Points:  25 
 
 

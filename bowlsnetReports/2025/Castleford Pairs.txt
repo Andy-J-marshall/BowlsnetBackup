@@ -1,4 +1,4 @@
-=== Castleford (Pairs) 2025 (as of Sun 24th Aug)
+=== Castleford (Pairs) 2025 (as of Sun 31st Aug)
 === Comp. Match Cards
 
                              Thu 10th Apr       
@@ -1198,6 +1198,18 @@ Josh Bennett            Terry Ratcliffe
          Aggregate:  67          Aggregate:  80 
 
                              Thu 21st Aug       
+      Queens Park           Glasshoughton B     
+Harrison Barker      19 Ian Smith            21 
+Sam Waite               Kevin Roberts           
+Karl Barker          15 Steve Harris         21 
+Neil Senior             Tommy Siddall           
+Nicky Barker         21 Bob Miles            15 
+Paul Senior             Ben Middleton           
+Dean Wassell         20 Kevin Farrar         21 
+Paul Moxon              Malcolm Depledge        
+         Aggregate:  75          Aggregate:  78 
+
+                             Thu 21st Aug       
      Pontefract B            Hawhill Park       
 Steve Derry          17 Stephen Jones        21 
 Tony Hames              Stephen Smith           
@@ -1208,5 +1220,77 @@ Robert Stansfield       Alan Holder
 Ralph Davies         21 David Servis          2 
 Ann Greenough           Brian Tighe             
          Aggregate:  80          Aggregate:  44 
+
+                             Thu 28th Aug       
+     Hawhill Park           Glasshoughton A     
+Stephen Smith        11 Russ Wales           21 
+Jane Hayward            Tracey Wales            
+Alan Holder          21 Beth Wales           11 
+Keith Winfield          John Mulheir            
+David Servis          5 Wayne Martin         21 
+Brian Tighe             Josh Bennett            
+Stephen Jones        15 Janet Mulheir        21 
+Denis Hill              Kevin Isles             
+         Aggregate:  52          Aggregate:  74 
+
+                             Thu 28th Aug       
+        Kippax              Glasshoughton B     
+Richard Auty         14 Ian Smith            21 
+Marlene Dickenson       Kevin Roberts           
+Rob Dickenson        19 Steve Harris         21 
+Ray Mattison            Tommy Siddall           
+Peter Kay            21 Bob Miles             6 
+Julie Goldup            Carol Wheeler           
+Jon Ballance          5 Mick Mallinson       21 
+Norman Howarth          Kieren Johnson          
+         Aggregate:  59          Aggregate:  69 
+
+                             Thu 28th Aug       
+        Fryston              Pontefract B       
+Margaret Cale        17 Michael Hill Jnr     21 
+Mark Harrap             Julie Stansfield        
+Martin Evans         21 Michael Hill Snr     16 
+Steven Harrison         Robert Stansfield       
+Mick North           20 Ralph Davies         21 
+Steve Ellerker          Steve Derry             
+Charlie Cale         21 Sarah Hill           20 
+Phillip Greenwood       Alan Godridge           
+         Aggregate:  79          Aggregate:  78 
+
+                             Thu 28th Aug       
+     Pontefract A            Featherstone       
+Maureen Chambers     12 Glynn Hanson         21 
+Stan Moxon              Colin Jarvis            
+Julie Tams           21 Darren Maxwell        1 
+Stuart Thompson         Val Trickey             
+Gary Tingle          21 John Parkinson        3 
+Ricky Watson            John Moss               
+Tony Chambers        21 Aron Little           3 
+John Wyard              Billy Rush              
+         Aggregate:  75          Aggregate:  28 
+
+                             Thu 28th Aug       
+      Ferrybridge             Queens Park       
+Arthur Firth         21 Corrine Franks       15 
+Michael Hesp            Harrison Barker         
+Tony Jacklin         18 Karen Day            21 
+Dennis Dobson           Nicky Barker            
+Martin Lawrence      21 Paul Moxon            7 
+Robert McEwan           Archie Waite            
+John Kirby           21 Karl Barker          11 
+Robert Firth            Lucas Waite             
+         Aggregate:  81          Aggregate:  54 
+
+                             Thu 28th Aug       
+     Valley Ridge               Methley         
+Craig Broome         21 David Taylor          6 
+Barry Broome            Keith Fowler            
+Marie Potter          8 Chris Paul           21 
+Terry Ratcliffe         Rob Wake                
+Trevor Booth         21 Paul Brownley         9 
+Dennis Johnson          Douglas Taylor          
+Colin Lowe           21 Joanne Lund          17 
+Naomi Morritt           Keith Render            
+         Aggregate:  71          Aggregate:  53 
 
 
