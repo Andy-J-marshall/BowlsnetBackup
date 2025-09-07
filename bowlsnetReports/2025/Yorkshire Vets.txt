@@ -1,4 +1,4 @@
-=== Yorkshire County Vets Inter-District League 2025 (as of Sun 31st Aug)
+=== Yorkshire County Vets Inter-District League 2025
 === Comp. Match Cards
 
                           Fri 2nd May      
@@ -832,5 +832,109 @@ David Billington  21 David Kirkbright   11
 Michael Rhodes     5 Fred Rothwell      21 
       Aggregate: 152        Aggregate: 111 
          Points:  23           Points:   5 
+
+                          Fri 5th Sep      
+   Bradford Home        Castleford Away    
+Clive Foord       18 Alan Glenn         21 
+Rod Bastow        21 Edward Parker      15 
+Andrew Walker     21 Gary Haley         17 
+Glen Pratt        21 Stephen Portman    18 
+Derek Relton      17 David Steel        21 
+John Beverley     21 John Wilkinson      9 
+Kevin Burrage     14 Wayne Bond         21 
+Nick Dewhirst     21 James Shephard     12 
+      Aggregate: 154        Aggregate: 134 
+         Points:  18           Points:  10 
+
+                          Fri 5th Sep      
+  Castleford Home        Bradford Away     
+Graham Hodder     12 Mally Fowler       21 
+Ian Lewis         12 David Jowett       21 
+Glyn Hanson       21 Nigel Wormald      12 
+Ricky Watson      21 John Stevenson     20 
+Michael Firth     21 Ian Johnson        16 
+Alwyn Beedle      21 Alan Peel          12 
+Tony Chambers     21 Kevin Wood         14 
+Stuart Thompson   10 Trevor Benn        21 
+      Aggregate: 139        Aggregate: 137 
+         Points:  16           Points:  12 
+
+                          Fri 5th Sep      
+    Halifax Home        Wakefield Away     
+David Barnes      15 Colin Lloyd        21 
+George Simpson    21 Dave Horan         10 
+Phillip Holroyd   21 Graeme Eyre        15 
+Peter Owen        21 Steve Goddard       2 
+Martin Greenwood  20 Steve Davis        21 
+David Wright      21 Philip Long        14 
+Nick Oddy         21 Malcolm Shaw       14 
+Gordon Bradford   21 Gerry Taylor       15 
+      Aggregate: 161        Aggregate: 112 
+         Points:  23           Points:   5 
+
+                          Fri 5th Sep      
+   Wakefield Home        Halifax Away      
+Peter Lamb        14 Clive Austin       21 
+Roger Lunn        21 Kenneth Fleming    20 
+Stephen Haist     19 Robert Morgan      21 
+Allan Poyser      21 Richard Hobson     19 
+Alan Nash         15 Francis Kennedy    21 
+Phil Schofield    21 Ian Smith          19 
+Steve Briggs      16 Nigel Mitchell     21 
+Mick Scott         5 John Horsley       21 
+      Aggregate: 132        Aggregate: 163 
+         Points:   9           Points:  19 
+
+                          Fri 5th Sep      
+  West Riding Home     Huddersfield Away   
+Michael Robinson  21 Tim Poulter        10 
+Paul Blackburn    21 Roger Stopford     18 
+Paul Fincher      21 David Pollard      11 
+David Billington  21 Edwin Haigh         5 
+John Leach        21 Tony Butterfield    5 
+Les Mitchell      21 Adrian Cooper      18 
+Malcolm Preston   21 Malcolm Gilbert    12 
+Chris Blakeley    15 Garry Senior       21 
+      Aggregate: 162        Aggregate: 100 
+         Points:  25           Points:   3 
+
+                          Fri 5th Sep      
+ Huddersfield Home     West Riding Away    
+Robert Dickinson  18 Tony Green         21 
+John Bloomer      21 Richard Gleghorn   19 
+Mick Chapman      15 Graham Hirst       21 
+Stephen Haigh     21 Clive Hirst        11 
+Robert Spencer    21 Peter Ellis        16 
+Ray Whitwam       21 Michael Rhodes     13 
+Graham Sigsworth  18 Phillip Smith      21 
+Andrew Wike       21 Ian Briggs         17 
+      Aggregate: 156        Aggregate: 139 
+         Points:  18           Points:  10 
+
+                          Fri 5th Sep      
+     Leeds Home          Skipton Away      
+John Whiteley     21 Robert Jeffrey     19 
+Mario Biancardo   18 Steve Bowes        21 
+Paul Bowes        21 Dennis Henderson   20 
+Mark Whittaker    21 Steve Griffiths    12 
+Martin Fulton     21 Mick Demain        16 
+Jon Lucas         18 Phil Chadwick      21 
+Adam Hawkins      11 Peter Hepworth     21 
+Phillip Wilshire  13 Fred Rothwell      21 
+      Aggregate: 144        Aggregate: 151 
+         Points:  13           Points:  15 
+
+                          Fri 5th Sep      
+    Skipton Home          Leeds Away       
+Chris Wilson      15 Ian Howard         21 
+David Fairless    18 Steve Longly       21 
+Alister Keighley  19 Roger Birdsall     21 
+Steve Birch       21 Chris Firth        13 
+David Leeming     21 Howard Broadbent   17 
+Neil Whitaker     21 Joe Adams          12 
+David Kirkbright  21 Derek McCormack    10 
+David Brown       21 Nigel Cranston     13 
+      Aggregate: 157        Aggregate: 128 
+         Points:  19           Points:   9 
 
 

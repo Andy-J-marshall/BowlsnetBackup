@@ -1,4 +1,4 @@
-=== Halifax (Hebden Royd Mon.) 2025 (as of Sun 31st Aug)
+=== Halifax (Hebden Royd Mon.) 2025
 === Comp. Match Cards
 
 Division 1, 6 person teams        Mon 12th May       
@@ -1260,5 +1260,89 @@ Chris Mitchell           21 Robert Crowther        1
                 Points:   7              Points:   1 
              Aggregate: 116           Aggregate:  64 
                  Games:   5               Games:   1 
+
+Division 1, 6 person teams        Mon 1st Sep        
+        Denholme A                 Oxenhope A        
+Steve Griffiths          16 Fred Rothwell         21 
+David Hewitt             21 Peter Ousey           16 
+Andy Matthews            21 Mary Hemsley          15 
+Mick Dunn                21 Richard Hemsley       13 
+Robert Lightowler        21 Trevor Douglas        15 
+Sean Picken              18 Steve Collier         21 
+                Points:   6              Points:   2 
+             Aggregate: 118           Aggregate: 101 
+                 Games:   4               Games:   2 
+
+Division 1, 6 person teams        Mon 1st Sep        
+          Sowerby                  Old Town A        
+Michael Wood             21 Sue Martin            15 
+Phillip Schofield        21 Dave Ruse             10 
+Heather Parker           15 Kevin Mullin          21 
+Pam Wood                 11 Mick Skwarek          21 
+Keith Hartley            21 Tim Ham                8 
+Pat Schofield            10 Derek Williamson      21 
+                Points:   5              Points:   3 
+             Aggregate:  99           Aggregate:  96 
+                 Games:   3               Games:   3 
+
+Division 1, 6 person teams        Mon 1st Sep        
+     Mytholmroyd B.C.               Hollins          
+Barbara Warburton        21 Andrew Ross           10 
+Joan Collins             21 Ian Tootell           10 
+Gary Peel                21 Marak Orlinski        13 
+Lorraine Boulton          6 Godfrey Higginbotham  21 
+David Warburton          21 Steve Rollings        18 
+Darren Metcalf           21 Chris Abbot           15 
+                Points:   7              Points:   1 
+             Aggregate: 111           Aggregate:  87 
+                 Games:   5               Games:   1 
+
+Division 2, 6 person teams        Mon 1st Sep        
+        Hill Crest                 Denholme B        
+Ed Tinker                15 Elaine Griffiths      21 
+Gilluan Thornber         19 Alan Lawlor           21 
+Stuart Pilling           21 Carol Jackson          5 
+Phil Thornber            21 Keith Ronaldson        6 
+Tim Brumby               21 Ken Jackson           14 
+Craig Thommason          21 Robert Crowther        9 
+                Points:   6              Points:   2 
+             Aggregate: 118           Aggregate:  76 
+                 Games:   4               Games:   2 
+
+Division 2, 6 person teams        Mon 1st Sep        
+       Luddendenfoot               Walsden B         
+Kevin Mitchell           10 Tony Hunking          21 
+Ian Armstrong            21 Gaynor Leaff          11 
+Thomas Bridges           21 Kenny Gale            16 
+Kathryn Mitchell         13 Nigel Halsteadi       21 
+Mark Horner              21 Trevor Bailey         20 
+Gill Horner               4 Syd Smith             21 
+                Points:   3              Points:   5 
+             Aggregate:  90           Aggregate: 110 
+                 Games:   3               Games:   3 
+
+Division 2, 6 person teams        Mon 1st Sep        
+         Walsden A                 Oxenhope B        
+Cameron Hanson           21 Trevor Bairstow       19 
+Daniel Howley            21 John Slight            9 
+Michael Butcher          21 David Milnes          11 
+Lewis Butcher            21 Brian Bairstow         2 
+Paul Senior              21 Andrew Hollywood       8 
+Dave McFarland           21 Liam Bairstow         11 
+                Points:   8              Points:   0 
+             Aggregate: 126           Aggregate:  60 
+                 Games:   6               Games:   0 
+
+Division 2, 6 person teams        Mon 1st Sep        
+        Old Town B                Heptonstall        
+Peter Cockroft            2 Matthew Flanaghan     21 
+Harry Coleman             9 David Dunn            21 
+Neil Twaites             16 Drew Marsh            21 
+Tom Faulkner             15 Matt Klotzbach        21 
+John McDermondy          21 Steve Greenwood       19 
+Ian Coleman              21 Adrian Baldwin        16 
+                Points:   2              Points:   6 
+             Aggregate:  84           Aggregate: 119 
+                 Games:   2               Games:   4 
 
 

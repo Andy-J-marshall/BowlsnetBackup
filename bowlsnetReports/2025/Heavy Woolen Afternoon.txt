@@ -1,4 +1,4 @@
-=== Heavy Woollen Afternoon League 2025 (as of Sun 31st Aug)
+=== Heavy Woollen Afternoon League 2025 (as of Sun 7th Sep)
 === League Match Cards
 
         Division 1                Mon 7th Apr         
@@ -4040,6 +4040,16 @@ Christine Lamb           4 John Clarkson           21
             Aggregate:  93             Aggregate:  85 
 
         Division 1                Mon 25th Aug        
+  Mirfield Old Bank 'A'       Heckmondwike BC 'A'     
+Graham Pearce            3 Sean Carter             21 
+Charlie Sykes           12 Alex Edmondson          21 
+Brian Ibbetson          17 Jon Edmondson           21 
+Norman Booth            21 Tom Gilbert             20 
+Bruce Illingworth       21 Gareth Harwood          19 
+Mark Morton             21 Darren Goodall          14 
+            Aggregate:  95             Aggregate: 116 
+
+        Division 1                Mon 25th Aug        
      Lower Hopton 'A'             Morton House        
 Clive Hirst             21 Sam Kelly               17 
 Graham Hirst            21 Angie Whitworth         14 
@@ -4208,5 +4218,90 @@ Chris Roy Stuart        21 Joyce Tolson            14
 Peter Oldfield          21 David Tolson             5 
 Ken McRae               21 Brian Skinner            1 
             Aggregate: 126             Aggregate:  40 
+
+        Division 1                Mon 1st Sep         
+     Denby Grange 'A'             Morton House        
+Graham Blythe           20 David Payne             21 
+Ian Davis               21 Douglas Bulmer          11 
+Luke Gant               21 Dan Balmforth           20 
+Raymond Hughes          14 Wayne Kemp              21 
+David Walker            19 Micheal Robinson        21 
+Susan Wright            21 Lewis Butterfield       14 
+            Aggregate: 116             Aggregate: 108 
+
+        Division 3                Mon 1st Sep         
+     Honley Cons 'B'           Hanging Heaton 'B'     
+Rob Gatenby             21 David Whitaker          14 
+Rob Edwards             21 Colin Wilson             5 
+Steve Lee               21 Christine Lamb          11 
+Mark Tindall            11 Tony Howland            21 
+Wayne Jenkinson          8 David Ormsby            21 
+Andrew Westacott        16 Mick Underhill          21 
+            Aggregate:  98             Aggregate:  93 
+
+        Division 4                Mon 1st Sep         
+    Dalton C & BC 'B'        Cleckheaton Sports 'B'   
+Glenys Cox              19 Ian Gatenby             21 
+Margaret Inman          21 Keith Colton            18 
+Colin Walder            14 Geoff Thornton          21 
+Peter Clay              21 Nicola Gatenby          13 
+Philip Battye           21 Steve Ineson             8 
+David Hill              17 Stuart Johnson          21 
+            Aggregate: 113             Aggregate: 102 
+
+      Division 1 Cup              Mon 1st Sep         
+                              On Earlsheaton Park     
+    Almondbury BC 'A'         Heckmondwike BC 'A'     
+Richard Brook            8 Jacob Hatfield-Goodall  21 
+John Clarkson           11 Jon Edmondson           21 
+John Madden             10 Gareth Harwood          21 
+Simon Neve              13 Roy Carter              21 
+John Hodgson            11 Alex Edmondson          21 
+Terry Machen            20 Darren Goodall          21 
+            Aggregate:  73             Aggregate: 126 
+
+      Division 2 Cup              Mon 1st Sep         
+                              On Earlsheaton Park     
+    Mirfield Parish BC           Moldgreen Cons       
+David Renshaw            9 Trevor Atkinson         21 
+Paul Phillips           21 Lyn Szlachck            10 
+Michael McKellor        12 Shirley Dillingham      21 
+Walter Morgan           12 Jane Armitage           21 
+Stuart Burton            9 Suzanne Howarth         21 
+Ray Downes              12 Andy Wike               21 
+            Aggregate:  75             Aggregate: 115 
+
+      Division 3 Cup              Mon 1st Sep         
+                              On Earlsheaton Park     
+    Ossett C & AC 'C'           Lower Hopton 'B'      
+John Kellett            13 Richard Gleghorn        21 
+Jayne Moore              8 Duncan Terry            21 
+David Hirst              7 Alan Overend            21 
+Karen Kellett           21 David Whitehead         11 
+Nora Collier            17 Les Holmes              21 
+Linda Callaghan         11 Graham Knutton          21 
+            Aggregate:  77             Aggregate: 116 
+
+      Division 4 Cup              Mon 1st Sep         
+                              On Earlsheaton Park     
+  Kirkheaton C & BC 'B'          Sandal BC 'A'        
+David Firth              4 Rob Curzon              21 
+Sonja Sanderson         21 Sarah Dixon             17 
+Tony Dawson             21 Doug Lawson              8 
+Geoff Pearson           13 David Dixon             21 
+David Kilner             8 John Packer             21 
+Liz Kilner              21 Neil Brighton           20 
+            Aggregate:  88             Aggregate: 108 
+
+      Division 5 Cup              Mon 1st Sep         
+                              On Earlsheaton Park     
+    Ossett C & AC 'D'        Ravensknowle Park 'B'    
+Keith Batley            11 Edward Bailes           21 
+David Clarkson          21 Hillary Easingwood      11 
+Malcolm Eadie           17 Angela Shaw             21 
+Pauline Clarkson         2 Edward McGrath          21 
+Rena Hirstle            18 Thomas Ferguson         21 
+Terry Fletcher          21 Kevin Cresswell         18 
+            Aggregate:  90             Aggregate: 113 
 
 

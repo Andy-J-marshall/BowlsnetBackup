@@ -1,4 +1,4 @@
-=== Castleford Vets (Pairs) 2025 (as of Sun 31st Aug)
+=== Castleford Vets (Pairs) 2025 (as of Sun 7th Sep)
 === Comp. Match Cards
 
                              Tue 25th Mar       
@@ -255,6 +255,12 @@ Martin Dowling          Ken Robinson
             Points:   5             Points:   1 
 
                              Tue 22nd Apr       
+    Haw Hill Park A           Ferrybridge       
+         Aggregate:  56          Aggregate:  50 
+            Points:   0             Points:   0 
+     Manual Result                              
+
+                             Tue 22nd Apr       
       Pontefract            Glasshoughton B     
 *A.N.Other*          21 *A.N.Other*           8 
 *A.N.Other*             *A.N.Other*             
@@ -341,6 +347,12 @@ G Mulvey             21 Bernadette Perrow     6
 G Brook                 Helen Leebetter         
          Aggregate:  41          Aggregate:  48 
             Points:   1             Points:   5 
+
+                              Tue 6th May       
+        Fryston               Ferrybridge       
+         Aggregate:  55          Aggregate:  50 
+            Points:   0             Points:   0 
+     Manual Result                              
 
                               Tue 6th May       
         Colton              Glasshoughton B     
@@ -1078,5 +1090,60 @@ Martin Dowling       21 Stephen Smith         5
 Andrea Ryder            Steve Jones             
          Aggregate:  61          Aggregate:  33 
             Points:   5             Points:   1 
+
+                              Tue 2nd Sep       
+     Garforth Rec           Glasshoughton B     
+Doug Fraser          21 Kevin Roberts         9 
+Paul Watson             Dennis Westmoreland     
+Cliff Edwards        21 Bob Miles            16 
+Joy Slater              Janice Roberts          
+Mary Black           21 Steve Harris         12 
+Dennis Johnson          Tony Wheeler            
+         Aggregate:  63          Aggregate:  37 
+            Points:   6             Points:   0 
+
+                              Tue 2nd Sep       
+        Fryston             Haw Hill Park A     
+S Harrison           21 Keith Winfield        5 
+P Senior                Stephen Smith           
+Mick North            9 David Charlston      21 
+Steve Ellerker          Alan Holder             
+Margaret Cale        15 Malcolm Smith        21 
+Les Denton              Cynthia Sykes           
+         Aggregate:  45          Aggregate:  47 
+            Points:   1             Points:   5 
+
+                              Tue 2nd Sep       
+        Altofts              Featherstone       
+S Newman             16 John Wilkinson       21 
+G Brook                 Billy Rush              
+G Mulvey             17 Wayne Bond           21 
+I Robinson              Ken Robinson            
+C Youngs              3 Colin Jarvis         21 
+D Wright                Glyn Hanson             
+         Aggregate:  36          Aggregate:  63 
+            Points:   0             Points:   6 
+
+                              Tue 2nd Sep       
+    Glasshoughton A           Pontefract        
+Kevin Isles          21 Ann Greenhough        9 
+David Jackson           Albert Wilson           
+Albert Lee           17 James Shepherd       21 
+Ray Tenant              Ralph Davis             
+Harry Chapple        21 Michael Hill Snr      9 
+Shirley Chapple         Alan Godridge           
+         Aggregate:  59          Aggregate:  39 
+            Points:   5             Points:   1 
+
+                              Tue 2nd Sep       
+    Haw Hill Park B           Ferrybridge       
+David Servis         18 Michael Hesp         21 
+Brian Tighe             Robert McEwan           
+Jan McLeod           13 S Pease              21 
+Jane Hayward            John Kirby              
+Bernadette Perrow     8 Robert Firth         21 
+Lesley Servis           Tony Jacklin            
+         Aggregate:  39          Aggregate:  63 
+            Points:   0             Points:   6 
 
 

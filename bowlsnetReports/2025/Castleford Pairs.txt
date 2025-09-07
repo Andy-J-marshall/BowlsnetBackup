@@ -1,4 +1,4 @@
-=== Castleford (Pairs) 2025 (as of Sun 31st Aug)
+=== Castleford (Pairs) 2025 (as of Sun 7th Sep)
 === Comp. Match Cards
 
                              Thu 10th Apr       
@@ -790,6 +790,18 @@ Barry May               Malcolm Wright
          Aggregate:  70          Aggregate:  62 
 
                              Thu 10th Jul       
+     Pontefract A             Ferrybridge       
+Stuart Thompson      21 Arthur Firth         14 
+Julie Tams              Tony Jacklin            
+John Wyard           21 Dennis Dobson        18 
+Stan Moxon              Steve Pease             
+Ricky Watson         21 Robert McEwan         4 
+Gary Tingle             John Kirby              
+Maureen Chambers     21 John Child            6 
+Tony Chambers           Robin Ayres             
+         Aggregate:  84          Aggregate:  42 
+
+                             Thu 10th Jul       
         Methley                 Kippax          
 Carol Foulds         21 Norman Howarth       20 
 Jan McLeod              David Simpson           
@@ -1292,5 +1304,89 @@ Dennis Johnson          Douglas Taylor
 Colin Lowe           21 Joanne Lund          17 
 Naomi Morritt           Keith Render            
          Aggregate:  71          Aggregate:  53 
+
+                              Wed 3rd Sep       
+     Featherstone            Pontefract A       
+Aron Little          21 Gary Tingle          20 
+Neil Rush               Albert Wilson           
+Zak Bond             21 John Wyard           10 
+Billy Rush              Stan Moxon              
+John Moss            21 Stuart Thompson      12 
+John Parkinson          Julie Tams              
+Glynn Hanson         21 Maureen Chambers      9 
+Colin Jarvis            Ricky Watson            
+         Aggregate:  84          Aggregate:  51 
+
+                              Thu 4th Sep       
+     Pontefract B            Valley Ridge       
+Michael Hill Jnr     21 Colin Lowe            7 
+Helen Charlotte         Naomi Morritt           
+Sarah Hill           21 Marie Potter          8 
+Michael Hill Snr        Terry Ratcliffe         
+Alan Godridge         7 Trevor Booth         21 
+James Shepherd          Dennis Johnson          
+Steve Derry          16 Barry Broome         21 
+Ralph Davies            Craig Broome            
+         Aggregate:  65          Aggregate:  57 
+
+                              Thu 4th Sep       
+      Queens Park               Methley         
+Paul Senior          14 Carol Foulds         21 
+Lucas Waite             Jan McLeod              
+Neil Senior          21 Paul Brownley        17 
+Archie Waite            Joanne Lund             
+Paul Moxon           11 Douglas Taylor       21 
+Harrison Barker         Roy Naylor              
+Karl Barker          21 Pam Jukes             4 
+Dean Wassell            David Taylor            
+         Aggregate:  67          Aggregate:  63 
+
+                              Thu 4th Sep       
+      Ferrybridge           Glasshoughton B     
+John Child           10 Kevin Farrar         21 
+Archie Richardson       Malcolm Depledge        
+Arthur Firth         21 Kieren Johnson        7 
+Michael Hesp            Janice Roberts          
+Robert McEwan        21 Ian Smith             6 
+Robert Firth            Kevin Roberts           
+Martin Lawrence      21 Pete Walton          11 
+Steve Pease             Dennis Westmoreland     
+         Aggregate:  73          Aggregate:  45 
+
+                              Thu 4th Sep       
+    Glasshoughton A          Pontefract A       
+Tracey Wales         21 Gary Tingle          18 
+Russ Wales              Ricky Watson            
+Dave Jackson         14 Stuart Thompson      21 
+Kevin Isles             Julie Tams              
+Ray Tennant          13 John Wyard           21 
+Albert Lee              Maureen Chambers        
+Wayne Martin         14 Linda Armstrong      21 
+Josh Bennett            Tony Chambers           
+         Aggregate:  62          Aggregate:  81 
+
+                              Thu 4th Sep       
+        Kippax                  Fryston         
+John Broadhead        6 Steven Harrison      21 
+Rob Dickenson           Charlie Cale            
+Jade Johnson          7 Mark Harrap          21 
+Jon Ballance            Wendy Johnson           
+Ray Mattison         21 Margaret Cale         7 
+Julie Goldup            Les Denton              
+David Simpson        21 Mick North            7 
+Norman Howarth          Steve Ellerker          
+         Aggregate:  55          Aggregate:  56 
+
+                              Thu 4th Sep       
+     Featherstone            Hawhill Park       
+Aron Little          21 Stephen Jones         9 
+Billy Rush              Stephen Smith           
+Glynn Hanson         21 Denis Hill           12 
+Callum Maxwell          Keith Winfield          
+John Moss            21 Adrian Guy           19 
+John Parkinson          Jane Hayward            
+Darren Maxwell       21 David Servis          3 
+Neil Rush               Brian Tighe             
+         Aggregate:  84          Aggregate:  43 
 
 

@@ -1,4 +1,4 @@
-=== Skipton (54321) 2025 (as of Sun 31st Aug)
+=== Skipton (54321) 2025
 === Comp. Match Cards
 
 Skipton Building Society Div 1        Tue 15th Apr       
@@ -4760,5 +4760,33 @@ Bernie Conlon                12 Michael Rhodes        21
                      Games:   5               Games:   3 
                  Aggregate: 154           Aggregate: 147 
                     Points:  35              Points:  30 
+
+Skipton Building Society Div 3        Tue 2nd Sep        
+           Craven C                   Whinfield C        
+Darren Shaw                  18 John Taylor           21 
+Doug Scriven                 17 Tim Jones             21 
+Harry Spriggs                21 Rosemary Bootland     17 
+Andrew Noller                13 Gail Matthews         21 
+Philip Rowley                21 Freda Lester          10 
+Richard Pratt                21 Greg Mortimer         20 
+Leanne Akrigg                21 Pip Chadwick          12 
+Joshua Titorenko              7 Helen Taylor          21 
+                     Games:   4               Games:   4 
+                 Aggregate: 139           Aggregate: 143 
+                    Points:  29              Points:  32 
+
+Skipton Building Society Div 4        Wed 3rd Sep        
+          Gargrave C                   Steeton C         
+Kevin Fish                   21 Cheryl Golding         8 
+Steve Lucas                   7 Peter Seward          21 
+Lucy Godson                  21 Linda Addis           20 
+Sally Clark                  21 Dennis Ross           17 
+Simon Cookson                21 Diane Sugden          12 
+Stuart Carr                  21 Janet Rooke            9 
+Lee Baxter                   21 Maureen Seward         6 
+Sue Watson                   21 Graham Golding        13 
+                     Games:   7               Games:   1 
+                 Aggregate: 154           Aggregate: 106 
+                    Points:  37              Points:  19 
 
 
