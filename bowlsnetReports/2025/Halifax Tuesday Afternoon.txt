@@ -1,4 +1,4 @@
-=== Halifax (Tues.Afternoon) 2025 (as of Sun 7th Sep)
+=== Halifax (Tues.Afternoon) 2025
 === Comp. Match Cards
 
       Division 2              Tue 8th Apr       
@@ -3084,5 +3084,185 @@ Martin O'Hara        21 Derek Smith          10
          Aggregate: 121          Aggregate:  96 
              Games:   4              Games:   2 
             Points:   6             Points:   2 
+
+      Division 1              Tue 9th Sep       
+      Ripponden A           Akroydon Vic A      
+Michael Robertshaw   21 David Hunter          7 
+Nick Oddy            21 D Avery              11 
+Philip Holroyd       21 Philip Keast         14 
+Brian Winrow         21 Terry Keast          17 
+Keith Hardy          21 P Lowry              18 
+Howard Owen          14 Chris Meade          21 
+         Aggregate: 119          Aggregate:  88 
+             Games:   5              Games:   1 
+            Points:   7             Points:   1 
+
+      Division 1              Tue 9th Sep       
+       Old Town              Hill Crest A       
+Derek Williamson     14 R Woodhead           21 
+M Skwarek            16 David Barnes         21 
+Mary Hemsley         21 Lyndon Harris        12 
+G Hughes             21 Derek Hall           13 
+Steve Griffiths      21 Maria Lodge           9 
+Fred Rothwell        21 Frank Clissett       13 
+         Aggregate: 114          Aggregate:  89 
+             Games:   4              Games:   2 
+            Points:   6             Points:   2 
+
+      Division 1              Tue 9th Sep       
+     Hipperholme A           Halifax B.C.       
+Robin Sugden         15 Ian Tweedale         21 
+Neil Davidson        21 Stephen Wandiak      15 
+David Peel           16 David Russell        21 
+Glyn Hopper          12 David Culpan         21 
+Stephen Rookes       20 Paul Patrick         21 
+Tom Roper            16 Ray Clegg            21 
+         Aggregate: 100          Aggregate: 120 
+             Games:   1              Games:   5 
+            Points:   1             Points:   7 
+
+      Division 1              Tue 9th Sep       
+      West End A              Greetland A       
+John Hamer           21 Graham Crompton       9 
+David Musgrove       19 Clifford Birkhead    21 
+Martin Murphy        21 Fred Wilson          14 
+Ivan Taylor          21 Chris Crawshaw       15 
+Ian Crossland        21 Colin Pidgeon        17 
+John Rowley          21 Barry Sugden          5 
+         Aggregate: 124          Aggregate:  81 
+             Games:   5              Games:   1 
+            Points:   7             Points:   1 
+
+      Division 1              Tue 9th Sep       
+      Hove Edge A          Laurel Crescent A    
+Graham Jackson       21 Bernard Keen         13 
+Mick Cowley          16 Terry Jackson        21 
+Tony James           15 Ken Sharkey          21 
+Joe Philips          12 Brian Hildred        21 
+Taff Owen            21 P Jackson            17 
+Nigel Firth          21 Graham Jones         10 
+         Aggregate: 106          Aggregate: 103 
+             Games:   3              Games:   3 
+            Points:   5             Points:   3 
+
+      Division 2              Tue 9th Sep       
+     Hill Crest B          Luddenden Foot A     
+J Jackson            21 Gill Horner           4 
+Colin Wright          7 John Shann           21 
+Tim Brumby           19 Ray Wolsey           21 
+Pamela Woodhead      21 Mark Horner          13 
+Ella Clissitt         5 Craig Elwin          21 
+Margaret Holt        21 Ray Cope              5 
+         Aggregate:  94          Aggregate:  85 
+             Games:   3              Games:   3 
+            Points:   5             Points:   3 
+
+      Division 2              Tue 9th Sep       
+      Allan Park            Bailiff Bridge      
+Martin Grace         21 Chris Stout          12 
+Linda Lees           11 Kevin Page           21 
+June Gaukroger       19 Colin White          21 
+Gary O Leary         21 Vincent Kerr         10 
+Gregg Reinsch        21 Jenny Moffat         14 
+Chris Johnstone      21 David Franz          12 
+         Aggregate: 114          Aggregate:  90 
+             Games:   4              Games:   2 
+            Points:   6             Points:   2 
+
+      Division 2              Tue 9th Sep       
+      Kingston A              Ripponden B       
+Pasqual Cestrone     21 Peter Briggs          3 
+Philip Stone         21 Steve Mackrell       13 
+Terry Horsfall       21 Fred Greenwood        5 
+John Stewart         21 Graham Smith         17 
+Christine Midgley    21 Andy Webster          8 
+Ian Smith            21 Julian Carr           3 
+         Aggregate: 126          Aggregate:  49 
+             Games:   6              Games:   0 
+            Points:   8             Points:   0 
+
+      Division 2              Tue 9th Sep       
+     Elland WMC A           Bradshaw Park A     
+John Jackson         21 D Wilson             19 
+Margaret Harte        5 T Mosey              21 
+Geoffrey Place       21 Russell Lockley      12 
+P Hand               21 S Barker              9 
+Peter Clement        21 C Hall                5 
+G Boothroyd          21 Keith Noble           9 
+         Aggregate: 110          Aggregate:  75 
+             Games:   5              Games:   1 
+            Points:   7             Points:   1 
+
+      Division 2              Tue 9th Sep       
+      Hove Edge B           Sowerby T & BC      
+Ray Armstrong         8 Edward Eyres         21 
+Douglas Haigh        20 Jim Bainbridge       21 
+Jimmy Procter        15 Keith Hartley        21 
+*No Player*           0 Philip Schofield     21 
+Stewart Greenwood    17 Don Hayward          21 
+Kevin Longbottom     16 Pat Skene            21 
+         Aggregate:  76          Aggregate: 126 
+             Games:   0              Games:   6 
+            Points:   0             Points:   8 
+
+      Division 3              Tue 9th Sep       
+        Wyke A                 Holmfield        
+Michael Walton       21 John Ellison         11 
+Richard Kerr         21 Geoff Beaumont       20 
+Pam Wall             21 Martin O'Hara        20 
+Ken Bairstow         12 Stephen Hardy        21 
+Sue Williamson       21 Allan Wilson          9 
+Colin Fallows        21 Steve Bamforth       12 
+         Aggregate: 117          Aggregate:  93 
+             Games:   5              Games:   1 
+            Points:   7             Points:   1 
+
+      Division 3              Tue 9th Sep       
+     Northowram B         Clayton Vic Park A    
+D Robinson           21 Joe Midgley           7 
+Peter Lee            21 Ian Findlay          15 
+Peter Cretney        10 Ray Atkinson         21 
+Keith Walker         17 Kevin Flanagan       21 
+Roy Donaldson         9 Malcolm Riggs        21 
+S Sykes              13 Kenny McCafferty     21 
+         Aggregate:  91          Aggregate: 106 
+             Games:   2              Games:   4 
+            Points:   2             Points:   6 
+
+      Division 3              Tue 9th Sep       
+    Crow Wood Park           Hipperholme B      
+Alex Myers           21 Chris Peever         14 
+G Habergham          21 Mel Green            12 
+Brian Lawrence       21 J Donovan             4 
+S Laycock            21 Michael Webster      16 
+Ian Mellor           14 Ian Medlin           21 
+Shaun Farrell        21 Rob Sandie           11 
+         Aggregate: 119          Aggregate:  78 
+             Games:   5              Games:   1 
+            Points:   7             Points:   1 
+
+      Division 3              Tue 9th Sep       
+    Akroydon Vic B            Hove Edge C       
+S Alderson           14 Bob Spriggs          21 
+Mick Stansfield      14 Steven Airey         21 
+Robert Harrison      21 Diane Brearley       18 
+Russell Jowett       21 Ron Wasp             17 
+M Russell            21 Alan Sykes           10 
+S Stansfield         21 Philip Brearley      19 
+         Aggregate: 112          Aggregate: 106 
+             Games:   4              Games:   2 
+            Points:   6             Points:   2 
+
+      Division 1             Wed 10th Sep       
+      West End A            Akroydon Vic A      
+Martin Murphy        21 Chris Meade          19 
+Brian Needham         2 Philip Keast         21 
+John Rowley          21 P Dawson              6 
+Ivan Taylor          20 P Lowry              21 
+David Musgrove       10 Terry Keast          21 
+Ian Crossland        21 D Avery              18 
+         Aggregate:  95          Aggregate: 106 
+             Games:   3              Games:   3 
+            Points:   3             Points:   5 
 
 

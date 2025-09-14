@@ -1,4 +1,4 @@
-=== Halifax (Thurs. Afternoon) 2025 (as of Sun 7th Sep)
+=== Halifax (Thurs. Afternoon) 2025 (as of Sun 14th Sep)
 === Comp. Match Cards
 
    Marsden Trophy Division 1          Thu 10th Apr        
@@ -7404,6 +7404,17 @@ Keith Noble                  21 Keith Richards         19
                     Points:   5               Points:   3 
                  Aggregate: 118            Aggregate: 110 
 
+ C.H.Marsden Trophy Division 3         Thu 4th Sep        
+          Rastrick B                  Halifax BC C        
+Derek Hanner                 15 Stephen Wandiak        21 
+Michael Carter               20 Peter Krenc            21 
+Robert Laycock               21 Peter Greenwood        16 
+Paul Pendleton               21 Derek Finch             9 
+Chris Jenkinson              21 Phillip Hallowell      14 
+Peter Hardcastle             21 Patrick O Connor       14 
+                    Points:   6               Points:   2 
+                 Aggregate: 119            Aggregate:  95 
+
  Harry Brook Trophy Division 4         Thu 4th Sep        
         Crow Wood Park              Mytholmroyd BC B      
 David McAlpine               21 John Crowther          15 
@@ -7482,6 +7493,17 @@ Malcolm Murray               21 Barry Walker            3
                  Aggregate: 112            Aggregate:  68 
 
 Pearson Bros Trophy Division 5         Thu 4th Sep        
+         Outlane BC B                 Allan Park B        
+David McLean                 21 Milly Wheelwright      11 
+Janet Campbell               21 Matt Wilkins           11 
+Bob Stead                    21 Maurice Boyd           11 
+Mark Polzin                  21 Frank Lowney           19 
+Sue Greenwood                16 Maxine Hickey          21 
+Peter Kershaw                21 Peter Mc Owen           8 
+                    Points:   7               Points:   1 
+                 Aggregate: 121            Aggregate:  81 
+
+Pearson Bros Trophy Division 5         Thu 4th Sep        
          Halifax BC D                 Wibsey Park A       
 Faye Curran                  21 Steve Thornton         12 
 Christopher Lindsey          21 John May                9 
@@ -7491,6 +7513,17 @@ Myra Smith                   15 John Simpson           21
 Ninian Donnelly              11 John Walsh             21 
                     Points:   5               Points:   3 
                  Aggregate:  99            Aggregate:  90 
+
+    Dyson Trophy Division 6            Thu 4th Sep        
+         Wibsey Park B                  Old Town          
+Roy Lee                      11 Derek Williamson       21 
+Katherine Bartle              8 Alan Martin            21 
+Daryl Fieldhouse             21 Paul Newman            13 
+Vince Cleary                 12 Ian Coleman            21 
+Andrea McHenry               21 John McDermondy        18 
+Ray Clapham                  20 John Bewick            21 
+                    Points:   2               Points:   6 
+                 Aggregate:  93            Aggregate: 115 
 
     Dyson Trophy Division 6            Thu 4th Sep        
        Sowerby T & BC B              Greenroyd BC C       
@@ -7524,5 +7557,324 @@ Steve Bamforth               18 Julian Robertshaw      21
 John Huddelston              21 Peter Morgan           15 
                     Points:   6               Points:   2 
                  Aggregate: 118            Aggregate:  94 
+
+   Marsden Trophy Division 1          Thu 11th Sep        
+       Ripponden Park A             Mytholmroyd BC A      
+Nigel Mitchell               19 David Wright           21 
+Michael Robertshaw           21 Barbara Warburton       3 
+Nick Oddy                     6 Clive Austin           21 
+Paul Holden                  21 David Warburton        20 
+Martin Greenwood             21 Janette Nicholson       1 
+Philip Holroyd                1 Roy Nicholson          21 
+                    Points:   5               Points:   3 
+                 Aggregate:  89            Aggregate:  87 
+
+   Marsden Trophy Division 1          Thu 11th Sep        
+       Hipperholme BC A              Pellon Social A      
+Adrian Megson                21 Robert Walker          14 
+Chris Cox                    21 Andrew Roy             11 
+Les Holmes                   21 Mark Bolton            10 
+Ian Ryding                   21 Adrian Holmes          11 
+Nigel Braodbent              21 Michael Holmes         18 
+Steve Swallow                21 Keith Barker           11 
+                    Points:   8               Points:   0 
+                 Aggregate: 126            Aggregate:  75 
+
+   Marsden Trophy Division 1          Thu 11th Sep        
+        Greetland BC A               Elland C & BC A      
+Michael Shaw                 21 Neil Thompson           6 
+Freda Jordan                 21 Adrian Robertshaw       8 
+Ken Fleming                  21 Ken Walker              8 
+Barry Sugden                 21 David Greenwood        10 
+George Simpson               21 Steve Kenworthy        20 
+Peter Lea                    16 Adrian Kenyon          21 
+                    Points:   7               Points:   1 
+                 Aggregate: 121            Aggregate:  73 
+
+   Marsden Trophy Division 1          Thu 11th Sep        
+         Halifax BC A                  Hove Edge A        
+Keith Hanson                 21 Janet Carney            7 
+Alan Cowburn                 21 Nigel Firth            12 
+Ray Clegg                    21 Stephen Rothwell       16 
+David Culpan                 21 Keith Hatzer           13 
+Bill Clelland                21 Anthony James          17 
+Eric McGinnis                21 Chris Illingworth      14 
+                    Points:   8               Points:   0 
+                 Aggregate: 126            Aggregate:  79 
+
+  Jack Dean Trophy Division 2         Thu 11th Sep        
+          West End A                    Savile A          
+John Hamer                   21 J Simpson              18 
+Martin Murphy                21 Harry Ashworth         18 
+Brian Needham                 8 G Hughes               21 
+Ivan Taylor                   5 John Hartley           21 
+Ian Crossland                21 Sandra Greenwood        7 
+John Rowley                  21 Andresa McWhirter      15 
+                    Points:   4               Points:   4 
+                 Aggregate:  97            Aggregate: 100 
+
+  Jack Dean Trophy Division 2         Thu 11th Sep        
+         Hill Crest A              Luddenden Foot BC A    
+Geoff Jaskolski              19 Craig Elwin            21 
+Robert Woodhead              17 Barrie Farrar          21 
+Frank Clissitt               16 Gavin Brumby           21 
+John Jackson                 12 Ray Wolsey             21 
+Anthony John Clissitt         6 Paul Wildsmith         21 
+Francis Kennedy              21 John Fisher             8 
+                    Points:   1               Points:   7 
+                 Aggregate:  91            Aggregate: 113 
+
+  Jack Dean Trophy Division 2         Thu 11th Sep        
+       Kingston Social A             Greenroyd BC A       
+Ian Smith                    21 Derek Smith            13 
+Philip Stone                 21 Ken Campbell            6 
+Pasqual Cestrone             17 Andrew Crabtree        21 
+Chris Walton                 12 Colin Pidgeon          21 
+Terry Horsfall               21 Stephen Baldwin        11 
+Stuart Sykes                 21 Stephen Fearnley       20 
+                    Points:   6               Points:   2 
+                 Aggregate: 113            Aggregate:  92 
+
+  Jack Dean Trophy Division 2         Thu 11th Sep        
+        Bradshaw Park A               Halifax BC B        
+Steve Halliday               21 Colin Wormald          15 
+Russell Lockley              21 Stephen Smith           4 
+John Nicholson               21 Terry O'Brien           5 
+John Williamson              21 Sandra Cooper          17 
+Mark Horsfall                19 Gary Robinson          21 
+Anthony Drummond              5 David Russell          21 
+                    Points:   6               Points:   2 
+                 Aggregate: 108            Aggregate:  83 
+
+  Jack Dean Trophy Division 2         Thu 11th Sep        
+        Pellon Social B            Akroydon Victoria A    
+David Gowing                 21 David Avery            15 
+Paul Firth                   21 Philip Keast           17 
+Martin Alders                21 John Holden            11 
+Lynne Greenwood              21 Graham Halliday        11 
+Peter Greenwood               7 Micheal Uttley         21 
+Peter Steele                 15 Chris Wilmott          21 
+                    Points:   6               Points:   2 
+                 Aggregate: 106            Aggregate:  96 
+
+  Jack Dean Trophy Division 2         Thu 11th Sep        
+       Laurel Crescent A             Greetland BC B       
+Bernard Keen                 21 Peter Webb             15 
+Michael Greenwood            21 Graham Crompton         7 
+Terry Jackson                21 Martin Forster         15 
+Peter Stead                  21 Lewis Mitchell          6 
+Linda Stewart                 6 David Farrar           21 
+Graham Jones                 21 Peter Walker           14 
+                    Points:   7               Points:   1 
+                 Aggregate: 111            Aggregate:  78 
+
+ C.H.Marsden Trophy Division 3        Thu 11th Sep        
+       Sowerby T & BC A             Northowram Park A     
+Martyn Summerscales          21 Sylvia Allott          15 
+Pat Skene                    21 Roy Donaldson          14 
+Peter Lomax                  18 Keith Walker           21 
+Philip Eastwood              21 Steven Sykes           10 
+Phillip Schofield             6 David Robinson         21 
+Barrie Morgan                21 John Beaumont          19 
+                    Points:   6               Points:   2 
+                 Aggregate: 108            Aggregate: 100 
+
+ C.H.Marsden Trophy Division 3        Thu 11th Sep        
+      Akroydon Victoria B              Rastrick B         
+Chris Meade                  17 Derek Hanner           21 
+Terry Keast                  11 Peter Hardcastle       21 
+Peter Dawson                 18 Robert Laycock         21 
+Paul Lowry                    7 Michael Carter         21 
+David Hunter                 21 Paul Pendleton         15 
+Tony Wolke                   21 Chris Jenkinson        19 
+                    Points:   2               Points:   6 
+                 Aggregate:  95            Aggregate: 118 
+
+ C.H.Marsden Trophy Division 3        Thu 11th Sep        
+          Rastrick C                 Stainland Park       
+Graham Dyson                 21 Julian Bull            17 
+Keith Richards                3 Peter Hopkinson        21 
+Malcom Stead                  8 Terry Leach            21 
+Gary Shaw                    21 Bernard Farrar         13 
+M Utting                     21 Richard Severn         14 
+Edwin Siswick                21 Janet Bull             10 
+                    Points:   4               Points:   4 
+                 Aggregate:  95            Aggregate:  96 
+
+ C.H.Marsden Trophy Division 3        Thu 11th Sep        
+         Halifax BC C              Huddersfield Rec A     
+Peter Krenc                  21 Derek Crawley           7 
+Derek Finch                  21 Neil Croasdell         11 
+Stephen Wandiak              12 Colin McClusky         21 
+Phillip Hallowell            21 David Watson            4 
+Ninian Donnelly              21 Michael Hollingdrake    4 
+Glyn Owen                    20 Mike Pointon           21 
+                    Points:   6               Points:   2 
+                 Aggregate: 116            Aggregate:  68 
+
+ Harry Brook Trophy Division 4        Thu 11th Sep        
+       Mytholmroyd BC B             Ripponden Park B      
+John Crowther                10 Keith Hardy            21 
+David Smith                  21 Barry Nellis           14 
+Derek Priestley              21 Graham Smith           13 
+Jim Senior                   10 Steven Mackrell        21 
+William Ashley                7 Brian Winrow           21 
+Ann Greenwood                11 Gary Plane             21 
+                    Points:   2               Points:   6 
+                 Aggregate:  80            Aggregate: 111 
+
+ Harry Brook Trophy Division 4        Thu 11th Sep        
+          Hove Edge C                  Rastrick D         
+Terry Allington              19 David Cuthill          21 
+Stewart Greenwood             0 Glyn Croft             21 
+Douglas Haigh                21 Trevor Wells           20 
+Russell Heywood              21 Michael Brocklehurst    9 
+Kevin Longbottom             18 Brian Thurlow          21 
+Robert Spriggs               21 Andy Eccles             7 
+                    Points:   5               Points:   3 
+                 Aggregate: 100            Aggregate:  99 
+
+ Harry Brook Trophy Division 4        Thu 11th Sep        
+        Greenroyd BC B                Allan Park A        
+George Rowland               21 Jane Helliwell          6 
+Geoff Mitchell               21 Martin Grace           19 
+Barry Broadbent               1 Chris Johnstone        21 
+Ken Todd                     11 Gary O Leary           21 
+John Edwards                 10 Gregg Reinsch          21 
+Michael Berry                13 June Gaukroger         21 
+                    Points:   2               Points:   6 
+                 Aggregate:  77            Aggregate: 109 
+
+ Harry Brook Trophy Division 4        Thu 11th Sep        
+          King Cross                 Crow Wood Park       
+Julie King                    6 Shaun Farrell          21 
+G Briggs                     21 Ian Mellor             15 
+G Dewhurst                   21 Peter Foster           19 
+S Clifford                   21 Brian Lawrence         18 
+Alwyn Guide                  21 Alex Myers              9 
+Andrew Hurcombe              21 Steve Laycock          14 
+                    Points:   7               Points:   1 
+                 Aggregate: 111            Aggregate:  96 
+
+ Harry Brook Trophy Division 4        Thu 11th Sep        
+        Brighouse BC B                 Cross Roads        
+Steven Bedford               21 Jim Binns              17 
+Nigel Briggs                 21 Paul Robinson          20 
+Neal Hopper                   3 Gary Hudson            21 
+David Wood                   14 Steve Hird             21 
+Jeff Greenwood                3 Andrew Johnson         21 
+Eric Charlesworth            21 Brenda Peel            20 
+                    Points:   3               Points:   5 
+                 Aggregate:  83            Aggregate: 120 
+
+Pearson Bros Trophy Division 5        Thu 11th Sep        
+       Holmfield Park A               Outlane BC B        
+Maurice Thorpe               21 Bob Stead              19 
+Stephen Hardy                14 Peter Kershaw          21 
+Geoffrey Beaumont            21 Sue Greenwood           3 
+Malcom Rothery               21 Mark Earnshaw          13 
+Edward Moss                  19 Mark Polzin            21 
+Tony Barrett                 21 Fred Greenwood          7 
+                    Points:   6               Points:   2 
+                 Aggregate: 117            Aggregate:  84 
+
+Pearson Bros Trophy Division 5        Thu 11th Sep        
+         Wibsey Park A               Elland WMC 'B'       
+John May                     15 Nick Lowe              21 
+John Simpson                 21 Alan Broad              8 
+John Walsh                   21 Bob Newham             11 
+Steve Thornton               21 Peter Wright           18 
+Charles Fell                 21 Peter Clement          15 
+Barry Turner                  9 Frank Turner           21 
+                    Points:   6               Points:   2 
+                 Aggregate: 108            Aggregate:  94 
+
+Pearson Bros Trophy Division 5        Thu 11th Sep        
+        Bradshaw Park C               Halifax BC D        
+Newman Fawley                21 Lynda Canning           6 
+Pat Wilson                   21 Terry Kettle           11 
+Derek Wilson                 19 Paul Patrick           21 
+Max Robinson                 21 Robert Dean             7 
+Derek Ashington              21 Gary Burke             14 
+Barry Walker                 21 Faye Curran            16 
+                    Points:   7               Points:   1 
+                 Aggregate: 124            Aggregate:  75 
+
+Pearson Bros Trophy Division 5        Thu 11th Sep        
+      Luddenden Foot BC B             Hill Crest B        
+Ray Cope                      7 Pamela Woodhead        21 
+Stuart Gill                  21 Maria Lodge            10 
+Ian Armstrong                21 Stephen Balmforth       8 
+John Shann                   21 Dereck Hall            15 
+Peter Richardson              7 Ernie Rickman          21 
+David McMahon                19 Tim Brumby             21 
+                    Points:   4               Points:   4 
+                 Aggregate:  96            Aggregate:  96 
+
+Pearson Bros Trophy Division 5        Thu 11th Sep        
+         Allan Park B                  Hove Edge D        
+Matt Wilkins                 21 Chris Rhodes           10 
+Maurice Boyd                 10 Linda Heyhoe           21 
+Frank Lowney                 21 Philip Brearley        18 
+Peter Mc Owen                21 John Bentley           12 
+Linda Lees                   21 Steven Airey           20 
+Milly Wheelwright            21 Diane Brearley         11 
+                    Points:   7               Points:   1 
+                 Aggregate: 115            Aggregate:  92 
+
+    Dyson Trophy Division 6           Thu 11th Sep        
+        Elland C & BC B             Sowerby T & BC B      
+Anita Naylor                  9 Roger Sarginson        21 
+Alf Praulins                 21 Peter Brady            12 
+Steve Emery                  21 Geoffrey Briggs        10 
+Peter Morgan                  2 Jim Bainbridge         21 
+John Naylor                  17 Alan Riddles           21 
+Denise Crossley              10 Linden Howarth         21 
+                    Points:   2               Points:   6 
+                 Aggregate:  80            Aggregate: 106 
+
+    Dyson Trophy Division 6           Thu 11th Sep        
+      Huddersfield Rec B             Bailiff Bridge       
+Jeremy Chomeczko             20 David Franz            21 
+David Warren                 17 Sandra Franz           21 
+Kevin McClusky               14 Graham Whitworth       21 
+John Stevenson               21 Graham Holmes          16 
+David Rudd                    8 Ed Davison             21 
+John Sunter                  21 Terry Firth             6 
+                    Points:   2               Points:   6 
+                 Aggregate: 101            Aggregate: 106 
+
+    Dyson Trophy Division 6           Thu 11th Sep        
+         Halifax BC E               Laurel Crescent B     
+Alan Jeffs                   21 Joe Gibbons            16 
+Christopher Lindsey          21 David Nash              4 
+John Crowson                 21 Margaret Thompson      10 
+Helen Smith                  21 Gary Thompson          16 
+Steven Webster               15 Derek Smith            21 
+David Mitton                 21 Adrian Dinsmore         2 
+                    Points:   7               Points:   1 
+                 Aggregate: 120            Aggregate:  69 
+
+    Dyson Trophy Division 6           Thu 11th Sep        
+           Old Town                 Holmfield Park B      
+Derek Williamson             21 Sue Kent               14 
+John Bewick                  21 Chris Howard Shaw      14 
+Ian Coleman                  19 John Ellison           21 
+John McDermondy              21 Ken Broadbent           8 
+Vivienne Bewick              18 John Huddelston        21 
+Peter Cockroft               18 Steve Bamforth         21 
+                    Points:   5               Points:   3 
+                 Aggregate: 118            Aggregate:  99 
+
+    Dyson Trophy Division 6           Thu 11th Sep        
+      Akroydon Victoria C             Wibsey Park B       
+Melvin Russell                9 Roy Lee                21 
+David Hardy                  21 Ray Clapham             9 
+Duggie Hather                12 Andrea McHenry         21 
+Sidney Stansfield            21 Daryl Fieldhouse       20 
+Robert Harrison              19 Ray Leadbetter         21 
+Stuart Alderson              21 Dennis Flaherty        14 
+                    Points:   3               Points:   5 
+                 Aggregate: 103            Aggregate: 106 
 
 

@@ -1,4 +1,4 @@
-=== Castleford (Pairs) 2025 (as of Sun 7th Sep)
+=== Castleford (Pairs) 2025 (as of Sun 14th Sep)
 === Comp. Match Cards
 
                              Thu 10th Apr       
@@ -45,6 +45,11 @@ David Taylor            Ann Greenough
                              Thu 10th Apr       
      Hawhill Park             Queens Park       
          Aggregate:  59          Aggregate:  81 
+     Manual Result                              
+
+                             Thu 10th Apr       
+     Valley Ridge            Featherstone       
+         Aggregate:  72          Aggregate:  61 
      Manual Result                              
 
                              Thu 17th Apr       
@@ -221,6 +226,16 @@ Paul Senior             Russ Wales
          Aggregate:  67          Aggregate:  68 
 
                               Thu 1st May       
+     Pontefract A            Hawhill Park       
+         Aggregate:  82          Aggregate:  59 
+     Manual Result                              
+
+                              Thu 1st May       
+      Ferrybridge            Valley Ridge       
+         Aggregate:  74          Aggregate:  69 
+     Manual Result                              
+
+                              Thu 1st May       
         Kippax               Pontefract B       
 Chris Sumner         21 Michael Hill Jnr     20 
 Pasquale Natale         Robert Stansfield       
@@ -257,6 +272,11 @@ David Senior            *A.N.Other*
          Aggregate:  75          Aggregate:  65 
 
                               Thu 8th May       
+     Valley Ridge            Pontefract A       
+         Aggregate:  72          Aggregate:  77 
+     Manual Result                              
+
+                              Thu 8th May       
      Pontefract B            Featherstone       
 Michael Hill Snr     21 John Parkinson       10 
 Robert Stansfield       Darren Maxwell          
@@ -279,6 +299,11 @@ Albert Lee              Archie Richardson
 Janet Mulheir         9 Steve Pease          21 
 Kevin Isles             Arthur Firth            
          Aggregate:  72          Aggregate:  56 
+
+                              Thu 8th May       
+     Hawhill Park               Fryston         
+         Aggregate:  59          Aggregate:  58 
+     Manual Result                              
 
                              Thu 15th May       
      Featherstone               Kippax          
@@ -339,6 +364,11 @@ Jane Hayward            Roy Naylor
 Nigel Stroud         21 Pam Jukes             5 
 Stephen Jones           Kim Hall                
          Aggregate:  76          Aggregate:  63 
+
+                             Thu 15th May       
+        Fryston              Valley Ridge       
+         Aggregate:  74          Aggregate:  69 
+     Manual Result                              
 
                              Thu 22nd May       
       Queens Park            Featherstone       
@@ -584,6 +614,11 @@ Mick North              Richard Auty
 Martin Evans         19 Jade Johnson         21 
 Les Denton              David Simpson           
          Aggregate:  82          Aggregate:  59 
+
+                             Thu 12th Jun       
+     Hawhill Park            Featherstone       
+         Aggregate:  59          Aggregate:  61 
+     Manual Result                              
 
                              Thu 12th Jun       
      Valley Ridge            Pontefract B       
@@ -1388,5 +1423,77 @@ John Parkinson          Jane Hayward
 Darren Maxwell       21 David Servis          3 
 Neil Rush               Brian Tighe             
          Aggregate:  84          Aggregate:  43 
+
+                             Wed 10th Sep       
+      Queens Park            Pontefract B       
+Nicky Barker         14 Michael Hill Jnr     21 
+Dean Wassell            Julie Stansfield        
+Lucas Waite          15 Michael Hill Snr     21 
+Karl Barker             Robert Stansfield       
+Paul Senior          21 Steve Derry           6 
+Harrison Barker         Tony Hames              
+Neil Senior           9 Helen Charlotte      21 
+Archie Waite            Ann Greenough           
+         Aggregate:  59          Aggregate:  69 
+
+                             Thu 11th Sep       
+    Glasshoughton B          Featherstone       
+Kevin Farrar          9 Aron Little          21 
+Malcolm Depledge        Billy Rush              
+Tommy Siddall        21 Darren Maxwell       19 
+Steve Harris            Neil Rush               
+Janice Roberts        1 Glynn Hanson         21 
+Tony Wheeler            Colin Jarvis            
+Dennis Westmoreland  13 John Moss            21 
+Colin Duxbury           John Parkinson          
+         Aggregate:  44          Aggregate:  82 
+
+                             Thu 11th Sep       
+        Methley             Glasshoughton A     
+Chris Paul            7 Josh Bennett         21 
+Rob Wake                Wayne Martin            
+Anne Hastings         7 Kevin Isles          21 
+Keith Fowler            Dave Jackson            
+David Beechan         6 Beth Wales           21 
+Jeff Baggaley           Tracey Wales            
+Joanne Lund          16 Albert Lee           21 
+Roy Naylor              Ben Middleton           
+         Aggregate:  36          Aggregate:  84 
+
+                             Thu 11th Sep       
+        Fryston               Queens Park       
+Mark Harrap          15 David Senior         21 
+Steve Ellerker          Danny Hope              
+Phillip Greenwood    21 Paul Senior          15 
+Steven Harrison         Neil Senior             
+Margaret Cale        21 Corrine Franks       19 
+Barry May               Paul Moxon              
+Mick North           21 Nicky Barker          6 
+Les Denton              Lucas Waite             
+         Aggregate:  78          Aggregate:  61 
+
+                             Thu 11th Sep       
+     Hawhill Park             Ferrybridge       
+Denis Hill           20 John Kirby           21 
+Alan Knowles            Robert McEwan           
+Brian Tighe           7 Arthur Firth         21 
+Shirley Makin           Tony Jacklin            
+Adrian Guy           12 Robert Firth         21 
+Jane Hayward            Robin Ayres             
+Jenny Senior          4 Steve Pease          21 
+Jaqueline Guy           Martin Lawrence         
+         Aggregate:  43          Aggregate:  84 
+
+                             Thu 11th Sep       
+     Valley Ridge               Kippax          
+Barry Broome         21 Marlene Dickenson     7 
+Craig Broome            Julie Goldup            
+Colin Lowe           21 Peter Kay             7 
+Naomi Morritt           David Simpson           
+Dennis Johnson       21 Jon Ballance         17 
+Trevor Booth            Jade Johnson            
+Marie Potter         21 Rob Dickenson        19 
+Terry Ratcliffe         Ray Mattison            
+         Aggregate:  84          Aggregate:  50 
 
 

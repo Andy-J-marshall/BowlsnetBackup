@@ -1,4 +1,4 @@
-=== Heavy Woollen Evening League 2025 (as of Sun 7th Sep)
+=== Heavy Woollen Evening League 2025
 === League Match Cards
 
                               Wed 9th Apr       
@@ -1497,6 +1497,12 @@ Nora Collier          7 Jacob Jackson        21
          Aggregate: 154          Aggregate: 140 
 
                               Wed 3rd Sep       
+   Thornhill C & BC        Overthorpe Sports    
+          Handicap: +15           Handicap: +20 
+         Aggregate: 168          Aggregate:   0 
+     Manual Result                              
+
+                              Wed 3rd Sep       
      Morton House           Hanging Heaton      
 Chris Sweeney        21 Jacob Amatt          18 
 Paul Wright          13 Gary Amatt           21 
@@ -1522,5 +1528,86 @@ Carol Earnshaw       21 Martin Longley       16
           Handicap: +15           Handicap: +42 
          Aggregate: 142          Aggregate: 168 
    Result Overridden                            
+
+                             Wed 10th Sep       
+   Ossett C & AC 'B'      Kirkheaton Cons 'B'   
+David Clarkson       21 Paula Kershaw        14 
+Pauline Clarkson     21 Richard Earnshaw     14 
+John D Ellis         21 Carol Earnshaw        9 
+Terry Fletcher       21 Krystal Hemmingway   18 
+Elsie Jowett         21 Justine Webb          1 
+Eric Law             14 Cath O'Connor        21 
+Kath Shooter         19 Adi O'Connor         21 
+Linda Theaker        21 Chris Webb           13 
+          Handicap: +14           Handicap: +30 
+         Aggregate: 168          Aggregate: 141 
+   Result Overridden                            
+
+                             Wed 10th Sep       
+   Overthorpe Sports         Morton House       
+Geraldine Dickinson  20 Chris Sweeney        21 
+Heather Jewitt       21 David Payne          19 
+Jane Harris          15 Mandy Hyde           21 
+Tony Greenlees       14 David Hall           21 
+Tony Dickinson       21 Wayne Kemp           17 
+Nathan Jewitt        21 Addy Leach           20 
+Sharon Byrnes        18 Angie Whitworth      21 
+Richard Sweeney      16 James Payne          21 
+          Handicap: +10           Handicap: Scr 
+         Aggregate: 156          Aggregate: 161 
+
+                             Wed 10th Sep       
+    Hanging Heaton         Thornhill C & BC     
+Gary Amatt           21 Rachael Gamble        2 
+David McNally        21 Lynn Hutchinson       8 
+Jacob Amatt          11 Claire Price         21 
+Peter Wilson          9 Mick Gibson          21 
+Lee Crossland        19 Ben Gibson           21 
+Peter Byrne          21 Derek Robinson       17 
+Christine Lamb       19 Jennifer Gray        21 
+Ian Taylor           21 Stefan Sim            6 
+          Handicap: +10           Handicap: +30 
+         Aggregate: 152          Aggregate: 147 
+
+                             Wed 10th Sep       
+  Kirkheaton Cons 'A'      Ossett C & AC 'C'    
+Anita Cuniffe        20 Connor Dunford       21 
+Sylvia Lane          21 Michael Scholey       9 
+Jacob Jackson        21 Sharon Scholey       17 
+Lynn Holdroyd        21 Beverley Bullock     10 
+Stewart Walker       21 Edward Bullock       10 
+Scott Shaw           21 Malc Eadie            6 
+Harriet Chadwick     21 Mick Carr            17 
+Lynn Flowers         21 David Hirst          13 
+          Handicap: +15           Handicap: +66 
+         Aggregate: 168          Aggregate: 168 
+   Result Overridden                            
+
+                             Wed 10th Sep       
+   Staincliffe Park        Ossett C & AC 'A'    
+David Kellett        15 John Shooter         21 
+Joanne Lockwood      15 Nora Collier         21 
+Andrew Leckenby      11 Svajunas Kapitan     21 
+James Stokes         17 Graeme Eyre          21 
+Carol Sykes          13 John Kennelly        21 
+Jeanette Leckenby    15 Bryan Collier        21 
+David Halmshaw        7 Mick Scott           21 
+Ian Exley            17 Paul Sweeney         21 
+          Handicap: +22           Handicap: Scr 
+         Aggregate: 132          Aggregate: 168 
+
+         Final               Fri 12th Sep       
+                          On Kirkheaton Cons    
+     Morton House          Ossett C & AC 'B'    
+Michael Sweeney      21 John Shooter          2 
+Chris Sweeney        21 Elsie Jowett          8 
+Mandy Hyde           17 Nora Collier         21 
+Wayne Kemp           21 John D Ellis         13 
+Millie Hyde          21 Terry Fletcher        0 
+Addy Leach           21 Linda Theaker        12 
+Angie Whitworth      21 John Kennelly         3 
+James Payne          21 Kath Shooter          4 
+          Handicap: Scr           Handicap: +28 
+         Aggregate: 164          Aggregate:  91 
 
 
