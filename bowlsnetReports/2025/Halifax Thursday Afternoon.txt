@@ -1,4 +1,4 @@
-=== Halifax (Thurs. Afternoon) 2025 (as of Sun 14th Sep)
+=== Halifax (Thurs. Afternoon) 2025 (as of Sun 21st Sep)
 === Comp. Match Cards
 
    Marsden Trophy Division 1          Thu 10th Apr        
@@ -7876,5 +7876,104 @@ Robert Harrison              19 Ray Leadbetter         21
 Stuart Alderson              21 Dennis Flaherty        14 
                     Points:   3               Points:   5 
                  Aggregate: 103            Aggregate: 106 
+
+ C.H.Marsden Trophy Division 3        Tue 16th Sep        
+       Northowram Park A           Akroydon Victoria B    
+Roy Donaldson                21 Chris Meade             9 
+Peter Lee                    21 Melvin Russell          9 
+David Robinson               21 Paul Lowry             10 
+Keith Walker                 21 Robert Harrison         5 
+Sylvia Allott                 7 Terry Keast            21 
+John Beaumont                21 David Hunter           13 
+                    Points:   7               Points:   1 
+                 Aggregate: 112            Aggregate:  67 
+
+Pearson Bros Trophy Division 5        Tue 16th Sep        
+          Hove Edge D              Luddenden Foot BC B    
+Linda Heyhoe                 19 Ray Wolsey             21 
+John Bentley                 21 Peter Richardson       13 
+Diane Brearley               17 Ian Armstrong          21 
+Paul Wilkinson               21 Stuart Gill             8 
+Chris Rhodes                 10 David McMahon          21 
+Philip Brearley               7 John Shann             21 
+                    Points:   2               Points:   6 
+                 Aggregate:  95            Aggregate: 105 
+
+   Marsden Trophy Division 1          Wed 17th Sep        
+        Brighouse BC A               Greetland BC A       
+Nigel Briggs                 12 Ken Fleming            21 
+Peter Owen                   21 Diane Simpson          15 
+Ronnie Wormald               21 Freda Jordan           16 
+John Horsley                 15 Peter Lea              21 
+John Bloomer                 21 Barry Sugden           13 
+Stuart Fletcher              21 George Simpson          4 
+                    Points:   6               Points:   2 
+                 Aggregate: 111            Aggregate:  90 
+
+   Marsden Trophy Division 1          Thu 18th Sep        
+          Hove Edge A                  Rastrick A         
+Graham Jackson               21 Roger Stopford         13 
+Nigel Firth                  21 Howard Dungworth       18 
+Keith Hatzer                 21 Jim Warne              19 
+Trevor Gasson                16 John Burnett           21 
+Chris Illingworth            20 Les Mitchell           21 
+Anthony James                21 David Wood             18 
+                    Points:   6               Points:   2 
+                 Aggregate: 120            Aggregate: 110 
+
+   Marsden Trophy Division 1          Thu 18th Sep        
+         Elland WMC A                Brighouse BC A       
+Melvyn Dunne                 21 Richard Hobson         11 
+Philip Binns                 21 John Bloomer           15 
+Vivian Smith                 21 Peter Owen             17 
+Ray Gledhill                 21 Stuart Fletcher        18 
+Brian Moroney                14 Ronnie Wormald         21 
+Clive Harte                  10 John Horsley           21 
+                    Points:   6               Points:   2 
+                 Aggregate: 108            Aggregate: 103 
+
+   Marsden Trophy Division 1          Thu 18th Sep        
+          Rastrick A                    Oxenhope          
+David Wood                    8 Fred Rothwell          21 
+Jim Warne                     9 Steve Griffiths        21 
+Roger Stopford               11 Peter Thompson         21 
+John Burnett                 21 Guy Barrie             17 
+Roy Chapman                  21 Derek Pollard          15 
+Les Mitchell                 21 David Kirkbright       12 
+                    Points:   3               Points:   5 
+                 Aggregate:  91            Aggregate: 107 
+
+ C.H.Marsden Trophy Division 3        Thu 18th Sep        
+         Outlane BC A               Hipperholme BC B      
+Chris Jepson                 21 Roger Bernard           9 
+Martin Skuse                 21 Paul Barnes {Mr}       13 
+David Frost                  21 Mel Green               9 
+Howard Owen                  21 Robert Sandie          14 
+Steve Lowther                21 John Denham            13 
+Lesley Lowther               20 John Donovan           21 
+                    Points:   7               Points:   1 
+                 Aggregate: 125            Aggregate:  79 
+
+ C.H.Marsden Trophy Division 3        Thu 18th Sep        
+        Stainland Park                 Hove Edge B        
+Terry Leach                  19 Brian Tyson            21 
+Julian Bull                   8 Steve Bloomer          21 
+Eaine Verner                 18 Judy Cockroft          21 
+Richard Severn               21 Joseph Philips         11 
+Trevor Wilcock               20 Steve Rathmell         21 
+Bernard Farrar               11 Michael Cowley         21 
+                    Points:   1               Points:   7 
+                 Aggregate:  97            Aggregate: 116 
+
+    Dyson Trophy Division 6           Thu 18th Sep        
+        Bailiff Bridge                Halifax BC E        
+Graham Whitworth             12 Alan Jeffs             21 
+Sandra Franz                 21 John Crowson            8 
+David Franz                  21 Lynda Canning          10 
+Ed Davison                   21 *No Player*             0 
+Jim Wheeler                  21 David Mitton           10 
+Graham Holmes                21 Steven Webster         12 
+                    Points:   7               Points:   1 
+                 Aggregate: 117            Aggregate:  61 
 
 

@@ -1,4 +1,4 @@
-=== Wakefield Saturday Bowling League 2025 (as of Sun 14th Sep)
+=== Wakefield Saturday Bowling League 2025
 === League Match Cards
 
        Division 1                Sat 5th Apr        
@@ -4294,5 +4294,33 @@ Anne Graham            21 *No Player*             0
 Rachael Gamble         21 *No Player*             0 
 Lynn Hutchinson        21 *No Player*             0 
            Aggregate: 161            Aggregate:  55 
+
+      Wakefield Cup             Sat 20th Sep        
+                                On SLAZENGERS       
+     OSSETT C&AC 'A'           OSSETT C&AC 'B'      
+Oscar Scott-Parker     21 Keith Hirstle          19 
+Sam Beresford          21 Svajunas Kapitan       10 
+Stuart Daniel          21 Tina Eyre              15 
+Robert Dunford         21 Neil Holmes             7 
+Chris Nuttall          21 Bryan Collier           4 
+Ben Sweeney            21 Linda Pearson          17 
+Peter Lamb             21 Andrew Callaghan       13 
+Mick Scott             21 Derek Heaton           12 
+            Handicap:  +8             Handicap: +32 
+           Aggregate: 176            Aggregate: 129 
+
+    Wakefield Shield            Sat 20th Sep        
+                                On SLAZENGERS       
+       ARDSLEY 'A'                 SANDAL           
+Marilyn Robinson        9 Roger Steel            21 
+Jim Leach              21 Andrea Banham          12 
+Derek Walker           21 Sarah Dixon            20 
+Paul Gilpin             3 Andrew Evison          21 
+Andrew Morley          11 David Dixon            21 
+Brian Weatherill       20 Robyn Walters          21 
+Glenn Parkinson        14 Rob Curzon             21 
+Gerry Swift             7 John Packer            21 
+            Handicap: +32             Handicap: +16 
+           Aggregate: 138            Aggregate: 174 
 
 
