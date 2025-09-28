@@ -1,4 +1,4 @@
-=== Huddersfield Works League 2025 (as of Sun 21st Sep)
+=== Huddersfield Works League 2025 (as of Sun 28th Sep)
 === Comp. Match Cards
 
          Division 1                   Thu 24th Apr          
@@ -1990,6 +1990,19 @@ P Fuller                   21 Richard Eaton              14
                Aggregate: 142                Aggregate: 135 
                   Points:   7                   Points:   3 
 
+         Division 3                   Fri 18th Jul          
+    Crested and Country B          A.U.S. Limited (A)       
+Derek Hey                  14 Carl Beaumont              21 
+Lyn Szlachcic              21 Micky Bell                 14 
+*No Player*                 0 E Bell                     21 
+Julie Wood                 21 Tony Stokes                18 
+Jean Barlow                21 Brian Gibson               13 
+Rita Lindley               21 Neil Tinker                13 
+Chris Roberts              21 Sophie McCaffrey           11 
+Jm Lindley                 18 Tim Healy                  21 
+               Aggregate: 137                Aggregate: 132 
+                  Points:   7                   Points:   3 
+
          Division 4                   Fri 18th Jul          
     Holroyd Construction             British Telecom        
 Martin Burke               21 Percy Harrison             18 
@@ -2158,6 +2171,19 @@ Andy Gregory               21 Graham Doughty             10
 N Booth                     7 Debra Neve                 21 
                Aggregate: 154                Aggregate:  94 
                   Points:   9                   Points:   1 
+
+         Division 1                   Fri 25th Jul          
+ Marshall Landscaping Prod A           H R Blowers          
+Nancy Harrison             14 David Cooper               21 
+Ian Ross                   21 Rhys Beaumont               3 
+John Belfield              21 Ann Kendal                 12 
+Karen Gant                 21 Gary Wike                  18 
+Roy Smith                   5 Craig Gant                 21 
+Joshua Stephans            21 Diane Balderson             4 
+Chris Churm                16 Jasmine Gant               21 
+Robert Schofield           21 Trevor Balderson           18 
+               Aggregate: 140                Aggregate: 118 
+                  Points:   7                   Points:   3 
 
          Division 2                   Fri 25th Jul          
  Roses Cleaning Services (B)          Paddock I & C         
@@ -2875,6 +2901,19 @@ Lewis Turton               21 Rob Spencer Jnr            12
                   Points:   4                   Points:   6 
 
          Division 1                    Thu 4th Sep          
+        Fox Engravers          Marshall Landscaping Prod A  
+Nathan Haigh               21 Karen Gant                 14 
+Jackie Haigh               21 John Belfield               8 
+Stephen Haigh              19 Ian Ross                   21 
+T Gledhill                 21 Robert Schofield           14 
+A Lumb                     21 Joshua Stephans             9 
+Harrison Messenger         21 Chris Churm                14 
+Jacob Jackson              15 Nancy Harrison             21 
+H Lumb                     21 Roy Smith                   5 
+               Aggregate: 160                Aggregate: 106 
+                  Points:   8                   Points:   2 
+
+         Division 1                    Thu 4th Sep          
  Roses Cleaning Services (A)           H R Blowers          
 Steven Shaw                15 Craig Gant                 21 
 Barbara Johnstone           9 Jeff Mellor                21 
@@ -3094,6 +3133,19 @@ Mick Mozley                15 A Rose                     21
 Jason Moore                21 M Armitage                  0 
                Aggregate: 131                Aggregate: 129 
                   Points:   5                   Points:   5 
+
+         Division 2                   Thu 11th Sep          
+        Paddock I & C                  C.T.Mowers           
+Graham Chadwick            21 Richard Brook              17 
+S Hudson                   20 Jason Shaw                 21 
+Glynn McQueen              17 John Hodgson               21 
+Jack Allen                 21 Geoff Martin                4 
+Gary Fretwell              21 Peter McWilliam             9 
+Tim Mitchell               21 Scott Shaw                 18 
+Nathan Hartley             10 Craig Dyson                21 
+Ben Jowett                 21 Jamie Shaw                 11 
+               Aggregate: 152                Aggregate: 122 
+                  Points:   7                   Points:   3 
 
          Division 2                   Thu 11th Sep          
         Storthes Hall                Spring Clean A         
@@ -3458,5 +3510,213 @@ Jenny Kilburn              21 Chris Wenzel               17
 Micheal Waleboer           11 Dianne Moore               21 
                Aggregate: 129                Aggregate: 149 
                   Points:   4                   Points:   6 
+
+         Division 1                   Thu 25th Sep          
+ Roses Cleaning Services (A)          CP Electrical         
+Lorraine Hirst             21 Samuel Dews Jr             19 
+Jayne Armitage              3 Richard Mozley             21 
+Dean Shaw                  12 Dan Shaw                   21 
+Carl Taylor                21 Richard Singleton          18 
+Steven Shaw                21 Brin The Bin May           16 
+A Rose                     21 Simon Meerers              15 
+D Frost                    10 Thomas Mozley              21 
+M Armitage                 21 Anthony Cross              14 
+               Aggregate: 130                Aggregate: 145 
+                  Points:   5                   Points:   5 
+
+         Division 1                   Thu 25th Sep          
+ M.Thornton Estate Agents A           Fox Engravers         
+Lewis Turton               12 Nathan Haigh               21 
+Mike Thornton               8 Harrison Messenger         21 
+Glynis Philbin             18 Jackie Haigh               21 
+Geoff Stott                21 Jacob Jackson              14 
+Barry Tinker               21 Mark Berry                 16 
+Richard Turton             10 H Lumb                     21 
+Tony Allen                 21 T Gledhill                 11 
+R Whitcombe                13 Stephen Haigh              21 
+               Aggregate: 124                Aggregate: 146 
+                  Points:   3                   Points:   7 
+
+         Division 1                   Thu 25th Sep          
+M.Taylor Wagons and Trailers           Debriar Ltd          
+Kev Mozley                 16 Dougie Hamilton            21 
+Tom Chatfield              21 Linda Gledhill             13 
+Michelle Booth             18 Chris Simmons              21 
+Karen Rausse               21 Simon Howard               17 
+Mick Mozley                10 Lynn Carter                21 
+Chris Conway               17 Mark Wilde                 21 
+Keith Hanley               21 Sally Howard               20 
+Jason Moore                21 John Mitchell              19 
+               Aggregate: 145                Aggregate: 153 
+                  Points:   4                   Points:   6 
+
+         Division 2                   Thu 25th Sep          
+    M.H.Lockwood Con O.B.      Roses Cleaning Services (B)  
+C Ball                     21 Eileen Johnson             15 
+Steve Allen                14 Jeremy Ford                21 
+Stacey Dyson               20 Shirley Dillingham         21 
+A Harper                   21 G Woodruff                  8 
+Darren Slattery            19 David Woodruff             21 
+J Conneely                 14 Barbara Johnstone          21 
+R Walsh (snr)              21 Martin Moran               14 
+R Walsh (jnr)              18 Dennis Fuller              21 
+               Aggregate: 148                Aggregate: 142 
+                  Points:   5                   Points:   5 
+
+         Division 2                   Thu 25th Sep          
+        Golcar Lib A                   Broadbent B          
+Mark Sykes                 21 Jim Chadwick               11 
+Ian Brogden                21 Kathryn Garside            10 
+Stuart Manson              21 Steve Halsall              15 
+Billy Shaw                 21 Dennis Hufton               2 
+Shaun Mitchell             21 David Ashworth             11 
+Sean Price                 21 Graham Radcliffe           15 
+Tim Bolton                 21 Colin Hufton               15 
+Carl Allen                 21 Abbie Garside              16 
+               Aggregate: 168                Aggregate:  95 
+                  Points:  10                   Points:   0 
+
+         Division 3                   Thu 25th Sep          
+H.R.U.F.C.The Waterloo Suite    Holme Valley Bath Design    
+Mark Wallis                 7 Peter Burgess              21 
+Nigel Roebuck              21 John Harrison              18 
+Alan Dean                  21 Ian Johnson                19 
+Ann Stephenson             20 Bruce Jakeman              21 
+Andrew Livingstone         21 D Lomax                     6 
+Barbara Mark               18 Alan Hufton                21 
+Frank Westerby             14 Whiteley Robert            21 
+Peter Hepworth             21 Malcolm McRae              13 
+               Aggregate: 143                Aggregate: 140 
+                  Points:   6                   Points:   4 
+
+         Division 3                   Thu 25th Sep          
+    Huddersfield Auctions               Car Gods            
+Pat Beevers                18 Megan Beresford            21 
+Graham Beevers              8 James Robson               21 
+Charlie Sykes              11 Julie Robson               21 
+Norman Booth               21 Lisa Robson                11 
+Matty Mongon               18 Tony Falck                 21 
+John Greenwood             21 Wendy Smith                 4 
+Lee Collinson              21 Mick Haigh                 12 
+Colin Wood                 21 Susan Livingstone          13 
+               Aggregate: 139                Aggregate: 124 
+                  Points:   6                   Points:   4 
+
+         Division 3                   Thu 25th Sep          
+         Broadbent A              R. Lambert Transport      
+John Burnett               21 Dianne Sykes               12 
+Steve Cameron              21 Ann Taylor                  7 
+Alan Brown                 21 Tony Yates                 11 
+Richard Crossland          17 Julie Roper                21 
+Malcolm Stead              21 David Phillips             12 
+Patrick Conneely           20 M Sykes                    21 
+W Garside                  21 L Armitage                 14 
+Derek Hewitt               21 R Howard                   16 
+               Aggregate: 163                Aggregate: 114 
+                  Points:   8                   Points:   2 
+
+         Division 3                   Thu 25th Sep          
+  Hudds Catering Engineers        Crested and Country B     
+S Morgan                   21 Derek Hey                  19 
+P Mitton                   12 Julie Wood                 21 
+B Blacker                  21 Graham Helm                15 
+Robert Gledhill            21 Margaret Horner             8 
+Paul Crosland              21 Rita Lindley               20 
+P Dixon                    21 Jm Lindley                 12 
+D Schofield                15 Chris Roberts              21 
+Paul Booth                 17 Lyn Szlachcic              21 
+               Aggregate: 149                Aggregate: 137 
+                  Points:   7                   Points:   3 
+
+         Division 4                   Thu 25th Sep          
+     Steve's At The Mill                Veissman            
+Peter Crowther             12 Neil Croasdell             21 
+Janet Smith                10 Reigan Lunn                21 
+Steven Hirst               21 Darren Hepke                9 
+Graham Shaw                21 Dennis Hirst               15 
+Yvonne Heaume              21 Howard Young               20 
+S Grey                     18 Richard Eaton              21 
+N Booth                    21 Anthony Lunn               12 
+L Booth                    15 Scott Thornton             21 
+               Aggregate: 139                Aggregate: 140 
+                  Points:   4                   Points:   6 
+
+         Division 4                   Thu 25th Sep          
+       Frost Logistics               British Telecom        
+Maxine Fox                 17 Paul Haigh                 21 
+Maureen Robb                9 Peter Clay                 21 
+Nigel Kain                 21 Lisa Taylor                12 
+C Littlewood               19 David Kilner               21 
+Jane England               16 Richard Cook               21 
+Billie Beattie             21 Richard Taylor             17 
+Dale Wadsworth             10 Phil Goodge                21 
+Alan Hobson                13 Phillip Battye             21 
+               Aggregate: 126                Aggregate: 155 
+                  Points:   2                   Points:   8 
+
+         Division 1                   Fri 26th Sep          
+    Crested and Country A      Marshall Landscaping Prod A  
+Ed Haigh                   21 Chris Churm                11 
+Stephen Bramall            21 Robert Schofield            6 
+Micheal Peace              21 John Belfield              14 
+Robert Barlow              15 Karen Gant                 21 
+Jean Barlow                13 Nancy Harrison             21 
+Micheal Pollard            14 Ben Fisher                 21 
+Dawn Jessop                21 Roy Smith                   9 
+John Lindley               21 John Gant                   2 
+               Aggregate: 147                Aggregate: 105 
+                  Points:   7                   Points:   3 
+
+         Division 2                   Fri 26th Sep          
+       Spring Clean A                  Broadbent B          
+Chris Armitage             21 David Pollard              14 
+Richard Halliwell          21 Kathryn Garside            19 
+T Harrison                 21 Abbie Garside               9 
+Nigel Beecroft             21 Jim Chadwick               17 
+Daniel Berry               14 Dennis Hufton              21 
+Robert Tracey              17 Graham Radcliffe           21 
+Mark Berry                 17 David Ashworth             21 
+Ben Crosland               14 Steve Halsall              21 
+               Aggregate: 146                Aggregate: 143 
+                  Points:   6                   Points:   4 
+
+         Division 2                   Fri 26th Sep          
+         C.T.Mowers                   Golcar Lib A          
+Heather Dyson              21 Tim Bolton                 16 
+Michael Higgins            21 Sean Price                 18 
+Richard Brook              21 Stuart Manson              18 
+Luke Morgan                21 John Ainley                12 
+Peter McWilliam            18 Ashton Ainley-Wood         21 
+Jamie Shaw                 21 Shaun Mitchell             11 
+Craig Dyson                15 Carl Allen                 21 
+Jason Shaw                 19 Billy Shaw                 21 
+               Aggregate: 157                Aggregate: 138 
+                  Points:   7                   Points:   3 
+
+         Division 2                   Fri 26th Sep          
+ Roses Cleaning Services (B)          Storthes Hall         
+Dennis Fuller              21 Danny Curran               12 
+Shirley Dillingham          6 Cash Brook                 21 
+Eileen Johnson              5 Stacey Shaw                21 
+Barbara Johnstone          21 Katy Atkinson               9 
+Martin Moran               21 Craig Beachill              2 
+Mark Woodruff              13 Claire Carruthers          21 
+G Woodruff                 21 Shaun Jessop               15 
+David Woodruff             15 Kris Lunn                  21 
+               Aggregate: 123                Aggregate: 122 
+                  Points:   6                   Points:   4 
+
+         Division 4                   Fri 26th Sep          
+    Holroyd Construction             Spring Clean B         
+Elaine Carter-Burke        21 Graham Doughty              5 
+Janet Bennett              19 Ian Schofield              21 
+Lindsay Ainley-Wood        21 Katie Thorpe                3 
+Cynthia Scaife             20 Sarah Halliwell            21 
+Craig Denton               21 Hayden Bandey              12 
+Andrew Wood                21 Linda Davies                8 
+Martin Burke               21 David Bandey               16 
+Ben Dyson                  21 Allison Schofield          11 
+               Aggregate: 165                Aggregate:  97 
+                  Points:   8                   Points:   2 
 
 

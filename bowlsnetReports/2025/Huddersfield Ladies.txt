@@ -1,4 +1,4 @@
-=== Huddersfield Ladies Bowling League 2025 (as of Sun 21st Sep)
+=== Huddersfield Ladies Bowling League 2025
 === League Match Cards
 
           Section C                    Mon 14th Apr         
@@ -6133,5 +6133,53 @@ Eve Johnson                 21 Mandy Taylor               6
 Diane Clifford              16 Janet Beaumont            21 
 Louise Sadler               21 Jacky Connolly            16 
                 Aggregate: 157               Aggregate: 125 
+
+          Section D                    Mon 22nd Sep         
+       Lowerhouses CBC                   Shepley            
+Michelle Booth              21 Heather Raper              4 
+Sue Hanson                  21 Yvonne Harding             6 
+Sue Brennan                 11 Pamela McMath             21 
+Lea Walker                  14 Christine Hewitt          21 
+Rosemary Andrews            21 Jean Walton               18 
+Jane Sykes                  15 Elizabeth Hirst           21 
+Ann Dobson                  12 Andrea Oldham             21 
+Judith France               12 Margaret Wimpenny         21 
+                Aggregate: 127               Aggregate: 133 
+
+          Section B                    Tue 23rd Sep         
+        Almondbury Lib             Kirkheaton C & BC A      
+Leanne McGowan              21 Barbara Flaherty          10 
+Chelsea Crawley             17 Margaret Hennigan         21 
+Elizabeth Martin            21 Jean Pickup               17 
+Louise Hick                 21 Elaine Hirst               7 
+Jean Martin                 21 Christine Wood            13 
+Leigh-Ann Short             21 Margaret Inman            13 
+Yvonne Heaume               12 Silva Scott               21 
+Heather Dyson               21 Lesley Dearnley            9 
+                Aggregate: 155               Aggregate: 111 
+
+          Section E                    Tue 23rd Sep         
+          Longwood A                   Lindley Lib          
+Pamela Atkins                7 Iris Perkins              21 
+Priti Gohil                 11 Julie Shaw                21 
+Cheryl Reid                 15 Lynda Dyson               21 
+Julie Russell                4 Denise Jones              21 
+Helen Snashall               3 Carol Skuse               21 
+Julie McDowell              17 Rita Doran                21 
+Melanie Mason               12 Pat Rowley                21 
+Dee Haigh-Elmore             7 Nikki Conway              21 
+                Aggregate:  76               Aggregate: 168 
+
+          Section A                    Wed 24th Sep         
+        Thongsbridge A                  Marsh Utd           
+Nancy Harrison              21 Sue Bentley               10 
+Liz Wiltshire               13 Sarah Oliver              21 
+Gill Hallas                 13 Lynn Carter               21 
+Ann Smith                   17 Sally Howard              21 
+Pat Beever                  11 Susan Scott               21 
+Pat Hodgson                 20 Barbara Johnstone         21 
+Marie Nicholson             21 Jane Hollingworth         20 
+Alison Brennan              14 Pat Taylor                21 
+                Aggregate: 130               Aggregate: 156 
 
 

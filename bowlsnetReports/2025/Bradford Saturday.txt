@@ -1,4 +1,4 @@
-=== Bradford (Saturday) 2025 (as of Sun 21st Sep)
+=== Bradford (Saturday) 2025
 === Comp. Match Cards
 
  Division 1 (Naylor Premier)          Sat 12th Apr         
@@ -6531,5 +6531,80 @@ Steven Bussingham           7 Kevin Ackroyd             21
                    Games:   5                   Games:   3 
                Aggregate: 139               Aggregate: 133 
                   Points:  16                  Points:  12 
+
+ Division 1 (Naylor Premier)          Mon 22nd Sep         
+     Brighouse Sports A                   Wyke             
+Stuart Fletcher            20 Trevor Benn               21 
+John Horsley               21 Ian Wilson                10 
+Daniel Dunkerley           21 Nigel Wormald             11 
+Ian Moxon                  11 Martin Atkinson           21 
+John Bloomer               21 Paul Metcalf              13 
+Graham Roberts             21 Neil Tordoff              20 
+Helen Simpson              21 Gareth Metcalf            18 
+Dale Dyson                 14 Mark Regan                21 
+Bailey Dawson              21 Daniel Barker             14 
+Robert Hopper              21 David Craigie             20 
+                   Games:   7                   Games:   3 
+               Aggregate: 192               Aggregate: 169 
+                  Points:  20                  Points:  10 
+
+ Division 1 (Naylor Premier)          Wed 24th Sep         
+        Shipley Club                Spen Victoria A        
+David Bland                21 Kevin Wood                 5 
+Scott Bloodworth           21 Mally Fowler              13 
+Richard Bloodworth         19 Chris Ellis               21 
+Craig Fenton               18 Phil Bryant               21 
+Matthew Jacques 'A'        21 Garry Walker              16 
+Chris Jacques              21 Lucas Wood                12 
+Ian Jacques                21 Lewis Pember              15 
+Daniel Metcalfe            21 Debi Davis                 7 
+John Sample                21 Andrew Gallagher          16 
+Andrew Walker              17 Peter Ellis               21 
+                   Games:   7                   Games:   3 
+               Aggregate: 201               Aggregate: 147 
+                  Points:  23                  Points:   7 
+
+Division 4 (Bartle) 8 Player          Sat 27th Sep         
+         Hove Edge B                West Bradford A        
+Douglas Haigh              21 Eddie Pells               15 
+Terry Allington            21 Lesley Pawson             18 
+Janet Carney               13 John Shoesmith            21 
+Neil Mount                 21 Kevin Buckley             15 
+Judy Cockroft              21 Jacqui Wood                2 
+Christine Barker           21 Paul Wood                  5 
+Chris Illingworth          21 Bill Hutchinson           19 
+Richard Brown              20 Sandra Cooper             21 
+                   Games:   6                   Games:   2 
+               Aggregate: 159               Aggregate: 116 
+                  Points:  21                  Points:   7 
+
+ Division 5 (Haigh) 8 Player          Sat 27th Sep         
+                                     On Brackenhill        
+       Spen Victoria C                Brackenhill          
+Archie Wood                21 John Howarth               8 
+Ken Spencer                21 Jackie Wilkinson          18 
+Chloe Morton               21 Michael Feeley            10 
+Terry Varney               14 Madeline Gamble           21 
+Richard Morton             18 Kathy Wilford             21 
+Lexie Gould                18 Tony Cockcroft            21 
+Leigh Manton               16 Graham Wilkinson          21 
+Phil Rayner                21 Andrew Mackrill           11 
+                   Games:   4                   Games:   4 
+               Aggregate: 150               Aggregate: 131 
+                  Points:  16                  Points:  12 
+
+Division 4 (Bartle) 8 Player          Sun 28th Sep         
+ Hipperholme & Lightcliffe B            Pudsey C           
+Chris Peever               18 Rick Pearson              21 
+Robin Sugden               21 Melissa Morris            13 
+Alan Jacques               21 Hannah Leaf               15 
+Karen Healey               21 Steve Harwood             18 
+Rob Sandie                 21 David Elliott             13 
+Chris Marlow               21 Sam Hunak                  7 
+David Healey               21 David McDonald            14 
+Steve Oakes                15 Colin Dibb                21 
+                   Games:   6                   Games:   2 
+               Aggregate: 159               Aggregate: 122 
+                  Points:  20                  Points:   8 
 
 

@@ -1,4 +1,4 @@
-=== North Kirklees (Vets) 2025 (as of Sun 21st Sep)
+=== North Kirklees (Vets) 2025
 === League Match Cards
 
        Division 1                 Tue 15th Apr           
@@ -3979,5 +3979,17 @@ Maureen Harrison       3 Tony Dickinson               21
 Fred Holderness       12 Steve Bell                   21 
 Sonia Proctor         14 Leslie Bell                  21 
           Aggregate: 105                  Aggregate: 160 
+
+       Division 1                 Tue 23rd Sep           
+       Ossett - A                Mirfield Parish         
+Mick Scott            21 Michael McKellor             19 
+David Clarke          21 Karl Denville                 5 
+Philip Long           21 David Laycock                16 
+Tom McAlister         21 Paul Phillips                14 
+Gary Foulkes          21 Sam McFarland                 9 
+Neil Holmes           21 Vera Battye                   9 
+Andrew Callaghan      21 Malcolm Battye                1 
+Peter Lamb            21 Ray Downes                    4 
+          Aggregate: 168                  Aggregate:  77 
 
 

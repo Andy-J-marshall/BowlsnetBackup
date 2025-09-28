@@ -1,4 +1,4 @@
-=== Castleford Vets (Singles) 2025 (as of Sun 21st Sep)
+=== Castleford Vets (Singles) 2025
 === League Match Cards
 
      Premier Section              Mon 7th Apr         
@@ -4912,5 +4912,15 @@ Martin Atkinson         21 John Bailey              4
 Michael Mason           21 Gordon Davison           5 
 David Wilson            21 Terry Collier           11 
             Aggregate: 108             Aggregate:  68 
+
+       Section 'C'                Mon 22nd Sep        
+         Aberford                  Cas Town B         
+Gordon Davison          21 Julie Ratcliffe         11 
+Terry Collier           21 Trevor Hawkin           11 
+Terry Beaumont           9 Terry Ratcliffe         21 
+Paul Farrer             21 John Munday              8 
+John Ramsbottom         18 Glynn Bentley           21 
+*A.N.Other*             21 *No Player*              0 
+            Aggregate: 111             Aggregate:  72 
 
 
