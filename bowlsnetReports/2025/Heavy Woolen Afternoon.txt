@@ -1,4 +1,4 @@
-=== Heavy Woollen Afternoon League 2025 (as of Sun 28th Sep)
+=== Heavy Woollen Afternoon League 2025
 === League Match Cards
 
         Division 1                Mon 7th Apr         
@@ -1560,7 +1560,7 @@ Susan Wright             8 Jon Edmondson           21
                                On Almondbury Libs     
     Hanging Heaton 'A'          Almondbury Libs       
 Roger Lunn              21 Hazel Lunn              16 
-Jacob Amatt             21 Jacqueline Roper        20 
+Jacob Amatt             21 Jacqui Haigh            20 
 David Armitage          21 Suzy Ladbrook           17 
 Kath Robinson           13 Andy Carter             21 
 Malcolm Preston         21 Jean Winchcombe          3 
@@ -4924,5 +4924,215 @@ Hazel Cullen            21 Lynn Lawson              8
 Martin Cullen           21 James Thomas            12 
 Margaret Skinner        11 Tony Meehan             21 
             Aggregate: 116             Aggregate:  76 
+
+        Division 1                Mon 29th Sep        
+    Ossett C & AC 'A'         Heckmondwike BC 'A'     
+Oscar Scott-Parker      21 Jacob Hatfield-Goodall  14 
+Robert Dunford          21 Alex Edmondson           8 
+Mick Scott              21 Roy Carter               8 
+Graeme Eyre             13 Mark Goodall            21 
+Martin Cross            21 Sean Carter             20 
+Chris Nuttall           21 Darren Goodall           8 
+            Aggregate: 118             Aggregate:  79 
+
+        Division 1                Mon 29th Sep        
+    Hanging Heaton 'A'       Mirfield Old Bank 'A'    
+Malcolm Preston         21 Graham Pearce            4 
+Roger Lunn              21 Norman Booth            16 
+Derek North             21 Steven Bedford           7 
+Mark McGuire            21 Bruce Illingworth       18 
+Kath Robinson           21 Charlie Sykes            9 
+Pam Lindley             21 Mark Prideaux           15 
+            Aggregate: 126             Aggregate:  69 
+
+        Division 1                Mon 29th Sep        
+   Thornhill C & BC 'A'         Denby Grange 'A'      
+Steve Wainwright        17 Paul Mottram            21 
+Mandy Mitchell          21 Josh Broadhead           9 
+Hazel Cullen            15 Luke Gant               21 
+Jenny Gray              21 Raymond Hughes          13 
+Claire Price            21 Ian Davis               15 
+Andy Mitchell           20 David Walker            21 
+            Aggregate: 115             Aggregate: 100 
+
+        Division 1                Mon 29th Sep        
+  Mirfield Old Bank 'B'        Almondbury BC 'A'      
+Harold Hick             12 Allison Schofield       21 
+Frank Richardson        18 Robert Tracey           21 
+Colin Fisher            18 John Clarkson           21 
+Paul Hartley            16 Simon Neve              21 
+Mark Morton             17 Richard Brook           21 
+Michael Addy            19 Terry Machen            21 
+            Aggregate: 100             Aggregate: 126 
+
+        Division 1                Mon 29th Sep        
+       Morton House             Almondbury Libs       
+Douglas Bulmer          21 Linda Gledhill          16 
+David Payne             21 Jackie Haigh            20 
+Sam Kelly               20 Suzy Ladbrook           21 
+Angie Whitworth         21 Julie Best               6 
+Micheal Robinson        21 Lynn Carter             11 
+James Payne             21 Tony Schofield          14 
+            Aggregate: 125             Aggregate:  88 
+
+        Division 2                Mon 29th Sep        
+    Mirfield Parish BC         Ossett C & AC 'B'      
+David Renshaw           21 Bryan Collier           15 
+Michael McKellor         1 Andrew Callaghan        21 
+Karl Denville           11 Nora Collier            21 
+Ray Downes              21 John Kellett            15 
+Paul Phillips           21 John D Ellis            14 
+Stuart Burton           21 Karen Kellett           19 
+            Aggregate:  96             Aggregate: 105 
+
+        Division 2                Mon 29th Sep        
+    Scatcherd Park 'A'            Grange Moor         
+Terry Dillon            21 Dale Winterbottom       12 
+Eliiot Beddard          17 Mel Walker              21 
+Ken McRae               17 David Bolger            21 
+Michael Geary            4 Deon Hunter             21 
+Geoff Firth             17 Gordon Walker           21 
+Graham Goodall          14 Paul Schofield          21 
+            Aggregate:  90             Aggregate: 117 
+
+        Division 2                Mon 29th Sep        
+  Kirkheaton C & BC 'A'          Moldgreen Cons       
+Tommy Flaherty          11 Lynda Drury             21 
+Patricia Stephenson     21 Carole Harpin           17 
+Gareth Morris           18 Suzanne Howarth         21 
+Colin Sykes             16 Trevor Atkinson         21 
+Liz McNeill             14 Andy Wike               21 
+Nick Stenhouse          21 Lyn Szlachck             8 
+            Aggregate: 101             Aggregate: 109 
+
+        Division 2                Mon 29th Sep        
+      Slazengers BC             Honley Cons 'A'       
+Maureen Jennings        21 Graham Berry            10 
+Wendy Stansfield        15 Nick Hirst              21 
+Carol Boyer             21 Ian Wimpenny            15 
+Julie Dexter            20 David Sykes             21 
+Norman Stansfield       12 Andrew Turner           21 
+Stephen Boyer           14 Garry Armitage          21 
+            Aggregate: 103             Aggregate: 109 
+
+        Division 3                Mon 29th Sep        
+  Ravensknowle Park 'A'       Earlsheaton Park 'A'    
+Linda Wood              21 David Watson            12 
+Ian Hunter              21 Stephen Michell          9 
+Jean Cain               21 Brian Higgins           16 
+Wayne Ogilvie           21 Margaret Higgins         2 
+Arthur Haigh            18 Harry Goodall           21 
+Barry Wood              11 Albert Simmonds         21 
+            Aggregate: 113             Aggregate:  81 
+
+        Division 3                Mon 29th Sep        
+   Birkenshaw Park 'A'         Hanging Heaton 'B'     
+Peter Mortimer           7 Mick Underhill          21 
+Joanne Furey            21 Andrew Wood             15 
+William Naven           13 Derek Robinson          21 
+Jean Mortimer            8 Tony Howland            21 
+Steven Smith            11 David Whitaker          21 
+Ken Moran                8 Peter Byrne             21 
+            Aggregate:  68             Aggregate: 120 
+
+        Division 3                Mon 29th Sep        
+   Cleckheaton Moorend          Lower Hopton 'B'      
+Martin Bailey           15 Graham Knutton          21 
+Robert Hoyle             5 Duncan Terry            21 
+Barbara Woodcock        17 Alan Overend            21 
+Frank Turnbull          14 Les Holmes              21 
+David Lloyd             21 Greg Whitworth           6 
+Ann Fisher              21 Paul Ryan               16 
+            Aggregate:  93             Aggregate: 106 
+
+        Division 3                Mon 29th Sep        
+     Honley Cons 'B'          Kirkheaton Cons 'A'     
+Michelle Booth          21 Gerald Holdroyd          6 
+Chris Brook             21 Elizabeth Gilbert       10 
+Andrew Westacott        15 Sylvia Lane             21 
+Steve Lee               21 Anita Cuniffe            5 
+Rob Edwards             21 Lynn Holdroyd           19 
+Wayne Jenkinson         21 Harriot Chadwick        12 
+            Aggregate: 120             Aggregate:  73 
+
+        Division 4                Mon 29th Sep        
+       Soothill BC              Rock House Park       
+Stephen Hall            21 Malcolm Battye          16 
+Stuart Gledhill         21 Julie Bownass           18 
+Peter Richardson        21 Yvonne Ainley           10 
+David Broadhead         21 Samual McFarland        20 
+Carole Gatrell          21 Karen Ainley             7 
+Ian Taylor              21 Vera Battye              4 
+            Aggregate: 126             Aggregate:  75 
+
+        Division 4                Mon 29th Sep        
+    Almondbury BC 'B'            Sandal BC 'A'        
+Ian Schofield           17 Rob Curzon              21 
+Chris Major             21 Sarah Dixon              9 
+David Bandey            21 David Bancroft          14 
+Duncan Johnston         21 David Dixon             11 
+David Monks             16 Doug Lawson             21 
+Debra Neve              21 John Packer              8 
+            Aggregate: 117             Aggregate:  84 
+
+        Division 4                Mon 29th Sep        
+   Kirkheaton Cons 'B'       Kirkheaton C & BC 'B'    
+Stuart Goddard          21 Mike Smyth               7 
+Steve Mitchell          21 Tony Dawson             18 
+Dave McSweeney           9 Sonja Sanderson         21 
+Maurice Garforth        12 David Kilner            21 
+Ian Johnsey             21 Geoff Pearson           10 
+Brian Parker            21 Liz Kilner               9 
+            Aggregate: 105             Aggregate:  86 
+
+        Division 4                Mon 29th Sep        
+     Denby Grange 'B'        Cleckheaton Sports 'B'   
+Linda Scott             21 Ian Gatenby              9 
+Andrea Daniels          10 Robert Watson           21 
+Nadine Martin            5 Stuart Johnson          21 
+Julie Makepeace         21 Geoff Thornton          18 
+Malcolm Brown           21 Steve Ineson            16 
+Phillip Wood            21 Keith Colton            18 
+            Aggregate:  99             Aggregate: 103 
+
+        Division 5                Mon 29th Sep        
+    Ossett C & AC 'D'         Thornhill C & BC 'B'    
+Beverley Bullock        21 Brian Skinner           15 
+Malcolm Eadie           21 Martin Cullen           19 
+Keith Batley            21 Joyce Tolson            11 
+Edward Bullock          18 Malcolm Parkinson       21 
+Terry Fletcher          21 David Tolson             7 
+Connor Dunford          21 Bill Chambers            1 
+            Aggregate: 123             Aggregate:  74 
+
+        Division 5                Mon 29th Sep        
+  Kirkheaton C & BC 'C'        Scatcherd Park 'B'     
+Margaret Hennigan       21 Chris Roy Stuart        19 
+Robert Boyles           21 Andrea Gardiner          7 
+Andrew Lodge            21 Peter Oldfield           9 
+John Taylor             21 Michael Geary           11 
+Silva Scott             14 Kevin Chadwick          21 
+Nick Dunn               21 Roy Mitchell            20 
+            Aggregate: 119             Aggregate:  87 
+
+        Division 5                Mon 29th Sep        
+      Sandal BC 'B'            Scatcherd Park 'C'     
+Ann Reeve               14 Wendy Leybourne         21 
+Dawn Nicks              21 Sandra Foster           17 
+Lynn Lawson             21 Roy Kellet              13 
+James Thomas            18 Keith Kincaid           21 
+Ken Barton              21 Derek Ludlam            18 
+Judy Tunley              8 Ian Dufton              21 
+            Aggregate: 103             Aggregate: 111 
+
+        Division 5                Mon 29th Sep        
+   Earlsheaton Park 'B'      Ravensknowle Park 'B'    
+Marjorie Artley         20 Hillary Easingwood      21 
+Marjorie Dyson          18 Angela Shaw             21 
+Peter Naylor            21 Maureen Clark           12 
+Brian Dean               4 Edward McGrath          21 
+Donald Warters          21 Edward Bailes           13 
+Sonia Proctor           18 Kevin Cresswell         21 
+            Aggregate: 102             Aggregate: 109 
 
 

@@ -1,4 +1,4 @@
-=== Huddersfield Works League 2025 (as of Sun 28th Sep)
+=== Huddersfield Works League 2025 (as of Sun 5th Oct)
 === Comp. Match Cards
 
          Division 1                   Thu 24th Apr          
@@ -1018,7 +1018,7 @@ Graham Doughty              5 Martin Burke               21
          Division 1                    Thu 5th Jun          
  M.Thornton Estate Agents A    Marshall Landscaping Prod A  
 Geoff Stott                21 John Gant                  13 
-Mike Thornton               8 Ian Rosd                   21 
+Mike Thornton               8 Ian Ross                   21 
 Graham Sigsworth           21 Nancy Harrison             12 
 Richard Turton             18 Simon Hough                21 
 Glynis Philbin             21 Robert Schofield           20 
@@ -2705,6 +2705,19 @@ S Oliver                   18 Carl Taylor                21
                Aggregate: 154                Aggregate: 133 
                   Points:   6                   Points:   4 
 
+         Division 1                   Thu 28th Aug          
+         H R Blowers          M.Taylor Wagons and Trailers  
+Rhys Beaumont              21 Karen Rausse               12 
+Craig Gant                 21 Michelle Booth              9 
+Jeff Mellor                15 Mick Mozley                21 
+Cameron Duffy              21 Nigel Dyson                17 
+Chloe Ghaffar              21 Keith Hanley               11 
+Jasmine Gant               19 Chris Sykes                21 
+Trevor Balderson           16 Tom Chatfield              21 
+Ann Kendal                 21 Kev Mozley                 17 
+               Aggregate: 155                Aggregate: 129 
+                  Points:   7                   Points:   3 
+
          Division 2                   Thu 28th Aug          
          Broadbent B                   C.T.Mowers           
 John Doyle                 10 Richard Brook              21 
@@ -3718,5 +3731,18 @@ Martin Burke               21 David Bandey               16
 Ben Dyson                  21 Allison Schofield          11 
                Aggregate: 165                Aggregate:  97 
                   Points:   8                   Points:   2 
+
+         Division 4                    Thu 2nd Oct          
+ Marshall Landscaping Prod B   M.Thornton Estate Agents B   
+Moira Steadman              4 Micheal Anderson           21 
+Gill Hallas                21 Janet Allen                17 
+Katie Engel                10 Cole Bartys                21 
+Bryan Carter               21 Alister Henderson          17 
+Ann Smith                  17 Ken Ellis                  21 
+David Cooper               21 Roman Bartys               17 
+John Midgley               21 Mark Rushworth             18 
+Chris Motley               10 S Scott                    21 
+               Aggregate: 125                Aggregate: 153 
+                  Points:   4                   Points:   6 
 
 
