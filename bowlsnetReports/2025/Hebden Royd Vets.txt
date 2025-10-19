@@ -1,4 +1,4 @@
-=== Halifax (Hebden Royd Vets) 2025 (as of Sun 12th Oct)
+=== Halifax (Hebden Royd Vets) 2025 (as of Sun 19th Oct)
 === League Match Cards
 
          Division 3                 Wed 2nd Apr        
@@ -3740,5 +3740,49 @@ Adam Schofield                Martin Greenwood
                   Points:  11              Points:  10 
                Aggregate:  51           Aggregate:  51 
                    Games:   2               Games:   1 
+
+    Old Town Floodlit 4s            Wed 15th Oct       
+ Old Town Floodlit 4s (Wed)         On Old Town        
+           Bronte                   Frogboilers        
+Charlie Heaton             12 Steve Griffiths       21 
+Sean Picken                 8 Mick Dunn             21 
+Mary Hemsley               21 Keith Ronaldson       19 
+Steve Heaton                  Carol Jackson            
+                  Points:   8              Points:  14 
+               Aggregate:  41           Aggregate:  61 
+                   Games:   1               Games:   2 
+
+    Old Town Floodlit 4s            Wed 15th Oct       
+ Old Town Floodlit 4s (Wed)         On Old Town        
+          Solomons                  Old Towners        
+Pete Hepworth              21 Mick Skwarek           6 
+Nigel Graham               21 Sue Martin            19 
+Neil Madden                14 John Hartley          21 
+Marcus Grundy                 Harry Ashworth           
+                  Points:  12              Points:  10 
+               Aggregate:  56           Aggregate:  46 
+                   Games:   2               Games:   1 
+
+    Old Town Floodlit 4s            Wed 15th Oct       
+ Old Town Floodlit 4s (Wed)         On Old Town        
+         Riversiders                Incredibowls       
+Ian Armstrong              21 Peter Ousey           17 
+Kevin Mitchell              6 Richard Hemsley       21 
+Kath Mitchell              12 Steve Collier         21 
+Chris Mitchell                Fred Rothwell            
+                  Points:   8              Points:  13 
+               Aggregate:  39           Aggregate:  59 
+                   Games:   1               Games:   2 
+
+    Old Town Floodlit 4s            Wed 15th Oct       
+ Old Town Floodlit 4s (Wed)         On Old Town        
+            Vizzy                     Cobblers         
+Jacub Harvey               11 Daniel Hargreaves     21 
+Tom Faulkner                8 Richard Hargreaves    21 
+Vivienne Bewick             5 Neill Hargreaves      21 
+Izzy Williams                 Thomas Hargreaves        
+                  Points:   4              Points:  15 
+               Aggregate:  24           Aggregate:  63 
+                   Games:   0               Games:   3 
 
 

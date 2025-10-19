@@ -81,9 +81,9 @@ John Ollerenshaw          Richard Walsh
 Roger Lunn              8 Edwin Haigh            21 
 Paul Hartley           12 Tim Poulter            21 
 Mick McCluskey         20 Malcolm Gilbert        21 
-Robert Mudd            21 J Lindley              13 
+Robert Mudd            21 John Lindley           13 
 Peter Atherton         20 Colin Lloyd            21 
-Paul Toon                 J Stokes                  
+Paul Toon                 John Stokes               
 Peter Henshaw          11 Robert Barlow          21 
 John Mitchell             J Waltham                 
 Ian Lunn               21 Steven Leaworthy        5 
@@ -124,12 +124,12 @@ Rob Allen                 J Pickard
        Division 2                Tue 8th Apr        
      Lindley B.C. A             Elland C & BC       
 Stephen Haigh          20 Andrew Balmforth       21 
-Mike Dawe               6 G Bradford             21 
+Mike Dawe               6 Gordon Bradford        21 
 Ken Ellis              14 John Holden            21 
-Barry Tinker           11 P Lea                  21 
+Barry Tinker           11 Peter Lea              21 
 Robert Taylor          14 Ray Berrett            21 
 Geoff Stott               David Greenwood           
-Robert Fisher          21 J Robertshaw            6 
+Robert Fisher          21 Julien Robertshaw       6 
 Philip Walker             Peter Webb                
 Alister Henderson      10 Steve Kenworthy        21 
 Alan Henderson            Adrian Kenyon             
@@ -199,7 +199,7 @@ Richard Johnstone         Michael Lee
        Division 3                Tue 8th Apr        
         Hemplow A              Lindley Lib. B       
 Noel Guinan            21 Steve Mosley           16 
-D Wagner                4 Bob Booth              21 
+David Wagner            4 Bob Booth              21 
 John Lunn              21 Steve Sykes            17 
 Steve Pollard          14 Chris Doran            21 
 Andrew Beardsall       21 Alan Suddick            8 
@@ -248,11 +248,11 @@ Craig Longbottom       21 Neil Hardy             15
 Martin Pearson          8 D Cooper               21 
 Peter Laycock          16 Graham Chadwick        21 
 Gerard Quinn           17 Stewart Collier        21 
-Paul Crosland             J McPhillips              
+Paul Crosland             Jimmy McPhillips          
 David Laidlaw          21 M Scott                 9 
 Howard Watson             John Townend              
 Steve Morgan           20 A Cockshaw             21 
-Andy Shaw                 C Gough                   
+Andy Shaw                 Clarry Gough              
               Points:   3               Points:   6 
            Aggregate: 124            Aggregate: 125 
 
@@ -351,7 +351,7 @@ Geoff Dyson               Steve Cox
 Eddy McGrath           21 Jack Dunne             10 
 Sean O'Connor           9 Derek Frost            21 
 Arthur Haigh           21 M Boon                  9 
-Wayne Ogilvie          21 J Mulligan              8 
+Wayne Ogilvie          21 Mick Mulligan           8 
 David Batley           21 David Heeley           19 
 John Pickering            James Rodney Burgin       
 Robert Beaumont        15 Brian Haigh            21 
@@ -394,7 +394,7 @@ Malcolm Burn              Robert Wareham
        Division 5                Tue 8th Apr        
          Dalton                   Hemplow B         
 John Inman             21 Lloyd Armitage          7 
-Graham Summers         21 D Phillips             10 
+Graham Summers         21 David Phillips         10 
 Graham Wood            21 Peter Lingard           3 
 Andrew Mann            21 John Millar            11 
 David Hill              8 Michael Wilby          21 
@@ -456,9 +456,9 @@ Brian Parker              Michael Waleboer
 Edwin Haigh            21 Geoff Jaskolski        15 
 Tim Poulter            18 Martin Skuse           21 
 Malcolm Gilbert        21 Peter Thornton         15 
-J Lindley              21 Rob Taylor             10 
+John Lindley           21 Rob Taylor             10 
 Colin Lloyd            21 Richard Kaye           15 
-J Stokes                  Richard Long              
+John Stokes               Richard Long              
 Robert Barlow          20 Richard Saunders       21 
 Peter Rhodes              Alan Wortley              
 Russell Clarkson       21 Michael Thornton        9 
@@ -573,13 +573,13 @@ John Schofield            Stewart Charlsworth
 
        Division 2               Tue 15th Apr        
       Elland C & BC              Denby Dale         
-G Bradford             21 Peter Taylor            1 
+Gordon Bradford        21 Peter Taylor            1 
 Andrew Balmforth       21 Stuart England          5 
-P Lea                  21 Michael Jennings       15 
+Peter Lea              21 Michael Jennings       15 
 John Holden            21 Peter Goodwill         11 
 Steve Kenworthy        21 Rob Millington         14 
 Adrian Kenyon             Selwyn Dyson              
-J Robertshaw           21 Paul Hutchinson        11 
+Julien Robertshaw      21 Paul Hutchinson        11 
 Peter Webb                Michael Goodwin           
 David Greenwood        21 David Barraclough      11 
 G Firth                   Andy Wilson               
@@ -678,7 +678,7 @@ Paul Wright               Tom Howden
 
        Division 3               Tue 15th Apr        
       Paddock I & C               Hemplow A         
-Graham Chadwick        21 G Scarcliff            17 
+Graham Chadwick        21 Gerry Scarcliff        17 
 Eric Felton             7 Noel Guinan            21 
 D Cooper               21 Steve Pollard          10 
 Neil Hardy             13 Bryan Cook             21 
@@ -686,8 +686,8 @@ Richard Blacker        10 Graham Kewley          21
 Stewart Collier           K Hopper                  
 A Cockshaw             18 Michael Sykes          21 
 D Hardy                   Ray Howard                
-C Gough                19 David Armitage         21 
-J McPhillips              John Lunn                 
+Clarry Gough           19 David Armitage         21 
+Jimmy McPhillips          John Lunn                 
               Points:   2               Points:   7 
            Aggregate: 109            Aggregate: 132 
 
@@ -725,7 +725,7 @@ Jeff Mellor               Richard Johnstone
    David Brown Sports         Huddersfield Rec      
 Derek Frost            21 Peter Hellawell         3 
 Jack Dunne             21 Kevin McCluskey        17 
-J Mulligan             21 Jeff Penny             11 
+Mick Mulligan          21 Jeff Penny             11 
 M Boon                 13 Trevor Atkinson        21 
 R A Oldroyd            21 David Watson           15 
 Peter Meadows             Derek Crawley             
@@ -844,7 +844,7 @@ Colin Firth               David Tombleson
        Division 5               Tue 15th Apr        
         Hemplow B                Broad Oak B        
 Lloyd Armitage         21 Paul Rushworth         20 
-D Phillips             21 Reg Normanton          16 
+David Phillips         21 Reg Normanton          16 
 David Shaw             17 Russ Auty              21 
 John Millar             7 Roger Sharp            21 
 Tony Yates             21 Allan Ainley           16 
@@ -953,7 +953,7 @@ Andy Johnson              George Henry
         Hemplow A                 Cowcliffe         
 Noel Guinan             9 John Burnett           21 
 Steve Pollard           2 Derrick Hewitt         21 
-G Scarcliff             4 David Pollard          21 
+Gerry Scarcliff         4 David Pollard          21 
 Andrew Beardsall       11 Graham Sigsworth       21 
 Michael Sykes          19 Alan Brown             21 
 Ray Howard                Graham V Dyson            
@@ -1034,13 +1034,13 @@ David Holmes              John Knott
 Malcolm Gilbert        14 Denis Garner           21 
 Edwin Haigh            21 J Q Saxton             19 
 Tim Poulter            19 Graham Brook           21 
-J Lindley              21 Paul Rangeley          14 
+John Lindley           21 Paul Rangeley          14 
 Peter Rhodes           20 L Hayden               21 
 Robert Barlow             R Clayton                 
 Russell Clarkson        8 Geoff Dyson            21 
 Steven Leaworthy          Paul Winterburn           
 Colin Lloyd            21 James Nolan             5 
-J Stokes                  Rupert Shires             
+John Stokes               Rupert Shires             
             Handicap:  +9             Handicap: +14 
            Aggregate: 133            Aggregate: 136 
                Games:   3                Games:   4 
@@ -1113,9 +1113,9 @@ Simon Beaumont            David Sykes
 Derrick Hewitt         21 Edwin Haigh             3 
 David Pollard           8 Tim Poulter            21 
 Graham Sigsworth       21 Malcolm Gilbert        15 
-John Burnett           11 J Lindley              21 
+John Burnett           11 John Lindley           21 
 Alan Brown              5 Colin Lloyd            21 
-Stephen Cameron           J Stokes                  
+Stephen Cameron           John Stokes               
 Richard Crossland      21 Robert Barlow           8 
 Michael Utting            J Waltham                 
 Malcolm Stead          21 Steven Leaworthy       10 
@@ -1231,15 +1231,15 @@ Alan Henderson            R Clayton
        Division 2               Tue 29th Apr        
       Milnsbridge A             Elland C & BC       
 Graham Martin Sykes    13 Andrew Balmforth       21 
-David Deighton         10 G Bradford             21 
+David Deighton         10 Gordon Bradford        21 
 Kevin Brown            21 John Holden            18 
-Jim Baxter             21 P Lea                  18 
+Jim Baxter             21 Peter Lea              18 
 George Henry           17 Steve Kenworthy        21 
 Steve Berry               Adrian Kenyon             
 Duncan Haigh           19 G Firth                21 
 Roger Hallas              Peter Webb                
-Roy Sutton             21 A Robertshaw           19 
-Dennis Hirst              J Robertshaw              
+Roy Sutton             21 Adrian Robertshaw      19 
+Dennis Hirst              Julien Robertshaw         
               Points:   3               Points:   6 
            Aggregate: 122            Aggregate: 139 
 
@@ -1294,11 +1294,11 @@ Tony Stokes            12 Graham Chadwick        21
 Mike Wood              21 A Cockshaw             19 
 Carl Beaumont          14 D Cooper               21 
 Keith Broughton        18 Neil Hardy             21 
-Neil Tinker            21 J McPhillips           12 
+Neil Tinker            21 Jimmy McPhillips       12 
 Keith Hilton              John Townend              
 Michael Bell           21 Richard Blacker        17 
 Dave Barr                 Stewart Collier           
-John Crosland          21 C Gough                11 
+John Crosland          21 Clarry Gough           11 
 Richard Johnstone         D Hardy                   
               Points:   6               Points:   3 
            Aggregate: 128            Aggregate: 122 
@@ -1306,7 +1306,7 @@ Richard Johnstone         D Hardy
        Division 3               Tue 29th Apr        
         Hemplow A               Thorpe Green        
 Noel Guinan            21 Nigel Kain             15 
-G Scarcliff             9 Charlie Littlewood     21 
+Gerry Scarcliff         9 Charlie Littlewood     21 
 John Lunn              21 Peter Haythornthwaite  11 
 Steve Pollard          21 David Frost            19 
 Graham Kewley          17 Brian Maxwell          21 
@@ -1531,7 +1531,7 @@ Chris Holt                Peter McPartland
        Division 5               Tue 29th Apr        
    Kirkheaton C & BC B            Hemplow B         
 David Birch            11 Lloyd Armitage         21 
-Andrew Lodge           21 D Phillips             20 
+Andrew Lodge           21 David Phillips         20 
 Anthony Dawson         20 Michael Wilby          21 
 Stewart Naylor         21 David Shaw             14 
 Geoff Clifford          9 Tony Yates             21 
@@ -1709,10 +1709,10 @@ Neil Hardy             21 Garry Firth             9
 Graham Chadwick        21 Brian Stephenson       15 
 A Cockshaw             21 Mark Birch             19 
 D Cooper               21 Andrew Livingstone     15 
-C Gough                21 Frank Westerby         17 
+Clarry Gough           21 Frank Westerby         17 
 John Townend              Nigel Roebuck             
 D Hardy                10 Mike Williams          21 
-J McPhillips              Alan Dean                 
+Jimmy McPhillips          Alan Dean                 
 Richard Blacker        21 Ray Brooks              7 
 Stewart Collier           Dave Tallboys             
             Handicap: Scr             Handicap:  +9 
@@ -1817,7 +1817,7 @@ David Thorpe              Peter Allen
        Round of 32               Thu 1st May        
                                  On New Mill        
       Skel Windmill          David Brown Sports     
-Graham Roys            20 J Mulligan             21 
+Graham Roys            20 Mick Mulligan          21 
 Andrew Clarkson        21 Graham Illingworth     16 
 John Roe               12 Derek Frost            21 
 Kevin Booth            17 M Boon                 21 
@@ -1850,13 +1850,13 @@ Martin Eastwood           ----------
       Clayton West              Golcar Lib A        
 Edwin Haigh            15 Robert Morgan          21 
 Malcolm Gilbert        14 George Simpson         21 
-J Lindley              21 Peter Hopkinson        12 
+John Lindley           21 Peter Hopkinson        12 
 David Richardson       21 Ben Hammond             3 
 Steven Leaworthy       21 Tim Bolton              4 
 Peter Rhodes              Stuart Manson             
 Robert Barlow          13 Steven Lowther         21 
 Russell Clarkson          Nigel Mitchell            
-J Stokes                5 Mick Chapman           21 
+John Stokes             5 Mick Chapman           21 
 D Hallas                  Frank Greenwood           
               Points:   5               Points:   4 
            Aggregate: 110            Aggregate: 103 
@@ -1968,15 +1968,15 @@ Charles Hirst             Rob Millington
 
        Division 2                Tue 6th May        
       Elland C & BC              New Mill A         
-P Lea                  21 Peter Burgess          18 
+Peter Lea              21 Peter Burgess          18 
 Steve Kenworthy         9 John Belfield          21 
 Andrew Balmforth       21 Charlie Hatch           7 
-G Bradford             21 Stuart Greaves         15 
+Gordon Bradford        21 Stuart Greaves         15 
 John Holden            21 John Trevor Harrison   17 
 David Greenwood           Ian Johnson               
 G Firth                19 Bruce Jakeman          21 
 Peter Webb                David Erving              
-J Robertshaw           21 Roger Beaumont         17 
+Julien Robertshaw      21 Roger Beaumont         17 
 Peter Walker              Stewart Charlsworth       
               Points:   7               Points:   2 
            Aggregate: 133            Aggregate: 116 
@@ -2066,7 +2066,7 @@ Stewart Collier        18 D Bradbury             21
 John Wise                 C Dack                    
 J Roberts              18 M Eccles               21 
 John Townend              William Higgins           
-C Gough                21 Baldwin Walsh          11 
+Clarry Gough           21 Baldwin Walsh          11 
 A Cockshaw                Chris Roberts             
               Points:   5               Points:   4 
            Aggregate: 127            Aggregate: 110 
@@ -2118,7 +2118,7 @@ Allen Conway              Andy Shaw
 
        Division 4                Tue 6th May        
    David Brown Sports             Meltham B         
-J Mulligan             21 Nick Beswick            8 
+Mick Mulligan          21 Nick Beswick            8 
 Graham Illingworth     21 John Knott             15 
 M Boon                 21 Joe Portelli           17 
 Derek Frost            21 Frank Wrathall         12 
@@ -2224,7 +2224,7 @@ Tim Healy                 Mike Stringer
        Division 5                Tue 6th May        
         Hemplow B              Greenhead Park       
 Lloyd Armitage         21 Charlie Bartaby         5 
-D Phillips             19 Richard Pearcey        21 
+David Phillips         19 Richard Pearcey        21 
 David Shaw             20 Melvyn Blezzard        21 
 John Millar            16 Chris Wightman         21 
 Wright Eastwood        21 David Morton           13 
@@ -2301,13 +2301,13 @@ Malcolm McRae             Donald Tippen
 Tim Poulter            21 Adrian Cooper          16 
 Edwin Haigh            21 Leon Wilczynski         7 
 Colin Lloyd            21 Mark Berry             12 
-J Lindley              16 Sean Metcalf           21 
+John Lindley           16 Sean Metcalf           21 
 D Hallas               13 Tony Butterfield       21 
 Michael Cartledge         Richard Gledhill          
 Robert Barlow          16 Jeff Jacklin           21 
 Russell Clarkson          Gordon Walker             
 Steven Leaworthy       21 Keith Manning          17 
-J Stokes                  Mel Walker                
+John Stokes               Mel Walker                
               Points:   6               Points:   3 
            Aggregate: 129            Aggregate: 115 
 
@@ -2389,15 +2389,15 @@ Peter Atherton            Colman Conneely
        Division 2               Tue 13th May        
     Almondbury B.C. A           Elland C & BC       
 David Kaye             18 Andrew Balmforth       21 
-John Madden            21 G Bradford             16 
-Richard Brook          18 P Lea                  21 
+John Madden            21 Gordon Bradford        16 
+Richard Brook          18 Peter Lea              21 
 John Clarkson           6 John Holden            21 
 Dennis Machen          19 Steve Kenworthy        21 
 Terry Machen              Andrew Brewer             
 Harold Hick            21 G Firth                 6 
 Andy Johnson              Peter Webb                
 Geoff E Brant          20 David Greenwood        21 
-Simon Neve                A Robertshaw              
+Simon Neve                Adrian Robertshaw         
               Points:   2               Points:   7 
            Aggregate: 123            Aggregate: 127 
 
@@ -2542,11 +2542,11 @@ Mick Shore             21 D Cooper                1
 David Cooling          16 M Scott                21 
 David Stocks            9 Neil Hardy             21 
 Chris Ball             10 Graham Chadwick        21 
-Tom Howden             21 C Gough                15 
+Tom Howden             21 Clarry Gough           15 
 Joe Cornelly              Stewart Collier           
 John Abbott            21 Eric Felton            12 
 Mick Conneely             Trevor Horner             
-Alan Farrier           20 J McPhillips           21 
+Alan Farrier           20 Jimmy McPhillips       21 
 Thomas Cowie              John Townend              
               Points:   5               Points:   4 
            Aggregate: 118            Aggregate: 112 
@@ -2554,10 +2554,10 @@ Thomas Cowie              John Townend
        Division 3               Tue 13th May        
        Marsh Lib A                Hemplow A         
 Phil Mitton            21 John Lunn              12 
-Craig Longbottom       21 D Wagner               18 
+Craig Longbottom       21 David Wagner           18 
 James Turney           13 Andrew Beardsall       21 
 Andy Shaw              20 Noel Guinan            21 
-Gerard Quinn           20 G Scarcliff            21 
+Gerard Quinn           20 Gerry Scarcliff        21 
 Paul Crosland             Ray Howard                
 Steve Morgan           14 Steve Pollard          21 
 Robert Earnshaw           K Hopper                  
@@ -2613,7 +2613,7 @@ Malcolm Waddington        Graham Parr
 
        Division 4               Tue 13th May        
     Netherton Con. B         David Brown Sports     
-S Palmer               14 J Mulligan             21 
+S Palmer               14 Mick Mulligan          21 
 Ray Tunnacliffe         6 Graham Illingworth     21 
 P Jefferson            17 Derek Frost            21 
 Geoff Dyson            21 M Boon                 12 
@@ -2704,7 +2704,7 @@ David Morton              William Gee
        Division 5               Tue 13th May        
         Hemplow B                Marsh Lib B        
 Michael Wilby          21 John Banks             19 
-D Phillips             21 Ian Young              13 
+David Phillips         21 Ian Young              13 
 Lloyd Armitage         18 Tony Falck             21 
 John Millar            21 Robert Wareham          9 
 John Cocking           21 John Bennett           13 
@@ -2784,10 +2784,10 @@ Richard Armitage          Carl Beaumont
                                On Milnsbridge       
         Waterloo                Clayton West        
 John Hirst              4 Colin Lloyd            21 
-Rod Jackson               J Stokes                  
+Rod Jackson               John Stokes               
 Roger Lunn             21 Edwin Haigh             5 
 Paul Toon                 Tim Poulter               
-Ian Lunn               21 J Lindley              20 
+Ian Lunn               21 John Lindley           20 
 Alan Stephenson           M Sellers                 
 Jack Burnand           15 Steven Leaworthy       21 
 John Mitchell             Peter Rhodes              
@@ -2822,11 +2822,11 @@ Andy Johnson              Stewart Collier
 Robert Tracey          12 Graham Chadwick        21 
 John Madden               John Wise                 
 Dennis Machen          21 Neil Hardy             16 
-Terry Machen              J McPhillips              
+Terry Machen              Jimmy McPhillips          
 Geoff E Brant          20 D Cooper               21 
 Simon Neve                John Townend              
 Richard Brook          21 Eric Felton             5 
-David Kaye                C Gough                   
+David Kaye                Clarry Gough              
             Handicap: +13             Handicap: +26 
            Aggregate: 108            Aggregate: 106 
                Games:   3                Games:   2 
@@ -2852,14 +2852,14 @@ Jim Baxter                Michael Thornton
                                  On Hemplow         
         Hemplow B                 Hemplow A         
 Peter Allen            21 Steven Butters          0 
-Gordon Kewley             D Wagner                  
+Gordon Kewley             David Wagner              
 Lloyd Armitage         12 Graham Kewley          21 
 Wright Eastwood           John Lunn                 
 Peter Turner            7 Andrew Beardsall       21 
 David Shaw                Bryan Cook                
 Michael Wilby           9 K Hopper               21 
 Tony Yates                Steve Pollard             
-John Millar            16 G Scarcliff            21 
+John Millar            16 Gerry Scarcliff        21 
 John Cocking              Ray Howard                
             Handicap: +42             Handicap: +23 
            Aggregate: 107            Aggregate: 107 
@@ -2903,7 +2903,7 @@ Neil Allsopp              Paul Abbott
                                 On Elland WMC       
    David Brown Sports          Lindley B.C. B       
 Graham Illingworth     21 Alan Dutton            19 
-J Mulligan                Robert Knight             
+Mick Mulligan             Robert Knight             
 Derek Frost             5 Wes White              21 
 M Boon                    Dave Leathwood            
 Peter Meadows          21 Malcolm Proctor        20 
@@ -3316,7 +3316,7 @@ Donald Booth           14 Edwin Haigh            21
 Roger Stopford         21 Colin Lloyd            19 
 Bob Laycock            21 *No Player*             0 
 Peter Hardcastle       21 Michael Cartledge      19 
-Roy Chapman               J Stokes                  
+Roy Chapman               John Stokes               
 Michael Carter         21 Robert Barlow           5 
 Derek Hanner              Malcolm Gilbert           
 Howard Dungworth       16 D Hallas               21 
@@ -3326,13 +3326,13 @@ Geoff Normanton           Steven Leaworthy
 
        Division 2               Tue 27th May        
        Broad Oak A              Elland C & BC       
-Carl Taylor            21 P Lea                  17 
-Antony Schofield        8 G Bradford             21 
+Carl Taylor            21 Peter Lea              17 
+Antony Schofield        8 Gordon Bradford        21 
 Andy Crowther          21 Peter Webb             15 
 Ken Wilson             13 Steve Kenworthy        21 
 Paul Bowes             21 Ken Walker             15 
-Mick Iredale              J Robertshaw              
-Peter Garside           4 A Robertshaw           21 
+Mick Iredale              Julien Robertshaw         
+Peter Garside           4 Adrian Robertshaw      21 
 John Schofield            Adrian Kenyon             
 Howard Rose            21 Peter Walker           19 
 Alec Wilkinson            G Firth                   
@@ -3419,7 +3419,7 @@ Geoff Alsop               Mike Dawe
 John Lunn              21 Mike Wood               8 
 Noel Guinan             7 Graham Sykes           21 
 Andrew Beardsall       21 Keith Broughton        17 
-D Wagner               21 Tony Stokes            13 
+David Wagner           21 Tony Stokes            13 
 Steve Pollard           4 John Crosland          21 
 Steven Butters            Michael Carr              
 Gordon Kewley          21 Dave Barr              17 
@@ -3464,12 +3464,12 @@ Phil Mitton               D Bradbury
 M Scott                21 Andy Broughton         20 
 John Townend           21 Andrew Gregory         12 
 Graham Chadwick        17 Neil Booth             21 
-C Gough                 8 John Bloomer           21 
+Clarry Gough            8 John Bloomer           21 
 Paul Bagshaw            0 Stuart Grey            21 
 Geoff Wood                Geoff Martin              
 Stewart Collier        18 Michael Lee            21 
 Trevor Horner             Colin Wood                
-J McPhillips           20 Peter Crowther         21 
+Jimmy McPhillips       20 Peter Crowther         21 
 Eric Felton               Ian Jowett                
               Points:   2               Points:   7 
            Aggregate: 105            Aggregate: 137 
@@ -3506,7 +3506,7 @@ George Williams           David Stocks
 
        Division 4               Tue 27th May        
    David Brown Sports         Primrose Hill Lib     
-J Mulligan             17 David Cheeseman        21 
+Mick Mulligan          17 David Cheeseman        21 
 Graham Illingworth     21 Paul Abbott             5 
 M Boon                 21 David Jones            17 
 Derek Frost            21 David Cooke            13 
@@ -3611,7 +3611,7 @@ Donald Tippen             Percy Harrison
 
        Division 5               Tue 27th May        
       Brockholes B                Hemplow B         
-Paul Dean              17 D Phillips             21 
+Paul Dean              17 David Phillips         21 
 Richard Green          21 David Shaw              6 
 Geoff Coates           14 Lloyd Armitage         21 
 Bob James              21 John Millar             6 
@@ -3689,9 +3689,9 @@ John Oscroft              David Walker
 Edwin Haigh            21 Barry Gibson            3 
 David Richardson       21 *A.N.Other*             9 
 Tim Poulter            21 Philip Swinden         14 
-J Lindley               9 Paul Harburn           21 
+John Lindley            9 Paul Harburn           21 
 Michael Cartledge      21 Steven Addy            13 
-J Stokes                  Jeff Smith                
+John Stokes               Jeff Smith                
 Steven Leaworthy       21 James Bloom             8 
 Peter Rhodes              John Crawshaw             
 Robert Barlow           4 David Bennett          21 
@@ -3808,13 +3808,13 @@ John Robertshaw           Derek Sykes
       Elland C & BC           Netherton Con. A      
 David Greenwood        16 Paul Winterburn        21 
 Steve Kenworthy        21 Graham Brook           19 
-P Lea                  21 Paul Rangeley          19 
+Peter Lea              21 Paul Rangeley          19 
 Adrian Kenyon          21 J Q Saxton              9 
-A Robertshaw           21 James Nolan            14 
-J Robertshaw              Tommy Whitaker            
+Adrian Robertshaw      21 James Nolan            14 
+Julien Robertshaw         Tommy Whitaker            
 Peter Walker           21 R Clayton              19 
 G Firth                   L Hayden                  
-J Naylor               21 Rupert Shires           9 
+John Naylor            21 Rupert Shires           9 
 Ken Walker                J Pickard                 
               Points:   8               Points:   1 
            Aggregate: 142            Aggregate: 110 
@@ -3900,8 +3900,8 @@ Derek Hey              21 John Townend            3
 Alan Birchall          21 Neil Hardy             17 
 E Visona               10 Graham Chadwick        21 
 Robert Stratford       21 D Cooper               18 
-David Poole            21 C Gough                14 
-Andrew Norgate            J McPhillips              
+David Poole            21 Clarry Gough           14 
+Andrew Norgate            Jimmy McPhillips          
 E Armitage             21 M Scott                15 
 Geoff Rollinson           Stewart Collier           
 Brian Webb             21 A Cockshaw             17 
@@ -3971,7 +3971,7 @@ Andrew Livingstone        Grant Smith
 
        Division 4                Tue 3rd Jun        
      Marsh United B          David Brown Sports     
-David Worrall          21 J Mulligan              4 
+David Worrall          21 Mick Mulligan           4 
 Francis Kennedy        21 Graham Illingworth     14 
 Mike Street            21 M Boon                  3 
 Ken Roys               12 Derek Frost            21 
@@ -4092,7 +4092,7 @@ John D. Richards          Brian Gibson
        Division 5                Tue 3rd Jun        
         Hemplow B              Lindley B.C. B       
 Lloyd Armitage          8 Alan Coggin            21 
-D Phillips             21 Tony Taylor            10 
+David Phillips         21 Tony Taylor            10 
 Michael Wilby          21 Mike Redfern           10 
 John Millar            21 Stuart Thornton        15 
 Wright Eastwood        19 Dave Leathwood         21 
@@ -4188,8 +4188,8 @@ Peter Swinden             Brian Gibson
       Clayton West               Broad Oak B        
 Steven Leaworthy       21 Mick Beaumont           4 
 Peter Rhodes              Mike Stringer             
-J Lindley              21 Carl Livesey            5 
-J Stokes                  Paul Rushworth            
+John Lindley           21 Carl Livesey            5 
+John Stokes               Paul Rushworth            
 Russell Clarkson       21 Allan Ainley            6 
 David Richardson          Russ Auty                 
 Tim Poulter            21 Malcolm Burn            6 
@@ -4223,7 +4223,7 @@ Geoff E Brant             Peter Thornton
 Gordon Kewley           3 David Batley           21 
 Bryan Cook                John Pickering            
 Steven Butters         21 Thomas Ferguson        10 
-D Wagner                  Barry Wood                
+David Wagner              Barry Wood                
 Michael Sykes          21 Wayne Ogilvie          13 
 Steve Pollard             Graham Beevers            
 Noel Guinan            16 James Unsworth         21 
@@ -4487,9 +4487,9 @@ Simon Beaumont            Nigel Mitchell
        Lowerhouses              Clayton West        
 Ashley Daykin          21 Malcolm Gilbert        11 
 Les Holmes             21 Tim Poulter            16 
-Andy Mitchell          21 J Lindley               0 
+Andy Mitchell          21 John Lindley            0 
 Gary Smith             21 Edwin Haigh            15 
-Rob Gatenby            21 J Stokes                8 
+Rob Gatenby            21 John Stokes             8 
 Steven Lee                Russell Clarkson          
 Gary Armitage          21 Steven Leaworthy       19 
 Tony Lockwood             Peter Rhodes              
@@ -4546,11 +4546,11 @@ Nick Lowe                 Alec Wilkinson
        Division 2               Tue 17th Jun        
       Golcar Lib B              Elland C & BC       
 Ben Hammond            16 Andrew Balmforth       21 
-Stephen Swallow        19 G Bradford             21 
-John Ainley            13 P Lea                  21 
+Stephen Swallow        19 Gordon Bradford        21 
+John Ainley            13 Peter Lea              21 
 Eddie Thompson         21 Steve Kenworthy        17 
-John Murphy            21 A Robertshaw           11 
-Alan Leonard              J Robertshaw              
+John Murphy            21 Adrian Robertshaw      11 
+Alan Leonard              Julien Robertshaw         
 Richard Severn         21 David Greenwood        18 
 Paul Antich               Andrew Brewer             
 Geoff Rothery          21 Peter Webb             14 
@@ -4623,7 +4623,7 @@ Robert Schofield          Dennis Hirst
 Noel Guinan            21 Andy Broughton         20 
 John Lunn              21 Neil Booth              2 
 Michael Sykes          15 Andrew Gregory         21 
-D Wagner               21 Graham Shaw            15 
+David Wagner           21 Graham Shaw            15 
 K Hopper               21 Stuart Grey            15 
 Graham Kewley             Geoff Martin              
 Bryan Cook             21 Michael Lee            15 
@@ -4671,8 +4671,8 @@ Graham Chadwick        21 Adrian Baldwin          8
 Eric Felton            21 Kevin Le Bas           18 
 John Townend           12 Peter Smith            21 
 J Roberts                 Paul Cooney               
-J McPhillips           14 Chris Doran            21 
-C Gough                   David Hill                
+Jimmy McPhillips       14 Chris Doran            21 
+Clarry Gough              David Hill                
 Stewart Collier        21 Gary Moorhouse          7 
 A Cockshaw                Vincent Hanlon            
               Points:   7               Points:   2 
@@ -4712,7 +4712,7 @@ Shaun McAvinue            Brian Burhouse
    David Brown Sports           Skel Windmill       
 Graham Illingworth     21 Graham Roys            14 
 Derek Frost            21 Andrew Clarkson         9 
-J Mulligan             13 Trevor Brook           21 
+Mick Mulligan          13 Trevor Brook           21 
 M Boon                 13 Kevin Booth            21 
 David Heeley           21 John Aspinall          17 
 James Rodney Burgin       Michael Kuszyk            
@@ -4907,7 +4907,7 @@ Malcolm Stead             Simon Beaumont
        Division 1               Tue 24th Jun        
       Clayton West             Marsh United A       
 Malcolm Gilbert        21 David Worrall           2 
-J Lindley              21 Francis Kennedy        13 
+John Lindley           21 Francis Kennedy        13 
 Tim Poulter            21 Andy Carter            20 
 Edwin Haigh            14 Tony Clegg             21 
 Steven Leaworthy       21 Barry Hinchliffe       10 
@@ -4915,7 +4915,7 @@ Peter Rhodes              Dennis James
 Robert Barlow          21 Brian Swift            17 
 J Waltham                 Denis Taylor              
 Russell Clarkson       14 Douglas Hamilton       21 
-J Stokes                  Trevor Sykes              
+John Stokes               Trevor Sykes              
               Points:   7               Points:   2 
            Aggregate: 133            Aggregate: 104 
 
@@ -5041,14 +5041,14 @@ Chris Moorhouse           Geoff Alsop
 
        Division 2               Tue 24th Jun        
        Elland WMC               Elland C & BC       
-Clive Harte            21 P Lea                  13 
-Mick Hiscock           13 G Bradford             21 
+Clive Harte            21 Peter Lea              13 
+Mick Hiscock           13 Gordon Bradford        21 
 Ray Gledhill           16 Andrew Balmforth       21 
 Viv Smith              20 Steve Kenworthy        21 
 Philip Binns           21 David Greenwood        18 
 John Sharp                Andrew Brewer             
-Ian Archibald          21 A Robertshaw           17 
-Melvyn Dunne              J Robertshaw              
+Ian Archibald          21 Adrian Robertshaw      17 
+Melvyn Dunne              Julien Robertshaw         
 Nick Lowe              21 G Firth                19 
 Alan Broad                Peter Webb                
               Points:   6               Points:   3 
@@ -5149,7 +5149,7 @@ Richard Long              J Hague
 Ronnie Manning          8 Andrew Beardsall       21 
 Chris Ball             21 Noel Guinan            16 
 Colman Conneely        21 John Lunn               8 
-Mick Conneely          21 G Scarcliff             2 
+Mick Conneely          21 Gerry Scarcliff         2 
 John Abbott             9 David Shaw             21 
 Alan Farrier              Ray Howard                
 David Cooling          13 K Hopper               21 
@@ -5168,7 +5168,7 @@ Mike Ralph             10 M Scott                21
 John Gatenby           21 John Wise              12 
 Dave Morgan               Eric Felton               
 John Pix               21 Trevor Horner          15 
-Mick Brammah              J McPhillips              
+Mick Brammah              Jimmy McPhillips          
 Brian Hamilton         21 A Cockshaw             19 
 Richard Lambert           Stewart Collier           
               Points:   6               Points:   3 
@@ -5258,7 +5258,7 @@ David Cooper           13 Derek Frost            21
 Graham Helm            21 James Rodney Burgin    15 
 Kenneth Whitaker          David Heeley              
 Tony Swift             21 M Boon                 14 
-David Eastwood            J Mulligan                
+David Eastwood            Mick Mulligan             
 Maurice Harper         21 Brian Haigh            17 
 John Kingdom              R A Oldroyd               
               Points:   8               Points:   1 
@@ -5299,7 +5299,7 @@ David Craddock            Mike Stringer
 John Millar            21 Neil Allsopp            6 
 Lloyd Armitage         21 Philip Woodthorpe       9 
 Michael Wilby          21 Gerald Gorman          12 
-D Phillips             19 William Hobson         21 
+David Phillips         19 William Hobson         21 
 Gordon Kewley          17 J A Crawford           21 
 Tony Yates                Stewart Swift             
 Peter Allen             2 T Boyes                21 
@@ -5366,7 +5366,7 @@ John Bennett              John Townend
 Robert Parish          21 A Cockshaw             16 
 Robert Earnshaw           Trevor Horner             
 David Laidlaw          21 Stewart Collier        13 
-Howard Watson             J McPhillips              
+Howard Watson             Jimmy McPhillips          
            Aggregate: 144            Aggregate: 110 
 
        Round of 16              Thu 26th Jun        
@@ -5405,7 +5405,7 @@ Steve Hall                John Kingdom
                             On Crosland Moor B.C.   
      Lindley B.C. B               Hemplow B         
 Robert Porter          21 Lloyd Armitage         17 
-Terry Fletcher         16 D Phillips             21 
+Terry Fletcher         16 David Phillips         21 
 Alan Coggin            21 David Shaw             13 
 Stuart Thornton        16 Steven Shaw            21 
 Wes White              21 John Millar            15 
@@ -5422,7 +5422,7 @@ Mike Redfern              Peter Allen
         Meltham B            David Brown Sports     
 John Knott             21 Graham Illingworth     18 
 Ian Lee                21 Peter Chomiak           8 
-Alan Starkey           21 J Mulligan              6 
+Alan Starkey           21 Mick Mulligan           6 
 Aaron Stott            10 Derek Frost            21 
 Ian Davidson           18 David Heeley           21 
 John Sanderson            Joe Burnand               
@@ -5484,10 +5484,10 @@ Lindsay Devenish          Roy Chapman
 David Walkden          21 Malcolm Gilbert        18 
 Robert Dickinson       21 Edwin Haigh            12 
 Andrew Wike            21 Tim Poulter             5 
-Adrian Frain            7 J Lindley              21 
+Adrian Frain            7 John Lindley           21 
 Tony Crowther          21 Robert Barlow           9 
 Keith Hatzer              Russell Clarkson          
-Ian Crawford           18 J Stokes               21 
+Ian Crawford           18 John Stokes            21 
 Simon Beaumont            Colin Lloyd               
 Alan Crowther          14 Steven Leaworthy       21 
 Graham Howe               Peter Rhodes              
@@ -5602,11 +5602,11 @@ J Pickard                 Alan Broad
        Division 2                Tue 1st Jul        
          Shepley                Elland C & BC       
 Stuart Pears           20 Andrew Balmforth       21 
-John Hewitt             9 G Bradford             21 
-Norman Raper           21 P Lea                  13 
+John Hewitt             9 Gordon Bradford        21 
+Norman Raper           21 Peter Lea              13 
 John Hodgson           18 Steve Kenworthy        21 
-Stanley Hoyle          21 A Robertshaw            4 
-Geoff Ryder               J Robertshaw              
+Stanley Hoyle          21 Adrian Robertshaw       4 
+Geoff Ryder               Julien Robertshaw         
 Michael Hirst          13 Peter Webb             21 
 Nick Johnston             G Firth                   
 John Pearman           21 Ray Berrett            15 
@@ -5695,10 +5695,10 @@ Antony Thorpe          21 Eric Felton            16
 R Gartside             15 Graham Chadwick        21 
 Chris Sykes            21 D Cooper               16 
 Tom Chatfield          21 M Scott                 7 
-Robert Bradshaw        15 C Gough                21 
+Robert Bradshaw        15 Clarry Gough           21 
 Ian Charlesworth          John Townend              
 Christopher Conway     21 Trevor Horner          16 
-Robert Gledhill           J McPhillips              
+Robert Gledhill           Jimmy McPhillips          
 Stuart Wood            21 Neil Hardy             10 
 Bob Slatford              John Wise                 
               Points:   7               Points:   2 
@@ -5758,7 +5758,7 @@ Ken Boyles              4 Graham Illingworth     21
 Tom Flaherty           21 Joe Burnand            19 
 Colin Sykes               David Heeley              
 Gareth Morris          21 M Boon                  8 
-David Firth               J Mulligan                
+David Firth               Mick Mulligan             
 Martin Eastwood        10 James Rodney Burgin    21 
 Michael Smyth             R A Oldroyd               
               Points:   7               Points:   2 
@@ -5873,7 +5873,7 @@ Stewart Swift             William Gee
     Kirkheaton Con. B             Hemplow B         
 Steve Mitchell         19 John Millar            21 
 Philip Power           21 Lloyd Armitage         19 
-Leon Wilczynski        10 D Phillips             21 
+Leon Wilczynski        10 David Phillips         21 
 Barry Wilton           21 Michael Wilby          13 
 David McSweeney        21 Peter Allen             6 
 Steve Hall                Peter Turner              
@@ -5902,8 +5902,8 @@ John Stoner               Geoff Coates
        Round of 16               Thu 3rd Jul        
                                   On Dalton         
         Meltham A               Clayton West        
-Bob Ellis               6 J Lindley              21 
-Aaron Stott               J Stokes                  
+Bob Ellis               6 John Lindley           21 
+Aaron Stott               John Stokes               
 James Bloom            17 Steven Leaworthy       21 
 John Crawshaw             Peter Rhodes              
 Steven Addy            21 Robert Barlow           4 
@@ -6022,10 +6022,10 @@ Frank Greenwood           Michael Ward
       Clayton West             Lockwood Con. A      
 Malcolm Gilbert        21 Peter Kain              9 
 Tim Poulter            21 Derek Gibson           19 
-J Lindley              18 Mick Cox               21 
+John Lindley           18 Mick Cox               21 
 Colin Lloyd            15 Ray Harper             21 
 Russell Clarkson       21 Gerrard Clarke         11 
-J Stokes                  Richard Walsh             
+John Stokes               Richard Walsh             
 Steven Leaworthy       21 Joe Conneely           17 
 Peter Rhodes              Graham Wilkinson          
 Robert Barlow          15 Mick Fisher            21 
@@ -6141,11 +6141,11 @@ Paul Bowes                Alan Henderson
        Division 2                Tue 8th Jul        
       Elland C & BC            Thongsbridge A       
 Andrew Balmforth       21 John Gant              19 
-G Bradford             21 Geoff France            6 
-P Lea                   4 Ian Ross               21 
+Gordon Bradford        21 Geoff France            6 
+Peter Lea               4 Ian Ross               21 
 Steve Kenworthy        21 Peter Jackson          14 
-A Robertshaw           10 Adrian Fish            21 
-J Robertshaw              Paul English              
+Adrian Robertshaw      10 Adrian Fish            21 
+Julien Robertshaw         Paul English              
 G Firth                19 Richard Armitage       21 
 Peter Webb                Tony Swift                
 Ray Berrett            21 Geoff Alsop             5 
@@ -6267,8 +6267,8 @@ Neil Hardy             21 Alan Hobson             8
 Trevor Horner          21 George Williams        13 
 A Cockshaw                Alan Bray                 
 Richard Blacker        21 Malcolm Wadsworth      18 
-J McPhillips              Philip Raynor             
-C Gough                21 Brian Maxwell           6 
+Jimmy McPhillips          Philip Raynor             
+Clarry Gough           21 Brian Maxwell           6 
 John Townend              Shaun McAvinue            
               Points:   7               Points:   2 
            Aggregate: 137            Aggregate:  95 
@@ -6292,7 +6292,7 @@ Jeff Mellor               Howard Watson
    David Brown Sports           Milnsbridge B       
 Graham Illingworth     21 Robert Iredale          7 
 Derek Frost            21 Graham Haigh           15 
-J Mulligan             21 David Hyde             12 
+Mick Mulligan          21 David Hyde             12 
 Jack Dunne             19 David Whitham          21 
 R A Oldroyd            17 Graham Parr            21 
 James Rodney Burgin       Graham Martin Sykes       
@@ -6396,7 +6396,7 @@ John D. Richards          Peter Boakes
        Division 5                Tue 8th Jul        
         Hemplow B                New Mill B         
 Peter Turner           11 David Thorpe           21 
-D Phillips             21 Ian Johnson            15 
+David Phillips         21 Ian Johnson            15 
 Lloyd Armitage         21 Charlie Hatch           9 
 Michael Wilby          21 Robert Whiteley        20 
 Tony Yates             21 Geoff Wrigglesworth    16 
@@ -6488,7 +6488,7 @@ Robert Parish             Steve Cox
                             On Primrose Hill Lib.   
     Kirkheaton Con. B             Hemplow B         
 Mark Berry             21 Steven Shaw            10 
-Stuart Goddard         21 D Phillips             14 
+Stuart Goddard         21 David Phillips         14 
 Philip Power           21 Michael Wilby          14 
 Steve Mitchell         21 Lloyd Armitage         10 
 Paul Scott             17 Gordon Kewley          21 
@@ -6535,11 +6535,11 @@ David Birch               Geoff Coates
        Division 1               Tue 15th Jul        
       Clayton West                Waterloo          
 Malcolm Gilbert        21 Glynn Manson           14 
-J Lindley              21 Paul Hartley           17 
+John Lindley           21 Paul Hartley           17 
 Colin Lloyd            17 Robert Mudd            21 
 Tim Poulter            16 Roger Lunn             21 
 Russell Clarkson       21 Ian Lunn                8 
-J Stokes                  Alan Stephenson           
+John Stokes               Alan Stephenson           
 Robert Barlow          21 John Hirst             14 
 Michael Cartledge         Rod Jackson               
 Steven Leaworthy       21 Mick McCluskey         16 
@@ -6655,9 +6655,9 @@ Simon Neve                Andy Wilson
        Division 2               Tue 15th Jul        
       Elland C & BC            Lindley B.C. A       
 Andrew Balmforth       21 David Thorp             5 
-G Bradford             21 Ken Ellis              12 
+Gordon Bradford        21 Ken Ellis              12 
 Steve Kenworthy         9 Barry Tinker           21 
-P Lea                  13 Stephen Haigh          21 
+Peter Lea              13 Stephen Haigh          21 
 G Firth                21 Alan Henderson         11 
 Peter Webb                Tony Taylor               
 Adrian Kenyon          21 Robert Taylor           7 
@@ -6744,7 +6744,7 @@ Andrew Norgate            David Cooling
 
        Division 3               Tue 15th Jul        
      Lindley Lib. B               Hemplow A         
-Bob Booth              21 D Wagner               10 
+Bob Booth              21 David Wagner           10 
 Steve Sykes            21 John Lunn               6 
 Vincent Hanlon         13 Steve Pollard          21 
 Kevin Le Bas            9 Michael Sykes          21 
@@ -6760,7 +6760,7 @@ Paul Wright               Bryan Cook
        Division 3               Tue 15th Jul        
       Paddock I & C              Marsh Lib A        
 D Cooper               21 James Turney           11 
-C Gough                21 Paul Crosland          17 
+Clarry Gough           21 Paul Crosland          17 
 M Scott                21 Craig Longbottom       15 
 Neil Hardy             20 John Banks             21 
 A Cockshaw             21 David Laidlaw          13 
@@ -6768,7 +6768,7 @@ Eric Felton               Howard Watson
 Richard Blacker        21 Steve Morgan           16 
 Stewart Collier           Andy Shaw                 
 John Townend           21 Gerard Quinn            1 
-J McPhillips              Phil Mitton               
+Jimmy McPhillips          Phil Mitton               
               Points:   8               Points:   1 
            Aggregate: 146            Aggregate:  94 
 
@@ -6806,7 +6806,7 @@ Jeff Mellor               S Williams
    David Brown Sports         Ravensknowle Park     
 Graham Illingworth     21 Barry Wood              3 
 Jack Dunne             11 Eddy McGrath           21 
-J Mulligan             21 Arthur Haigh           20 
+Mick Mulligan          21 Arthur Haigh           20 
 M Boon                  6 Wayne Ogilvie          21 
 R A Oldroyd            21 John Pickering         20 
 James Rodney Burgin       Kevin Cresswell           
@@ -6985,8 +6985,8 @@ John Oscroft              J Chilton
        Qtr-Finals               Thu 17th Jul        
                                 On Holmfirth        
       Clayton West             Lindley Lib. A       
-J Lindley              19 Martin Skuse           21 
-J Stokes                  Geoff Jaskolski           
+John Lindley           19 Martin Skuse           21 
+John Stokes               Geoff Jaskolski           
 Colin Lloyd            12 Steve Mosley           21 
 David Richardson          Rob Taylor                
 Robert Barlow          12 Peter Smith            21 
@@ -7068,7 +7068,7 @@ Malcolm Stead             John Crawshaw
        Division 1               Tue 22nd Jul        
      Lindley Lib. A             Clayton West        
 Martin Skuse           17 David Richardson       21 
-John Beverley          17 J Lindley              21 
+John Beverley          17 John Lindley           21 
 Peter Fuller           16 Tim Poulter            21 
 Steve Mosley            7 Malcolm Gilbert        21 
 Richard Kaye           21 Colin Lloyd            14 
@@ -7076,7 +7076,7 @@ Richard Long              Steven Leaworthy
 Martin Holt            21 Robert Barlow          12 
 Rob Taylor                J Waltham                 
 Alan Wortley           13 Russell Clarkson       21 
-Michael Thornton          J Stokes                  
+Michael Thornton          John Stokes               
               Points:   2               Points:   7 
            Aggregate: 112            Aggregate: 131 
 
@@ -7143,15 +7143,15 @@ John Mitchell             Tony Butterfield
        Division 2               Tue 22nd Jul        
        Denby Dale               Elland C & BC       
 Peter Taylor           21 Steve Kenworthy        18 
-Neale Wallace          21 P Lea                  16 
+Neale Wallace          21 Peter Lea              16 
 Stuart England         10 Andrew Balmforth       21 
-Alan Kitson             4 G Bradford             21 
+Alan Kitson             4 Gordon Bradford        21 
 Selwyn Dyson           11 Andrew Brewer          21 
 Rob Millington            Peter Webb                
 Peter Goodwill         21 Ken Walker             13 
 John Robertshaw           Adrian Kenyon             
-Paul Hutchinson        21 A Robertshaw           10 
-Michael Goodwin           J Robertshaw              
+Paul Hutchinson        21 Adrian Robertshaw      10 
+Michael Goodwin           Julien Robertshaw         
               Points:   4               Points:   5 
            Aggregate: 109            Aggregate: 120 
 
@@ -7247,16 +7247,16 @@ Richard Johnstone         Mick Brammah
 
        Division 3               Tue 22nd Jul        
         Hemplow A               Paddock I & C       
-D Wagner               21 M Scott                18 
+David Wagner           21 M Scott                18 
 Steve Pollard          19 D Cooper               21 
 Michael Sykes          19 Neil Hardy             21 
 John Lunn              20 Graham Chadwick        21 
-Andrew Beardsall       21 C Gough                15 
+Andrew Beardsall       21 Clarry Gough           15 
 Bryan Cook                John Townend              
 Graham Kewley          15 Richard Blacker        21 
 David Shaw                Stewart Collier           
 Noel Guinan            15 A Cockshaw             21 
-David Armitage            J McPhillips              
+David Armitage            Jimmy McPhillips          
               Points:   2               Points:   7 
            Aggregate: 130            Aggregate: 138 
 
@@ -7324,7 +7324,7 @@ Malcolm Wadsworth         Geoff Rollinson
     Huddersfield Rec         David Brown Sports     
 Trevor Atkinson        21 Graham Illingworth     12 
 Derek Crawley          21 Reg Dearlove            6 
-Kevin McCluskey        21 J Mulligan              8 
+Kevin McCluskey        21 Mick Mulligan           8 
 Peter Hellawell        13 Derek Frost            21 
 Colin McCluskey        21 M Boon                  6 
 Brian Faichney            Paul Gant                 
@@ -7429,7 +7429,7 @@ Ian Schofield             Colin Rawcliffe
        Broad Oak B                Hemplow B         
 Carl Livesey           18 Michael Wilby          21 
 Reg Normanton          14 Lloyd Armitage         21 
-Russ Auty              21 D Phillips             13 
+Russ Auty              21 David Phillips         13 
 Paul Rushworth         21 John Millar            15 
 Allan Ainley            4 David Morrison         21 
 Mike Stringer             John Cocking              
@@ -7502,14 +7502,14 @@ Ian Johnsey               John Oscroft
 
        Division 1               Tue 29th Jul        
       Clayton West                Cowcliffe         
-J Lindley              21 John Burnett            7 
+John Lindley           21 John Burnett            7 
 Malcolm Gilbert        21 Derrick Hewitt          9 
 Tim Poulter            21 David Pollard          10 
 David Richardson        9 Graham Sigsworth       21 
 Edwin Haigh            21 Alan Brown              4 
 Colin Lloyd               Graham V Dyson            
 Russell Clarkson       21 Patrick Conneely        6 
-J Stokes                  Malcolm Stead             
+John Stokes               Malcolm Stead             
 Robert Barlow           8 Richard Crossland      21 
 M Sellers                 Michael Utting            
               Points:   7               Points:   2 
@@ -7609,14 +7609,14 @@ Robert Tracey             Charlie Hatch
       Elland C & BC             Milnsbridge A       
 Andrew Balmforth       21 Shaun Irving           12 
 Steve Kenworthy        21 Kevin Brown            18 
-G Bradford             21 David Deighton         19 
-P Lea                  15 Jim Baxter             21 
+Gordon Bradford        21 David Deighton         19 
+Peter Lea              15 Jim Baxter             21 
 Andrew Brewer          21 George Henry            4 
 Adrian Kenyon             Steve Berry               
 David Greenwood        16 Roger Hallas           21 
 G Firth                   John Brook                
-A Robertshaw           20 Roy Sutton             21 
-J Robertshaw              Dennis Hirst              
+Adrian Robertshaw      20 Roy Sutton             21 
+Julien Robertshaw         Dennis Hirst              
               Points:   6               Points:   3 
            Aggregate: 135            Aggregate: 116 
 
@@ -7701,7 +7701,7 @@ Neil Hardy             15 Keith Broughton        21
 D Cooper                9 Mike Wood              21 
 Graham Chadwick        21 Tony Stokes             6 
 M Scott                15 Carl Beaumont          21 
-C Gough                21 Neil Tinker            18 
+Clarry Gough           21 Neil Tinker            18 
 John Townend              Michael Carr              
 A Cockshaw             21 Michael Bell           17 
 Eric Felton               Dave Barr                 
@@ -7850,7 +7850,7 @@ John Kingdom              Dave Howard
 John Millar            21 Geoff Pearson          18 
 Michael Wilby          21 Stewart Naylor         11 
 Lloyd Armitage         19 David Kilner           21 
-D Phillips             21 Anthony Dawson         17 
+David Phillips         21 Anthony Dawson         17 
 Gordon Kewley          12 John Scott             21 
 Tony Yates                Nick Dunn                 
 David Morrison         21 David Birch             9 
@@ -8002,9 +8002,9 @@ Malcolm Stead             Tony Butterfield
        Division 1                Tue 5th Aug        
       Golcar Lib A              Clayton West        
 Robert Morgan          10 Malcolm Gilbert        21 
-M D Jennings           17 J Lindley              21 
+M D Jennings           17 John Lindley           21 
 Peter Hopkinson        17 Tim Poulter            21 
-Robert Senior          21 J Stokes               11 
+Robert Senior          21 John Stokes            11 
 Nigel Mitchell         21 Steven Leaworthy       14 
 Steven Lowther            Peter Rhodes              
 Tim Bolton             15 Colin Lloyd            21 
@@ -8122,7 +8122,7 @@ Steve Berry               Terry Machen
        Division 2                Tue 5th Aug        
        New Mill A               Elland C & BC       
 Peter Burgess          19 Andrew Balmforth       21 
-Mark Warrender         10 G Bradford             21 
+Mark Warrender         10 Gordon Bradford        21 
 Allen Hufton           21 Steve Kenworthy        13 
 Stuart Greaves         17 Adrian Kenyon          21 
 Roger Beaumont         16 Peter Webb             21 
@@ -8130,7 +8130,7 @@ Stewart Charlsworth       G Firth
 Bruce Jakeman          21 David Greenwood        16 
 Robert Whiteley           Ray Berrett               
 John Trevor Harrison   21 Ken Walker             12 
-Ian Johnson               A Robertshaw              
+Ian Johnson               Adrian Robertshaw         
               Points:   4               Points:   5 
            Aggregate: 125            Aggregate: 125 
 
@@ -8212,13 +8212,13 @@ Brian Webb                Colin Wood
        Division 3                Tue 5th Aug        
      Linthwaite Hall            Paddock I & C       
 R Spencer              21 Graham Chadwick         8 
-A Cross                21 C Gough                14 
+A Cross                21 Clarry Gough           14 
 Alan Bamforth          21 Neil Hardy             10 
 Alan Singleton         21 Eric Felton             8 
 P Haigh                21 John Townend            3 
 C Dack                    John Wise                 
 M Eccles               21 Trevor Horner          13 
-William Higgins           J McPhillips              
+William Higgins           Jimmy McPhillips          
 Chris Roberts           7 Stewart Collier        21 
 D Bradbury                M Scott                   
               Points:   8               Points:   1 
@@ -8294,7 +8294,7 @@ Michael Fenton         21 R A Oldroyd            12
 Alan Starkey              James Rodney Burgin       
 Joe Portelli           21 Brian Haigh            19 
 Frank Wrathall            Paul Gant                 
-Keith Sykes            21 J Mulligan             19 
+Keith Sykes            21 Mick Mulligan          19 
 Malcolm Waddington        David Heeley              
               Points:   6               Points:   3 
            Aggregate: 128            Aggregate: 117 
@@ -8376,7 +8376,7 @@ Ian Colleton              Philip Ashworth
 
        Division 5                Tue 5th Aug        
      Greenhead Park               Hemplow B         
-Richard Pearcey        18 D Phillips             21 
+Richard Pearcey        18 David Phillips         21 
 Chris Wightman         17 Michael Wilby          21 
 David Morton           12 Lloyd Armitage         21 
 John D. Richards       18 Peter Turner           21 
@@ -8439,10 +8439,10 @@ Gareth Morris             Nick Dunn
        Division 1               Tue 12th Aug        
     Kirkheaton Con. A           Clayton West        
 Adrian Cooper          21 Tim Poulter            11 
-Martin Laycock         21 J Lindley              18 
+Martin Laycock         21 John Lindley           18 
 Andrew Lumb            19 Colin Lloyd            21 
 Garry Senior            9 Malcolm Gilbert        21 
-Richard Gledhill       21 J Stokes               12 
+Richard Gledhill       21 John Stokes            12 
 Leon Wilczynski           Russell Clarkson          
 Jeff Jacklin           20 Edwin Haigh            21 
 Gordon Walker             Robert Barlow             
@@ -8544,15 +8544,15 @@ Alec Wilkinson            Steve Berry
        Division 2               Tue 12th Aug        
       Elland C & BC           Almondbury B.C. A     
 Andrew Balmforth       21 David Kaye             13 
-G Bradford             21 Richard Brook           9 
+Gordon Bradford        21 Richard Brook           9 
 Steve Kenworthy        21 John Madden            15 
-P Lea                  11 Robert Tracey          21 
+Peter Lea              11 Robert Tracey          21 
 Peter Webb             13 Harold Hick            21 
 G Firth                   John Clarkson             
 David Greenwood        13 Terry Machen           21 
 Ray Berrett               Dennis Machen             
 Adrian Kenyon          21 Geoff E Brant           7 
-A Robertshaw              Simon Neve                
+Adrian Robertshaw         Simon Neve                
               Points:   6               Points:   3 
            Aggregate: 121            Aggregate: 107 
 
@@ -8656,8 +8656,8 @@ Eric Felton            21 David Cooling          17
 A Cockshaw                David Stocks              
 Stewart Collier        21 Gerrard Clarke         13 
 John Townend              Graham Stocks             
-J McPhillips           21 Thomas Cowie            8 
-C Gough                   Alan Farrier              
+Jimmy McPhillips       21 Thomas Cowie            8 
+Clarry Gough              Alan Farrier              
               Points:   8               Points:   1 
            Aggregate: 145            Aggregate:  91 
 
@@ -8708,7 +8708,7 @@ George Williams           Chris Roberts
 
        Division 4               Tue 12th Aug        
    David Brown Sports         Netherton Con. B      
-J Mulligan             12 R Clayton              21 
+Mick Mulligan          12 R Clayton              21 
 Graham Illingworth     21 Rupert Shires          16 
 Derek Frost            21 L Hayden                2 
 Peter Meadows          19 Paul Brennan           21 
@@ -8875,7 +8875,7 @@ Malcolm Proctor           John Topham
        Marsh Lib B                Hemplow B         
 David Schofield        21 John Millar             8 
 Alan West              15 Michael Wilby          21 
-John Bennett           20 D Phillips             21 
+John Bennett           20 David Phillips         21 
 Tony Falck              9 Lloyd Armitage         21 
 Peter McPartland       11 Wright Eastwood        21 
 Paul Oates                Peter Turner              
@@ -8919,13 +8919,13 @@ Ken McIver                John Bennett
        Division 1               Tue 19th Aug        
       Clayton West                Rastrick          
 Colin Lloyd            21 David Wood             12 
-J Lindley              21 Ken Flemming           18 
+John Lindley           21 Ken Flemming           18 
 Tim Poulter            21 Donald Booth           19 
 Malcolm Gilbert        20 Derek Hanner           21 
 Steven Leaworthy       21 Roy Chapman            11 
 Peter Rhodes              Peter Hardcastle          
 Russell Clarkson       20 Roger Stopford         21 
-J Stokes                  Jim Warne                 
+John Stokes               Jim Warne                 
 Robert Barlow           8 Howard Dungworth       21 
 Edwin Haigh               Geoff Normanton           
               Points:   6               Points:   3 
@@ -9039,15 +9039,15 @@ Peter Goodwill            Robert Oldham
        Division 2               Tue 19th Aug        
       Elland C & BC              Broad Oak A        
 Steve Kenworthy        21 Alec Wilkinson         11 
-P Lea                  21 Ken Wilson             14 
-G Bradford             14 Antony Schofield       21 
+Peter Lea              21 Ken Wilson             14 
+Gordon Bradford        14 Antony Schofield       21 
 Andrew Balmforth       13 Carl Taylor            21 
 Peter Webb             21 Paul Bowes             10 
 G Firth                   Mick Iredale              
 Adrian Kenyon          21 Charles Hirst          12 
 David Greenwood           Andy Crowther             
 Peter Walker           21 Howard Rose            16 
-A Robertshaw              Peter Garside             
+Adrian Robertshaw         Peter Garside             
               Points:   7               Points:   2 
            Aggregate: 132            Aggregate: 105 
 
@@ -9104,8 +9104,8 @@ Neil Booth             21 Graham Chadwick        12
 John Bloomer           21 D Cooper               18 
 Stuart Grey            21 Trevor Horner          15 
 Geoff Martin              John Townend              
-Michael Lee            21 C Gough                15 
-Colin Wood                J McPhillips              
+Michael Lee            21 Clarry Gough           15 
+Colin Wood                Jimmy McPhillips          
 Peter McWilliam        21 Stewart Collier        13 
 Graham Shaw               Eric Felton               
               Points:   9               Points:   0 
@@ -9326,7 +9326,7 @@ Michael Jones             Malcolm McRae
 John Millar            21 Chris Booth            12 
 Michael Wilby          15 Tim Healy              21 
 Lloyd Armitage         21 *A.N.Other*             3 
-D Phillips             21 Brian Gibson           13 
+David Phillips         21 Brian Gibson           13 
 Steven Shaw            16 David Bowker           21 
 Tony Yates                Norman Hall               
 Wright Eastwood        21 Colin Rawcliffe         5 
@@ -9446,14 +9446,14 @@ Dennis James              Glynn Manson
         Meltham A               Clayton West        
 Andy Mailer            21 Malcolm Gilbert        17 
 Steve Haigh            21 Tim Poulter            11 
-Paul Harburn           21 J Lindley              17 
+Paul Harburn           21 John Lindley           17 
 Barry Gibson           18 Colin Lloyd            21 
 Steven Addy            14 Peter Rhodes           21 
 Jeff Smith                Steven Leaworthy          
 David Bennett          21 Robert Barlow           4 
 Peter Swinden             Edwin Haigh               
 Des Emsell              9 Russell Clarkson       21 
-James Bloom               J Stokes                  
+James Bloom               John Stokes               
               Points:   6               Points:   3 
            Aggregate: 125            Aggregate: 112 
 
@@ -9519,12 +9519,12 @@ Derek Sykes               Andy Wilson
 
        Division 2               Tue 26th Aug        
     Netherton Con. A            Elland C & BC       
-Denis Garner           21 P Lea                   2 
+Denis Garner           21 Peter Lea               2 
 Robert Hirst           16 Steve Kenworthy        21 
 Graham Brook           13 Andrew Balmforth       21 
-Paul Rangeley          13 G Bradford             21 
-James Nolan            21 A Robertshaw           18 
-J Pickard                 J Robertshaw              
+Paul Rangeley          13 Gordon Bradford        21 
+James Nolan            21 Adrian Robertshaw      18 
+J Pickard                 Julien Robertshaw         
 L Hayden               21 Peter Webb             15 
 R Clayton                 Andrew Brewer             
 J Q Saxton             21 David Greenwood        18 
@@ -9618,7 +9618,7 @@ John Townend              E Visona
 A Cockshaw             21 Andrew Norgate          2 
 Eric Felton               Peter Brogan              
 Stewart Collier        21 E Armitage             20 
-J McPhillips              Geoff Rollinson           
+Jimmy McPhillips          Geoff Rollinson           
               Points:   8               Points:   1 
            Aggregate: 134            Aggregate: 103 
 
@@ -9805,7 +9805,7 @@ Anthony Slack             Ken McIver
        Division 5               Tue 26th Aug        
      Lindley B.C. B               Hemplow B         
 Philip Walker          21 Michael Wilby          11 
-Alan Coggin            20 D Phillips             21 
+Alan Coggin            20 David Phillips         21 
 Robert Fisher          18 Lloyd Armitage         21 
 Stuart Thornton        21 John Millar            17 
 Wes White              21 John Cocking            6 
@@ -9851,7 +9851,7 @@ Geoff Jaskolski           Mick Hiscock
 
        Division 1                Tue 2nd Sep        
       Clayton West               Lowerhouses        
-J Lindley              20 Graham Hirst           21 
+John Lindley           20 Graham Hirst           21 
 Malcolm Gilbert        21 Les Holmes             20 
 David Richardson       21 Andy Mitchell          15 
 Tim Poulter            21 Ashley Daykin           7 
@@ -9860,7 +9860,7 @@ J Waltham                 Nick Hirst
 Michael Cartledge      18 Gary Armitage          21 
 Edwin Haigh               Ian Wimpenny              
 Steven Leaworthy       21 Rob Edwards             8 
-J Stokes                  Steven Lee                
+John Stokes               Steven Lee                
               Points:   6               Points:   3 
            Aggregate: 130            Aggregate: 113 
 
@@ -9986,16 +9986,16 @@ Alan Kitson               Paul Broadhead
 
        Division 2                Tue 2nd Sep        
       Elland C & BC             Golcar Lib B        
-G Bradford             21 Stephen Swallow         6 
-P Lea                  21 John Ainley            11 
+Gordon Bradford        21 Stephen Swallow         6 
+Peter Lea              21 John Ainley            11 
 Andrew Balmforth       21 Alan Leonard           17 
 Steve Kenworthy        15 Martin Robinson        21 
 Andrew Brewer          21 Derek Sykes            16 
 Peter Webb                Rob Allen                 
 Adrian Kenyon          21 Ben Hammond            15 
 G Firth                   Nigel Bennett             
-A Robertshaw           13 John Murphy            21 
-J Robertshaw              Robert Row                
+Adrian Robertshaw      13 John Murphy            21 
+Julien Robertshaw         Robert Row                
               Points:   7               Points:   2 
            Aggregate: 133            Aggregate: 107 
 
@@ -10080,8 +10080,8 @@ Adrian Baldwin         21 Neil Hardy             18
 Paul Cooney            21 Graham Chadwick        13 
 Alan Suddick           21 D Cooper               19 
 Steve Sykes            21 M Scott                12 
-Richard Long           21 C Gough                 7 
-Paul Wright               J McPhillips              
+Richard Long           21 Clarry Gough            7 
+Paul Wright               Jimmy McPhillips          
 Michael Ward           21 Stewart Collier        13 
 Gary Moorhouse            Eric Felton               
 Peter Smith            21 Trevor Horner           3 
@@ -10243,7 +10243,7 @@ Tony Wadsworth            Ian Johnsey
         Hemplow B             Almondbury B.C. B     
 John Millar            21 Peter Boakes           11 
 Michael Wilby          17 Richard Aylward        21 
-D Phillips             21 Peter Clay             12 
+David Phillips         21 Peter Clay             12 
 Lloyd Armitage         21 Warwick Whitfield      16 
 Tony Yates             21 Ian Schofield          16 
 K Hopper                  Clive Hetherington        
@@ -10369,7 +10369,7 @@ Trevor Sykes           19 M Sellers              21
 Brian Swift               D Hallas                  
 Douglas Hamilton       10 Edwin Haigh            21 
 John Booker               J Micklethwaite           
-Dennis James           21 J Lindley              16 
+Dennis James           21 John Lindley           16 
 Barry Hinchliffe          Robert Barlow             
               Points:   3               Points:   6 
            Aggregate: 116            Aggregate: 136 
@@ -10392,13 +10392,13 @@ Bob Laycock               Kenneth Broadbent
        Division 2                Tue 9th Sep        
       Elland C & BC              Elland WMC         
 Adrian Kenyon          12 Graham Hickey          21 
-G Bradford             21 John Sharp             14 
-P Lea                  18 Clive Harte            21 
+Gordon Bradford        21 John Sharp             14 
+Peter Lea              18 Clive Harte            21 
 Steve Kenworthy        12 Viv Smith              21 
 G Firth                21 Ian Archibald          14 
 Peter Webb                Melvyn Dunne              
-A Robertshaw           21 Philip Binns           19 
-J Robertshaw              John Armitage             
+Adrian Robertshaw      21 Philip Binns           19 
+Julien Robertshaw         John Armitage             
 Ray Berrett             9 Alan Broad             21 
 Neil Thompson             Nick Lowe                 
               Points:   3               Points:   6 
@@ -10532,8 +10532,8 @@ M Scott                18 Chris Windle           21
 Graham Chadwick        21 Colin Hamshaw          20 
 Trevor Horner          20 John Gatenby           21 
 John Townend              Dave Morgan               
-C Gough                16 Richard Lambert        21 
-J McPhillips              Brian Hamilton            
+Clarry Gough           16 Richard Lambert        21 
+Jimmy McPhillips          Brian Hamilton            
 Stewart Collier        21 Mick Brammah           11 
 Eric Felton               Jez Chomeczko             
               Points:   3               Points:   6 
@@ -10707,7 +10707,7 @@ Tim Healy                 Galvin Evans
        Division 5                Tue 9th Sep        
        Holmfirth B                Hemplow B         
 William Hobson         21 Lloyd Armitage         20 
-Gerald Gorman           8 D Phillips             21 
+Gerald Gorman           8 David Phillips         21 
 Robert Stratford       21 Michael Wilby           9 
 Philip Woodthorpe      13 John Millar            21 
 J A Crawford           16 Wright Eastwood        21 
@@ -10754,11 +10754,11 @@ Simon Cave                Nick Beaumont
 Malcolm Gilbert        21 Ian Briggs             17 
 Colin Lloyd            21 David Walkden          20 
 Tim Poulter            20 Gerry McLoughlin       21 
-J Lindley              19 Andrew Wike            21 
+John Lindley           19 Andrew Wike            21 
 Edwin Haigh            21 Simon Beaumont          5 
 J Micklethwaite           Ian Crawford              
 Peter Rhodes            5 Keith Hatzer           21 
-J Stokes                  Tony Crowther             
+John Stokes               Tony Crowther             
 Robert Barlow           4 Alan Crowther          21 
 D Hallas                  Graham Howe               
               Points:   3               Points:   6 
@@ -10872,11 +10872,11 @@ Ken Wilson                Richard Severn
        Division 2               Tue 16th Sep        
       Elland C & BC                Shepley          
 David Greenwood        15 Norman Raper           21 
-P Lea                  21 Paul Van Leeuwen       15 
+Peter Lea              21 Paul Van Leeuwen       15 
 Steve Kenworthy        21 John Hodgson           16 
 Adrian Kenyon          20 Stuart Pears           21 
-A Robertshaw           21 Geoff Ryder            17 
-J Robertshaw              Stanley Hoyle             
+Adrian Robertshaw      21 Geoff Ryder            17 
+Julien Robertshaw         Stanley Hoyle             
 Geoffrey Kersley       21 John Taylor            17 
 Neil Thompson             David Holmes              
 G Firth                19 John Hewitt            21 
@@ -10999,8 +10999,8 @@ Stewart Collier         3 Bob Slatford           21
 Eric Felton               Chris Sykes               
 Trevor Horner           9 J Hague                21 
 John Townend              Stuart Wood               
-C Gough                11 Robert Bradshaw        21 
-J McPhillips              Christopher Conway        
+Clarry Gough           11 Robert Bradshaw        21 
+Jimmy McPhillips          Christopher Conway        
               Points:   6               Points:   3 
            Aggregate: 107            Aggregate: 105 
 
@@ -11142,7 +11142,7 @@ Tony Wadsworth            David Hill
        Division 5               Tue 16th Sep        
         Hemplow B             Kirkheaton Con. B     
 John Millar            20 Stuart Goddard         21 
-D Phillips             21 Leon Wilczynski         8 
+David Phillips         21 Leon Wilczynski         8 
 Michael Wilby          21 Mel Walker              8 
 Lloyd Armitage         12 Mark Berry             21 
 John Cocking           21 Brian Parker           15 
@@ -11217,12 +11217,12 @@ Michael Thornton          Jeff Smith
        Division 1               Tue 23rd Sep        
      Lockwood Con. A            Clayton West        
 Mick Cox               21 Colin Lloyd            15 
-Derek Gibson           21 J Lindley              10 
+Derek Gibson           21 John Lindley           10 
 Peter Kain             21 David Richardson        8 
 Ray Harper             21 Malcolm Gilbert        14 
 Mick Fisher            21 Edwin Haigh            13 
 Mark Richardson           Robert Barlow             
-Tom Howden              5 J Stokes               21 
+Tom Howden              5 John Stokes            21 
 Joe Conneely              Tim Poulter               
 Gerrard Clarke         12 Peter Rhodes           21 
 Richard Walsh             J Waltham                 
@@ -11370,8 +11370,8 @@ John Gant              11 Andrew Brewer          21
 Brian Moroney          21 Andrew Balmforth       20 
 Roy Smith              21 Steve Kenworthy         6 
 Robert Schofield       21 David Greenwood        13 
-Paul English           21 A Robertshaw           18 
-David Cooper              J Robertshaw              
+Paul English           21 Adrian Robertshaw      18 
+David Cooper              Julien Robertshaw         
 Adrian Fish            21 Peter Walker           10 
 Geoff Alsop               Peter Webb                
 Geoff France           21 Neil Thompson          12 
@@ -11460,8 +11460,8 @@ Charlie Littlewood     21 D Cooper               20
 David Frost            21 Graham Chadwick        14 
 Graham Rawlinson       13 M Scott                21 
 Peter Haythornthwaite  21 Neil Hardy              9 
-Nigel Kain             21 C Gough                11 
-Brian Maxwell             J McPhillips              
+Nigel Kain             21 Clarry Gough           11 
+Brian Maxwell             Jimmy McPhillips          
 George Williams        18 Paul Bagshaw           21 
 Philip Raynor             Eric Felton               
 Alan Hobson            21 Stewart Collier        15 
@@ -11638,7 +11638,7 @@ Anthony Slack             Alan West
        New Mill B                 Hemplow B         
 Trevor Boyes           18 John Millar            21 
 Terry Dean              3 Lloyd Armitage         21 
-Dennis Lomax           21 D Phillips             19 
+Dennis Lomax           21 David Phillips         19 
 David Thorpe           20 Michael Wilby          21 
 Geoff Wrigglesworth    17 Wright Eastwood        21 
 Simon Cave                Peter Turner              

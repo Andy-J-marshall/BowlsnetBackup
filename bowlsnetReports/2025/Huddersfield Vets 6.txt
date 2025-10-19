@@ -94,7 +94,7 @@ Michael Waleboer          T Boyes
 Chris Walker           21 John Hunsley           19 
 Peter Chomiak          21 Alan Crowther           9 
 Peter Meadows          21 Mark Pearson           18 
-B Haigh                21 Tony Crone             11 
+Brian Haigh            21 Tony Crone             11 
 *No Player*             0 Roy Whitehead          21 
 ----------                Tony Atkins               
               Points:   6               Points:   1 
@@ -344,7 +344,7 @@ Stuart Collier            Paul Wright
 
        Division 2               Mon 14th Apr        
         Broad Oak               Crosland Moor       
-Andy Crowther          21 B Haigh                 5 
+Andy Crowther          21 Brian Haigh             5 
 Paul Rushworth         21 Peter Meadows          15 
 Russ Auty              21 Derek Frost            20 
 Carl Taylor            21 Chris Walker           14 
@@ -556,7 +556,7 @@ Raymond Jackson           Joe Cornelly
 Chris Walker           15 G Rollinson            21 
 Peter Meadows          21 E Armitage             15 
 Derek Frost            21 John Lee               18 
-B Haigh                20 Andrew Norgate         21 
+Brian Haigh            20 Andrew Norgate         21 
 Joe Burnand            14 John Swallow           21 
 Paul Gant                 T Boyes                   
               Points:   2               Points:   5 
@@ -588,7 +588,7 @@ John Kingdom              Stuart Collier
        Holmfirth B               Elland C&BC        
 William Hobson         21 John Broadbent         14 
 Bob Cran               12 Alf Praulin            21 
-David Tombleson        11 J Robertshaw           21 
+David Tombleson        11 Julien Robertshaw      21 
 Philip Woodthorpe      21 Peter Morgan            9 
 Gerald Gorman           8 Leigh Billing          21 
 J Chilton                 Roy Greenwood             
@@ -935,7 +935,7 @@ E Armitage                Paul Wright
       Lockwood Con              Crosland Moor       
 Ronnie Manning         14 Chris Walker           21 
 Lindsay Devenish       20 Derek Frost            21 
-Chris Ball             21 B Haigh                11 
+Chris Ball             21 Brian Haigh            11 
 Richard Walsh          21 Peter Meadows          10 
 Colman Conneely        21 Paul Gant              11 
 Gerrard Clarke            Joe Burnand               
@@ -1179,7 +1179,7 @@ Chris Walker           21 Richard Walker         20
 Derek Frost            21 John Edgar              9 
 Peter Meadows          21 Bob James               9 
 Peter Kirwan           10 Kim Scadden            21 
-B Haigh                21 David Bowker            3 
+Brian Haigh            21 David Bowker            3 
 Paul Gant                 Michael Waleboer          
               Points:   6               Points:   1 
            Aggregate:  94            Aggregate:  62 
@@ -1345,7 +1345,7 @@ Dave Sutcliffe            Ian Lunn
        Round of 32              Mon 19th May        
                                On Thongsbridge      
        Elland C&BC            Primrose Hill Lib     
-J Robertshaw           15 David Jones            21 
+Julien Robertshaw      15 David Jones            21 
 John Broadbent            Paul Abbott               
 Steven Emery            6 Ian Wrigley            21 
 Alf Praulin               Brian Peaker              
@@ -1437,7 +1437,7 @@ Robert Iredale            Peter Allen
       Crosland Moor               Shepley A         
 Derek Frost             9 Howard Crowther        21 
 Peter Chomiak             Geoff Ryder               
-B Haigh                15 Nick Johnston          21 
+Brian Haigh            15 Nick Johnston          21 
 Paul Gant                 John Pearman              
 Chris Walker            2 Stuart Pears           21 
 Peter Meadows             Rob Pinder                
@@ -1605,7 +1605,7 @@ Chris Walker           21 Gary Moorhouse          6
 Jack Dunne             13 Paul Wright            21 
 Peter Meadows          13 Alan Suddick           21 
 Derek Frost            21 Richard Kaye           15 
-B Haigh                 4 Peter Smith            21 
+Brian Haigh             4 Peter Smith            21 
 Paul Gant                 Ian Fawcett               
               Points:   2               Points:   5 
            Aggregate:  72            Aggregate:  84 
@@ -1672,7 +1672,7 @@ Galvin Evans           21 M Shimmel              16
 Alan Milnes            21 John Broadbent          6 
 Ken Shaw               21 Steven Emery           13 
 Vincent Hanlon         14 Ken Walker             21 
-Laurie Garlick            J Robertshaw              
+Laurie Garlick            Julien Robertshaw         
               Points:   5               Points:   2 
            Aggregate:  94            Aggregate:  77 
 
@@ -1983,7 +1983,7 @@ Kenneth Whitaker       20 Peter Kirwan           21
 Maurice Harper         10 Derek Frost            21 
 Peter Jackson          21 Chris Walker           20 
 John Kingdom           21 Paul Gant              15 
-Paul English              B Haigh                   
+Paul English              Brian Haigh               
               Points:   3               Points:   4 
            Aggregate:  93            Aggregate:  97 
 
@@ -2013,7 +2013,7 @@ William Higgins           Peter Hanson
        Elland C&BC                Hemplow A         
 John Broadbent         21 J A Walker              5 
 Alf Praulin            21 Lloyd Armitage          8 
-J Robertshaw           21 Peter Lingard           7 
+Julien Robertshaw      21 Peter Lingard           7 
 Peter Morgan            5 J Cocking              21 
 Leigh Billing          21 D Morrison             17 
 Roy Greenwood             D Waterhouse              
@@ -2532,7 +2532,7 @@ Steven Emery           11 Maurice Grange         21
 Alf Praulin            21 David Sewell           15 
 M Shimmel              11 Robert Gledhill        21 
 Leigh Billing          16 Paul Crosland          21 
-J Robertshaw              Peter McPartland          
+Julien Robertshaw         Peter McPartland          
               Points:   1               Points:   6 
            Aggregate:  77            Aggregate:  99 
 
@@ -2781,11 +2781,11 @@ Peter McPartland          Gerald Gorman
        Division 3                Mon 7th Jul        
     Greenhead Park A             Elland C&BC        
 Charlie Bartaby        21 John Broadbent          8 
-Richard Pearcey        15 J Robertshaw           21 
+Richard Pearcey        15 Julien Robertshaw      21 
 Melvyn Blezzard        19 Alf Praulin            21 
 Simon Bailey           21 Steven Emery           13 
 Chris Holt             11 Roy Greenwood          21 
-Barrie Thewlis            A Robertshaw              
+Barrie Thewlis            Adrian Robertshaw         
               Points:   4               Points:   3 
            Aggregate:  87            Aggregate:  84 
 
@@ -2976,7 +2976,7 @@ Stuart Collier          9 Chris Walker           21
 C Gough                21 Peter Kirwan            9 
 E Felton               15 Derek Frost            21 
 John Wise              21 Jack Dunne             19 
-J McPhillips           21 B Haigh                15 
+J McPhillips           21 Brian Haigh            15 
 Richard Blacker           Joe Burnand               
               Points:   5               Points:   2 
            Aggregate:  87            Aggregate:  85 
@@ -3196,7 +3196,7 @@ Steve Broadhead        10 Derek Frost            21
 Tony Crone             21 Jack Dunne              9 
 Stephen Gledhill       20 Peter Meadows          21 
 John Hunsley            4 Chris Walker           21 
-Tony Atkins            21 B Haigh                20 
+Tony Atkins            21 Brian Haigh            20 
 Roy Whitehead             Paul Gant                 
               Points:   2               Points:   5 
            Aggregate:  76            Aggregate:  92 
@@ -3684,7 +3684,7 @@ E Armitage             16 Derek Frost            21
 Peter Brogan           21 Jack Dunne             14 
 Alan Birchall          21 Paul Gant              11 
 T Boyes                21 Peter Kirwan           13 
-John Swallow              B Haigh                   
+John Swallow              Brian Haigh               
               Points:   5               Points:   2 
            Aggregate:  99            Aggregate:  80 
 
@@ -3900,8 +3900,8 @@ Ian Fawcett               John Swallow
        Division 2               Mon 11th Aug        
       Crosland Moor             Lockwood Con        
 Chris Walker           21 Mick Cox               11 
-B Haigh                21 Ronnie Manning         16 
-R Dearlove             21 Graham Wilkinson       11 
+Brian Haigh            21 Ronnie Manning         16 
+Reg Dearlove           21 Graham Wilkinson       11 
 Derek Frost            21 Patrick Conneely        4 
 Paul Gant               9 Graham Stocks          21 
 Joe Burnand               David Cooling             
@@ -4144,7 +4144,7 @@ Stuart Collier            Mark Pearson
 Geoff Coates           21 Chris Walker           16 
 John Edgar             21 Derek Frost            16 
 Richard Walker         21 Jack Dunne             13 
-Les Chadwick           21 R Dearlove             16 
+Les Chadwick           21 Reg Dearlove           16 
 Kim Scadden            21 Peter Kirwan           20 
 Nick Swift                Paul Gant                 
               Points:   7               Points:   0 
@@ -4353,7 +4353,7 @@ Paul English              Gerrard Clarke
 Bob Booth              16 Chris Walker           21 
 Gary Moorhouse         21 Derek Frost            18 
 Bill Beattie           21 Peter Kirwan           13 
-Alan Suddick           21 B Haigh                14 
+Alan Suddick           21 Brian Haigh            14 
 Peter Smith            21 Paul Gant               8 
 Paul Wright               Joe Burnand               
               Points:   6               Points:   1 
@@ -4418,7 +4418,7 @@ Tony Proctor              Alan West
        Elland C&BC              Lindley Lib B       
 Peter Morgan           11 Alan Milnes            21 
 John Broadbent         19 Martin Davies          21 
-J Robertshaw           21 Vincent Hanlon          4 
+Julien Robertshaw      21 Vincent Hanlon          4 
 Steven Emery           21 Galvin Evans           11 
 Roy Greenwood          21 Chris Rushworth        20 
 Leigh Billing             Michael Ward              
@@ -4636,7 +4636,7 @@ Roger Beastall            A Harris
 
        Division 3                Mon 1st Sep        
         Hemplow A                Elland C&BC        
-J Cocking              15 A Robertshaw           21 
+J Cocking              15 Adrian Robertshaw      21 
 J A Walker             21 John Broadbent         20 
 Lloyd Armitage         12 Steven Emery           21 
 Peter Allen            20 Peter Morgan           21 
@@ -4835,7 +4835,7 @@ J McPhillips              Malcolm Burn
        Division 3                Mon 8th Sep        
        Elland C&BC               Denby Dale         
 Peter Morgan           19 Alan Kitson            21 
-J Robertshaw           20 Kevin Fletcher         21 
+Julien Robertshaw      20 Kevin Fletcher         21 
 Steven Emery           18 Peter Hanson           21 
 John Broadbent         21 John Robertshaw        13 
 *No Player*             0 Maurice Littlers       21 
@@ -5024,7 +5024,7 @@ Paul English              Tony Atkins
 Chris Walker           10 Andy Shaw              21 
 Derek Frost            21 James Turney            9 
 Jack Dunne             13 David Laidlaw          21 
-B Haigh                18 Kevin Griffiths        21 
+Brian Haigh            18 Kevin Griffiths        21 
 Joe Burnand            18 Gerry Quinn            21 
 Paul Gant                 Steve Morgan              
               Points:   1               Points:   6 
@@ -5078,7 +5078,7 @@ David Walker              A Harris
        Marsh Lib B               Elland C&BC        
 Maurice Grange         11 Alf Praulin            21 
 Ian Bolton             21 M Shimmel               9 
-David Sewell            3 J Robertshaw           21 
+David Sewell            3 Julien Robertshaw      21 
 Robert Gledhill        21 John Broadbent         16 
 Paul Crosland          21 Leigh Billing           9 
 Peter McPartland          Peter Morgan              
@@ -5253,10 +5253,10 @@ Mark Pearson              Les Chadwick
        Division 2               Mon 22nd Sep        
        Golcar Lib               Crosland Moor       
 Robert Row             21 Derek Frost            19 
-John Ainley            16 R Dearlove             21 
+John Ainley            16 Reg Dearlove           21 
 Martin Robinson        21 Chris Walker            8 
 Peter Bradley          20 Jack Dunne             21 
-Paul Antich            21 B Haigh                 3 
+Paul Antich            21 Brian Haigh             3 
 Eddie Thompson            Peter Kirwan              
               Points:   5               Points:   2 
            Aggregate:  99            Aggregate:  72 
