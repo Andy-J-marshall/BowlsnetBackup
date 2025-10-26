@@ -267,4 +267,12 @@ export const leagues = [
     day: "Yorkshire Ladies",
     url: "/YorkshireLP",
   },
+  {
+    day: "Guiseley Winter",
+    url: "/GuiseleyWinter",
+  },
+  {
+    day: "Wetherby Autumn",
+    url: "/WetherbyAutumn",
+  },
 ];
