@@ -1,4 +1,4 @@
-=== Halifax (Hebden Royd Vets) 2025 (as of Sun 19th Oct)
+=== Halifax (Hebden Royd Vets) 2025
 === League Match Cards
 
          Division 3                 Wed 2nd Apr        
@@ -3784,5 +3784,137 @@ Izzy Williams                 Thomas Hargreaves
                   Points:   4              Points:  15 
                Aggregate:  24           Aggregate:  63 
                    Games:   0               Games:   3 
+
+    Old Town Floodlit 4s            Tue 21st Oct       
+Old Town Floorlit 4s (Thurs)        On Old Town        
+        Ryburn Valley               Hilltoppers        
+Nick Oddy                  21 David Dunne           10 
+Martin Greenwood           21 Sarah Mason           19 
+Tom Robertshaw             21 Matthew Flanagan      16 
+David Culpan                  Jack Rodgers             
+                  Points:  15              Points:   9 
+               Aggregate:  63           Aggregate:  45 
+                   Games:   3               Games:   0 
+
+    Old Town Floodlit 4s            Tue 21st Oct       
+Old Town Floorlit 4s (Thurs)        On Old Town        
+          Floaters                 Onion Baggers       
+Karl Theobald               7 Terry Jackson         21 
+Stewart Andrews             5 Mark Barron           21 
+Harry Coleman               8 Darren Turnbull       21 
+Ian Coleman                   John Ashton              
+                  Points:   3              Points:  15 
+               Aggregate:  20           Aggregate:  63 
+                   Games:   0               Games:   3 
+
+    Old Town Floodlit 4s            Tue 21st Oct       
+Old Town Floorlit 4s (Thurs)        On Old Town        
+          Cresters                  Happy Valley       
+Tim Brumby                 19 Sheryl Robinson       21 
+Steve Balmforth            18 Gareth Swain          21 
+Ed Tinker                  12 Trish Austin          21 
+Stewart Pilling               Natalie Swain            
+                  Points:   9              Points:  15 
+               Aggregate:  49           Aggregate:  63 
+                   Games:   0               Games:   3 
+
+    Old Town Floodlit 4s            Tue 21st Oct       
+Old Town Floorlit 4s (Thurs)        On Old Town        
+          Whatever                Oxenhope Academy     
+Adam Schofield             21 Liam Bairstow          7 
+Simon Gill                 21 Trevor Bairstow        3 
+Ryan Healey                21 David Milnes           4 
+David Ainley                  Mick Milnes              
+                  Points:  15              Points:   1 
+               Aggregate:  63           Aggregate:  14 
+                   Games:   3               Games:   0 
+
+    Old Town Floodlit 4s            Wed 22nd Oct       
+ Old Town Floodlit 4s (Wed)         On Old Town        
+          Cobblers                    Solomons         
+Richard Hargreaves         21 Pete Hepworth         14 
+Neill Hargreaves           21 Steve Peers            8 
+Daniel Hargreaves           8 Marcus Grundy         21 
+Thomas Hargreaves             Neil Madden              
+                  Points:  11              Points:   8 
+               Aggregate:  50           Aggregate:  43 
+                   Games:   2               Games:   1 
+
+    Old Town Floodlit 4s            Wed 22nd Oct       
+ Old Town Floodlit 4s (Wed)         On Old Town        
+         Old Towners                Incredibowls       
+Sue Martin                 21 Peter Ousey           12 
+Mick Skwarek                7 Richard Hemsley       21 
+John Hartley               18 Fred Rothwell         21 
+Harry Ashworth                Trevor Douglas           
+                  Points:   9              Points:  12 
+               Aggregate:  46           Aggregate:  54 
+                   Games:   1               Games:   2 
+
+    Old Town Floodlit 4s            Wed 22nd Oct       
+ Old Town Floodlit 4s (Wed)         On Old Town        
+         Riversiders                   Bronte          
+Chris Mitchell             21 Charlie Heaton        15 
+Kevin Mitchell             13 Steve Heaton          21 
+Gill Horner                18 Mary Hemsley          21 
+Mark Horner                   Rob Harvie               
+                  Points:  10              Points:  13 
+               Aggregate:  52           Aggregate:  57 
+                   Games:   1               Games:   2 
+
+    Old Town Floodlit 4s            Wed 22nd Oct       
+ Old Town Floodlit 4s (Wed)         On Old Town        
+         Frogboilers                   Vizzy           
+Ken Jackson                21 John Bewick           16 
+Steve Griffiths            21 Tom Faulkner           6 
+Carol Jackson              18 Izzy Williams         21 
+Keith Ronaldson               Vivienne Bewick          
+                  Points:  13              Points:   9 
+               Aggregate:  60           Aggregate:  43 
+                   Games:   2               Games:   1 
+
+    Old Town Floodlit 4s            Fri 24th Oct       
+Old Town Floorlit 4s (Thurs)        On Old Town        
+      Oxenhope Academy                Floaters         
+Trevor Bairstow            21 Rodger Walsh          13 
+Liam Bairstow              19 Karl Theobald         21 
+David Milnes               21 Tom Sapey              8 
+Mick Milnes                   Stewart Andrews          
+                  Points:  14              Points:   8 
+               Aggregate:  61           Aggregate:  42 
+                   Games:   2               Games:   1 
+
+    Old Town Floodlit 4s            Fri 24th Oct       
+Old Town Floorlit 4s (Thurs)        On Old Town        
+        Onion Baggers               Happy Valley       
+Terry Jackson              21 Natalie Swain         17 
+Peter Stead                11 Gareth Swain          21 
+Julian Boddy               21 Julie Marsden         14 
+Darren Turnbull               John Simpson             
+                  Points:  12              Points:  10 
+               Aggregate:  53           Aggregate:  52 
+                   Games:   2               Games:   1 
+
+    Old Town Floodlit 4s            Fri 24th Oct       
+Old Town Floorlit 4s (Thurs)        On Old Town        
+          Cresters                 Ryburn Valley       
+Ed Tinker                   7 Martin Greenwood      21 
+Stewart Pilling            19 David Culpan          21 
+Tim Brumby                  6 Nick Oddy             21 
+Steve Balmforth               Simon Robinson           
+                  Points:   6              Points:  15 
+               Aggregate:  32           Aggregate:  63 
+                   Games:   0               Games:   3 
+
+    Old Town Floodlit 4s            Fri 24th Oct       
+Old Town Floorlit 4s (Thurs)        On Old Town        
+         Hilltoppers                  Whatever         
+Matthew Flanagan           21 Ryan Healey           18 
+Steve Greenwood            10 Simon Gill            21 
+David Dunne                17 Adam Schofield        21 
+Jack Rodgers                  David Ainley             
+                  Points:  10              Points:  13 
+               Aggregate:  48           Aggregate:  60 
+                   Games:   1               Games:   2 
 
 
